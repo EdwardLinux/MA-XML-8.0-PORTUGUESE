@@ -631,7 +631,11 @@ Tentativas efectuadas: %s."</string>
   <string name="unstick_conversation">Desafixar da conversa actual</string>
   <string name="unsticked_conversation">Já desafixou a conversa actual</string>
   <string name="unsupported_media_format">Formato %1$s não suportado</string>
-  <string name="url_fraud_alert">O site que está a tentar visitar %s pode ser um link fraudulento. Tem a certeza que quer continuar?</string>
+  <string name="url_fraud_dangerous_alert">"O website que está a tentar visitar é um link fraudulento e pode ser prejudicial para o seu dispositivo. Tem a certeza que quer continuar? 
+%s"</string>
+  <string name="url_fraud_insurance">Seguro de fraude</string>
+  <string name="url_fraud_risky_alert">"O website que está a tentar visitar é um link fraudulento. Tem a certeza que quer continuar? 
+%s"</string>
   <string name="url_fraud_title">Suspeita de fraude</string>
   <string name="url_fraud_visit"><u>Visitar na mesma</u></string>
   <string name="url_result_safe">Este URL é seguro</string>

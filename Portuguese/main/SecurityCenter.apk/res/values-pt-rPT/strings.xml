@@ -482,12 +482,11 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="keywords_monthreport">Relatório;Relatório mensal;Relatório anual;Relatório de segurança</string>
   <string name="keywords_networkassistant_1">Dados;Tráfego</string>
   <string name="keywords_networkassistant_2">Dados;Calibrar</string>
-  <string name="keywords_networkassistant_3">Dados;Poupar</string>
   <string name="keywords_networkassistant_4">Ligação;Internet;Testar</string>
   <string name="keywords_permcenter">Início automático;Permissões;Root;Localização;Aceder aos contactos</string>
   <string name="keywords_powercenter">Poupar bateria;Aquecimento;Ligar;Desligar;Bateria;Descarregar</string>
   <string name="keywords_securitycenter">Segurança;Verificar;Verificar</string>
-  <string name="keywords_securitycenter_settings">Poupança de bateria;Permissões;Lista de bloqueio;Utilização de dados;Calibrar plano de dados;Poupança de dados;Testar rede;Bloqueio de aplicações;Poupar bateria;Aquecimento;Ligar;Desligar;Bateria;Descarregar;Início automático;Permissões;Root;Localização;Aceder aos contactos;Bloquear;Lista negra;Lista de bloqueio inteligente;Fraudes;Vendas;Agentes;Dados;Tráfego;Calibrar;Poupar;Ligação;Internet;Testar;Palavra-passe;Privacidade;Bloqueio de aplicações;Acesso;Protecção</string>
+  <string name="keywords_securitycenter_settings">Poupança de bateria;Permissões;Lista de bloqueio;Utilização de dados;Calibrar plano de dados;Testar rede;Bloqueio de aplicações;Poupar bateria;Aquecimento;Ligar;Desligar;Bateria;Descarregar;Início automático;Permissões;Root;Localização;Aceder aos contactos;Bloquear;Lista negra;Lista de bloqueio inteligente;Fraudes;Vendas;Agentes;Dados;Tráfego;Calibrar;Poupar;Ligação;Internet;Testar;Palavra-passe;Privacidade;Bloqueio de aplicações;Acesso;Protecção</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">KB/s</string>
   <string name="last_check_canceled">Verificação anterior foi cancelada</string>
@@ -731,7 +730,6 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="path_monthreport">Aplicações de sistema/Segurança</string>
   <string name="path_networkassistant_1">Aplicações de sistema/Segurança/Assistente de rede</string>
   <string name="path_networkassistant_2">Aplicações de sistema/Segurança/Assistente de rede</string>
-  <string name="path_networkassistant_3">Aplicações de sistema/Segurança/Assistente de rede/Poupança de dados</string>
   <string name="path_networkassistant_4">Aplicações de sistema/Segurança/Assistente de rede/Testar rede</string>
   <string name="path_permcenter">Aplicações de sistema/Segurança/Permissões</string>
   <string name="path_powercenter">Aplicações de sistema/Segurança/Poupança de bateria</string>
@@ -966,7 +964,6 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="resource_monthreport">Relatório de segurança</string>
   <string name="resource_networkassistant_1">Utilização de dados</string>
   <string name="resource_networkassistant_2">Calibrar plano de dados</string>
-  <string name="resource_networkassistant_3">Poupança de dados</string>
   <string name="resource_networkassistant_4">Testar rede</string>
   <string name="resource_permcenter">Permissões</string>
   <string name="resource_powercenter">Poupança de bateria</string>

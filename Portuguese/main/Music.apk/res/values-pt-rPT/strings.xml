@@ -191,6 +191,7 @@
   <string name="download_completed">Transferida</string>
   <string name="download_confirm_button_text">Instalar</string>
   <string name="download_confirm_text">Música Mi vai transferir e instalar %s</string>
+  <string name="download_done_btn">Transferida</string>
   <string name="download_error">Erro</string>
   <string name="download_error_insufficient_space">Espaço insuficiente</string>
   <string name="download_filesize_unknown">Desconhecido</string>
