@@ -13,6 +13,7 @@
   <string name="category_etws_settings_title">Definições de ETWS</string>
   <string name="category_india_settings_title">Definições para a Índia</string>
   <string name="cb_other_message_identifiers">Difusão móvel</string>
+  <string name="cell_broadcast_settings_not_available">As definições de difusão móvel não estão disponíveis para este utilizador</string>
   <string name="cmas_amber_alert">Rapto de crianças (Alerta Amber)</string>
   <string name="cmas_category_cbrne">Químico/Biológico/Nuclear/Explosivo</string>
   <string name="cmas_category_env">Ambiental</string>
@@ -48,7 +49,7 @@
   <string name="cmas_response_prepare">Preparar</string>
   <string name="cmas_response_shelter">Abrigo</string>
   <string name="cmas_severe_alert">Alerta de emergência: Grave</string>
-  <string name="cmas_severity_extreme">Extremo</string>
+  <string name="cmas_severity_extreme">Extrema</string>
   <string name="cmas_severity_heading">Gravidade:</string>
   <string name="cmas_severity_severe">Grave</string>
   <string name="cmas_urgency_expected">Esperada</string>
@@ -66,8 +67,8 @@
   <string name="enable_channel_50_alerts_title">Mostrar transmissões do canal 50</string>
   <string name="enable_channel_60_alerts_summary">Canal 60 é utilizado na Índia para informações específicas de Operador</string>
   <string name="enable_channel_60_alerts_title">Mostrar transmissões do canal 60</string>
-  <string name="enable_cmas_amber_alerts_summary">Apresentar boletins de emergência de rapto de crianças (alerta AMBER)</string>
-  <string name="enable_cmas_amber_alerts_title">Mostrar alertas AMBER</string>
+  <string name="enable_cmas_amber_alerts_summary">Apresentar boletins de emergência de raptos de crianças (alerta AMBER)</string>
+  <string name="enable_cmas_amber_alerts_title">Mostrar alteras AMBER</string>
   <string name="enable_cmas_extreme_threat_alerts_summary">Apresentar alertas para ameaças extremas à vida e propriedades</string>
   <string name="enable_cmas_extreme_threat_alerts_title">Mostrar ameaças extremas</string>
   <string name="enable_cmas_severe_threat_alerts_summary">Apresentar alertas para ameaças graves à vida e propriedades</string>
@@ -76,7 +77,7 @@
   <string name="enable_cmas_test_alerts_title">Mostrar difusões de teste CMAS</string>
   <string name="enable_emergency_alerts_summary">Apresentar transmissões de alertas de emergência</string>
   <string name="enable_emergency_alerts_title">Ligar notificações</string>
-  <string name="enable_etws_test_alerts_summary">Mostrar transmissões de teste para o Sistema de Aviso de Terramotos Tsunamis</string>
+  <string name="enable_etws_test_alerts_summary">Mostrar transmissões de teste para o Sistema de Aviso de Terramotos e Tsunamis</string>
   <string name="enable_etws_test_alerts_title">Mostrar difusões de teste ETWS</string>
   <string name="etws_earthquake_and_tsunami_warning">Aviso de terramoto e tsunami</string>
   <string name="etws_earthquake_warning">Aviso de terremoto</string>
@@ -91,7 +92,7 @@
   <string name="no_cell_broadcasts">Não existem alertas activos na sua área. Pode alterar as definições de Alerta utilizando a opção do menu Definições.</string>
   <string name="notification_multiple">%s alertas não lidos.</string>
   <string name="notification_multiple_title">Novos alertas</string>
-  <string name="pws_other_message_identifiers">Aviso de Emergência</string>
+  <string name="pws_other_message_identifiers">Alerta de Emergência</string>
   <string name="show_cmas_opt_out_summary">Mostrar caixa de diálogo de exclusão após apresentar o 1º alerta CMAS (excepto Alerta Presidenciais).</string>
   <string name="show_cmas_opt_out_title">Mostrar caixa de diálogo de exclusão</string>
   <string name="sms_cb_settings">Definições de Transmissões Móveis</string>
