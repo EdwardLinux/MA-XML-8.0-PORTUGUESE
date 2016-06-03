@@ -29,8 +29,8 @@
         <item>Evitar temporariamente ligações fracas</item>
     </string-array>
     <string-array name="status_bar_style_entries">
-        <item>Uma página</item>
-        <item>Duas páginas</item>
+        <item>Combinada</item>
+        <item>Separada</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>América</item>

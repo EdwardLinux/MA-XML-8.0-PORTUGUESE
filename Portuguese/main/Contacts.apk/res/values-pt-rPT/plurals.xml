@@ -31,12 +31,12 @@
         <item quantity="one">%1$d contacto importado</item>
     </plurals>
     <plurals name="dlg_add_blacklist">
-        <item quantity="other">Bloquear estes %1$d números de telefone?</item>
-        <item quantity="one">Bloquear este número de telefone?</item>
+        <item quantity="other">Bloquear %1$d números de telefone?</item>
+        <item quantity="one">Bloquear %1$d número de telefone?</item>
     </plurals>
     <plurals name="dlg_remove_blacklist">
-        <item quantity="other">Desbloquear estes %1$d números de telefone?</item>
-        <item quantity="one">Desbloquear este número de telefone?</item>
+        <item quantity="other">Desbloquear %1$d números de telefone?</item>
+        <item quantity="one">Desbloquear %1$d número de telefone?</item>
     </plurals>
     <plurals name="export_sim_contact_finish_success">
         <item quantity="other">Copiados %d contactos</item>

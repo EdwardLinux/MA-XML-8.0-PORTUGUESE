@@ -49,8 +49,8 @@
   <string name="btn_rotation">Rotação</string>
   <string name="btn_split_contact">Separar</string>
   <string name="button_cancel_scan">Parar</string>
-  <string name="button_join_service_number">Entrar no Números de Serviço</string>
-  <string name="button_my_center">O meu centro</string>
+  <string name="button_join_service_number">Adicionar número de serviço</string>
+  <string name="button_my_center">Perfil</string>
   <string name="button_scan">Verificar novamente</string>
   <string name="caching_vcard_message">A armazenar em cache VCard para o telefone…</string>
   <string name="caching_vcard_title">A armazenar em cache</string>
@@ -118,9 +118,10 @@
   <string name="callrecordview_menu_delete_stranger">Limpar números desconhecidos</string>
   <string name="callrecordview_menu_edit_call_note">Editar nota de chamada</string>
   <string name="callrecordview_menu_ip">Marcação automática de IP</string>
+  <string name="callrecordview_menu_mobiledata">Comprar dados</string>
   <string name="callrecordview_menu_livetalk">Pacote de carregamento</string>
   <string name="callrecordview_menu_paste">Colar</string>
-  <string name="callrecordview_menu_recharge">Carregamento de telefone</string>
+  <string name="callrecordview_menu_recharge">Carregamentos</string>
   <string name="callrecordview_menu_save_to_group">Guardar contactos num grupo</string>
   <string name="callrecordview_menu_settings">Definições</string>
   <string name="callrecordview_menu_show">Filtro</string>
@@ -164,7 +165,7 @@
   <string name="clip_dialog_title">Marcar o número copiado?</string>
   <string name="close_dial_pad">Fechar teclado de marcação</string>
   <string name="cloud_antispam_mark">Reportar</string>
-  <string name="cloud_antispam_title">Identificar números desconhecidos</string>
+  <string name="cloud_antispam_title">ID do autor da chamada</string>
   <string name="cloud_recommend_msg">Toque para sincronizar contactos com a Nuvem Mi</string>
   <string name="cloud_state_disabled">Sincronização com a Nuvem Mi está desligada</string>
   <string name="cloud_state_loading">Aguarde…</string>
@@ -252,7 +253,7 @@
   <string name="contacts_unavailable_add_account">Iniciar sessão numa conta</string>
   <string name="contacts_unavailable_create_contact">Criar novo contacto</string>
   <string name="contacts_unavailable_import_contacts">Importar contactos de um ficheiro</string>
-  <string name="convenient_service">Serviço de Conveniência</string>
+  <string name="convenient_service">Serviços</string>
   <string name="copy_text">Copiar para área de transferência</string>
   <string name="createContactShortcutSuccessful">Widget do contacto adicionado ao ecrã principal</string>
   <string name="create_group_dialog_title">Criar novo grupo</string>
@@ -359,9 +360,9 @@
   <string name="dialerIconLabel">Recentes</string>
   <string name="dialerKeyboardHintText">Utilizar o teclado para marcar</string>
   <string name="dialer_addAnotherCall">Adicionar chamada</string>
-  <string name="dialer_copy_view_delete_description">Limpar o seu número copiado</string>
-  <string name="dialer_digits_copy_number_label">O seu número copiado</string>
-  <string name="dialer_empty_text_loading">A carregar…</string>
+  <string name="dialer_copy_view_delete_description">Limpar número copiado</string>
+  <string name="dialer_digits_copy_number_label">Número copiado</string>
+  <string name="dialer_empty_text_loading">Aguarde…</string>
   <string name="dialer_empty_text_no_call_log">Sem contactos recentes</string>
   <string name="dialer_empty_text_no_search_result">Não foram encontrados contactos</string>
   <string name="dialer_menu_description">Mostrar o menu de marcação</string>
@@ -444,7 +445,7 @@ Motivo: \"%s\""</string>
   <string name="favoritesFrequentContacted">Frequentemente contactado</string>
   <string name="favorites_list_empty">Sem favoritos</string>
   <string name="firewall_setting">Lista de bloqueio</string>
-  <string name="followed_yellowpage">Contas oficiais</string>
+  <string name="followed_yellowpage">Contas verificadas</string>
   <string name="foundTooManyContacts">Encontrados mais de %d</string>
   <string name="frequentList">Frequentes</string>
   <string name="from_account_format">%1$s</string>
@@ -490,7 +491,7 @@ Motivo: \"%s\""</string>
   <string name="ic_menu_back">Voltar</string>
   <string name="ic_menu_done">Concluído</string>
   <string name="imLabelsGroup">IM</string>
-  <string name="imei">"IMEI : "</string>
+  <string name="imei">"IMEI: "</string>
   <string name="imei_invalid">IMEI inválido</string>
   <string name="import_all_sim_entries_miui">Importar todos os contactos</string>
   <string name="import_all_vcard_string">Importar todos os ficheiros vCard</string>
@@ -608,7 +609,7 @@ Motivo: \"%s\""</string>
   <string name="map_home">Ver endereço de casa</string>
   <string name="map_other">Ver endereço</string>
   <string name="map_work">Ver endereço do trabalho</string>
-  <string name="meid">"MEID : "</string>
+  <string name="meid">"MEID: "</string>
   <string name="meid_invalid">MEID inválido</string>
   <string name="menu_accounts">Contas</string>
   <string name="menu_addStar">Favoritos</string>
@@ -833,7 +834,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="no_contacts_dialog_title">Não foi possível encontrar contactos</string>
   <string name="no_contacts_selected">Sem contactos seleccionados</string>
   <string name="no_sdcard_message">Nenhum armazenamento encontrado</string>
-  <string name="no_voip_contacts">Sem contactos VoIP</string>
+  <string name="no_voip_contacts">Sem contactos Voz Mi</string>
   <string name="non_phone_add_to_contacts">Adicionar a um contacto existente</string>
   <string name="non_phone_caption">Número de telefone</string>
   <string name="non_phone_close">Fechar</string>
@@ -887,7 +888,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telefone</string>
   <string name="phone_call_type_livetalk">LiveTalk</string>
-  <string name="phone_call_type_voip">VoIP</string>
+  <string name="phone_call_type_voip">Voz Mi</string>
   <string name="phone_number_too_long_toast">Número muito extenso</string>
   <string name="phone_primary">Primário</string>
   <string name="photoPickerNotFoundText">Não existem imagens disponíveis no telefone</string>
@@ -942,8 +943,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="preference_dial_pad_touch_tone_default">Predefinido</string>
   <string name="preference_dial_pad_touch_tone_human">Voz</string>
   <string name="preference_dial_pad_touch_tone_piano">Som de piano</string>
-  <string name="preference_dial_pad_touch_tone_switch">Tons de toque do teclado de marcação</string>
-  <string name="preference_dial_pad_touch_tone_title">Tons de toque do teclado de marcação</string>
+  <string name="preference_dial_pad_touch_tone_switch">Tons do teclado de marcação</string>
+  <string name="preference_dial_pad_touch_tone_title">Tons do teclado de marcação</string>
   <string name="preference_display">Mostrar</string>
   <string name="preference_displayOptions">Opções de visualização</string>
   <string name="preference_export">Exportar</string>
@@ -980,9 +981,9 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="profile_name">O meu perfil</string>
   <string name="profile_name_photo">Foto</string>
   <string name="public_account_name">Número de telefone público</string>
-  <string name="pull_to_refresh_pull_label">Descer para actualizar…</string>
-  <string name="pull_to_refresh_refreshing_label">A carregar…</string>
-  <string name="pull_to_refresh_release_label">Solte para actualizar…</string>
+  <string name="pull_to_refresh_pull_label">Descer para actualizar</string>
+  <string name="pull_to_refresh_refreshing_label">Aguarde…</string>
+  <string name="pull_to_refresh_release_label">Soltar para actualizar</string>
   <string name="qr_card_card">Código QR</string>
   <string name="qrcode_card_title">Código QR</string>
   <string name="qrcode_detail_menu_edit">Editar</string>
@@ -1087,11 +1088,11 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="service_more">Mais</string>
   <string name="service_provider">Directoria</string>
   <string name="service_provider_detail">Detalhes da directoria</string>
-  <string name="set_data_package">Definir um pacote de dados primeiro</string>
+  <string name="set_data_package">Definir um plano de dados primeiro</string>
   <string name="set_default">Definir predefinido</string>
   <string name="set_photo_failed_msg">Não foi possível atribuir imagem</string>
   <string name="share_error">Este contacto não pode ser partilhado</string>
-  <string name="share_over_limit">Mais de 1000, não pode ser partilhado</string>
+  <string name="share_over_limit">Não é possível partilhar mais de 1000 contactos</string>
   <string name="share_via">Enviar via</string>
   <string name="share_visible_contacts">Partilhar contactos</string>
   <string name="shortcutActivityTitle">Escolher atalho</string>
@@ -1216,7 +1217,7 @@ Escolher uma das seguintes opções:"</string>
   <string name="upgrade_out_of_memory_uninstall">Desinstalar algumas aplicações</string>
   <string name="use_photo_as_primary">Utilizar esta foto</string>
   <string name="use_photo_as_primary2">Utilizar foto do contacto %1s</string>
-  <string name="useful_numbers">Números Úteis</string>
+  <string name="useful_numbers">Números úteis</string>
   <string name="user_profile_contacts_list_header">Eu</string>
   <string name="vcard_export_request_rejected_message">O pedido de exportação do vCard foi rejeitado. Tente mais tarde</string>
   <string name="vcard_export_will_start_message">%s será exportado em breve</string>
@@ -1252,7 +1253,7 @@ Escolher uma das seguintes opções:"</string>
   <string name="voip_contacts_entry">Voz Mi</string>
   <string name="voip_loading_contact">Aguarde…</string>
   <string name="voip_name">Voz Mi</string>
-  <string name="voip_recommend_msg">Toque para utilizar VoIP</string>
+  <string name="voip_recommend_msg">Toque para utilizar Voz Mi</string>
   <string name="voip_shortcut_name">Voz Mi</string>
   <string name="voip_video_description">Videochamada VoIP</string>
   <string name="websiteLabelsGroup">Website</string>

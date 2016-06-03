@@ -449,6 +449,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="sync_sub_int_dspt">A operadora pode cobrar por uma mensagem internacional enviada para activar este serviço</string>
   <string name="title_reg">Criar Conta Mi</string>
   <string name="total_space_upgraded_to">Espaço total :%s</string>
+  <string name="trying_to_connect_to_network">A ligar à rede…</string>
   <string name="unactivated_user">Sessão terminada</string>
   <string name="upgrade_space">Adicionar espaço</string>
   <string name="upgrade_space_gb">GB</string>

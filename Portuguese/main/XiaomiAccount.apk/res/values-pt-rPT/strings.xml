@@ -154,7 +154,6 @@
   <string name="passport_account_name">Conta: %1$s</string>
   <string name="passport_account_not_activated">Conta não foi activada</string>
   <string name="passport_account_not_actived">A sua conta não foi activada</string>
-  <string name="passport_account_notice">Conta Mi</string>
   <string name="passport_active_email_visit">Verifique o seu email em %s</string>
   <string name="passport_activing_account">A activar…</string>
   <string name="passport_area_code_hot">Frequentemente utilizado</string>
@@ -176,11 +175,9 @@ Para activar a sua conta siga o
   <string name="passport_completed">Terminar</string>
   <string name="passport_confirm">OK</string>
   <string name="passport_confirm_recycle_account">Sim</string>
-  <string name="passport_country_code_notice">Código do país</string>
   <string name="passport_delete_account">Terminar sessão</string>
   <string name="passport_downlink_reg">Criar conta utilizando um número de telefone</string>
   <string name="passport_email">Endereço de email</string>
-  <string name="passport_email_address_notice">Email</string>
   <string name="passport_email_or_id_hint_text">Endereço de email ou ID da Conta Mi</string>
   <string name="passport_email_reg_success_summary">%1$s foi associada à sua conta. Pode utilizá-la para iniciar sessão ou para repor a sua palavra-passe</string>
   <string name="passport_error_device_id">Não foi possível obter o ID do dispositivo</string>
@@ -238,12 +235,11 @@ Para activar a sua conta siga o
   <string name="passport_login_title">Inicie sessão na sua Conta Mi</string>
   <string name="passport_login_using_other_ways"><u>Outros métodos de iniciar sessão</u></string>
   <string name="passport_login_with_email_or_id"><u>Iniciar sessão com endereço de email ou ID de Conta Mi</u></string>
+  <string name="passport_miui_provision_find_status_text">Este telefone foi associado com a Conta Mi (%1$s). Se activar, não vai poder utilizar este telefone. (ID de desbloqueio:%2$s)</string>
   <string name="passport_next">Seguinte</string>
   <string name="passport_notification_title">Erro ao iniciar sessão em %1$s</string>
-  <string name="passport_password_notice">Palavra-passe</string>
   <string name="passport_password_req_notice">A palavra-passe deve ter 8 a 16 letras e incluir números e letras (maiúsculas e minúsculas)</string>
   <string name="passport_phone_num_hint_text">Número de telefone</string>
-  <string name="passport_phone_num_notice">Número de telefone</string>
   <string name="passport_prev">Voltar</string>
   <string name="passport_privacy_policy">Política de Privacidade</string>
   <string name="passport_pwd_generate_failure">Não foi possível gerar palavra-passe</string>
@@ -276,6 +272,8 @@ Para activar a sua conta siga o
   <string name="passport_register_by_email"><u>Criar uma conta utilizando um endereço de email</u></string>
   <string name="passport_register_restricted">Foram associadas demasiadas contas com este número, tente um diferente</string>
   <string name="passport_register_restricted_title">Não é possível utilizar este número de telefone</string>
+  <string name="passport_registered_phone_user_ID">ID do utilizador:%s</string>
+  <string name="passport_registered_phone_user_name">Nome do utilizador:%s</string>
   <string name="passport_reject_recycle_account">Não</string>
   <string name="passport_relogin">Iniciar sessão novamente</string>
   <string name="passport_relogin_notice">Tem que iniciar sessão novamente</string>
@@ -309,7 +307,6 @@ Para activar a sua conta siga o
   <string name="passport_user_agreement_p2">Termos de Utilização</string>
   <string name="passport_user_agreement_p3">" e "</string>
   <string name="passport_user_agreement_p4">Política de Privacidade</string>
-  <string name="passport_vcode_notice">Código</string>
   <string name="passport_vcode_notification_title">A sua verificação de início de sessão está incompleta</string>
   <string name="passport_vcode_prompt_long">Introduzir código de verificação</string>
   <string name="passport_verification_failed">Autenticação falhou</string>

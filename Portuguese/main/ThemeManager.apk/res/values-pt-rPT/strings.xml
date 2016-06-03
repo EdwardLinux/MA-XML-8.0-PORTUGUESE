@@ -100,6 +100,10 @@
   <string name="online_search_hint">Pesquisar recursos online</string>
   <string name="present_local_themes">Transferidos</string>
   <string name="present_online_themes">Obter mais temas gratuitos</string>
+  <string name="provision_default_theme_title">Predefinido</string>
+  <string name="provision_loading_tips">Aguarde…</string>
+  <string name="provision_second_title">Seleccionar um dos 5 temas predefinidos</string>
+  <string name="provision_title">Escolher um tema</string>
   <string name="purchased_list">Comprados</string>
   <string name="purchased_list_format">%1$s comprado</string>
   <string name="reload">Tentar novamente</string>
@@ -357,10 +361,6 @@
   <string name="theme_precast_create_notification_title">Actualizado para MIUI 7</string>
   <string name="theme_precast_update_notification_content">Toque para explorar as actualizações</string>
   <string name="theme_precast_update_notification_title">Temas MIUI 7 actualizados</string>
-  <string name="theme_provision_default_theme_title">Predefinido</string>
-  <string name="theme_provision_loading_tips">Aguarde…</string>
-  <string name="theme_provision_oper_button_next">Seguinte</string>
-  <string name="theme_provision_title">Escolher um tema</string>
   <string name="theme_purchased_list_empty">Ainda não comprou nenhum tema</string>
   <string name="theme_purchased_non_local">Online</string>
   <string name="theme_select_others">Navegar</string>

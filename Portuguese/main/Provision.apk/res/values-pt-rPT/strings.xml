@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree">Concordar</string>
-  <string name="congratulation_label"/>
+  <string name="agree_terms">Eu li e aceitei os Termos e Condições</string>
+  <string name="back">Voltar</string>
+  <string name="congratulation_label">体验激动人心的MIUI吧！</string>
+  <string name="congratulation_title">设置完毕</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
   <string name="desc_fingerprint">Utilize a sua impressão digital para desbloquear o seu dispositivo, para verificar as transações de pagamentos Mi ou para iniciar sessão em aplicações e serviços</string>
@@ -40,12 +43,12 @@ Ver Política de Privacidade do teclado seleccionado"</string>
   <string name="sim_card_detection_info">Para inserir o cartão SIM deve ler as instruções que acompanham o dispositivo</string>
   <string name="sim_dectection_next">Continuar</string>
   <string name="sim_redetection">Verifique o cartão SIM</string>
-  <string name="skip_underline"><u>Ignorar este passo</u></string>
+  <string name="skip_underline">Ignorar este passo</string>
   <string name="summary_not_set">Não definido</string>
   <string name="terms_of_use">Termos do Serviço</string>
   <string name="terms_of_use_label">"A sua privacidade é muito importante para nós. Por favor leia os nossos Termos de Serviço e Política de Privacidade para compreender quais as informações que recolhemos, como as utilizamos e que opções estão disponíveis para si.
 
-Deve concordar com os Termos do nosso Serviço e Política de Privacidade antes de utilizar a MIUI."</string>
+Deve concordar com os Termos do nosso Serviço e Política de Privacidade antes de utilizar a MIUI. É necessário ligar à Internet para activar os serviços Mi e Localizar Dispositivo"</string>
   <string name="title_fingerprint">Adicionar a sua impressão digital</string>
   <string name="user_agreement">Termos do Serviço</string>
   <string name="welcome">Bem-vindo</string>

@@ -807,6 +807,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="contributors_title">Contribuidores</string>
   <string name="controls_label">Controlos</string>
   <string name="controls_subtitle">Ajustar utilização de energia</string>
+  <string name="convenience_key_category_title">Chave de conveniência</string>
   <string name="copyright_title">Direitos de autor</string>
   <string name="country_name">%s (sistema)</string>
   <string name="create">Criar</string>
@@ -1368,6 +1369,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="forget_password_button_text"><u>Recuperar acesso?</u></string>
   <string name="forget_wifi_message">O seu telefone deixará de ligar a esta rede automaticamente</string>
   <string name="found_new_version">Actualização disponível</string>
+  <string name="fp_nav_center_back_to_home_title">Toque no botão Início para voltar ao ecrã inicial</string>
   <string name="free_memory">Disponível</string>
   <string name="free_wifi_agreement_remind_never">Não mostrar novamente</string>
   <string name="free_wifi_confirm">OK</string>
@@ -1774,12 +1776,16 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="lockpassword_confirm_for_second_user">Confirmar a sua palavra-passe do segundo espaço</string>
   <string name="lockpassword_confirm_passwords_dont_match">AS palavras-passe não correspondem</string>
   <string name="lockpassword_confirm_pins_dont_match">Os PINs não correspondem</string>
+  <string name="lockpassword_confirm_your_lock_password_header">Confirmar a sua palavra-passe</string>
+  <string name="lockpassword_confirm_your_lock_pattern_header">Confirmar o seu padrão</string>
   <string name="lockpassword_confirm_your_password_generic">Introduza a palavra-passe do dispositivo para continuar</string>
   <string name="lockpassword_confirm_your_password_header">Confirmar palavra-passe</string>
   <string name="lockpassword_confirm_your_pattern_generic">Utilize o padrão do dispositivo para continuar</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirmar padrão</string>
   <string name="lockpassword_confirm_your_pin_generic">Introduza o PIN do dispositivo para continuar</string>
   <string name="lockpassword_confirm_your_pin_header">Confirmar PIN</string>
+  <string name="lockpassword_confirm_your_private_password_header">Confirmar a sua palavra-passe</string>
+  <string name="lockpassword_confirm_your_private_pattern_header">Confirmar o seu padrão</string>
   <string name="lockpassword_continue_label">Continuar</string>
   <string name="lockpassword_illegal_character">Palavra-passe contém um caracter inválido</string>
   <string name="lockpassword_invalid_password">Palavra-passe incorrecta</string>
@@ -2928,7 +2934,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_dndm_wristband">Activar com a Banda Mi</string>
   <string name="search_do_not_disturb">Não incomodar;VIP;Definir hora;Excepções;Chamadas repetidas</string>
   <string name="search_dtmf_tone_enable_title">Tons de marcação</string>
-  <string name="search_empty">Sem definições relacionadas</string>
+  <string name="search_empty">Sem itens das definições</string>
   <string name="search_equalizer">Equalizador</string>
   <string name="search_font">Tipo de letra do sistema</string>
   <string name="search_gps">GPS;Acesso à localização</string>
@@ -3351,8 +3357,8 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_style">Estilo da barra de estado</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Recolher depois de tocar</string>
   <string name="status_bar_settings_toggle_position">Posição dos atalhos</string>
-  <string name="status_bar_style_list">Uma página</string>
-  <string name="status_bar_style_page">Duas páginas</string>
+  <string name="status_bar_style_list">Separada</string>
+  <string name="status_bar_style_page">Combinada</string>
   <string name="status_bt_address">Endereço Bluetooth</string>
   <string name="status_data_state">Estado da rede móvel</string>
   <string name="status_failed_to_write">Não é possível escrever dados na etiqueta NFC. Caso o problema persista, experimente uma etiqueta diferente</string>
