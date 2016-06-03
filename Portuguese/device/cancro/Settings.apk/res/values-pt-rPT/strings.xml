@@ -3573,7 +3573,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="system_storage">Armazenamento do sistema</string>
   <string name="system_ui_settings">Mostrar SystemUI Tuner</string>
   <string name="system_update_settings_list_item_summary"/>
-  <string name="system_update_settings_list_item_title">Actualizações do sistema</string>
+  <string name="system_update_settings_list_item_title">Actualizar sistema</string>
   <string name="tap_to_wake">Tocar para activar</string>
   <string name="tap_to_wake_summary">Tocar duas vezes em qualquer ponto do ecrã para activar o dispositivo</string>
   <string name="terms_title">Termos e condições</string>

@@ -106,7 +106,7 @@
   <string name="callrecordview_menu_batch_delete">Eliminar registos de chamadas</string>
   <string name="callrecordview_menu_blocklist">Lista de bloqueio</string>
   <string name="callrecordview_menu_conference">Chamada em conferência</string>
-  <string name="callrecordview_menu_delete">Eliminar registo de chamadas</string>
+  <string name="callrecordview_menu_delete">Eliminar registos</string>
   <string name="callrecordview_menu_delete_accepted">Limpar registos das chamadas atendidas</string>
   <string name="callrecordview_menu_delete_all">Eliminar registos de chamadas</string>
   <string name="callrecordview_menu_delete_called">Limpar registos das chamadas efectuadas</string>
@@ -183,8 +183,8 @@
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
   <string name="config_prohibited_phone_number_regexp"/>
-  <string name="confirm_delete_contact_all_call_logs">Eliminar registo de chamadas?</string>
-  <string name="confirm_delete_selected_all_call_logs">Eliminar registo de chamadas?</string>
+  <string name="confirm_delete_contact_all_call_logs">Eliminar registos de chamadas?</string>
+  <string name="confirm_delete_selected_all_call_logs">Eliminar registos de chamadas?</string>
   <string name="confirm_delete_sim_entry_miui_title">Eliminar</string>
   <string name="confirm_export_message">A sua lista de contactos será exportada para o ficheiro: %s</string>
   <string name="confirm_export_title">Exportar contactos?</string>
@@ -197,8 +197,8 @@
   <string name="contactSavedErrorToast">Não foi possível guardar as alterações do contacto</string>
   <string name="contactSavedToast">Contacto guardado</string>
   <string name="contact_delete_toast">Contacto eliminado</string>
-  <string name="contact_detail_action_item_calllog">Registos</string>
-  <string name="contact_detail_action_item_nocalllog">Sem registos</string>
+  <string name="contact_detail_action_item_calllog">Chamadas</string>
+  <string name="contact_detail_action_item_nocalllog">Sem chamadas</string>
   <string name="contact_detail_calllog_call_note_tips">Notas</string>
   <string name="contact_detail_calllog_call_record_tips">Gravar chamada</string>
   <string name="contact_detail_menu_delete_miprofile">Eliminar cartão</string>
