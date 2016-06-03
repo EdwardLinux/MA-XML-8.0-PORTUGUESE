@@ -22,7 +22,7 @@
   <string name="convertion_unit_weight">Conversor de peso</string>
   <string name="cos">cos</string>
   <string name="cosDesc">cosseno</string>
-  <string name="currency_update_time_format">Actualizado às %s</string>
+  <string name="currency_update_time_format">Actualizado em %s</string>
   <string name="del">DEL</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>

@@ -90,7 +90,7 @@ Toque no botão + para criar uma pasta"</string>
   <string name="search_keyword_notes">Notas;Memo</string>
   <string name="search_label">A pesquisar…</string>
   <string name="search_path_notes">Definições/Aplicações de sistema/Notas</string>
-  <string name="search_setting_description">Pesquisar texto nas suas notas</string>
+  <string name="search_setting_description">Texto nas suas notas</string>
   <string name="search_title_notes">Notas</string>
   <string name="select_account_prompt">Sincronizar notas</string>
   <string name="sina_share_fail">Erro ao enviar</string>

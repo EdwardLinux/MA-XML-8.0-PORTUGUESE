@@ -106,9 +106,9 @@
   <string name="callrecordview_menu_batch_delete">Eliminar registos de chamadas</string>
   <string name="callrecordview_menu_blocklist">Lista de bloqueio</string>
   <string name="callrecordview_menu_conference">Chamada em conferência</string>
-  <string name="callrecordview_menu_delete">Eliminar registos</string>
+  <string name="callrecordview_menu_delete">Eliminar registo</string>
   <string name="callrecordview_menu_delete_accepted">Limpar registos das chamadas atendidas</string>
-  <string name="callrecordview_menu_delete_all">Eliminar registos de chamadas</string>
+  <string name="callrecordview_menu_delete_all">Eliminar lista de chamadas</string>
   <string name="callrecordview_menu_delete_called">Limpar registos das chamadas efectuadas</string>
   <string name="callrecordview_menu_delete_confirm">%s?</string>
   <string name="callrecordview_menu_delete_missed">Limpar registos das chamadas não atendidas</string>

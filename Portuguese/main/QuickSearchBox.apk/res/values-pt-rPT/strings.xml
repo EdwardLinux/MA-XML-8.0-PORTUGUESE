@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Pesquisar</string>
+  <string name="app_name">Pesquisa</string>
   <string name="apps_search_activity"/>
   <string name="clear_history">Limpar histórico</string>
   <string name="clear_shortcuts">Eliminar atalhos</string>
