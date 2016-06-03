@@ -804,6 +804,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="connected_via_passpoint">Ligado via %1$s</string>
   <string name="connected_via_wfa">Ligado via assistente de Wi-Fi</string>
   <string name="connected_wifi">Ligado</string>
+  <string name="connecting_to_vpn">A ligar à VPN</string>
   <string name="contributors_title">Contribuidores</string>
   <string name="controls_label">Controlos</string>
   <string name="controls_subtitle">Ajustar utilização de energia</string>
@@ -2933,7 +2934,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_dndm_wristband">Activar com a Banda Mi</string>
   <string name="search_do_not_disturb">Não incomodar;VIP;Definir hora;Excepções;Chamadas repetidas</string>
   <string name="search_dtmf_tone_enable_title">Tons de marcação</string>
-  <string name="search_empty">Sem itens das definições</string>
+  <string name="search_empty">Sem resultados</string>
   <string name="search_equalizer">Equalizador</string>
   <string name="search_font">Tipo de letra do sistema</string>
   <string name="search_gps">GPS;Acesso à localização</string>
@@ -4010,6 +4011,8 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="vpn_no_network">Não há nenhuma ligação de rede. Por favor tente novamente mais tarde</string>
   <string name="vpn_no_server_cert">(recebido do servidor)</string>
   <string name="vpn_not_used">(não utilizado)</string>
+  <string name="vpn_off">Desligado</string>
+  <string name="vpn_on">Ligado</string>
   <string name="vpn_password">Palavra-passe</string>
   <string name="vpn_routes">Reencaminhamento de rotas</string>
   <string name="vpn_routes_hint">p.e. 10.0.0.0/8</string>

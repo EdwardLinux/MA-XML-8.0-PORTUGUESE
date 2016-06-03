@@ -54,6 +54,7 @@ Para eliminar o histórico do navegador utilize as configurações do navegador.
   <string name="search_widget">Pesquisar</string>
   <string name="send_secret_code">Enviar código</string>
   <string name="show_more">Mostrar mais</string>
+  <string name="suggest_open_app_failed">Não foi possível abrir esta aplicação</string>
   <string name="system_search_category_title">Telefone</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>

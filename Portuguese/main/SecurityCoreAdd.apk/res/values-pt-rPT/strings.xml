@@ -22,6 +22,9 @@ esta funcionalidade vai ser adicionada automaticamente ao segundo espaço"</stri
   <string name="closeSuccess">Desligado</string>
   <string name="close_second_space_success">Eliminar segundo espaço</string>
   <string name="closed">Desligado</string>
+  <string name="complete_setting">Concluir</string>
+  <string name="complete_setting_sub_title">Pode voltar mais tarde para ajustar as definições</string>
+  <string name="complete_setting_title">Está tudo pronto!</string>
   <string name="confirm">OK</string>
   <string name="confirmClose">Desligar</string>
   <string name="confirmCloseSpaceDes">Não vai poder entrar no segundo espaço após o eliminar. Todos os dados vão ser movidos ou eliminados</string>
@@ -45,6 +48,7 @@ esta funcionalidade vai ser adicionada automaticamente ao segundo espaço"</stri
   <string name="delete_src_photo">Eliminar fotos</string>
   <string name="dir_switch_out_all_photos">Galeria do segundo espaço</string>
   <string name="disable">Desligar</string>
+  <string name="dont_import">Agora não</string>
   <string name="enable">Ligar</string>
   <string name="err_copy_contacts">Não foi possível copiar contactos</string>
   <string name="err_copy_files">Não foi possível copiar ficheiros</string>
@@ -60,8 +64,28 @@ esta funcionalidade vai ser adicionada automaticamente ao segundo espaço"</stri
   <string name="err_volume_not_enough">Sem espaço de armazenamento suficiente</string>
   <string name="exit_private_space">Trocar</string>
   <string name="goToSecondSpacce">Ir para o segundo espaço</string>
+  <string name="go_on_import">Continuar a importar</string>
+  <string name="guide_contact_sub_title_desc">"Os contactos adicionados ao segundo espaço vão ser privados.
+As mensagens apenas vão aparecer no segundo espaço"</string>
+  <string name="guide_contact_suc_sub_title_desc">Apenas os contactos e mensagens privados vão ser mostrados no segundo espaço</string>
+  <string name="guide_contact_suc_title_desc">Definido com sucesso</string>
+  <string name="guide_contact_title_desc">Mostrar itens privados no segundo espaço?</string>
+  <string name="guide_pwd_detail_title">"Proteja os seus dados
+Entre no segundo espaço através do ecrã de bloqueio"</string>
+  <string name="guide_setting_guide_title">Gerir o segundo espaço</string>
   <string name="hidden_app">Segundo espaço</string>
   <string name="imageData">Fotos</string>
+  <string name="import_application">Importar aplicações</string>
+  <string name="import_application_desc">"Importar aplicações para o segundo espaço.
+Pode também transferi-las separadamente"</string>
+  <string name="import_contacts">Importar contactos</string>
+  <string name="import_contacts_desc">Tornar os contactos importados privados</string>
+  <string name="import_contacts_suc">Contactos privados importados</string>
+  <string name="import_file_suc">Itens importados para as pastas</string>
+  <string name="import_now">Exportar</string>
+  <string name="import_photo">Importar fotos</string>
+  <string name="import_photo_desc">Ver itens partilhados no segundo espaço</string>
+  <string name="import_photo_suc">Fotos importadas</string>
   <string name="list_empty_text">Vazio</string>
   <string name="loading_apps">A carregar aplicações…</string>
   <string name="loading_space">Aguarde…</string>
@@ -73,11 +97,14 @@ esta funcionalidade vai ser adicionada automaticamente ao segundo espaço"</stri
   <string name="needSetKeyguardFirstDes">Definir a palavra-passe do primeiro espaço antes de definir a palavra-passe do segundo espaço</string>
   <string name="newSecondSpace">Ligar segundo espaço</string>
   <string name="normal_app">Primeiro espaço</string>
+  <string name="next_setp">Seguinte</string>
   <string name="not_support_multiple_users">Não são suportados vários espaços</string>
   <string name="notificationSetPassword">Definir palavra-passe</string>
   <string name="notificationSetPasswordDes">Proteger os dados do segundo espaço</string>
   <string name="notificationSummary">Trocar entre espaços na área de notificações</string>
   <string name="notificationTitle">Atalho na área de notificações</string>
+  <string name="notification_setting_second_space">Configurar segundo espaço</string>
+  <string name="notification_setting_second_space_desc">Adicionar palavra-passe do segundo espaço e mover dados</string>
   <string name="ok_button">OK</string>
   <string name="openPasswordGuard">Definir palavra-passe do segundo espaço</string>
   <string name="openSuccess">Ligado</string>
@@ -100,6 +127,9 @@ esta funcionalidade vai ser adicionada automaticamente ao segundo espaço"</stri
   <string name="setSecondSpacePasswordGuideDes">Utilizar esta palavra-passe para entrar no segundo espaço através do ecrã de bloqueio</string>
   <string name="setSpacePasswordGuide">Utilizar diferentes palavras-passe para entrar em ambos os espaços através do ecrã de bloqueio</string>
   <string name="setSuccess">Palavras-passe definidas com sucesso</string>
+  <string name="set_space_pwd_detail">Pode entrar no segundo espaço utilizando a palavra-passe</string>
+  <string name="set_space_pwd_suc">Palavra-passe do segundo espaço adicionada</string>
+  <string name="setting_is_show_text_contacts">Configurar contactos e mensagens privados</string>
   <string name="settings_cross_notification_summary">Receber notificações do outro espaço</string>
   <string name="settings_cross_notification_title">Notificações</string>
   <string name="settings_msg_add_shortcut">Atalho adicionado ao primeiro espaço</string>
@@ -110,12 +140,16 @@ esta funcionalidade vai ser adicionada automaticamente ao segundo espaço"</stri
   <string name="settings_status_icon_title">Ícone do segundo espaço</string>
   <string name="settings_switch_shortcut_summary">Mostrar atalho de ecrã inciial no primeiro espaço</string>
   <string name="settings_switch_shortcut_title">Toque no atalho para trocar</string>
+  <string name="show_normal_content">Não mostrar itens privados</string>
+  <string name="show_private_content">Mostrar itens privados</string>
   <string name="spaceSetting">Definições</string>
   <string name="startSet">Definir</string>
   <string name="startTransfer">Mover</string>
+  <string name="start_setting_guide_desc_title">Existem algumas coisas para configurar</string>
   <string name="summary_switch_apps_settings">Seleccionar aplicações utilizadas no segundo espaço</string>
   <string name="switchDataSummary">Mover itens entre espaços</string>
   <string name="switch_apps_settings">Definições da aplicação</string>
+  <string name="switch_data_app">Mover itens para o segundo espaço</string>
   <string name="switch_data_settings">Mover dados</string>
   <string name="switch_failed">Não foi possível mover</string>
   <string name="switch_file_success">Ficheiros movidos com sucesso</string>
@@ -137,6 +171,7 @@ esta funcionalidade vai ser adicionada automaticamente ao segundo espaço"</stri
   <string name="switching_contacts">A mover contactos…</string>
   <string name="switching_files">A mover ficheiros…</string>
   <string name="switching_photos">A mover fotos…</string>
+  <string name="temporary_no_set">Agora não</string>
   <string name="title_choose_app_status">Seleccionar o tipo de aplicação</string>
   <string name="title_switch_file">Eliminar estes ficheiros?</string>
   <string name="title_switch_photo">Eliminar estas fotos?</string>
