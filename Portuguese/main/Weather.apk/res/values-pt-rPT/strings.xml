@@ -109,6 +109,7 @@ Toque no ecrã para adicionar adicionar ou repor cidade"</string>
   <string name="network_unavailable">Não é possível ligar à rede</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">Tente novamente</string>
+  <string name="open">Abrir</string>
   <string name="open_browser">Abrir no navegador</string>
   <string name="realtime_aqi_title">Indíce de qualidade do ar</string>
   <string name="realtime_humidity_title">Humidade relativa</string>

@@ -2,24 +2,29 @@
 <resources>
   <string name="app_name">Pesquisa</string>
   <string name="apps_search_activity"/>
+  <string name="baidu_search_url_from_default">https://www.google.pt/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_input">https://www.google.pt/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_launcher">https://www.google.pt/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_systemui">https://www.google.pt/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
   <string name="clear_history">Limpar histórico</string>
-  <string name="clear_shortcuts">Eliminar atalhos</string>
-  <string name="clear_shortcuts_agree">Eliminar atalhos</string>
-  <string name="clear_shortcuts_disagree">Não eliminar atalhos</string>
-  <string name="clear_shortcuts_prompt">"Deseja eliminar todos os atalhos para as sugestões de pesquisa escolhidos recentemente?
+  <string name="clear_shortcuts">Limpar atalhos</string>
+  <string name="clear_shortcuts_agree">Limpar atalhos</string>
+  <string name="clear_shortcuts_disagree">Não limpar atalhos</string>
+  <string name="clear_shortcuts_prompt">"Deseja limpar todos os atalhos para as sugestões de pesquisa escolhidas recentemente?
 
-Para eliminar o histórico do navegador utilize as configurações do navegador."</string>
-  <string name="clear_shortcuts_summary">Eliminar atalhos para sugestões de pesquisa recentemente escolhidos</string>
+Para limpar o histórico do Navegador, utilize as definições do Navegador"</string>
+  <string name="clear_shortcuts_summary">Limpar atalhos para sugestões de pesquisa recentemente escolhidas</string>
   <string name="common_setting">Definições gerais</string>
-  <string name="connect_and_retry">Ligue à Internet e tente novamente</string>
-  <string name="corpus_description_apps">Nomes das aplicações instaladas</string>
-  <string name="corpus_description_web">Favoritos</string>
+  <string name="connect_and_retry">Ligue-se à Internet e tente novamente</string>
+  <string name="corpus_description_apps">Aplicações instaladas</string>
+  <string name="corpus_description_web">Marcadores</string>
   <string name="corpus_hint_apps">Pesquisa de aplicações</string>
   <string name="corpus_label_apps">Aplicações</string>
   <string name="corpus_label_global">Todos</string>
   <string name="corpus_label_web">Internet</string>
   <string name="corpus_selection_heading">Pesquisar</string>
-  <string name="cta_declaration">É necessário ligação à rede, localização GPS, aceder ao registo de chamadas, livro de endereços, etc. Concorda?</string>
+  <string name="cta_declaration">Esta funcionalidade necessita de ligação à Internet, aceder à localização do seu dispositivo e ver o seu registo de chamadas e contactos para funcionar normalmente</string>
   <string name="cta_declaration_ignore">Não mostrar novamente</string>
   <string name="cta_declaration_negative_text">Sair</string>
   <string name="cta_declaration_positive_text">Permitir</string>
@@ -29,11 +34,14 @@ Para eliminar o histórico do navegador utilize as configurações do navegador.
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>
   <string name="google_app_label">Pesquisa Google</string>
+  <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
+  <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
   <string name="google_search_description">Sugestões de pesquisa do Google</string>
   <string name="google_search_hint">Pesquisa Google</string>
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Pesquisa Google</string>
-  <string name="hot_search">Popular</string>
+  <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="hot_search">Destaques</string>
   <string name="loading">Aguarde…</string>
   <string name="menu_help">Ajuda</string>
   <string name="menu_settings">Definições de pesquisa</string>
@@ -59,9 +67,10 @@ Para eliminar o histórico do navegador utilize as configurações do navegador.
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Tente dizer:</string>
-  <string name="web_search_results">Baidu</string>
+  <string name="web_search_results">Pesquisa na Internet</string>
   <string name="xiaomi_hint"/>
-  <string name="xiaomi_hot_query"/>
+  <string name="xiaomi_homepage_suggest"/>
   <string name="xiaomi_search_label">Resultados</string>
+  <string name="xiaomi_source_url"/>
   <string name="xiaomi_suggest_base"/>
 </resources>

@@ -31,17 +31,17 @@
   <string name="avast_virus_type_worm_description">Este vírus é um worm. It is a standalone malware that replicates itself in order to spread to other devices. Takes advantage of file or information transport features of system (such like network), it can travel without any human action. Worms almost always cause at least some harm to the network.</string>
   <string name="avl_dialog_cloudscan"/>
   <string name="avl_dialog_dbupdate"/>
-  <string name="avl_dialog_header">"Esta funcionalidade encripta e envia o ID do seu dispositivo para o servidores AVL(%s)."</string>
-  <string name="avl_dialog_policy">ver Política de Privacidade</string>
+  <string name="avl_dialog_header">Esta funcionalidade encripta e envia o ID do seu dispositivo para os servidores AVL(%s)</string>
+  <string name="avl_dialog_policy">Ver Política de Privacidade</string>
   <string name="avl_dialog_title">Política de Privacidade de AVL</string>
   <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
   <string name="default_sdcard_volume_path"/>
   <string name="hello_world">Olá mundo!</string>
   <string name="menu_settings">Definições</string>
-  <string name="tencent_dialog_cloudscan">Enviar e verificar os nomes e detalhes das aplicações utilizando definições de vírus online.</string>
+  <string name="tencent_dialog_cloudscan">Enviar e verificar os nomes e detalhes das aplicações utilizando definições de vírus online</string>
   <string name="tencent_dialog_dbupdate">Actualizar definições de vírus automaticamente</string>
-  <string name="tencent_dialog_header">"Esta funcionalidade encripta e envia o ID do seu dispositivo para os servidores Tencent(%s)."</string>
-  <string name="tencent_dialog_policy">ver Política de Privacidade</string>
+  <string name="tencent_dialog_header">Esta funcionalidade encripta e envia o ID do seu dispositivo para os servidores Tencent(%s)</string>
+  <string name="tencent_dialog_policy">Ver Política de Privacidade</string>
   <string name="tencent_dialog_title">Política de Privacidade de Tencent</string>
   <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
   <string name="title_activity_main">MainActivity</string>
