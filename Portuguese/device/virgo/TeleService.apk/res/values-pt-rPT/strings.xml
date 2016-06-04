@@ -67,7 +67,7 @@
   <string name="auto_redial_pref_title">Remarcação automática</string>
   <string name="auto_retry_mode_summary">Ligar o modo de Remarcação automática</string>
   <string name="auto_retry_mode_title">Remarcação automática</string>
-  <string name="autoip">Marc. auto. de IP</string>
+  <string name="autoip">Marcação automática de IP</string>
   <string name="autoip_add_zero_prefix">Adicionar o prefixo 0 para telemóveis</string>
   <string name="autoip_areacode_required">É necessário o código de área</string>
   <string name="autoip_areacode_required_accept">OK</string>
