@@ -256,8 +256,9 @@
   <string name="local_calendar_display_name">Calendário local</string>
   <string name="local_owner_account_name">Guardados neste dispositivo</string>
   <string name="lunar_date">Data lunar</string>
-  <string name="match_ed">已结束</string>
-  <string name="match_ing">进行中</string>
+  <string name="match_ed">Concluído</string>
+  <string name="match_ing">A processar</string>
+  <string name="match_not_started">Não iniciado</string>
   <string name="menu_about_preferences">Acerca de calendário</string>
   <string name="menu_general_preferences">Definições</string>
   <string name="menu_preferences">Definições</string>
@@ -285,9 +286,10 @@
   <string name="monthly">Mensalmente</string>
   <string name="monthly_on_day">Mensalmente (mesma data)</string>
   <string name="monthly_on_day_count">Mensalmente (%1$s %2$s)</string>
+  <string name="more_match">Mais eventos</string>
   <string name="more_string">+%1$s</string>
   <string name="movable_list_header_label">Breve introdução</string>
-  <string name="my_subscribe_events">我的订阅</string>
+  <string name="my_subscribe_events">As minhas subscrições</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
   <string name="new_event_dialog_label">Novo evento</string>
   <string name="new_event_dialog_option">Novo evento</string>

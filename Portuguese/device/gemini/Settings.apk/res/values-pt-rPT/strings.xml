@@ -351,10 +351,10 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="battery_desc_camera">Bateria utilizada pela câmara</string>
   <string name="battery_desc_display">Bateria utilizada pelo ecrã e luz de fundo</string>
   <string name="battery_desc_flashlight">Bateria utilizada pela lanterna</string>
-  <string name="battery_desc_overcounted">Utilização de energia contabilizada em excesso</string>
+  <string name="battery_desc_overcounted">Utilização de bateria contabilizada em excesso</string>
   <string name="battery_desc_radio">Bateria utilizada pelo rádio móvel</string>
   <string name="battery_desc_standby">Bateria utilizada quando o telefone está inactivo</string>
-  <string name="battery_desc_unaccounted">Utilização de energia de diversos</string>
+  <string name="battery_desc_unaccounted">Utilização de bateria de diversos</string>
   <string name="battery_desc_users">Bateria utilizada pelo utilizador</string>
   <string name="battery_desc_voice">Bateria utilizada pelas chamadas de voz</string>
   <string name="battery_desc_wifi">Bateria utilizada pelo Wi-Fi</string>
@@ -405,7 +405,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="battery_level_title">Nível da bateria</string>
   <string name="battery_light_title">LED da bateria</string>
   <string name="battery_light_summary">Activar LED da bateria quando a carregar</string>
-  <string name="battery_msg_unaccounted">A utilização da bateria é uma aproximação da utilização de energia e não inclui todas as fontes de descarregamento da bateria. Os diversos são a diferença entre a utilização de energia aproximada calculada e o descarregamento real observado na bateria</string>
+  <string name="battery_msg_unaccounted">A utilização da bateria é uma aproximação da utilização de bateria e não inclui todas as fontes de descarregamento da bateria. Os diversos são a diferença entre a utilização de bateria aproximada calculada e o descarregamento real observado na bateria</string>
   <string name="battery_saver">Poupança de bateria</string>
   <string name="battery_saver_turn_on_automatically_never">Nunca</string>
   <string name="battery_saver_turn_on_automatically_pct">com %1$s de bateria</string>
@@ -2462,7 +2462,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_camera">Câmara</string>
   <string name="power_cell">Inactividade do telefone</string>
-  <string name="power_center">Energia</string>
+  <string name="power_center">Utilização</string>
   <string name="power_charge_remaining">%1$s para carregar</string>
   <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s até ficar completa</string>
@@ -2503,7 +2503,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="preferred_app_settings_reset_button">Repor</string>
   <string name="preferred_app_settings_reset_message">Todas as aplicações vão ser repostas para as definições de fábrica</string>
   <string name="preferred_application_title">Preferidas %s</string>
-  <string name="preferred_application_warning_message">Substituir %1$s predefinido pode aumentar o consumo de energia, reduzir a velocidade e pode colocar em risco o conteúdo do telefone. Utilize %2$s em vez disso</string>
+  <string name="preferred_application_warning_message">Substituir %1$s predefinido pode aumentar o consumo de bateria, reduzir a velocidade e pode colocar em risco o conteúdo do telefone. Utilize %2$s em vez disso</string>
   <string name="preferred_application_warning_replace">Substituir</string>
   <string name="preferred_application_warning_title">Substituir %s predefinido</string>
   <string name="preferred_application_warning_use_system">Utilizar %s</string>
@@ -3749,10 +3749,10 @@ As suas impressões digitais guardadas também são removidas deste dispositivo 
   <string name="usage_log">Estatísticas de utilização das aplicações</string>
   <string name="usage_stats_label">Estatísticas de utilização</string>
   <string name="usage_time_label">Tempo de utilização</string>
-  <string name="usage_type_actual_power">Utilização de energia observada</string>
+  <string name="usage_type_actual_power">Utilização de bateria observada</string>
   <string name="usage_type_audio">Áudio</string>
   <string name="usage_type_camera">Câmara</string>
-  <string name="usage_type_computed_power">Utilização de energia calculada</string>
+  <string name="usage_type_computed_power">Utilização de bateria calculada</string>
   <string name="usage_type_cpu">Utilização da CPU</string>
   <string name="usage_type_cpu_foreground">Primeiro plano da CPU</string>
   <string name="usage_type_data_recv">Pacotes móveis recebidos</string>
