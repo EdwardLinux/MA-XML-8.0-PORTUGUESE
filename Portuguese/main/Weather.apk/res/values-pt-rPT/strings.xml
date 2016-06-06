@@ -58,7 +58,7 @@
   <string name="daily_forcast_no_stable_direction">Sem vento</string>
   <string name="daily_forcast_no_wind">&lt;12km/h</string>
   <string name="daily_forcast_temperature_connect"/>
-  <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
+  <string name="daily_forcast_temperature_transfer">%2$s° / %1$s°</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s mais tarde</string>
   <string name="daily_forcast_whirl_wind">Furacão</string>
   <string name="daily_forcast_wind_connect">%2$s %1$s</string>
