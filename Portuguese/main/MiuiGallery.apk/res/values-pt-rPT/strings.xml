@@ -175,6 +175,7 @@
   <string name="custom_select_title_select_all">Seleccionar tudo</string>
   <string name="custom_select_title_select_item">Seleccionar itens</string>
   <string name="debugging_tip">Gerar dados de depuração</string>
+  <string name="default_album_name">Novo álbum</string>
   <string name="delete">Eliminar</string>
   <string name="delete_album_failed">Não foi possível eliminar álbum</string>
   <string name="delete_album_msg_format">Eliminar álbum \"%2$s\" %1$s%3$s?</string>
@@ -552,7 +553,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="sync_battery_low">Bateria fraca</string>
   <string name="sync_cloud_space_full">Sem espaço suficiente na Nuvem Mi</string>
   <string name="sync_diabled_toast">A sincronização está desligada</string>
-  <string name="sync_off_button_text">Ligar sincronização</string>
+  <string name="sync_off_button_text">Liar sincronização</string>
   <string name="system_album">Álbum de sistema</string>
   <string name="temperature">Tonalidade</string>
   <string name="terabyteShort">TB</string>
