@@ -12,7 +12,7 @@ Strings are under a
 Based on a work at http://miui.com
 
 For more info visit:
-- [Multilang MIUI Support](http://xiaomi.eu) 
+- [Xiaomi.eu Support](http://xiaomi.eu) 
 
-MIUI Android Multilang Translation Guide http://miui.connortumbleson.com/dev_guide
+Xiaomi.eu Multilang Translation Guide http://miui.connortumbleson.com/dev_guide
 
