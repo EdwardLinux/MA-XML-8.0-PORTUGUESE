@@ -552,7 +552,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="sync_battery_low">Bateria fraca</string>
   <string name="sync_cloud_space_full">Sem espaço suficiente na Nuvem Mi</string>
   <string name="sync_diabled_toast">A sincronização está desligada</string>
-  <string name="sync_off_button_text">Liar sincronização</string>
+  <string name="sync_off_button_text">Ligar sincronização</string>
   <string name="system_album">Álbum de sistema</string>
   <string name="temperature">Tonalidade</string>
   <string name="terabyteShort">TB</string>

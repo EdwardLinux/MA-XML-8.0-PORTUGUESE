@@ -77,14 +77,14 @@
         <item>Impróprio</item>
      </string-array>
     <string-array name="wind_direction">
-        <item>N</item>
-        <item>NE</item>
-        <item>E</item>
-        <item>SE</item>
-        <item>S</item>
-        <item>SO</item>
-        <item>O</item>
-        <item>NO</item>
+        <item>Norte</item>
+        <item>Nordeste</item>
+        <item>Este</item>
+        <item>Sudeste</item>
+        <item>Sul</item>
+        <item>Sudoeste</item>
+        <item>Oeste</item>
+        <item>Noroeste</item>
     </string-array>
     <string-array name="wind_power">
         <item>%s</item>
