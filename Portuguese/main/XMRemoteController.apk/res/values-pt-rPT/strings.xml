@@ -1,5 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abc_action_bar_home_description">Navegar para início</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">Navegar para cima</string>
+  <string name="abc_action_menu_overflow_description">Mais opções</string>
+  <string name="abc_action_mode_done">Concluído</string>
+  <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
+  <string name="abc_activitychooserview_choose_application">Escolher uma aplicação</string>
+  <string name="abc_capital_off">Desligado</string>
+  <string name="abc_capital_on">Ligado</string>
+  <string name="abc_search_hint">Pesquisar…</string>
+  <string name="abc_searchview_description_clear">Limpar pesquisa</string>
+  <string name="abc_searchview_description_query">Pesquisar assunto</string>
+  <string name="abc_searchview_description_search">Pesquisar</string>
+  <string name="abc_searchview_description_submit">Submeter assunto</string>
+  <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+  <string name="abc_shareactionprovider_share_with">Partilhar com</string>
+  <string name="abc_shareactionprovider_share_with_application">Partilhar com %s</string>
+  <string name="abc_toolbar_collapse_description">Fechar</string>
   <string name="ac_gree">A/C Gree</string>
   <string name="ac_mode_auto">Auto</string>
   <string name="ac_mode_cold">Refrigeração</string>
@@ -21,7 +40,8 @@
   <string name="add_fav_channel_hint">Adicione mais canais aos favoritos para que consiga encontrar os seus programas favoritos</string>
   <string name="add_more">Adicionar mais dispositivos IR</string>
   <string name="add_new_control">Adicionar controlo remoto</string>
-  <string name="add_new_tv">Adicionar TV…</string>
+  <string name="add_new_stb">Adicionar nova set-top box</string>
+  <string name="add_new_tv">Adicionar TV</string>
   <string name="add_new_tv_power_only">Corresponder o botão Ligar/Desligar…</string>
   <string name="adjust_auto_tune_interval">Ajuste automático do intervalo</string>
   <string name="agree">Concordar</string>
@@ -79,7 +99,7 @@
   <string name="backup_succeed">Cópia com sucesso</string>
   <string name="backuping">A fazer cópia…</string>
   <string name="bedroom">Quarto</string>
-  <string name="bind_stb">Continuar a associar a set-top box </string>
+  <string name="bind_stb">Continuar a associar a set-top box</string>
   <string name="bind_stb_dlg">Emparelhar set-top box para trocar canais</string>
   <string name="bind_stb_dlg_agree">Emparelhar</string>
   <string name="brand_device">%1$s %2$s</string>
@@ -104,6 +124,7 @@
   <string name="channel_added_to_fav">%1$s已加入收藏</string>
   <string name="channel_catogory_name">Canais</string>
   <string name="channel_removed_from_fav">%1$s已取消收藏</string>
+  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_upgrade">Verificar por actualizações</string>
   <string name="choose_ac">Escolher controlo remoto</string>
   <string name="choose_address_title">Seleccionar localização</string>
@@ -145,6 +166,8 @@
   <string name="delete_desc">"Não é possível controlar “%s” utilizando C.Remoto Mi."</string>
   <string name="delete_device_frame">Eliminar %1$s?</string>
   <string name="delete_frame">Eliminar \"%1$s\"?</string>
+  <string name="delete_navigate_view_cancel_button_text">Cancelar</string>
+  <string name="delete_navigate_view_delete_button_text">Eliminar</string>
   <string name="device_bluetoothi">Controlo remoto Bluetooth</string>
   <string name="device_brand">Marca</string>
   <string name="device_model">Modelo</string>
@@ -203,7 +226,8 @@
   <string name="epg_program_updated_to">播放至第%1$d集</string>
   <string name="epg_search_box_hint">搜索想要看的电视节目</string>
   <string name="epg_search_history">历史记录</string>
-  <string name="epg_search_hot_keyword">热门搜索</string>
+  <string name="epg_search_hot_channel">热门频道搜索</string>
+  <string name="epg_search_hot_program">热门节目搜索</string>
   <string name="epg_status_playing_text">A reproduzir…</string>
   <string name="epg_status_playing_text_v5">Ao vivo</string>
   <string name="epg_unbook_all">取消全部</string>
@@ -262,6 +286,7 @@
   <string name="history_none">Ainda não viu nenhum vídeo</string>
   <string name="history_title">Histórico</string>
   <string name="home">Casa</string>
+  <string name="home_pad_ac_status">%1$d ℃ %2$s</string>
   <string name="home_zhuye">Casa</string>
   <string name="hot_apps">Popular</string>
   <string name="hot_mode">Calor</string>
@@ -426,6 +451,9 @@ aguarde um momento depois da acção."</string>
   <string name="milink_device_online">Ligados</string>
   <string name="milink_device_rc_saved">O controlo remoto foi guardado</string>
   <string name="milink_nowifi">Não ligado ao Wi-Fi</string>
+  <string name="milink_screenshot_done">Captura de ecrã efectuada com sucesso</string>
+  <string name="milink_screenshot_pic">Capturas de ecrã</string>
+  <string name="milink_view_screenshot">Guardado para o álbum do telefone</string>
   <string name="minute">min</string>
   <string name="mitv">Mi TV</string>
   <string name="mitv_assistant_setting_version">Assistente Mi TV versão %1$s</string>
@@ -460,6 +488,7 @@ aguarde um momento depois da acção."</string>
   <string name="no_program">Sem conteúdo aqui</string>
   <string name="no_qq">Instalar QQ primeiro</string>
   <string name="no_save_brand_service">Adicionar este controlo remoto novamente</string>
+  <string name="no_video">Sem vídeos</string>
   <string name="none">Vazio</string>
   <string name="not_login">Sem sessão iniciada</string>
   <string name="not_respond">Sem resposta</string>
@@ -481,7 +510,7 @@ aguarde um momento depois da acção."</string>
   <string name="outdoor_temp_unknown">Desconhecido</string>
   <string name="partner">Suporte</string>
   <string name="passport_access_denied">Acesso negado</string>
-  <string name="passport_account_hint_text">Email ou número de telefone</string>
+  <string name="passport_account_hint_text">Endereço de email ou ID de Conta Mi</string>
   <string name="passport_account_name">Conta: %1$s</string>
   <string name="passport_account_not_activated">Conta ainda não foi activada</string>
   <string name="passport_account_not_actived">A sua conta ainda não foi activada</string>
@@ -539,6 +568,8 @@ Para activar a sua conta, siga o
   <string name="passport_get_verify_code">Obter código</string>
   <string name="passport_getting_verify_code">A obter…</string>
   <string name="passport_identitfication_expired">Código de verificação expirado</string>
+  <string name="passport_imei_permission_denied_message">Estamos a pedir permissão para obter o IMEI do seu dispositivo. A Conta Mi utiliza o IMEI para identificar o dispositivo onde está ligado, para ajudar a manter a sua Conta Mi segura</string>
+  <string name="passport_imei_permission_denied_title">Pedido de permissão de IMEI</string>
   <string name="passport_input_captcha_hint">Introduzir código</string>
   <string name="passport_input_password_for_login">Este número está associado a uma conta existente. Introduza a sua palavra-passe</string>
   <string name="passport_input_password_hint">Introduzir palavra-passe</string>
@@ -633,9 +664,11 @@ Para activar a sua conta, siga o
   <string name="play_on_tv">Reproduzir na TV</string>
   <string name="playing_time">Data de emissão</string>
   <string name="please_enter">Não pode estar vazio</string>
+  <string name="please_select_stb">Seleccionar set-top box</string>
   <string name="please_select_tv">Seleccionar TV</string>
   <string name="popup_installed_app_no_app">A obter aplicações da TV. Tente novamente mais tarde</string>
   <string name="popup_installed_app_title">Seleccionar a TV para abrir aplicações</string>
+  <string name="popup_select_device">Seleccionar o remoto controlo para abrir o Wi-Fi</string>
   <string name="power">Ligar/Desligar</string>
   <string name="power_off">Desligado</string>
   <string name="power_on">Ligado</string>
@@ -666,6 +699,7 @@ Para activar a sua conta, siga o
   <string name="projection_failed_for_disconnect">Dispositivos não ligados</string>
   <string name="province">Província</string>
   <string name="pull_down_refresh">Descer para actualizar</string>
+  <string name="pull_to_refresh">Descer para actualizar</string>
   <string name="pull_up_refresh">Subir para actualizar</string>
   <string name="push_add">Encontrou um controlo remoto partilhado consigo</string>
   <string name="push_add_desc">Controlar %1$s com este controlo remoto?</string>
@@ -700,7 +734,34 @@ Para activar a sua conta, siga o
   <string name="scene_default">Predefinido</string>
   <string name="scene_name_frame">%1$s %2$s%3$s</string>
   <string name="scene_name_frame_short">%1$s%2$s</string>
-  <string name="screenshot">Captura de ecrã</string>
+  <string name="screen_shot_button_title">截取电视屏幕</string>
+  <string name="screen_shot_delete">Eliminar</string>
+  <string name="screen_shot_delete_warning">Tem a certeza que deseja eliminar a captura de ecrã?</string>
+  <string name="screen_shot_more">Ver mais capturas de ecrã</string>
+  <string name="screen_shot_screenshotshow">Mostrar capturas de ecrã</string>
+  <string name="screen_shot_screenshotshow_comment_replies">截屏秀回复</string>
+  <string name="screen_shot_screenshotshow_comments">截屏秀评论</string>
+  <string name="screen_shot_select">Seleccionar</string>
+  <string name="screen_shot_share">电视截屏分享</string>
+  <string name="screen_shot_share2">Partilhar</string>
+  <string name="screen_shot_share_cancel">Cancelar</string>
+  <string name="screen_shot_share_deny">Negar</string>
+  <string name="screen_shot_share_success">Enviado com sucesso</string>
+  <string name="screen_shot_share_unknown">发送返回</string>
+  <string name="screen_shot_shareshowtitle">截屏分享</string>
+  <string name="screen_shot_show_appraise">赞</string>
+  <string name="screen_shot_show_comments">评论</string>
+  <string name="screen_shot_show_deliver">发表</string>
+  <string name="screen_shot_show_loading">A carregar…</string>
+  <string name="screen_shot_show_more_comments">Mais</string>
+  <string name="screen_shot_show_reply_comments">Responder</string>
+  <string name="screen_shot_show_write_comment">Escrever um comentário</string>
+  <string name="screen_shot_submit_hint">此刻你的感受是...</string>
+  <string name="screen_shot_unselect">Desmarcar tudo</string>
+  <string name="screen_shot_wx_friend">微信好友</string>
+  <string name="screen_shot_wx_friend_circle">朋友圈</string>
+  <string name="screenshot">"Capturar
+ ecrã"</string>
   <string name="screenshot_failed">Não foi possível a captura de ecrã</string>
   <string name="screenshot_failed_and_check_connection">Não foi possível a captura de ecrã. Verifique os dispositivos ligados</string>
   <string name="screenshot_not_support_adb_devices">Capturas de ecrã não suportadas para este dispositivo</string>
@@ -799,6 +860,7 @@ Para activar a sua conta, siga o
   <string name="splash_desc">Controlar tudo apenas com um toque</string>
   <string name="start_diagnosis">Testar</string>
   <string name="start_match">Emparelhar</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stb">Set-top box</string>
   <string name="stb_detail_title_frame">%1$s - %2$d</string>
   <string name="stb_power">Ligar/desligar STB</string>
@@ -818,6 +880,7 @@ Para activar a sua conta, siga o
   <string name="temperature">Temperatura</string>
   <string name="temprature_frame">%1$d ℃</string>
   <string name="third_app_launch_failed">Erro ao iniciar aplicação</string>
+  <string name="time_error">时间有问题</string>
   <string name="time_interval_in_sec">%1$d</string>
   <string name="timer">Temporizador</string>
   <string name="timer_turn_off">Temporizador desligado</string>
@@ -844,6 +907,8 @@ Para activar a sua conta, siga o
   <string name="unkown_device_main">Não é possível emparelhar este dispositivo</string>
   <string name="unkown_device_sub">Envie-nos detalhes sobre este dispositivo para futuramente ser possível fornecermos suporte</string>
   <string name="unkown_device_title">Não foi possível obter informação do dispositivo</string>
+  <string name="updated_at">Última vez actualizado às %1$s</string>
+  <string name="updated_just_now">Actualizado agora mesmo</string>
   <string name="upgrade_already_latest">Sem actualizações disponíveis</string>
   <string name="upgrade_current_version">Versão actual %1s</string>
   <string name="upgrade_download">Transferir aplicação</string>
@@ -862,9 +927,17 @@ Para alterar, premir longamente o botão Ligar/Desligar da TV"</string>
   <string name="vendor_yaokan">Yaokan</string>
   <string name="video">Vídeos</string>
   <string name="video_actor_label">"Elenco: "</string>
+  <string name="video_all_category">Todas as categorias</string>
   <string name="video_area_label">"País: "</string>
+  <string name="video_category_filter">%s筛选</string>
+  <string name="video_channel_entry">进入%s频道</string>
+  <string name="video_channel_hot">热播%s</string>
+  <string name="video_count_info">共%d部视频</string>
   <string name="video_detial_unfold">Em desenvolvimento</string>
   <string name="video_director_label">"Director: "</string>
+  <string name="video_favor">收藏</string>
+  <string name="video_filter_all">全部</string>
+  <string name="video_history">Histórico</string>
   <string name="video_history_before_yestory">2 dias atrás</string>
   <string name="video_history_earlier">Mais cedo</string>
   <string name="video_history_title">Histórico</string>
@@ -875,9 +948,11 @@ Para alterar, premir longamente o botão Ligar/Desligar da TV"</string>
   <string name="video_name_intro">Resumo</string>
   <string name="video_name_recommend">Em destaque</string>
   <string name="video_name_score">Reviews</string>
+  <string name="video_play">Reproduzir</string>
   <string name="video_play_count_label">"Vistos: "</string>
   <string name="video_search_hint">Introduza um filme, nome de actor</string>
   <string name="video_search_title">Econtrou o filme %d</string>
+  <string name="video_today_recommend">今晚看啥</string>
   <string name="virtual_keyhboard">Utilizar teclado do dispositivo</string>
   <string name="virtual_keyhboard_intro">Utilizar o teclado do seu dispositivo para escrever no ecrã</string>
   <string name="voice">Voz</string>
