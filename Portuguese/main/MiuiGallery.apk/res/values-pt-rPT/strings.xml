@@ -213,6 +213,11 @@
   <string name="do_not_save">Não guardar</string>
   <string name="documentary">Documentário</string>
   <string name="doodle">Riscar</string>
+  <string name="doodle_brush">Escova</string>
+  <string name="doodle_mark">Marcador</string>
+  <string name="doodle_mosaic">Mosaico</string>
+  <string name="doodle_pen">Caneta</string>
+  <string name="doodle_pencil">Lápis</string>
   <string name="doodle_tooltip">Toque para riscar</string>
   <string name="download_canceled">Transferência cancelada</string>
   <string name="download_retry_message">Não foi possível transferir ficheiros. Verifique a ligação e tente novamente</string>
