@@ -47,7 +47,7 @@
   <string name="aqi_sub_desc">IQA</string>
   <string name="aqi_top_pollution">Poluição máxima</string>
   <string name="button_abandon">Rejeitar alterações</string>
-  <string name="button_add_city">Adicionar cidade</string>
+  <string name="button_add_city">Adicionar localização</string>
   <string name="button_allow">OK</string>
   <string name="button_confirm">Permitir</string>
   <string name="button_exit">Sair</string>
@@ -103,7 +103,7 @@
 Toque no ecrã para adicionar adicionar ou repor cidade"</string>
   <string name="location_management">Localização</string>
   <string name="location_tag">Localizar</string>
-  <string name="menu_add_city">Adicionar ou eliminar cidade</string>
+  <string name="menu_add_city">Editar localizações</string>
   <string name="menu_location">Localizações</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
   <string name="network_unavailable">Não é possível ligar à rede</string>

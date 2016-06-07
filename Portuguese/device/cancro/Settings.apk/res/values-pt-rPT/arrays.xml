@@ -506,7 +506,7 @@
         <item>Wi-Fi preferencial</item>
         <item>Móvel preferencial</item>
     </string-array>
-    <string-array name="haptic_feedback_level_entries">
+    <string-array name="haptic_feedback_level_texts">
         <item>Desligada</item>
         <item>Leve</item>
         <item>Média</item>

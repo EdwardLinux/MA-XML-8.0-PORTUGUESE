@@ -115,6 +115,7 @@
   <string name="michat_error_need_login_btn">Sign in</string>
   <string name="michat_error_need_login_text">Sign in to be able to use online support</string>
   <string name="michat_failed_to_add_media">"Sorry, can't send %1$s"</string>
+  <string name="michat_failed_to_fetch_fql">Não foi possível obter FAQ. Verifique as definições de rede</string>
   <string name="michat_feedback_title_name">Feedback survey</string>
   <string name="michat_finish_text">Finish</string>
   <string name="michat_in_artifical_customer_state">"Can't do this while being helped by a person"</string>
@@ -126,6 +127,8 @@
   <string name="michat_mesage_resend_error_network">"Couldn't connect to the network"</string>
   <string name="michat_mesage_send_error_network">"Couldn't send, check network connection"</string>
   <string name="michat_message_copy_info">Copied to clipboard</string>
+  <string name="michat_message_join_again">Estamos gratos por continuar a servi-lo</string>
+  <string name="michat_message_robot_welcome">O meu nome é Mi Bunny. Sou o robot de suporte online</string>
   <string name="michat_msg_image_upload_error">"Couldn't send image, try again later"</string>
   <string name="michat_msg_input_info">Describe your issue briefly</string>
   <string name="michat_msg_status_arrived">Sent</string>
@@ -185,7 +188,6 @@
   <string name="reply">Responder</string>
   <string name="report_miui">Reportar erro</string>
   <string name="request_empty_data">Sem dados</string>
-  <string name="robot_welcome_message">O meu nome Mi Bunny. Sou um robot de suporte online</string>
   <string name="save_pic">Guardar</string>
   <string name="save_pic_fail">Não foi possível guardar a imagem</string>
   <string name="save_pic_success">Imagem guardada para %s</string>
@@ -194,8 +196,6 @@
   <string name="section_description">Descrição</string>
   <string name="section_err_type">Tipo de erro</string>
   <string name="section_screenshot">Captura de ecrã</string>
-  <string name="server_error_message">Ocorreu um erro no servidor (Erro: %1$s). Tente novamente mais tarde</string>
-  <string name="server_unknown_error_message">Ocorreu um erro no servidor. Tente novamente mais tarde</string>
   <string name="submit_dialog_cancel">Cancelar</string>
   <string name="submit_dialog_confirm">Enviar</string>
   <string name="submit_dialog_content">O seu comentário assim como os anexos e os regitos vão ser enviados para os servidores Mi. Se ocorrer algum erro de rede enquanto estiver a enviar, vai-lhe ser pedido que tente novamente</string>

@@ -320,6 +320,7 @@
   <string name="preferences_alerts_ringtone_title">Som</string>
   <string name="preferences_alerts_title">Notificações</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibrar</string>
+  <string name="preferences_alerts_vibrate_title">Toques e vibração</string>
   <string name="preferences_build_version">Versão da compilação</string>
   <string name="preferences_category_account_title">Conta</string>
   <string name="preferences_category_general_title">Definições gerais</string>
@@ -335,6 +336,7 @@
   <string name="preferences_home_tz_default">Europa/Londres</string>
   <string name="preferences_home_tz_title">Fuso horário local</string>
   <string name="preferences_import_credit_repayment">信用卡还款</string>
+  <string name="preferences_notification_ringtone_title">Som</string>
   <string name="preferences_reminder_title">Notificação e lembretes</string>
   <string name="preferences_show_week_num_title">Mostrar número da semana</string>
   <string name="preferences_solar_terms">Mostrar termos solares</string>

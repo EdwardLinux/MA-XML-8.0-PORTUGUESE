@@ -142,6 +142,13 @@
   <string name="tae_sdk_qr_login_icon_scan"></string>
   <string name="tips_message">Ligar à Internet para verificar se o website que está prestes a visitar é seguro</string>
   <string name="title">Título:</string>
+  <string name="translation_language_chinese">Chinês</string>
+  <string name="translation_language_english">Inglês</string>
+  <string name="translation_language_french">Francês</string>
+  <string name="translation_language_german">Alemão</string>
+  <string name="translation_language_japanese">Japonês</string>
+  <string name="translation_language_korean">Coreano</string>
+  <string name="translation_language_spanish">Espanhol</string>
   <string name="translation_prompt_cannot_find">Não foi possível encontrar palavra ou frase</string>
   <string name="translation_prompt_maintain_level">Alinhe o text com esta linha</string>
   <string name="translation_prompt_recapture">Esta foto está desfocada. Tire outra</string>

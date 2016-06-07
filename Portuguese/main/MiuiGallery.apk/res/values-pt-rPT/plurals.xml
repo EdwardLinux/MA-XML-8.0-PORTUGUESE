@@ -32,6 +32,30 @@
         <item quantity="other">Partilhado com %d pessoas</item>
         <item quantity="one">Partilhado com %d pessoa</item>
     </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">As fotos seleccionadas não estão no dispositivo. Transferir utilizando os dados móveis?</item>
+        <item quantity="one">A foto seleccionada não está no dispositivo. Transferir utilizando os dados móveis?</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">As fotos seleccionadas não estão no dispositivo (%dMB). Transferir utilizando os dados móveis?</item>
+        <item quantity="one">A foto seleccionada não está no dispositivo (%dMB). Transferir utilizando os dados móveis?</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">As fotos seleccionadas não estão no dispositivo. A transferir</item>
+        <item quantity="one">A foto seleccionada não está no dispositivo. A transferir</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">Erro na transferência de %1$d fotos. Repetir?</item>
+        <item quantity="one">Erro na transferência de uma foto. Repetir?</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">Erro na transferência de %1$d fotos (%2$dMB). Repetir?</item>
+        <item quantity="one">Erro na transferência de uma foto (%2$dMB). Repetir?</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">Cancelar a transferência das %d fotos restantes?</item>
+        <item quantity="one">Cancelar a transferência da última foto?</item>
+    </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">Eliminar %1$d fotos %2$s?</item>
         <item quantity="one">Eliminar esta foto %2$s?</item>
