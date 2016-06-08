@@ -15,7 +15,7 @@
   <string name="addPeopleToGroup">Para adicionar alguns, edite o grupo</string>
   <string name="add_2sec_pause">Adicionar pausa de 2 segundos</string>
   <string name="add_account">Adicionar conta</string>
-  <string name="add_blacklist">Adicionar à lista de bloqueio</string>
+  <string name="add_blacklist">Adic. à lista de bloqueio</string>
   <string name="add_blacklist_dialog_message">Bloquear este número?</string>
   <string name="add_blacklist_dialog_title">Bloquear este contacto</string>
   <string name="add_connection_button">Adicionar ligação</string>

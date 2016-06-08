@@ -329,8 +329,8 @@
   <string name="theme_component_title_font">Tipo de Letra</string>
   <string name="theme_component_title_framework">Limites</string>
   <string name="theme_component_title_icon">Ícones</string>
-  <string name="theme_component_title_launcher">Separador dos favoritos</string>
-  <string name="theme_component_title_lockstyle">Estilo de bloqueio</string>
+  <string name="theme_component_title_launcher">Bandeja dos favoritos</string>
+  <string name="theme_component_title_lockstyle">Ecrã de bloqueio</string>
   <string name="theme_component_title_lockwallpaper">Ecrã de bloqueio</string>
   <string name="theme_component_title_miwallpaper">Papel parede MIUI</string>
   <string name="theme_component_title_mms">Mensagens</string>
