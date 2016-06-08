@@ -436,7 +436,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="gsm_umts_options">Opções GSM/UMTS</string>
   <string name="hac_mode_summary">Activar compatibilidade com aparelho auditivo</string>
   <string name="hac_mode_title">Aparelhos auditivos</string>
-  <string name="handon_ringer_summary">Reduzir o volume do toque da chamada recebida quando o telemóvel é levantado. Esta função não funciona quando a vibração para chamadas recebidas está ligada</string>
+  <string name="handon_ringer_summary">Reduzir o volume do toque da chamada recebida quando o telemóvel é levantado. Apenas funciona quando a vibração para chamadas recebidas está desligada</string>
   <string name="handon_ringer_title">Parar de tocar ao levantar</string>
   <string name="help_view">Ajuda</string>
   <string name="hintName">Nome</string>
@@ -574,6 +574,8 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="message_decode_error">Ocorreu um erro durante a descodificação da mensagem</string>
   <string name="mhh_disable">Médico, Saúde e Hospital está desligado</string>
   <string name="mhh_enable">Médico, Saúde e Hospital está ligado</string>
+  <string name="mi_sim_settings_summary">Utilizar dados móveis sem um cartão SIM</string>
+  <string name="mi_sim_settings_title">SIM Mi</string>
   <string name="mismatchPin">Os PINs que introduziu não coincidem. Tente novamente</string>
   <string name="mismatchPin2">Os PIN2s que introduziu não coincidem. Tente novamente</string>
   <string name="mismatch_password">As palavras-passe que introduziu não coincidem. Tente novamente</string>
@@ -832,6 +834,8 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="port_title">Número da porta</string>
   <string name="preference_auto_ip_summary_disable">Desactivado</string>
   <string name="preference_category_ringtone">Toque e vibração</string>
+  <string name="preference_data_usage_summary">Definir o seu plano de dados para controlar a utilização de dados móveis</string>
+  <string name="preference_data_usage_title">Definir plano de dados</string>
   <string name="preference_dial_pad_touch_tone_default">Predefinido</string>
   <string name="preference_dial_pad_touch_tone_off">Desligado</string>
   <string name="preference_dial_pad_touch_tone_piano">Teclas de piano</string>
@@ -1023,6 +1027,9 @@ O cartão SIM será bloqueado após nova tentativa falhada"</string>
   <string name="sim_ndp_dismiss_text">Dispensar</string>
   <string name="sim_ndp_unlock_text">Desbloquear</string>
   <string name="sim_no_activated">Não foi possível verificar cartão SIM</string>
+  <string name="sim_roaming_settings_summary">Ligar a redes de dados móveis em roaming</string>
+  <string name="sim_roaming_settings_title">Roaming Mi</string>
+  <string name="sim_service_setting">SIM e Roaming Mi</string>
   <string name="sim_unlock_failed">O pedido de desbloqueio do cartão SIM falhou</string>
   <string name="sim_unlock_success">Cartão SIM desbloqueado</string>
   <string name="sip_account_list">Contas SIP</string>
@@ -1136,7 +1143,7 @@ O período seguinte tem início dentro de %2$d dias (%3$s)"</string>
   <string name="tty_mode_not_allowed_video_call">Não é permitido alterar o modo TTY durante uma videochamada</string>
   <string name="tty_mode_option_summary">Definir o modo TTY</string>
   <string name="tty_mode_option_title">Modo TTY</string>
-  <string name="turnover_mute_summary">Virar o ecrã do telefone para baixo para silenciar</string>
+  <string name="turnover_mute_summary">Virar o ecrã do telefone para baixo para silenciar. Apenas funciona quando a vibração para chamadas recebidas está desligada</string>
   <string name="turnover_mute_title">Inverter para silenciar</string>
   <string name="undefined">Indefinido</string>
   <string name="unknown">Número privado</string>

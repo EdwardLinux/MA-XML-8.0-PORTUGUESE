@@ -143,5 +143,5 @@ Toque no ecrã para adicionar adicionar ou repor cidade"</string>
   <string name="view_forecast_item_yesterday">Ontem</string>
   <string name="view_indexes_item_today">Hoje</string>
   <string name="view_indexes_item_tommorrow">Amanhã</string>
-  <string name="wind_unit">%1$skm/h</string>
+  <string name="wind_unit">%1$s km/h</string>
 </resources>

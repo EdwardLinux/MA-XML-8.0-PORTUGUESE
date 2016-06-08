@@ -117,6 +117,7 @@
   <string name="copy_to_sdcard_fail">Não foi possível guardar o anexo</string>
   <string name="copy_to_sdcard_success">Anexo guardado em %s</string>
   <string name="database_corruption">A reparar…</string>
+  <string name="del_private_contact">Remover todos os contactos privados</string>
   <string name="delete">Eliminar</string>
   <string name="delete_bookmark">Remover dos favoritos</string>
   <string name="delete_message">Eliminar</string>
@@ -493,9 +494,7 @@
   <string name="search_setting_description">Texto nas suas mensagens</string>
   <string name="search_show_more_results">Mostrar mais</string>
   <string name="search_title_mms">Mensagens</string>
-  <string name="second_mms">Segunda mensagem</string>
   <string name="second_mms_introduction">Vá para o segundo espaço</string>
-  <string name="second_mms_notice">Mostrar apenas a segunda mensagem</string>
   <string name="second_mms_switch">Trocar utilizador</string>
   <string name="secs">segs</string>
   <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"O remetente não está nos seus contactos.

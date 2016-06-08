@@ -2344,6 +2344,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_notification_sound">Definições/Som e vibração/Toque de notificação predefinido</string>
   <string name="path_notification_sound_title">Definições/Som e vibração/Toque de notificação predefinido</string>
   <string name="path_ntts_settings_title">Definições/Definições adicionais/Acessibilidade/Saída de texto para voz</string>
+  <string name="path_oldman_mode">Definições/Modo Leve</string>
   <string name="path_onekey_migrate">Definições/Definições adicionais/Mi Mover</string>
   <string name="path_other_advanced_settings">Definições/Definições adicionais</string>
   <string name="path_owner_info_settings">Definições/Bloqueio de ecrã/Info. do proprietário</string>
@@ -2968,6 +2969,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_notification_app_list_settings">Notificações das aplicacões</string>
   <string name="search_notification_sound_title">Toque de notificação predefinido</string>
   <string name="search_ntts_settings_title">Saída de texto para voz;TTS</string>
+  <string name="search_oldman_mode">Modo Leve;Modo Leve</string>
   <string name="search_onekey_migrate">Mi Mover;Migração num clique</string>
   <string name="search_other_advanced_settings">Definições adicionais;Definições de privacidade;Data e hora;Idioma e entrada;Modo de Uma Mão;Bateria e desempenho;Armazenamento;LED de notificações;LED;Auriculares e efeitos de áudio;Botões;Chaves;Acessibilidade;Funcionalidades Beta;Funções de laboratório;Opções de programador;Cópia e restauro;Mi Mover;Migração num clique</string>
   <string name="search_owner_info_settings">Info. do proprietário</string>
@@ -3016,7 +3018,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_storage_settings">Limpeza</string>
   <string name="search_sync_settings">Sincronização;Auto;Apenas Wi-Fi</string>
   <string name="search_system_app_settings">Aplicações de sistema</string>
-  <string name="search_tether">Partilha de ligação e PA Móvel</string>
+  <string name="search_tether">Partilha de ligação e PA Móvel;PA Móvel;PA Móvel</string>
   <string name="search_tether_settings_title_bluetooth">Partilha de ligação Bluetooth</string>
   <string name="search_tether_settings_title_usb">Partilha de ligação USB</string>
   <string name="search_theme_settings">Temas</string>

@@ -104,7 +104,8 @@
   <string name="connecting">A ligar…</string>
   <string name="connection_error">Não foi possível ligar</string>
   <string name="copied">Copiado</string>
-  <string name="copy_failed">Não foi possível copiar, parece que o armazenamento está cheio</string>
+  <string name="copy_failed">Não foi possível copiar</string>
+  <string name="copy_failed_retry">Não foi possível copiar. Tente novamente após %1$s</string>
   <string name="copy_file_to_kuaipan">Copiar ficheiros para Kuaipan</string>
   <string name="copy_file_to_midrive">Copiar ficheiros para MiDrive</string>
   <string name="copy_text">Copiar texto</string>
@@ -139,6 +140,7 @@
   <string name="delete_dialog_button">Eliminar</string>
   <string name="delete_error">"Não foi possível eliminar ficheiros, tente novamente"</string>
   <string name="delete_failed">Não é possível eliminar</string>
+  <string name="delete_failed_retry">Não é possível eliminar. Tente novamente após %1$s</string>
   <string name="delete_file">Eliminar este ficheiro?</string>
   <string name="delete_file_error">"Não foi possível eliminar o ficheiro"</string>
   <string name="delete_files">Eliminar %1$d ficheiros?</string>
@@ -319,6 +321,10 @@
   <string name="message_reply_suffix">:</string>
   <string name="message_title">As minhas mensagens</string>
   <string name="mi_router_label">Router</string>
+  <string name="midrive_network_connect_confirm">O Mi Drive necessita de ligar à Internet para funcionar normalmente</string>
+  <string name="midrive_space_full">Sem espaço suficiente</string>
+  <string name="midrive_welcome_message">Os seus dados Kuaipan foram migrados com sucesso. E tem uma subscrição de três meses como oferta. O Mi Drive e a Nuvem Mi vão partilhar armazenamento. Pode aceder à sua Mi Drive em i.mi.com</string>
+  <string name="midrive_welcome_title">Bem-vindo à Mi Drive</string>
   <string name="midrop_msg_1">Ligar Mi Drop nos outros dispositivos</string>
   <string name="midrop_msg_2">Quando Mi Drop estiver ligado, pode pesquisar dispositivos próximos e enviar ficheiros</string>
   <string name="midrop_send_files">Escolher ficheiros para enviar</string>
@@ -334,6 +340,7 @@
   <string name="mobile_photo_desc"/>
   <string name="month_day_format">d \'de\' MMMM</string>
   <string name="move_failed">Não é possível cortar</string>
+  <string name="move_failed_retry">Não é possível cortar. Tente novamente após %1$s</string>
   <string name="move_icon_to_desktop_hint">Criar um atalho do Explorador no ecrã inicial para gerir ficheiros mais eficientemente</string>
   <string name="move_icon_to_desktop_success">Atalho adicionado ao ecrã inicial</string>
   <string name="move_to">Mover para…</string>

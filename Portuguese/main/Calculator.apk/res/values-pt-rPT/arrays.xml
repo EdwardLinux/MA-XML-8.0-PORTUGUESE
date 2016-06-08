@@ -38,4 +38,8 @@
         <item>π</item>
         <item>=</item>
      </string-array>
+     <string-array name="mortgage_repayment">
+        <item>Prestações iguais</item>
+        <item>Prestações decrescentes</item>
+     </string-array>
 </resources>
