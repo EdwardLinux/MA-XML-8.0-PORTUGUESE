@@ -2313,6 +2313,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_dndm_wristband">Definições/Não incomodar/Activar com a Banda Mi</string>
   <string name="path_do_not_disturb_settings">Definições/Não incomodar</string>
   <string name="path_dtmf_tone_enable_title">Definições/Som e vibração/Tons de marcação</string>
+  <string name="path_edge_handgrip">Definições/Controlos do limite</string>
   <string name="path_equalizer">Definições/Som e vibração/Definições de áudio/Equalizador</string>
   <string name="path_font_settings">Definições/Tipo de letra do sistema</string>
   <string name="path_gps_settings">Definições/Definições adicionais/Privacidade/Localização</string>
@@ -2361,6 +2362,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_safe_result_header_title_system">Definições/Definições adicionais/Segurança do sistema</string>
   <string name="path_screen_effect_settings">Definições/Ecrã/Cores e contraste</string>
   <string name="path_screen_key_long_press_timeout">Definições/Definições adicionais/Botões/Definir tempo de espera do botão</string>
+  <string name="path_screen_optimize">Definições/Ecrã/Cores e contraste</string>
+  <string name="path_screen_paper_mode">Definições/Ecrã/Modo de Leitura</string>
   <string name="path_screen_saver_settings">Definições/Ecrã/Protecção de ecrã</string>
   <string name="path_screen_timeout_settings">Definições/Bloqueio de ecrã/Suspender</string>
   <string name="path_second_space">Definições/Segundo espaço</string>
@@ -2935,6 +2938,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_dndm_wristband">Activar com a Banda Mi</string>
   <string name="search_do_not_disturb">Não incomodar;VIP;Definir hora;Excepções;Chamadas repetidas</string>
   <string name="search_dtmf_tone_enable_title">Tons de marcação</string>
+  <string name="search_edge_handgrip">Controlos do limite</string>
   <string name="search_empty">Sem resultados</string>
   <string name="search_equalizer">Equalizador</string>
   <string name="search_font">Tipo de letra do sistema</string>
@@ -2988,9 +2992,10 @@ Para utilizar a fixação no ecrã:
   <string name="search_ring_volume">Volumes;Toques e notificações;Alarmes;Música</string>
   <string name="search_ringtone">Toque do telefone</string>
   <string name="search_safe_result_header_title_system">Privacidade</string>
-  <string name="search_screen_effect">Cores e contraste</string>
+  <string name="search_screen_effect">Cores e saturação;Cores e contraste</string>
   <string name="search_screen_key_long_press_timeout">Definir tempo de espera do botão</string>
   <string name="search_screen_on_proximity_sensor_title">Prevenir uso inadvertido no bolso</string>
+  <string name="search_screen_paper_mode">Modo de Leitura</string>
   <string name="search_screen_saver_settings">Protecção de ecrã</string>
   <string name="search_screen_timeout">Suspender;Bloqueio de ecrã</string>
   <string name="search_second_space">Segundo espaço</string>

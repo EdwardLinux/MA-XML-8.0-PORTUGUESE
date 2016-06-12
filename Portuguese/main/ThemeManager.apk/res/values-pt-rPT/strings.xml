@@ -39,7 +39,7 @@
   <string name="description_version_szie">Versão: %1$s Tamanho: %2$s</string>
   <string name="desktop_wallpaper">Ecrã inicial</string>
   <string name="dev_options">Opções de programador</string>
-  <string name="dev_options_summary">Recurso Web</string>
+  <string name="dev_options_summary">Recursos Web</string>
   <string name="download_failed">Erro ao transferir</string>
   <string name="download_preview_failed">Não é possível carregar a prévisualização</string>
   <string name="download_success">Transferência concluída</string>
@@ -326,7 +326,7 @@
   <string name="theme_component_title_boot_audio">Áudio do arranque</string>
   <string name="theme_component_title_clock">Relógio</string>
   <string name="theme_component_title_contact">Teclado de marcação</string>
-  <string name="theme_component_title_font">Tipo de Letra</string>
+  <string name="theme_component_title_font">Tipos de Letra</string>
   <string name="theme_component_title_framework">Limites</string>
   <string name="theme_component_title_icon">Ícones</string>
   <string name="theme_component_title_launcher">Bandeja dos favoritos</string>

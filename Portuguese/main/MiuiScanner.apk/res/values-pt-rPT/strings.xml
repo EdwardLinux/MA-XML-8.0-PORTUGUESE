@@ -8,7 +8,7 @@
   <string name="allow_check_website_security">Mostrar notificações das verificações de segurança dos websites</string>
   <string name="app_details">Aplicação:</string>
   <string name="app_name">Digitalizador</string>
-  <string name="barcode_into_rectangle">Coloque o código dentro do quadrado</string>
+  <string name="barcode_into_rectangle">Alinhar o código com o quadrado</string>
   <string name="birthday">Aniversário:</string>
   <string name="camera_error_title">Erro da câmara</string>
   <string name="cancel">Cancelar</string>
@@ -117,7 +117,7 @@
   <string name="payment_zhifubao">AliPay</string>
   <string name="phone">Telefone:</string>
   <string name="picker_lable">Foto</string>
-  <string name="place_barcode_into_rectangle">Coloque o código dentro do quadrado</string>
+  <string name="place_barcode_into_rectangle">Alinhar o código com o quadrado</string>
   <string name="preparing_sd">A preparar cartão SD…</string>
   <string name="previous">Voltar</string>
   <string name="qr_code_details">Detalhes do código QR:</string>

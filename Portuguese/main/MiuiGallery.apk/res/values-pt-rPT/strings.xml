@@ -150,6 +150,11 @@
   <string name="cloudfolder_name_cannot_empty">Introduzir um nome de álbum</string>
   <string name="cloudfolder_name_reserved">Nome de álbum está reservado</string>
   <string name="collaps_people">Ocultar</string>
+  <string name="com.qzonex.module.operation.ui.QZonePublishMoodActivity">QQ Zone</string>
+  <string name="com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
+  <string name="com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
+  <string name="com.tencent.mm.ui.tools.ShareToTimeLineUI">Momentos WeChat</string>
+  <string name="com.tencent.mobileqq.activity.JumpActivity">QQ</string>
   <string name="confirm">OK</string>
   <string name="confirm_download_video_message">Tem que terminar de transferir este vídeo para que possa vê-lo. A transferência será retomada quando a ligação Wi-Fi estiver disponível</string>
   <string name="confirm_download_video_title">Transferir vídeo</string>
@@ -470,6 +475,8 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="petabyteShort">PB</string>
   <string name="phone_number_empty_alert">Adicionar número de telefone</string>
   <string name="photo">Fotos</string>
+  <string name="photo_edit_file_not_exits_tip">Transferir foto antes de editar</string>
+  <string name="photo_editor_saving">A guardar</string>
   <string name="photo_page_save_uri_image_fail">Não foi possível guardar na Galeria</string>
   <string name="photo_page_save_uri_image_ok">Foto guardada na Galeria</string>
   <string name="photo_save_succeed">Guardado com sucesso</string>
