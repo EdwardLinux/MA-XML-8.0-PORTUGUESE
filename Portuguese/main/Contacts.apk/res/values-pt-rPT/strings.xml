@@ -15,9 +15,9 @@
   <string name="addPeopleToGroup">Para adicionar alguns, edite o grupo</string>
   <string name="add_2sec_pause">Adicionar pausa de 2 segundos</string>
   <string name="add_account">Adicionar conta</string>
-  <string name="add_blacklist">Adic. à lista de bloqueio</string>
-  <string name="add_blacklist_dialog_message">Bloquear este número?</string>
-  <string name="add_blacklist_dialog_title">Bloquear este contacto</string>
+  <string name="add_blacklist">Bloquear</string>
+  <string name="add_blacklist_dialog_message">Bloquear chamadas e mensagens deste número?</string>
+  <string name="add_blacklist_dialog_title">Bloquear este número de telefone?</string>
   <string name="add_connection_button">Adicionar ligação</string>
   <string name="add_contact_dlg_message_fmt">Adicionar \"%s\" a contactos?</string>
   <string name="add_display_photo_entry">Adicionar foto de perfil</string>
@@ -35,8 +35,8 @@
   <string name="aggregation_suggestion_edit_dialog_title">Mesmo nome</string>
   <string name="aggregation_suggestion_join_dialog_message">Juntar o contacto actual ao contacto seleccionado?</string>
   <string name="all_list_empty">Sem contactos</string>
-  <string name="antispam_mark_my_contribution">Mostrar aos outros utilizadores que eu reportei este número</string>
-  <string name="antispam_provider_format">Reportado como spam por %s</string>
+  <string name="antispam_mark_my_contribution">Partilhar informações de reporte</string>
+  <string name="antispam_provider_format">Identificado por %s</string>
   <string name="attach_photo_dialog_title">Foto do contacto</string>
   <string name="audio_chat">Conversa de voz</string>
   <string name="auto_nickname">Auto</string>
@@ -103,18 +103,18 @@
   <string name="callrecordview_item_op_time_short_outgoing">"Efectuada: "</string>
   <string name="callrecordview_item_op_video">Vídeo</string>
   <string name="callrecordview_menu_add_call_note">Adicionar nota de chamada</string>
-  <string name="callrecordview_menu_batch_delete">Eliminar lista de chamadas</string>
+  <string name="callrecordview_menu_batch_delete">Limpar lista de chamadas</string>
   <string name="callrecordview_menu_blocklist">Lista de bloqueio</string>
   <string name="callrecordview_menu_conference">Chamada em conferência</string>
-  <string name="callrecordview_menu_delete">Eliminar registo</string>
+  <string name="callrecordview_menu_delete">Limpar registo</string>
   <string name="callrecordview_menu_delete_accepted">Limpar registos das chamadas atendidas</string>
-  <string name="callrecordview_menu_delete_all">Eliminar registos de chamadas</string>
+  <string name="callrecordview_menu_delete_all">Limpar registos de chamadas</string>
   <string name="callrecordview_menu_delete_called">Limpar registos das chamadas efectuadas</string>
   <string name="callrecordview_menu_delete_confirm">%s?</string>
   <string name="callrecordview_menu_delete_missed">Limpar registos das chamadas não atendidas</string>
-  <string name="callrecordview_menu_delete_new">Eliminar os registos de chamadas de novos contactos</string>
+  <string name="callrecordview_menu_delete_new">Limpar registos de chamadas com novos contactos</string>
   <string name="callrecordview_menu_delete_one">Remover do registo de chamadas</string>
-  <string name="callrecordview_menu_delete_sim">Eliminar %s registos das chamadas</string>
+  <string name="callrecordview_menu_delete_sim">Limpar %s registos das chamadas</string>
   <string name="callrecordview_menu_delete_stranger">Limpar números desconhecidos</string>
   <string name="callrecordview_menu_edit_call_note">Editar nota de chamada</string>
   <string name="callrecordview_menu_ip">Marc. auto. de IP</string>
@@ -164,7 +164,7 @@
   <string name="click_close">Toque para fechar</string>
   <string name="clip_dialog_title">Marcar o número copiado?</string>
   <string name="close_dial_pad">Fechar teclado de marcação</string>
-  <string name="cloud_antispam_mark">Reportar</string>
+  <string name="cloud_antispam_mark">Marcar</string>
   <string name="cloud_antispam_title">ID do autor da chamada</string>
   <string name="cloud_recommend_msg">Toque para sincronizar contactos com a Nuvem Mi</string>
   <string name="cloud_state_disabled">Sincronização com a Nuvem Mi está desligada</string>
@@ -183,8 +183,8 @@
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
   <string name="config_prohibited_phone_number_regexp"/>
-  <string name="confirm_delete_contact_all_call_logs">Eliminar registos de chamadas?</string>
-  <string name="confirm_delete_selected_all_call_logs">Eliminar registos de chamadas?</string>
+  <string name="confirm_delete_contact_all_call_logs">Limpar registos de chamadas?</string>
+  <string name="confirm_delete_selected_all_call_logs">Limpar registos de chamadas?</string>
   <string name="confirm_delete_sim_entry_miui_title">Eliminar</string>
   <string name="confirm_export_message">A sua lista de contactos será exportada para o ficheiro: %s</string>
   <string name="confirm_export_title">Exportar contactos?</string>
@@ -274,19 +274,19 @@
   <string name="deleteConfirmation">Este contacto será eliminado</string>
   <string name="deleteConfirmationDetail">Eliminar \"%s\"?</string>
   <string name="deleteConfirmation_title">Eliminar este contacto?</string>
-  <string name="delete_call_log_message">Eliminar registo(s) de chamada(s)?</string>
-  <string name="delete_call_log_selected_title">Eliminar registos de chamadas seleccionados?</string>
+  <string name="delete_call_log_message">Limpar registo(s) de chamada(s)?</string>
+  <string name="delete_call_log_selected_title">Limpar registos de chamadas seleccionados?</string>
   <string name="delete_call_log_title">Registos de chamadas</string>
-  <string name="delete_contact_calllog_title">Eliminar registo de chamadas?</string>
+  <string name="delete_contact_calllog_title">Limpar registo de chamadas?</string>
   <string name="delete_dial_input">Eliminar</string>
   <string name="delete_duplicate">Unir</string>
   <string name="delete_duplicate_message">"A unir contactos… "</string>
-  <string name="delete_group_dialog_message">Eliminar o grupo \"%1$s\", os contactos não serão eliminados</string>
+  <string name="delete_group_dialog_message">Eliminar o grupo \"%1$s\"? Os contactos não serão eliminados</string>
   <string name="delete_group_dialog_title">Eliminar grupo</string>
   <string name="delete_selected_sim_entry_miui">Eliminar contactos seleccionados</string>
   <string name="delete_sim_entries_finish">Contactos do cartão SIM eliminados</string>
   <string name="delete_sim_entry_miui">Eliminar</string>
-  <string name="delete_unknown_contact_calllog_title">Eliminar registo de chamadas?</string>
+  <string name="delete_unknown_contact_calllog_title">Limpar registo de chamadas?</string>
   <string name="deleting_sim_entry_miui">A eliminar contactos do cartão SIM…</string>
   <string name="deleting_sim_entry_miui_prepare">A preparar contactos…</string>
   <string name="description_add_contact">Adicionar contacto</string>
@@ -365,7 +365,7 @@
   <string name="dialer_empty_text_loading">Aguarde…</string>
   <string name="dialer_empty_text_no_call_log">Sem contactos recentes</string>
   <string name="dialer_empty_text_no_search_result">Não foram encontrados contactos</string>
-  <string name="dialer_menu_description">Mostrar o menu de marcação</string>
+  <string name="dialer_menu_description">Mostrar menus</string>
   <string name="dialer_menu_title">Opções do menu</string>
   <string name="dialer_returnToInCallScreen">Retorno da chamada em curso</string>
   <string name="dialer_useDtmfDialpad">Utilizar o tom de toque do teclado</string>
@@ -757,7 +757,7 @@ Motivo: \"%s\""</string>
   <string name="nickname_picker_nickname_column">Título</string>
   <string name="noAccounts">Para criar grupos necessita de uma conta</string>
   <string name="noContactHelpTextAccountsInfo"/>
-  <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar dados dos contactos utilizando a Conta Mi</string>
+  <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar dados dos contactos da Conta Mi</string>
   <string name="noContacts">Sem contactos</string>
   <string name="noContactsHelpText">"Não tem contactos para mostrar.
 
@@ -1027,9 +1027,9 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="refresh">Actualizar</string>
   <string name="relationLabelsGroup">Relação</string>
   <string name="removePhoto">Remover foto</string>
-  <string name="remove_blacklist">Remover da lista de bloqueio</string>
-  <string name="remove_blacklist_dialog_message">Desbloquear este número?</string>
-  <string name="remove_blacklist_dialog_title">Desbloquear este contacto</string>
+  <string name="remove_blacklist">Desbloquear</string>
+  <string name="remove_blacklist_dialog_message">Mostrar chamadas e mensagens deste número?</string>
+  <string name="remove_blacklist_dialog_title">Desbloquear este número de telefone?</string>
   <string name="remove_duplicate">"A MIUI vai ajudá-lo a encontrar e a unir contactos duplicados.
 
  Para começar, toque no ícone Juntar na parte inferior do seu ecrã."</string>
@@ -1138,7 +1138,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="smart_group_frequency_4">Há mais de 6 meses</string>
   <string name="smart_group_frequency_label">Recentes</string>
   <string name="smart_group_label">Grupos inteligentes</string>
-  <string name="smart_group_loading">A carregar grupos…</string>
+  <string name="smart_group_loading">Aguarde…</string>
   <string name="smart_group_location_label">Locais</string>
   <string name="smart_group_location_unavailable">Sem informação do local</string>
   <string name="sms">Mensagem de texto</string>
@@ -1188,8 +1188,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="toast_copy_done">Concluído</string>
   <string name="toast_copying">A copiar…</string>
   <string name="toast_displaying_all_contacts">A mostrar todos os contactos</string>
-  <string name="toast_finish_delete_call_log">Registo de chamadas eliminado</string>
-  <string name="toast_finish_delete_selected_call_log">Registos de chamadas eliminados</string>
+  <string name="toast_finish_delete_call_log">Registo de chamadas limpo</string>
+  <string name="toast_finish_delete_selected_call_log">Registos de chamadas limpos</string>
   <string name="toast_for_failed_saving_nickname">Erro ao gravar alcunha</string>
   <string name="toast_for_saving_nickname">Alcunha guardada</string>
   <string name="toast_join_with_empty_contact">Escrever o nome do contacto antes de o juntar com outro</string>

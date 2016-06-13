@@ -529,6 +529,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="lable_disable">Desligado</string>
   <string name="lable_enable">Ligado</string>
   <string name="lable_incoming_calls_except">Chamadas recebidas em roaming</string>
+  <string name="lable_network_not_supported">A rede não suporta</string>
   <string name="lafs_disable">Horários de voo local do Aeroporto estão desligados</string>
   <string name="lafs_enable">Horários de voo local do Aeroporto estão ligados</string>
   <string name="list_language_dtitle">Idiomas</string>

@@ -235,7 +235,8 @@ Para activar a sua conta siga o
   <string name="passport_login_title">Inicie sessão na sua Conta Mi</string>
   <string name="passport_login_using_other_ways"><u>Outros métodos de iniciar sessão</u></string>
   <string name="passport_login_with_email_or_id"><u>Iniciar sessão com endereço de email ou ID de Conta Mi</u></string>
-  <string name="passport_miui_provision_find_status_text">Este telefone foi associado com a Conta Mi (%1$s). Se activar, não vai poder utilizar este telefone. (ID de desbloqueio:%2$s)</string>
+  <string name="passport_miui_provision_find_status_text">"Este telefone foi associado com a Conta Mi (%1$s). É necessário introduzir a palavra-passe para verificar o dispositivo.
+(ID de desbloqueio:%2$s)"</string>
   <string name="passport_next">Seguinte</string>
   <string name="passport_notification_title">Erro ao iniciar sessão em %1$s</string>
   <string name="passport_password_req_notice">A palavra-passe deve ter 8 a 16 letras e incluir números e letras (maiúsculas e minúsculas)</string>

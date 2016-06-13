@@ -287,5 +287,4 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="screen_overlay_button">Abrir definições</string>
   <string name="screen_overlay_message">Para alterar esta definição de permissão, tem de desligar primeiro a sobreposição de ecrã nas Definições &gt; Aplicações</string>
   <string name="screen_overlay_title">Detectada sobreposição de ecrã</string>
-  <string name="wakepath_confirm_start_activity">Permitir que %1$s possa abrir %2$s?</string>
 </resources>

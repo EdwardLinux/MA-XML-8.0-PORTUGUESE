@@ -196,6 +196,7 @@ ou introduzir palavra-passe do Bloqueio de aplicações"</string>
   <string name="button_text_cleanup">Limpar</string>
   <string name="button_text_clear">Limpar</string>
   <string name="button_text_create_shortcut">Criar atalho no ecrã inicial</string>
+  <string name="button_text_deny">Negar</string>
   <string name="button_text_disconnect_now">Desligar</string>
   <string name="button_text_fix">Corrigir</string>
   <string name="button_text_fix_now">Corrigir</string>
@@ -1417,6 +1418,7 @@ Dados restantes incluem dados que foram passados do mês anterior."</string>
   <string name="usb_install_desc">Instalar esta aplicação via USB?</string>
   <string name="virus_list_header_title">%d vírus detectados</string>
   <string name="voltage_symbol">V</string>
+  <string name="wakepath_confirm_start_activity">Permitir que %1$s possa abrir %2$s?</string>
   <string name="warning_open_mi_sim">Ligar SIM Mi</string>
   <string name="wifi_exception_summary">Testar redes Wi-Fi disponíveis</string>
   <string name="wifi_exception_title">Testar rede Wi-Fi</string>
