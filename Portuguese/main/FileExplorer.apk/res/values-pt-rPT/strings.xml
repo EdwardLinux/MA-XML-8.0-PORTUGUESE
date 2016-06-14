@@ -78,6 +78,7 @@
   <string name="category_type_other">Outros</string>
   <string name="category_video">Vídeos</string>
   <string name="category_zip">Ficheiros</string>
+  <string name="change_mobile_network_message">Alterado para dados móveis. Continuar a transferir o ficheiro vai consumir dados. Pretende continuar?</string>
   <string name="change_sticker">Escolher outro sticker</string>
   <string name="choose_report_comment_reason">Porque é que está a reportar este comentário?</string>
   <string name="choose_report_reason">Porque é que está a reportar este vídeo?</string>
@@ -147,6 +148,7 @@
   <string name="delete_folder">Eliminar esta pasta?</string>
   <string name="delete_folders">Eliminar %1$d pastas?</string>
   <string name="delete_selected_tasks">Eliminar transferências seleccionadas?</string>
+  <string name="delete_success">Ficheiro eliminado</string>
   <string name="delete_video">Eliminar</string>
   <string name="delete_video_dialog_tip">Não vai poder restaurar o vídeo depois de o eliminar</string>
   <string name="delete_video_dialog_title">Eliminar vídeo</string>
@@ -169,8 +171,12 @@
   <string name="downloaded_sticker_str">Transferido</string>
   <string name="downloading">A transferir…</string>
   <string name="downloading_in_3g">A transferir em 3G…</string>
+  <string name="drive_closed">Sem sessão iniciada</string>
+  <string name="drive_opened">Com sessão iniciada</string>
   <string name="email_platform">Email</string>
   <string name="empty_comment">O comentário não pode estar vazio</string>
+  <string name="empty_file_download">Ficheiros vazios não são suportados</string>
+  <string name="empty_file_upload">Ficheiros vazios não são suportados</string>
   <string name="enable_documentsui">Ligar %s em Definições &gt; Aplicações instaladas primeiro</string>
   <string name="enable_sd_card">Insira o cartão SD ou desactive o armazenamento em massa USB</string>
   <string name="enable_usb">Ligar dispositivo USB</string>
@@ -209,6 +215,7 @@
   <string name="folder_exist">A pasta já existe</string>
   <string name="folder_name_empty">Nome de pasta não pode estar vazio</string>
   <string name="folder_name_illegal">Nome de pasta inválida</string>
+  <string name="folder_name_invalid">"Os nomes das pastas não podem conter: /\\:*?&lt;&gt;"</string>
   <string name="forward_to_web_recycle_prompt"><a href="%1$s">Toque</a>para ir para a pasta do lixo</string>
   <string name="found_router">Router ligado</string>
   <string name="found_usb">Armazenamento USB ligado</string>
@@ -291,6 +298,7 @@
   <string name="login_failed_tip">Não foi possível iniciar sessão. Tente novamente mais tarde</string>
   <string name="login_reg_content">Armazenar ficheiros e sincronizar entre vários dispositivos</string>
   <string name="login_reg_content0">Utilizar o KuaiPan em qualquer lugar</string>
+  <string name="login_reg_content1">Utilizar Mi Drive em qualquer lugar</string>
   <string name="login_success_tip">Sessão iniciada</string>
   <string name="login_tip">Partilhar vídeos com tópicos populares para ganhar prémios</string>
   <string name="make_private">Ocultar</string>
@@ -330,6 +338,22 @@
   <string name="midrop_send_files">Escolher ficheiros para enviar</string>
   <string name="migrate_announcement_msg">Sincronizar a sua conta KuaiPan com a sua Conta Mi em definições KuaiPan</string>
   <string name="migrate_announcement_title">Mover concluído</string>
+  <string name="migrate_cancel">Cancelar</string>
+  <string name="migrate_confirm">Confirmar</string>
+  <string name="migrate_failed_confirm">Eu sei</string>
+  <string name="migrate_failed_msg">"Erro na migração de dados. Faça a migração manualmente."<a href="http://www.kuaipan.cn">Toque aqui para ver</a></string>
+  <string name="migrate_failed_title">Erro na migração de dados</string>
+  <string name="migrate_failed_toast">"Erro na migração de dados. Faça a migração manualmente."<a href="http://www.kuaipan.cn">Toque aqui para ver</a></string>
+  <string name="migrate_hint">[Importante] Kuaipan foi actualizado para Mi Drive. Clique para actualizar</string>
+  <string name="migrate_note">[Importante] Kuaipan foi actualizado para Mi Drive. Faça a migração dos seus dados agora</string>
+  <string name="migrate_runing">A migrar dados… Verifique mais tarde</string>
+  <string name="migrate_success_cancel">Eu sei</string>
+  <string name="migrate_success_confirm">Experimentar agora</string>
+  <string name="migrate_success_msg">Parabéns. Todos os seus dados Kuaipan foram migrados com sucesso para a Nuvem Mi</string>
+  <string name="migrate_success_title">Migração com sucesso</string>
+  <string name="migrate_update_confirm">Experimentar agora</string>
+  <string name="migrate_update_msg">Kuaipan foi actualizado para Mi Drive para lhe fornecer uma melhor experiência</string>
+  <string name="migrate_update_title">Kuaipan foi actualizado para Mi Drive</string>
   <string name="mobile_network_dialog_cancle">Cancelar</string>
   <string name="mobile_network_dialog_confirm">OK</string>
   <string name="mobile_network_dialog_tip">Utilizar a sua ligação de dados móveis para ver esta página?</string>
@@ -575,6 +599,7 @@ e nunca perca as novidades!"</string>
   <string name="save_to_local">Transferir</string>
   <string name="sd_card_available">Disponível: %1$s</string>
   <string name="sd_card_size">Cartão SD: %1$s</string>
+  <string name="sd_invalid">O seu cartão SD é inválido</string>
   <string name="sd_full">O seu cartão SD está cheio</string>
   <string name="sdcard">Cartão SD</string>
   <string name="sdcard_available">Disponível %1$s</string>
@@ -618,7 +643,7 @@ e nunca perca as novidades!"</string>
   <string name="send_comment">Enviar</string>
   <string name="send_error">Enviar erro</string>
   <string name="send_sticker">Enviar sticker</string>
-  <string name="send_to_midrive">KuaiPan</string>
+  <string name="send_to_kuaipan">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Este tipo de ficheiro não é suportado</string>
   <string name="send_to_qq">Enviar para QQ</string>
   <string name="send_to_weixin">Enviar para WeChat</string>
@@ -701,6 +726,7 @@ e nunca perca as novidades!"</string>
   <string name="topic_followed">Seguidos</string>
   <string name="topic_message">%1$s: %2$s</string>
   <string name="topic_winners">Vencedores anteriores</string>
+  <string name="trans_mobile_network_message">Utilizar dados móveis para transferir vai consumir dados. Pretende continuar?</string>
   <string name="trans_task">Transferência pela rede</string>
   <string name="transfer_done">Ficheiros movidos com sucesso</string>
   <string name="transfer_private_data">A mover ficheiros ocultos do cartão SD…</string>
