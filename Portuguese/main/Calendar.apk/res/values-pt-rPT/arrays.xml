@@ -5,31 +5,7 @@
         <item>Email</item>
         <item>Mensagem de texto</item>
         <item>Alarme</item>
-    </string-array>
-    <string-array name="reminder_minutes_labels">
-        <item>Sem lembrete</item>
-        <item>0 minutos</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
-        <item>30 minutos</item>
-        <item>1 hora</item>
-        <item>1 dia</item>
-        <item>2 dias</item>
-        <item>1 semana</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>Sem lembrete</item>
-        <item>0 minutos</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
-        <item>30 minutos</item>
-        <item>1 hora</item>
-        <item>1 dia</item>
-        <item>2 dias</item>
-        <item>1 semana</item>
-    </string-array>
+    </string-array>        
     <string-array name="preferences_week_start_day_labels">
         <item>Predefinida da localização</item>
         <item>Sábado</item>
@@ -149,21 +125,11 @@
         <item>Apenas este evento</item>
         <item>Este e eventos futuros</item>
         <item>Todos os eventos</item>
-    </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>Este e eventos futuros</item>
-        <item>Todos os eventos</item>
-    </string-array>
+    </string-array>    
     <string-array name="change_response_labels">
         <item>Apenas este evento</item>
         <item>Todos os eventos da série</item>
-    </string-array>
-    <string-array name="buttons_list">
-        <item>Dia</item>
-        <item>Semana</item>
-        <item>Mês</item>
-        <item>Eventos</item>
-    </string-array>
+    </string-array>    
     <string-array name="quick_response_defaults">
         <item>Estou apenas alguns minutos atrasado.</item>
         <item>Estarei lá em cerca de 10 minutos.</item>

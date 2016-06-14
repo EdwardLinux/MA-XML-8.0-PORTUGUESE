@@ -92,6 +92,8 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Nuvem
   <string name="open_wifi_description">Ligar a rede Wi-Fi para restaurar aplicações</string>
   <string name="open_wifi_setting">Definições Wi-Fi</string>
   <string name="process_whole_recovery">A restaurar \"%s\"</string>
+  <string name="provision_arrow_back">&lt;</string>
+  <string name="provision_arrow_next">&gt;</string>
   <string name="query_restore_back_view">Cópias da Nuvem Mi</string>
   <string name="query_restore_description">Restaurar aplicações do ecrã inicial e definições utilizando esta cópia. Isto vai sobrescrever os dados da aplicação para aplicações duplicadas já instaladas neste dispositivo. Aplicações não incluidas na cópia vão ser movidas para o último ecrã inicial.</string>
   <string name="query_restore_summary">Encontrou uma cópia da Nuvem Mi para este dispositivo. Restaurar aplicações do ecrã inicial e definições ou utilizá-la como um novo dispositivo e eliminar as cópias da Nuvem Mi anteriores?</string>

@@ -5,6 +5,7 @@
   <string name="applications">Aplicações</string>
   <string name="category_others">Outros</string>
   <string name="category_setting">Definições</string>
+  <string name="close_panel">Fechar menu de atalhos</string>
   <string name="customize_entries">Seleccionar atalhos</string>
   <string name="enable_touch_assistant">Ligar menu de atalhos</string>
   <string name="function_settings">Definições do atalho</string>
@@ -27,6 +28,7 @@
   <string name="name_screenshot">Captura de ecrã</string>
   <string name="name_wechat_payment_code">Pagamento Wechat</string>
   <string name="name_wechat_scan">Digitalizador Wechat</string>
+  <string name="open_panel">Abrir menu de atalhos</string>
   <string name="pay_entry_dialog_title_select">Seleccionar aplicação para abrir</string>
   <string name="pay_entry_dialog_title_setting">Definir aplicação</string>
   <string name="pref_category_others">Outros</string>

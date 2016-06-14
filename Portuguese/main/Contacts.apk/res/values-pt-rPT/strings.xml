@@ -163,7 +163,7 @@
   <string name="clear_digits">Limpar número de telefone</string>
   <string name="click_close">Toque para fechar</string>
   <string name="clip_dialog_title">Marcar o número copiado?</string>
-  <string name="close_dial_pad">Fechar teclado de marcação</string>
+  <string name="close_dial_pad_description">Fechar teclado de marcação</string>
   <string name="cloud_antispam_mark">Marcar</string>
   <string name="cloud_antispam_title">ID do autor da chamada</string>
   <string name="cloud_recommend_msg">Toque para sincronizar contactos com a Nuvem Mi</string>
@@ -845,6 +845,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
   <string name="openDialKeyboard">Teclado</string>
   <string name="open_contact">Ver contacto</string>
+  <string name="open_dial_pad_description">Abrir teclado de marcação</string>
   <string name="option_delete_contact">Eliminar</string>
   <string name="option_delete_group">Eliminar</string>
   <string name="option_edit_contact">Editar</string>

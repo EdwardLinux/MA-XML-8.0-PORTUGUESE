@@ -388,6 +388,8 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="pref_title_sync_display_photo_on_wifi_only">Utilizar apenas Wi-Fi para sincronizar fotos</string>
   <string name="pref_title_sync_video_on_wifi_only">Utilizar apenas Wi-Fi para sincronizar vídeos</string>
   <string name="privacy_policy">Política de Privacidade</string>
+  <string name="provision_arrow_back">&lt;</string>
+  <string name="provision_arrow_next">&gt;</string>
   <string name="remind_later">Agora não</string>
   <string name="restoreSync">Sincronizar agora</string>
   <string name="setting">Definições</string>

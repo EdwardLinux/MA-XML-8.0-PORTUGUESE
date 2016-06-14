@@ -2284,8 +2284,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_app_switch_key">Definições/Definições adicionais/Botões/Recentes</string>
   <string name="path_applications_settings">Definições/Aplicações instaladas</string>
   <string name="path_back_key">Definições/Definições adicionais/Botões/Voltar</string>
-  <string name="path_battery_indicator_settings">Definições/Definições adicionais/Bateria e desempenho/Indicador de bateria</string>
-  <string name="path_battery_settings">Definições/Definições adicionais/Bateria e desempenho</string>
+  <string name="path_battery_indicator_settings">Definições/Bateria e desempenho/Indicador de bateria</string>
+  <string name="path_battery_settings">Definições/Bateria e desempenho</string>
   <string name="path_bluetooth_device_name">Definições/Bluetooth/Nome do dispositivo</string>
   <string name="path_bluetooth_enable">Definições/Bluetooth/Activar Bluetooth</string>
   <string name="path_bluetooth_settings">Definições/Bluetooth</string>
@@ -2353,7 +2353,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_pn_settings">Definições/Redes móveis/Pontos de acesso (APN)</string>
   <string name="path_pointer_speed">Definições/Definições adicionais/Idioma e entrada/Velocidade do ponteiro</string>
   <string name="path_power_hide_mode_title">Definições/Bateria e desempenho/Gerir utilização da bateria das aplicacões</string>
-  <string name="path_power_mode_settings">Definições/Definições adicionais/Bateria e desempenho/Definições de energia</string>
+  <string name="path_power_mode_settings">Definições/Bateria e desempenho/Definições de energia</string>
   <string name="path_power_optimize">Definições/Definições adicionais/Funcionalidades Beta/Poupança de bateria</string>
   <string name="path_pref_volume_wake_title">Definições/Ecrã de bloqueio e segurança/Acordar com botões de Volume</string>
   <string name="path_preferred_network_type_settings">Definições/Definições de rede móvel/Tipo de rede preferida</string>
@@ -2392,7 +2392,6 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_sync_settings">Definições/Sincronização</string>
   <string name="path_system_app_settings">Definições/Aplicações de sistema</string>
   <string name="path_tether_restriction_nfc_enable_title">Definições/Mais/NFC</string>
-  <string name="path_tether_settings">Definições/Portable hotspot</string>
   <string name="path_tether_settings_title_bluetooth">Definições/Mais/Partilha de ligação Bluetooth</string>
   <string name="path_tether_settings_title_usb">Definições/Mais/Partilha de ligação USB</string>
   <string name="path_theme_settings">Definições/Temas</string>
@@ -2425,14 +2424,16 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_wifi_setting_frequency_band_title">Definições/Wi-Fi/Definições avançadas/Banda de frequência Wi-Fi</string>
   <string name="path_wifi_setting_sleep_policy_title">Definições/Wi-Fi/Definições avançadas/Manter Wi-Fi durante suspensão</string>
   <string name="path_wifi_settings">Definições/Wi-Fi</string>
+  <string name="path_wifi_tether_checkbox">Definições/Ponto de Acesso Móvel/Ponto de Acesso Móvel</string>
   <string name="path_wifi_tether_configure_ap_text">Definições/Ponto de Acesso Móvel/Configurar Ponto de Acesso Móvel</string>
+  <string name="path_wifi_tether_settings">Definições/Ponto de Acesso Móvel</string>
   <string name="path_wifi_wapi_cert_install">Definições/Wi-Fi/Definições avançadas/Instalar certificados WAPI</string>
   <string name="path_wifi_wapi_cert_uninstall">Definições/Wi-Fi/Definições avançadas/Desinstalar certificados WAPI</string>
   <string name="path_wps_connect_title">Definições/Wi-Fi/Definições avançadas/Ligar WPS</string>
   <string name="path_xiaomi_account">Definições/Conta Mi</string>
   <string name="path_xiaomi_cloud_service">Aplicações</string>
   <string name="path_xiaomi_money_service">Aplicações</string>
-  <string name="path_xspace">Definições/XSpace</string>
+  <string name="path_xspace">Definições/Aplicações clonadas</string>
   <string name="path_zen_mode_option_miui_silent">Definições/Som e vibração/Modo silêncio</string>
   <string name="performance_category">Desempenho</string>
   <string name="permission_detail_info">Detalhes</string>
@@ -4021,6 +4022,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="vpn_name">Nome</string>
   <string name="vpn_no_ca_cert">(não verificar servidor)</string>
   <string name="vpn_no_network">Não há nenhuma ligação de rede. Por favor tente novamente mais tarde</string>
+  <string name="vpn_no_selected">Seleccionar VPN</string>
   <string name="vpn_no_server_cert">(recebido do servidor)</string>
   <string name="vpn_not_used">(não utilizado)</string>
   <string name="vpn_off">Desligado</string>
@@ -4034,7 +4036,8 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="vpn_search_domains">Domínios de pesquisa DNS</string>
   <string name="vpn_server">Endereço do servidor</string>
   <string name="vpn_settings_not_available">As definições de VPN não estão disponíveis para este utilizador</string>
-  <string name="vpn_settings_password">Palavra-passe VPN</string>
+  <string name="vpn_settings_password">Adicionar palavra-passe da VPN</string>
+  <string name="vpn_settings_summary">Proteger as definições VPN com a palavra-passe do ecrã de bloqueio</string>
   <string name="vpn_settings_title">VPN</string>
   <string name="vpn_show_options">Mostrar opções avançadas</string>
   <string name="vpn_title">VPN</string>

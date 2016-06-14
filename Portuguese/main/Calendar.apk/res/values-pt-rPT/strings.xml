@@ -1,28 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessbility_suggestion_dropdown_opened">Sugestões de contactos aberta</string>
   <string name="accessibility_add_attendee">Adicionar participante</string>
-  <string name="accessibility_add_reminder">Adicionar lembrete</string>
-  <string name="accessibility_all_day">Evento de dia inteiro</string>
-  <string name="accessibility_pick_end_date">Data de fim</string>
-  <string name="accessibility_pick_end_time">Até</string>
+  <string name="accessibility_all_day">Evento de dia inteiro</string>  
   <string name="accessibility_pick_start_date">Data de início</string>
-  <string name="accessibility_pick_start_time">De</string>
   <string name="accessibility_pick_time_zone">Fuso horário</string>
   <string name="accessibility_reminder_privacy">Privacidade</string>
   <string name="accessibility_reminder_showmeas">Mostre-me como</string>
   <string name="accessibility_reminder_time">Hora do lembrete</string>
   <string name="accessibility_reminder_type">Tipo de lembrete</string>
   <string name="accessibility_remove_attendee">Remover participante</string>
-  <string name="accessibility_remove_reminder">Remover lembrete</string>
   <string name="accessibility_repeats">Repetir</string>
   <string name="accessibility_sync_cal">Sincronizar calendário</string>
   <string name="account_and_calendar">Contas</string>
   <string name="account_and_calendar_to_display">Calendários a mostrar</string>
   <string name="accounts">Contas e sincronização</string>
   <string name="acct_not_synced">Esta conta não está a ser sincronizada por isso os seus calendários podem não estar actualizados</string>
-  <string name="acessibility_cal_notification">Notificação do calendário</string>
   <string name="acessibility_selected_marker_description">Evento seleccionado</string>
-  <string name="acessibility_snooze_notification">Adiar notificação</string>
   <string name="action_text_new_event">Novo evento</string>
   <string name="action_text_online">Gerir subscrições</string>
   <string name="action_text_today">Hoje</string>
@@ -39,7 +33,6 @@
   <string name="add_calendar">Subscrição</string>
   <string name="add_card">添加卡片</string>
   <string name="add_topic_success">Subscrição de \"%s\" sucesso</string>
-  <string name="add_topic_unsuccess">Subscrição de \"%s\" falhada</string>
   <string name="adding_calendar">Subscrições</string>
   <string name="agenda_today">HOJE, %1$s</string>
   <string name="agenda_tomorrow">AMANHÃ, %1$s</string>
@@ -52,7 +45,6 @@
   <string name="anniversary_metric"/>
   <string name="anniversary_term">aniversário</string>
   <string name="app_label">Calendário</string>
-  <string name="attendees_label">Convidados</string>
   <string name="birthday_calendar_display_name">Lembretes de aniversário</string>
   <string name="birthday_event_description">Hoje é o %4$s de %1$s!</string>
   <string name="birthday_event_description_a_week_ago">Uma semana atrás</string>
@@ -80,7 +72,6 @@
   <string name="book_card_rating_text">|   %1$s 条评论</string>
   <string name="button_day">Dia</string>
   <string name="button_month">Mês</string>
-  <string name="button_online">Ordem</string>
   <string name="button_week">Semana</string>
   <string name="calendar_network_error">Erro de rede</string>
   <string name="calendar_refresh">Actualizar</string>
@@ -113,7 +104,6 @@
   <string name="creating_event">Evento criado</string>
   <string name="creating_event_with_guest">Convites vão ser enviados</string>
   <string name="credit">信用卡</string>
-  <string name="credit_card_amount_label">账单金额：</string>
   <string name="credit_card_date_label">还款日：</string>
   <string name="credit_card_number_label">卡号：</string>
   <string name="credit_card_overdue">已过期</string>
@@ -126,13 +116,8 @@
   <string name="credit_event_card_title">信用卡还款</string>
   <string name="credit_event_delete_successfully">信用卡还款事件删除成功</string>
   <string name="credit_event_title">信用卡账单</string>
-  <string name="custom">Personalizar (não é possível personalizar no telefone)</string>
   <string name="daily">Diariamente</string>
-  <string name="data_notice_change_settings">Alterar definições</string>
-  <string name="data_notice_continue_confirm">Continuar a utilizar</string>
-  <string name="data_notice_online_large_image">Subscrever páginas do calendário com imagens maiores. Para o ajudar a poupar dados, foi definido para "Apenas sincronizar em Wi-Fi"</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
-  <string name="day_view">Dia</string>
   <string name="day_view_new_event_hint">Novo evento</string>
   <string name="default_reminder_mode">Lembretes</string>
   <string name="delete_calendar">Subscrição</string>
@@ -143,11 +128,9 @@
   <string name="delete_topic_success">Subscrição \"%s\" sucesso</string>
   <string name="deleting_calendar">Cancelar inscrição</string>
   <string name="departure">Embarque</string>
-  <string name="description_label">Descrição</string>
   <string name="directory_searching_fmt">A pesquisar %s…</string>
   <string name="discard_label">Cancelar</string>
-  <string name="dismiss_all_label">Rejeitar tudo</string>
-  <string name="do_not_check">Não Verificar -&gt;</string>
+  <string name="do_not_check">Não verificar -&gt;</string>
   <string name="does_not_repeat">Evento único</string>
   <string name="done">Voltar</string>
   <string name="download">Transferir</string>
@@ -156,7 +139,6 @@
   <string name="downloading">下载中</string>
   <string name="downloading_wallpaper">原图下载中</string>
   <string name="drop_down_list_footer_default_text">更多</string>
-  <string name="drop_down_list_footer_loading_text">加载中…</string>
   <string name="drop_down_list_footer_no_more_text">没有更多了</string>
   <string name="drop_down_list_header_default_text">点击可以刷新</string>
   <string name="drop_down_list_header_loading_text">加载中…</string>
@@ -170,12 +152,10 @@
   <string name="edit_event_reminder_off_toast">Lembretes estão desligados</string>
   <string name="edit_event_show_all">Mostrar tudo</string>
   <string name="edit_event_to_label">Data de fim</string>
-  <string name="edit_label">Editar</string>
   <string name="email_guests_label">Enviar email para convidados</string>
   <string name="email_picker_label">Enviar email com</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">Evento vazio não foi criado</string>
-  <string name="enter_calendar">Em calendário</string>
   <string name="event_account">Conta</string>
   <string name="event_action_delete">Eliminar</string>
   <string name="event_action_edit">Editar</string>
@@ -192,7 +172,6 @@
   <string name="event_info_end">Fim\u0009\u0009\u0009</string>
   <string name="event_info_from">De</string>
   <string name="event_info_jump_to_email">Ir para o Email</string>
-  <string name="event_info_organizer">Organizador:</string>
   <string name="event_info_reminders_label">Lembretes</string>
   <string name="event_info_reminders_label_1">Lembrete</string>
   <string name="event_info_reminders_label_more">Lembrete %d</string>
@@ -223,9 +202,7 @@
   <string name="from_google_group_calendar">Calendário Google</string>
   <string name="gadget_no_events">Sem eventos para breve no calendário</string>
   <string name="gadget_title">Calendário</string>
-  <string name="goto_today">Hoje</string>
   <string name="guide_card_hint_text">Toque para abrir Conta Mi</string>
-  <string name="hide_controls">Ocultar controlos</string>
   <string name="hint_attendees">Convidados</string>
   <string name="hint_description">Descrição</string>
   <string name="hint_what">Nome do evento</string>
@@ -249,7 +226,6 @@
   <string name="joke_card_icon_text">%1$s 人笑过</string>
   <string name="jump_date">Saltar</string>
   <string name="jump_date_full">Saltar para a data</string>
-  <string name="label_recent_events">Eventos recentes</string>
   <string name="live_text">Ao vivo</string>
   <string name="living_text">No ar</string>
   <string name="loading">Aguarde…</string>
@@ -259,11 +235,9 @@
   <string name="match_ed">Concluído</string>
   <string name="match_ing">A processar</string>
   <string name="match_not_started">Não iniciado</string>
-  <string name="menu_about_preferences">Acerca de calendário</string>
   <string name="menu_general_preferences">Definições</string>
   <string name="menu_preferences">Definições</string>
   <string name="menu_reminder_preferences">Lembretes</string>
-  <string name="menu_select_visible_calendars">Calendários a mostrar</string>
   <string name="miui_chinese_week_range_double"/>
   <string name="miui_chinese_week_range_single"/>
   <string name="miui_menu_create_event">Novo</string>
@@ -299,14 +273,9 @@
   <string name="no_network_btn">Tente novamente</string>
   <string name="no_syncable_calendars">Sem calendários</string>
   <string name="no_title_label">(Sem título)</string>
-  <string name="not_exist_topic_list">Não é possível obter a lista do calendário</string>
   <string name="not_synced">Não sincronizado</string>
-  <string name="notification_online">%1$s: %2$s个新事件</string>
   <string name="online_calendar_activity_label">Subscrever para o calendário</string>
-  <string name="online_reminder_change_text">Modificar lembrete</string>
-  <string name="online_reminder_header_text">Memorizar</string>
-  <string name="online_reminder_minutes_text">Tempo de lembrete</string>
-  <string name="online_reminder_slider_text">Activar alerta</string>
+  <string name="online_reminder_header_text">Memorizar</string>  
   <string name="path_calendar">Calendário/Definições</string>
   <string name="pengzu">PANG</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
@@ -315,13 +284,11 @@
   <string name="pref_title_alert_remind">Lembretes pop-up</string>
   <string name="pref_title_no_remind">Sem lembretes</string>
   <string name="pref_title_notification_remind">Lembretes de notificação</string>
-  <string name="preferences_about_title">Acerca de</string>
   <string name="preferences_alerts_popup_title">Notificação pop-up</string>
   <string name="preferences_alerts_ringtone_title">Som</string>
   <string name="preferences_alerts_title">Notificações</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibrar</string>
   <string name="preferences_alerts_vibrate_title">Toques e vibração</string>
-  <string name="preferences_build_version">Versão da compilação</string>
   <string name="preferences_category_account_title">Conta</string>
   <string name="preferences_category_general_title">Definições gerais</string>
   <string name="preferences_clear_search_history_summary">Remover todas as pesquisas que executou</string>
@@ -355,7 +322,6 @@
   <string name="quick_response_settings_summary">Editar respostas predefinidas ao enviar emails a convidados</string>
   <string name="quick_response_settings_title">Editar respostas rápidas</string>
   <string name="refresh">Actualizar</string>
-  <string name="reminders_label">Adicionar lembrete</string>
   <string name="repeat_activity_label">Repetir</string>
   <string name="repeat_custom_activity_label">Personalizar</string>
   <string name="repeat_custom_prompt">a cada %1$s em %2$s</string>
@@ -385,29 +351,22 @@
   <string name="response_no">Não</string>
   <string name="response_yes">Sim</string>
   <string name="rest_day_indication">: )</string>
-  <string name="save_label">Concluído</string>
   <string name="saving_event">Evento guardado</string>
   <string name="saving_event_with_guest">Actualizações vão ser enviadas</string>
   <string name="search">Pesquisar</string>
   <string name="search_history_cleared">Histórico de pesquisa limpo</string>
-  <string name="search_title">Pesquisar meus calendários</string>
   <string name="select_date">Saltar para a data</string>
-  <string name="select_synced_calendars_button">Calendários a sincronizar</string>
   <string name="select_synced_calendars_title">Calendários a sincronizar</string>
-  <string name="select_visible_calendars_title">Calendários a mostrar</string>
   <string name="set_as_wallpaper">Definir como papel de parede</string>
   <string name="setting_holiday">Feriados</string>
   <string name="setting_others">Adicional</string>
   <string name="setting_sms_import">Importar eventos de SMS</string>
   <string name="setting_wifi_mode">Apenas sincronizar em Wi-Fi</string>
   <string name="settings_calendar">Calendário</string>
-  <string name="show_controls">Mostrar controlos</string>
   <string name="show_day_view">Mostrar dia</string>
   <string name="show_newer_events">Toque para ver os eventos depois de %1$s</string>
   <string name="show_older_events">Toque para ver os eventos antes de %1$s</string>
   <string name="sms_import_description">更好地管理与时间相关的短信事件</string>
-  <string name="snooze_all_label">Adiar todos</string>
-  <string name="snooze_label">Adiar</string>
   <string name="str_dayofmonth">%s号</string>
   <string name="str_everyday">每天</string>
   <string name="str_everymonth">每月%s</string>
@@ -415,9 +374,7 @@
   <string name="str_everyyear">每年%s</string>
   <string name="str_from_mon_to_fri">周一至周五</string>
   <string name="str_hour_of_everyday">每天%s</string>
-  <string name="str_hour_of_next">下一次%s</string>
-  <string name="subscribe">订阅</string>
-  <string name="subscribe_all">全部订阅</string>
+  <string name="str_hour_of_next">下一次%s</string>  
   <string name="subscribe_card_more_default_text">更多</string>
   <string name="subscribe_card_recommend_default_text">推荐订阅</string>
   <string name="subscribe_description_card_default_title">订阅简介</string>
@@ -440,7 +397,6 @@
   <string name="text_year">Ano</string>
   <string name="ticket_card_date">%1$s月%2$s日</string>
   <string name="ticket_card_description">今日可预定</string>
-  <string name="ticket_card_dialog_positive_button_text">安装</string>
   <string name="ticket_card_lunar">%1$s的火车票</string>
   <string name="ticket_card_phase">- 第%1$s期</string>
   <string name="time_zone">Fuso horário</string>
@@ -453,7 +409,6 @@
   <string name="tomorrow">Amanhã</string>
   <string name="tomorrow_at_time_fmt">Amanhã às %s</string>
   <string name="topic_dialog_title">Eliminar subscrição</string>
-  <string name="topic_event_list_header_label">Próximos eventos</string>
   <string name="topic_list_header_label">Lista de subscrição</string>
   <string name="travel_airport">Aeroporto</string>
   <string name="travel_carriage_number_text">Carro</string>
@@ -488,16 +443,12 @@
   <string name="user_notice_title">Atenção</string>
   <string name="user_notification">Notificações</string>
   <string name="user_notification_descrip">Mostrar notificações quando o calendário for iniciado</string>
-  <string name="view_all_matches">Ver todos os jogos</string>
   <string name="view_event_calendar_label">Calendário:</string>
   <string name="view_event_organizer_label">Organizador:</string>
   <string name="view_event_response_label">Participar?</string>
-  <string name="week_view">Semana</string>
   <string name="week_view_today_toast">Está a ver esta semana</string>
   <string name="weekly">Semanalmente (cada %s)</string>
-  <string name="what_label">O quê</string>
   <string name="when_label">Quando</string>
-  <string name="where_label">Onde</string>
   <string name="widget_events">Próximo evento</string>
   <string name="widget_no_events">Sem eventos</string>
   <string name="widget_select_style">Escolher um estilo</string>
@@ -508,5 +459,4 @@
   <string name="xingxiu">Alphard</string>
   <string name="yearly">Anualmente (cada %s)</string>
   <string name="yearly_plain">Anualmente</string>
-  <string name="zhushen">Deuses</string>
 </resources>

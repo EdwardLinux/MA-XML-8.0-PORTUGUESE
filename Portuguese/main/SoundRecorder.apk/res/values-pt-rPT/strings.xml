@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_delete_record">Eliminar gravações seleccionadas?</string>
-  <string name="alert_message_delete_record_title">Eliminar gravação?</string>
+  <string name="alert_message_delete_record_title">Eliminar gravações</string>
   <string name="app_name">Gravador</string>
   <string name="back">Voltar</string>
   <string name="button_queue_for_wifi">Aguardar</string>
@@ -61,11 +61,18 @@
   <string name="preference_silent_mode">Silenciar toque ao gravar</string>
   <string name="preference_tip_rename">Atribuir nome às gravações manualmente</string>
   <string name="recognition_error_cancel">Cancelado</string>
+  <string name="recognition_error_download_cancel">Mais tarde</string>
+  <string name="recognition_error_download_fail">Não foi possível transferir. Verifique as definições de rede e tente novamente</string>
+  <string name="recognition_error_download_msg">É necessário transferir o mecanismo de reconhecimento para ter o serviço disponível</string>
+  <string name="recognition_error_download_ok">Transferir</string>
+  <string name="recognition_error_download_title">Sem mecanismo</string>
+  <string name="recognition_error_downloading">A transferir</string>
   <string name="recognition_error_engine">O mecanismo de reconhecimento está fora de prazo</string>
   <string name="recognition_error_engine_singleton">O mecanismo de reconhecimento está ocupado</string>
   <string name="recognition_error_format">Formato de áudio inválido</string>
   <string name="recognition_error_internal">Erro interno</string>
   <string name="recognition_error_stopped">O reconhecimento parou</string>
+  <string name="recognition_status_downloading">A transferir</string>
   <string name="record_back_pressed_hint">Prima voltar novamente para parar a gravação</string>
   <string name="record_download">Transferir da Nuvem Mi</string>
   <string name="record_download_complete">Transferido</string>

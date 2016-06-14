@@ -292,7 +292,7 @@ Para activar a sua conta siga o
   <string name="passport_send_too_many_code">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente</string>
   <string name="passport_setting">A configurar…</string>
   <string name="passport_sim_index_info">Cartão SIM %1$d - %2$s</string>
-  <string name="passport_skip_login">Ignorar início de sessão</string>
+  <string name="passport_skip_login">Ignorar</string>
   <string name="passport_skip_register">Ignorar registo</string>
   <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde em Definições</string>
   <string name="passport_skip_setup_account_title">Ignorar configuração</string>

@@ -175,11 +175,11 @@ Utilize apenas o carregador fornecido"</string>
   <string name="label_view">Ver</string>
   <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">Sem serviço</string>
-  <string name="long_screenshot_not_support_msg">A aplicação actual não suporta a captura de ecrã longa</string>
-  <string name="long_screenshot_out_of_memory_error">Não foi possível porque a imagem é demasiado larga</string>
+  <string name="long_screenshot_not_support_msg">A aplicação actual não suporta as capturas de ecrã longas</string>
+  <string name="long_screenshot_out_of_memory_error">O tamanho da imagem é demasiado grande</string>
   <string name="long_screenshot_processing">A processar…</string>
-  <string name="long_screenshot_stop">Parar</string>
-  <string name="long_screenshot_top_msg">A tirar uma captura de ecrã longa…</string>
+  <string name="long_screenshot_stop">Concluído</string>
+  <string name="long_screenshot_top_msg">A estender captura de ecrã…</string>
   <string name="managed_profile_foreground_toast">Está a utilizar o seu perfil de trabalho</string>
   <string name="mdb_entering">A iniciar…</string>
   <string name="mdb_restore_cancel">Cancelar</string>
@@ -247,7 +247,7 @@ Utilize apenas o carregador fornecido"</string>
   <string name="screen_pinning_title">Ecrã está fixado</string>
   <string name="screenshot_edit">Editar</string>
   <string name="screenshot_failed_text">Não é possível tirar captura de ecrã devido ao espaço limitado de armazenamento ou não é permitido pela aplicação ou organização</string>
-  <string name="screenshot_long_screenshot">Tirar longo</string>
+  <string name="screenshot_long_screenshot">Estender</string>
   <string name="screenshot_saved_text">Toque para ver a sua captura de ecrã</string>
   <string name="screenshot_saved_title">Captura de ecrã guardada</string>
   <string name="screenshot_saving_text">Captura de ecrã está a ser guardada</string>

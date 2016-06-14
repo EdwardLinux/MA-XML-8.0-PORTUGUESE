@@ -46,7 +46,7 @@ Para limpar o histórico do Navegador, utilize as definições do Navegador"</st
   <string name="menu_help">Ajuda</string>
   <string name="menu_settings">Definições de pesquisa</string>
   <string name="network_unavailable">Não foi possível ligar à Internet</string>
-  <string name="recent_apps">Aplicações recentes</string>
+  <string name="recent_apps">Aplicações recomendadas</string>
   <string name="recently_shortcut_label">Atalhos recentes</string>
   <string name="remove_from_history">Quer eliminar este item do histórico de pesquisas?</string>
   <string name="remove_from_history_failed">Não foi possível remover o item do histórico de pesquisas</string>

@@ -127,6 +127,7 @@
   <string name="plusDesc">mais</string>
   <string name="power">^</string>
   <string name="powerDesc">potência</string>
+  <string name="rate_data_provider">Taxa de juro fornecida por HeXun</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">parêntese direito</string>
   <string name="sin">sin</string>
