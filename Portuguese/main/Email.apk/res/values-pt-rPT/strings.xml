@@ -192,7 +192,7 @@
   <string name="auto_advance_label">Avanço automático</string>
   <string name="auto_advance_summary">Escolher o avanço automático após eliminar</string>
   <string name="auto_sync_off">Sincronização automática está desligada</string>
-  <string name="battery_saver">Ppoupança de bateria</string>
+  <string name="battery_saver">Poupança de bateria</string>
   <string name="battery_saver_keywords">Poupança de bateria;bateria do email</string>
   <string name="bcc">Bcc</string>
   <string name="bcc_heading">"Bcc: "</string>
@@ -645,7 +645,7 @@
   <string name="password_expired_ticker">A sua palavra-passe ou PIN do ecrã de bloqueio expirou</string>
   <string name="path_about_account_setting">Email/Definições/Contas</string>
   <string name="path_about_add_account">Email/Definições/Adicionar conta</string>
-  <string name="path_about_battery_saver">Email/Definições/Battery saver</string>
+  <string name="path_about_battery_saver">Email/Definições/Poupança de bateria</string>
   <string name="path_about_confirm_before_delete">Email/Definições/Confirmar antes de eliminar</string>
   <string name="path_about_confirm_before_send">Email/Definições/Confirmar antes de enviar</string>
   <string name="path_about_conversation_view">Email/Definições/Vista de conversa</string>
@@ -790,7 +790,7 @@
   <string name="save_action">Guardar</string>
   <string name="save_attachment">Guardar</string>
   <string name="save_draft_failed">Erro ao guardar rascunho</string>
-  <string name="save_power_summary">Definir tempo de poupança de energia</string>
+  <string name="save_power_summary">Definir hora de poupança de bateria</string>
   <string name="save_power_title">Poupança de bateria</string>
   <string name="saved">Guardado, %s</string>
   <string name="saving">A guardar…</string>

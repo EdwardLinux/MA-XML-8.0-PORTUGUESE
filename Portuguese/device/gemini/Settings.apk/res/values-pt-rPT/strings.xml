@@ -214,6 +214,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="app_forward_locked">A aplicação é protegida contra cópia</string>
   <string name="app_install_location_summary">Alterar o local de instalação preferido para novas aplicações</string>
   <string name="app_install_location_title">Local de instalação preferido</string>
+  <string name="app_invisible">Aplicações invisíveis</string>
   <string name="app_launch_domain_links_title">Links da aplicação</string>
   <string name="app_launch_open_domain_urls_summary">Abrir sem perguntar</string>
   <string name="app_launch_open_domain_urls_title">Abrir links suportados</string>
@@ -833,7 +834,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="credentials_unlock"/>
   <string name="credentials_unlock_hint">Insira a palavra-passe do armazenamento de credenciais</string>
   <string name="credentials_wrong_password">Palavra-passe incorrecta</string>
-  <string name="crypt_keeper_button_text">Encriptar telefone</string>
+  <string name="crypt_keeper_button_text">Encriptar dispositivo</string>
   <string name="crypt_keeper_conditions">A encriptação demora uma hora ou mais. Tem de iniciar com a bateria carregada e manter o telefone ligado ao carregador durante o processo. Se interromper o processo, vai perder todos os seus dados</string>
   <string name="crypt_keeper_conditions_title">Acerca da encriptação do dispositivo</string>
   <string name="crypt_keeper_confirm_title">Encriptar?</string>
@@ -850,7 +851,7 @@ Para continuar a utilizar o telefone, é necessário efectuar uma reposição de
 Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter o telefone a carregar até que a encriptação esteja terminada. Se interromper o processo de encriptação, perderá alguns ou todos os seus dados."</string>
   <string name="crypt_keeper_dialog_need_password_message">Deve definir um código PIN ou uma palavra-passe para o ecrã de bloqueio antes de iniciar a encriptação</string>
   <string name="crypt_keeper_dialog_need_password_title">Ecrã de bloqueio sem código PIN ou palavra-passe</string>
-  <string name="crypt_keeper_encrypt_title">Encriptar telefone</string>
+  <string name="crypt_keeper_encrypt_title">Encriptar dispositivo</string>
   <string name="crypt_keeper_encrypted_summary">Encriptado</string>
   <string name="crypt_keeper_enter_password">Introduza a sua palavra-passe</string>
   <string name="crypt_keeper_failed_summary">"A encriptação foi interrompida e não pôde terminar. Como resultado, os dados no telefone já não estão acessíveis.
@@ -2280,6 +2281,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_alarm_sound_title">Definições/Som e vibração/Som do alarme</string>
   <string name="path_android_beam_settings">Definições/Mais/Android Beam</string>
   <string name="path_apn_settings">Definições/Definições de rede móvel/Pontos de acesso(APN)</string>
+  <string name="path_app_invisible">Definições/Definições adicionais/Funcionalidades Beta/Aplicações invisíveis</string>
   <string name="path_app_permission">Definições/Permissões</string>
   <string name="path_app_switch_key">Definições/Definições adicionais/Botões/Recentes</string>
   <string name="path_applications_settings">Definições/Aplicações instaladas</string>
@@ -2297,7 +2299,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_cloud_backup_settings_section_title">Definições/Definições adicionais/Cópia e restauro/Definições de cópia</string>
   <string name="path_cloud_restore_section_title">Definições/Definições adicionais/Cópia e restauro/Restaurar da Nuvem Mi</string>
   <string name="path_copyright">Definições/Acerca do telefone/Informações legais/Direitos de autor</string>
-  <string name="path_credentials_install">Definições/Definições adicionais/Segurança do sistema/Instalar do armazenamento</string>
+  <string name="path_credentials_install">Definições/Definições adicionais/Privacidade/Instalar do armazenamento</string>
   <string name="path_date_time_settings">Definições/Definições adicionais/Data e hora</string>
   <string name="path_development_settings">Definições/Definições adicionais/Opções de programador</string>
   <string name="path_device_info_memory">Definições/Definições adicionais/Armazenamento</string>
@@ -2328,10 +2330,10 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_legal_user_agreement">Definições/Acerca do telefone/Informações legais/Termos de Serviço</string>
   <string name="path_local_auto_backup_section_title">Definições/Definições adicionais/Cópia e restauro/Cópia automática</string>
   <string name="path_local_backup_section_title">Definições/Definições adicionais/Cópia e restauro/Cópias locais</string>
-  <string name="path_location_settings_title">Definições/Definições adicionais/Segurança do sistema/Localização</string>
+  <string name="path_location_settings_title">Definições/Definições adicionais/Privacidade/Localização</string>
   <string name="path_lock_sounds_enable_title">Definições/Som e vibração/Som de bloqueio de ecrã</string>
-  <string name="path_manage_device_admin">Definições/Definições adicionais/Segurança do sistema/Administradores do dispositivo</string>
-  <string name="path_manage_notification_access_title">Definições/Definições adicionais/Segurança do sistema/Acesso a notificações</string>
+  <string name="path_manage_device_admin">Definições/Definições adicionais/Privacidade/Administradores do dispositivo</string>
+  <string name="path_manage_notification_access_title">Definições/Definições adicionais/Privacidade/Acesso a notificações</string>
   <string name="path_master_clear_title">Definições/Definições adicionais/Cópia e restauro/Repor definições de fábrica</string>
   <string name="path_music_audio_effect_optimize">Definições/Som e vibração/Definições de áudio</string>
   <string name="path_music_headset_calibrate">Definições/Som e vibração/Definições de áudio/Atribuir botões</string>
@@ -2370,7 +2372,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_screen_saver_settings">Definições/Ecrã/Protecção de ecrã</string>
   <string name="path_screen_timeout_settings">Definições/Ecrã de bloqueio e segurança/Suspender</string>
   <string name="path_second_space">Definições/Segundo espaço</string>
-  <string name="path_security_encryption_title">Definições/Definições adicionais/Segurança do sistema/Encriptar telefone</string>
+  <string name="path_security_encryption_title">Definições/Definições adicionais/Privacidade/Encriptar dispositivo</string>
   <string name="path_security_passwords_title">Definições/Ecrã de bloqueio e segurança/Bloqueio de ecrã</string>
   <string name="path_security_settings">Definições/Definições adicionais/Privacidade</string>
   <string name="path_slot_status_title">Definições/Acerca do telefone/Informações do IMEI</string>
@@ -2398,7 +2400,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_toggle_position_settings">Definições/Notificações e barra de estado/Posição dos atalhos</string>
   <string name="path_touch_assistant_settings">Definições/Definições adicionais/Menu de atalhos</string>
   <string name="path_touch_sensitive_title">Definições/Ecrã/Modo Luvas</string>
-  <string name="path_trusted_credentials">Definições/Definições adicionais/Segurança do sistema/Credenciais fiáveis</string>
+  <string name="path_trusted_credentials">Definições/Definições adicionais/Privacidade/Credenciais fiáveis</string>
   <string name="path_tts_settings_title">Definições/Definições adicionais/Idioma e entrada/Saída de texto para voz</string>
   <string name="path_turn_on_security_lock">Definições/Ecrã de bloqueio e segurança/Bloqueio de ecrã/Alterar bloqueio de ecrã</string>
   <string name="path_unlock_set_settings">Definições/Ecrã de bloqueio e segurança</string>
@@ -2487,7 +2489,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="power_idle">Telefone inactivo</string>
   <string name="power_mgr">Bateria</string>
   <string name="power_mode">Definições de energia</string>
-  <string name="power_mode_balanced_title">Modo equilibrado energia</string>
+  <string name="power_mode_balanced_title">Modo equilibrado</string>
+  <string name="power_optimize">Poupança de bateria</string>
   <string name="power_overcounted">Contabilizada em excesso</string>
   <string name="power_phone">Chamadas de voz</string>
   <string name="power_screen">Ecrã</string>
@@ -2909,6 +2912,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_alarm_sound_title">Som do alarme</string>
   <string name="search_android_beam">NFC;Android Beam</string>
   <string name="search_apn_settings">APN;Pontos de acesso(APN)</string>
+  <string name="search_app_invisible">Aplicações invisíveis</string>
   <string name="search_app_permission">Permissões;Acesso root</string>
   <string name="search_app_switch_key">Recentes</string>
   <string name="search_application_settings">Aplicações instaladas</string>
@@ -2987,6 +2991,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_pointer_speed">Velocidade do ponteiro</string>
   <string name="search_power_hide_mode_title">Gerir utilização da bateria das aplicacões</string>
   <string name="search_power_mode">Definições de energia</string>
+  <string name="search_power_optimize">Poupança de bateria</string>
   <string name="search_pref_volume_wake_title">Acordar com botões de Volume</string>
   <string name="search_preferred_network_type_title">Tipo de rede preferida</string>
   <string name="search_privacy">Cópia e restauro</string>
@@ -3005,7 +3010,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_screen_saver_settings">Protecção de ecrã</string>
   <string name="search_screen_timeout">Suspender;Bloqueio de ecrã</string>
   <string name="search_second_space">Segundo espaço</string>
-  <string name="search_security_encryption_title">Encriptar telefone</string>
+  <string name="search_security_encryption_title">Encriptar dispositivo</string>
   <string name="search_security_passwords_title">Bloqueio de ecrã</string>
   <string name="search_security_settings">Definições de privacidade</string>
   <string name="search_settings">Pesquisar</string>
@@ -3077,7 +3082,7 @@ Para utilizar a fixação no ecrã:
   <string name="secure_lock_encryption_warning">Uma vez que activou um serviço de acessibilidade, o dispositivo não utilizará o bloqueio de ecrã para optimizar a encriptação de dados</string>
   <string name="security_enable_widgets_disabled_summary">Desactivado pelo administrador</string>
   <string name="security_enable_widgets_title">Activar widgets</string>
-  <string name="security_encryption_alert_dialog_info_first">Definir palavra-passe de ecrã de bloqueio para ligar esta funciona. Vai ter que introduzir a palavra-passe do ecrã de bloqueio sempre que reiniciar para desencriptar o dispositivo e utilizá-lo normalmente</string>
+  <string name="security_encryption_alert_dialog_info_first">Definir palavra-passe de ecrã de bloqueio para ligar esta funcionalidade. Vai ter que introduzir a palavra-passe do ecrã de bloqueio sempre que reiniciar para desencriptar o dispositivo e utilizá-lo normalmente</string>
   <string name="security_encryption_alert_dialog_title_first">Definir bloqueio de ecrã primeiro</string>
   <string name="security_encryption_attention_1">Não vai poder utilizar alarmes enquanto o dispositivo estiver desligado</string>
   <string name="security_encryption_attention_2">Vai ter que introduzir a palavra-passe do ecrã de bloqueio sempre que reiniciar para desencriptar o dispositivo. Os reinícios vão levar mais tempo que o normal</string>
@@ -3090,7 +3095,7 @@ Para utilizar a fixação no ecrã:
   <string name="security_encryption_close_dialog_title">Voltar para a o tipo de segurança predefinido</string>
   <string name="security_encryption_diaglog_continue">Seguinte</string>
   <string name="security_encryption_is_used">Ligado</string>
-  <string name="security_encryption_title">Encriptar dispositivo utilizando a palavra-passe do ecrã de bloqueio</string>
+  <string name="security_encryption_title">Encriptar dispositivo</string>
   <string name="security_keyguard_category_name">Ecrã de bloqueio</string>
   <string name="security_password_category_name">Tipo de segurança</string>
   <string name="security_passwords_title">Bloqueio de ecrã</string>
