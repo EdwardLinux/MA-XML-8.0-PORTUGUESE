@@ -1,4 +1,5 @@
-XML_MIUI-v8
+MIUI V8 Portuguese Translation
+<dl><dd><a href="https://xiaomi.eu/" target="_blank"><img src="http://i.imgur.com/8mHvQNw.png" border="0" alt="MIUI8_logo"></a></dd></dl>
 ===========
 
 MIUI-v8 translation for all supported devices. MIUI Translation: **Efex, KcNirvana**
