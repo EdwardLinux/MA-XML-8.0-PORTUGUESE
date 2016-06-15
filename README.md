@@ -1,4 +1,4 @@
-MIUI V8 Portuguese Translation
+#MIUI V8 Portuguese Translation
 <dl><dd><a href="https://xiaomi.eu/" target="_blank"><img src="http://i.imgur.com/8mHvQNw.png" border="0" alt="MIUI8_logo"></a></dd></dl>
 ===========
 
