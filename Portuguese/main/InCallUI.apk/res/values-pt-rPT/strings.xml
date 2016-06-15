@@ -2,6 +2,7 @@
 <resources>
   <string name="accept_modify_call_request_prompt">Aceitar pedido de modificação de chamada?</string>   
   <string name="add_vm_number_str">Adicionar número</string>
+  <string name="antispam_local_marked">Localização marcada</string>
   <string name="antispam_marked_count">Reportado por %1$d utilizadores MIUI</string>
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Número desconhecido</string>
@@ -31,6 +32,8 @@
   <string name="callFailed_unobtainable_number">Número inválido</string>
   <string name="callFailed_userBusy">Linha ocupada</string>
   <string name="callUnanswered_forwarded">Chamada não atendida reencaminhada</string>
+  <string name="call_button_dialer_text">Teclado</string>
+  <string name="call_button_tools_text">Funcionalidades</string>
   <string name="call_contacts_deny_permission_msg">Não é possível mostrar informação dos contactos porque a permissão de leitura de contactos foi negada</string>
   <string name="call_description_recording">A gravar…</string>
   <string name="call_extension_conference_mode">Modo de Conferência</string>
@@ -48,11 +51,11 @@
   <string name="call_recording_notification_message_sd_unmounted">Cartão SD foi removido</string>
   <string name="call_recording_notification_title">Chamada gravada</string>
   <string name="call_recording_notification_title_error">Não foi possível gravar a chamada</string>
-  <string name="call_self">Não é possível ligar ao próprio número</string>
   <string name="call_title_redialing_with_times">Remarcado %d vezes</string>
   <string name="caller_manage_header">Chamada de conferência %s</string>
   <string name="calling_via_template">A ligar via %s</string>
-  <string name="can_not_call_oneself">Não é possível concluir a chamada para este número</string>
+  <string name="can_not_call_oneself">Não é possível ligar para este número</string>
+  <string name="can_not_use">Não é possível utilizar</string>
   <string name="cancel">Cancelar</string>
   <string name="card_title_call_ended">"Chamada terminada "</string>
   <string name="card_title_conf_call">Chamada de conferência</string>
@@ -98,7 +101,6 @@
   <string name="description_image_button_two">dois</string>
   <string name="description_image_button_zero">zero</string>
   <string name="description_target_answer">Atender</string>
-  <string name="dial_with_gsm_phone">Chamada normal</string>
   <string name="dialog_activate_livetalk">Verificar número</string>
   <string name="dialog_call_ordinary_telephone">Chamada normal</string>
   <string name="dialog_purchase">Recarregar</string>
@@ -118,6 +120,12 @@
   <string name="incall_error_supp_service_unknown">Serviço não suportado.</string>
   <string name="incoming_answer_voice_text">Resposta de voz</string>
   <string name="incoming_call_forwarded_title">Reencaminhar chamadas recebidas</string>
+  <string name="incoming_circle_text_answer">Atender</string>
+  <string name="incoming_circle_text_answer_p">Atender</string>
+  <string name="incoming_circle_text_message">Responder com SMS</string>
+  <string name="incoming_circle_text_message_p">Responder com SMS</string>
+  <string name="incoming_circle_text_reject">Rejeitar</string>
+  <string name="incoming_circle_text_reject_p">Rejeitar</string>
   <string name="ivr_menu_dialing_msg">A reencaminhar…</string>
   <string name="ivr_menu_dialing_msg_no_mute">Ir para o serviço seleccionado…[Correcção de erros automática está activado]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Prima %s</string>
@@ -131,7 +139,6 @@
   <string name="livetalk_hangup">Desligar</string>
   <string name="livetalk_left_minute">%s minutos restantes</string>
   <string name="manageConferenceLabel">Gerir chamada em conferência</string>
-  <string name="manage_fdn_list">Lista FDN</string>
   <string name="miprofile_stranger_card">Desconhecido</string>
   <string name="modify_call_failure_str">"Modificação de pedido de chamada falhou
 "</string>
@@ -188,7 +195,9 @@
   <string name="onscreen_close_preview_camera">Fechar câmara</string>
   <string name="onscreen_hold_text">Reter</string>
   <string name="onscreen_merge_calls_text">Juntar chamadas</string>
+  <string name="onscreen_mi_support_calls_text">Suporte Mi</string>
   <string name="onscreen_mute_text">Silenciar</string>
+  <string name="onscreen_note_calls_text">Notas</string>
   <string name="onscreen_rcs_text">Mensagens</string>
   <string name="onscreen_swap_calls_text">Trocar</string>
   <string name="onscreen_switch_camera">Trocar câmara</string>
@@ -199,11 +208,13 @@
   <string name="picking_participant">A obter informação de contacto…</string>
   <string name="private_num">Número privado</string>
   <string name="respond_via_sms_custom_message">Escreva o que quiser…</string>
+  <string name="select_audio_dialog_title">Seleccione o modo de atendimento</string>
+  <string name="select_one_sim_title">Apenas pode utilizar o SIM %1$d</string>
   <string name="select_sim_hint">Não é possível utilizar SIM %2$d, enquanto SIM %1$d estiver em utilização."</string>
   <string name="select_voice_call_sim">Escolher cartão SIM</string>
   <string name="separate_from_conference">Separar chamada</string>
   <string name="suspect_info">Verificar sempre a identidade do contacto por telefone ou vídeo antes de responder a quaisquer mensagens que envolva suas informações pessoais</string>
-  <string name="time_left_livetalk">(%dS)</string>
+  <string name="time_left_livetalk">(%ds)</string>
   <string name="unknown">Desconhecido</string>
   <string name="upgrade_vt_prompt">Trocar para videochamada?</string>
   <string name="video_call_not_allowed_if_tty_enabled">Desligar modo TTY primeiro</string>
