@@ -410,8 +410,8 @@ Total: EUR %3$s"</string>
   <string name="user_notice_identify_summary_format">O seu telefone vai utilizar a base de dados da MIUI para bloquear chamadas indesejadas quando estiver ligado ao Wi-Fi. Ao utilizar este serviço concorda com a nossa %1$s e %2$s</string>
   <string name="user_notice_identify_summary_format_cta">O seu telefone vai utilizar a base de dados da MIUI para bloquear chamadas indesejadas quando estiver ligado ao Wi-FI. Ao utilizar este serviço concorda com a nossa %1$s e %2$s</string>
   <string name="user_notice_title">Atenção</string>
-  <string name="user_notice_yp_detail_summary_format">Algumas das suas informações do directório de classificação estão desactualizadas. Quer actualizá-las? Ao utilizar este serviço concorda com a nossa %1$s e %2$s</string>
-  <string name="user_notice_yp_detail_summary_format_cta">Algumas das suas informações do directório de classificação estão desactualizadas. Deseja actualizá-lo? Ao utilizar este serviço concorda com a nossa %1$s e %2$s</string>
+  <string name="user_notice_yp_detail_summary_format">Algumas das suas informações do directório de classificação estão desactualizadas. Deseja actualizá-las? Ao utilizar este serviço concorda com a nossa %1$s e %2$s</string>
+  <string name="user_notice_yp_detail_summary_format_cta">Algumas das suas informações do directório de classificação estão desactualizadas. Deseja actualizá-las? Ao utilizar este serviço concorda com a nossa %1$s e %2$s</string>
   <string name="view_orders">Ver encomendas</string>
   <string name="voicemail">Voice Mail</string>
   <string name="web_permission_message">%1$s necessita de ver o seu %2$s para funcionar normalmente</string>

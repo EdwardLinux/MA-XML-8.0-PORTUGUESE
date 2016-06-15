@@ -13,9 +13,9 @@
   <string name="all_terms">%1$s e %2$s</string>
   <string name="app_name">Notas</string>
   <string name="app_widget">Notas</string>
-  <string name="attachment_camera">Câmara</string>
+  <string name="attachment_camera">Tirar uma foto</string>
   <string name="attachment_contact">Contactos</string>
-  <string name="attachment_gallery">Galeria</string>
+  <string name="attachment_gallery">Escolher da galeria</string>
   <string name="button_new_note">Nova</string>
   <string name="call_record_folder_name">Notas de chamada</string>
   <string name="default_folder_name">Pasta sem nome</string>
@@ -52,6 +52,7 @@ Toque no botão + para criar uma pasta"</string>
   <string name="menu_mark_privacy">Ocultar</string>
   <string name="menu_move_parent_folder">Pasta acima</string>
   <string name="menu_move_to">Mover para</string>
+  <string name="menu_send_as_image">Enviar como imagem</string>
   <string name="menu_send_to_desktop">Colocar no ecrã inicial</string>
   <string name="menu_send_wechat">Enviar para WeChat</string>
   <string name="menu_send_weibo">Enviar para Weibo</string>
@@ -106,8 +107,9 @@ Toque no botão + para criar uma pasta"</string>
   <string name="sns_choose_quality_low">Baixa</string>
   <string name="sns_choose_quality_title">Escolher qualidade de imagem</string>
   <string name="sns_content_default">Partilhar foto</string>
-  <string name="sns_desc_preview_wechat">Prévisualização da mensagem WeChat</string>
-  <string name="sns_desc_preview_weibo">Prévisualização da mensagem Weibo</string>
+  <string name="sns_desc_image_preview">Pré-visualização da mensagem</string>
+  <string name="sns_desc_preview_wechat">Pré-visualização da mensagem WeChat</string>
+  <string name="sns_desc_preview_weibo">Pré-visualização da mensagem Weibo</string>
   <string name="sns_footer_text">Criado com Notas Mi</string>
   <string name="sns_hint_content">O que vai na sua mente?</string>
   <string name="sns_hint_title">Assunto (opcional)</string>

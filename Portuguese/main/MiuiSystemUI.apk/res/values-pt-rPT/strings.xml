@@ -282,10 +282,10 @@ Deslize para baixo para bloquear"</string>
   <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Voltar ao Gravador</string>
   <string name="status_bar_recording_pause">Gravador em pausa</string>
-  <string name="status_bar_safepay_risk">O ambiente de pagamento é perigoso!</string>
-  <string name="status_bar_safepay_safe">O ambiente de pagamento é seguro</string>
-  <string name="status_bar_safepay_scanning">A detectar ambiente de pagamento…</string>
-  <string name="status_bar_safepay_unknown">Segurança do pagamento desconhecida</string>
+  <string name="status_bar_safepay_risk">Encontrados riscos de pagamento</string>
+  <string name="status_bar_safepay_safe">Sem riscos de pagamento</string>
+  <string name="status_bar_safepay_scanning">A verificar o ambiente de pagamento…</string>
+  <string name="status_bar_safepay_unknown">Não foi possível verificar o ambiente de pagamento</string>
   <string name="status_bar_settings_airplane">Modo de Avião</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">Sem ligação à Internet</string>

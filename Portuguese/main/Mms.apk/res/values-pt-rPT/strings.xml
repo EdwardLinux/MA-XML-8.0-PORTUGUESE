@@ -12,7 +12,7 @@
   <string name="add_nickname_title">Editar alcunha</string>
   <string name="add_number_to_sender">Adicionar número a %s</string>
   <string name="add_picture">Adicionar imagem</string>
-  <string name="add_private_contact">Adicionar contacto privado</string>
+  <string name="add_private_contact">Adic. contacto privado</string>
   <string name="add_redpackage">Pacote vermelho</string>
   <string name="add_slide">Adicionar diapositivo (depois)</string>
   <string name="add_slide_before">Adicionar diapositivo</string>
@@ -433,7 +433,7 @@
   <string name="prepare_send">A preparar para enviar…</string>
   <string name="press_recording">Premir e segurar o ícone do Micro para gravar</string>
   <string name="preview">Visualizar</string>
-  <string name="preview_slideshow">Pré-Visualizar</string>
+  <string name="preview_slideshow">Pré-visualizar</string>
   <string name="priority_high">Alta</string>
   <string name="priority_label">"Prioridade: "</string>
   <string name="priority_low">Baixa</string>
@@ -442,7 +442,7 @@
   <string name="private_message">Mensagens privadas</string>
   <string name="private_new_notification">Notificações da mensagem</string>
   <string name="private_protect">Palavras-passe</string>
-  <string name="private_settings">Definições de mensagens privadas</string>
+  <string name="private_settings">Definições</string>
   <string name="processing">A processar…</string>
   <string name="prvate_contact">Contacto privado</string>
   <string name="quick_reply">Responder</string>

@@ -53,6 +53,14 @@
         <item>Personalizadas</item>
         <item>Poupança de bateria</item>
     </string-array>
+    <string-array name="power_checker_abnormal_groups">
+        <item>Em execução</item>
+        <item>Recentemente</item>
+    </string-array>
+    <string-array name="power_checker_rank_groups">
+        <item>Alta</item>
+        <item>Normal</item>
+    </string-array>
     <string-array name="power_checker_group_prefix">
          <item>Agora</item>
          <item>Em segundo plano</item>

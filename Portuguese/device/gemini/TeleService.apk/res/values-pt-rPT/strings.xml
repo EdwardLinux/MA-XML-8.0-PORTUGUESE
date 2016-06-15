@@ -548,6 +548,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="livetalk_provision_title">Provisão</string>
   <string name="livetalk_service_and_short_number_not_support">Números curtos e de serviço não são suportados</string>
   <string name="livetalk_setting">Pacotes de carregamento</string>
+  <string name="livetalk_user_config_title">Verificação do SIM</string>
   <string name="livetalk_white_list_number_title">Fazer chamada normal</string>
   <string name="load_networks_progress">A pesquisar…</string>
   <string name="loading">Aguarde…</string>
@@ -665,6 +666,7 @@ Será utilizada a rede preferida em vez"</string>
   <string name="no_data">Sem dados</string>
   <string name="no_internet_available">Para fazer uma chamada pela Internet, tem de ter uma ligação à Internet</string>
   <string name="no_more">Não mais</string>
+  <string name="no_number">Sem número de telefone</string>
   <string name="no_sim_card">Inserir cartão SIM</string>
   <string name="no_vm_number">Número de Voice Mail em falta</string>
   <string name="no_vm_number_msg">Não existe número de Voice Mail armazenado no cartão SIM</string>
@@ -1033,6 +1035,7 @@ O cartão SIM será bloqueado após nova tentativa falhada"</string>
   <string name="sim_service_setting">SIM e Roaming Mi</string>
   <string name="sim_unlock_failed">O pedido de desbloqueio do cartão SIM falhou</string>
   <string name="sim_unlock_success">Cartão SIM desbloqueado</string>
+  <string name="sim_useless">SIM indisponível</string>
   <string name="sip_account_list">Contas SIP</string>
   <string name="sip_accounts">Contas SIP</string>
   <string name="sip_accounts_title">Contas</string>
