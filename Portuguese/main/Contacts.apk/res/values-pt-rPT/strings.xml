@@ -35,7 +35,7 @@
   <string name="aggregation_suggestion_edit_dialog_title">Mesmo nome</string>
   <string name="aggregation_suggestion_join_dialog_message">Juntar o contacto actual ao contacto seleccionado?</string>
   <string name="all_list_empty">Sem contactos</string>
-  <string name="antispam_mark_my_contribution">Partilhar informações de reporte</string>
+  <string name="antispam_mark_my_contribution">A partilhar informações do marcardor</string>
   <string name="antispam_provider_format">Identificado por %s</string>
   <string name="attach_photo_dialog_title">Foto do contacto</string>
   <string name="audio_chat">Conversa de voz</string>

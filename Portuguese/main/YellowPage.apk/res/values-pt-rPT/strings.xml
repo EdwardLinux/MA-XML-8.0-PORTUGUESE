@@ -119,7 +119,7 @@
   <string name="express_inquiry_history_remark">Comentários</string>
   <string name="express_inquiry_history_remark_hint">Histórico dos comentários</string>
   <string name="express_inquiry_internal_failure">"Ocorreu  um erro.
-Verifique o número de rastreio."</string>
+Verifique o número de rastreio"</string>
   <string name="express_inquiry_logistics">Seleccionr um serviço de correio</string>
   <string name="express_inquiry_logistics_prefix">Serviço de correio: %s</string>
   <string name="express_inquiry_logistics_select_others_indication">Outro</string>
@@ -127,7 +127,7 @@ Verifique o número de rastreio."</string>
   <string name="express_inquiry_no_result">Sem resultados</string>
   <string name="express_inquiry_number_empty">Introduzir o seu número de rastreio</string>
   <string name="express_inquiry_number_invalid">"Número inválido.
-Verifique o seu número de rastreio."</string>
+Verifique o seu número de rastreio"</string>
   <string name="express_inquiry_provider_info">Produzido por</string>
   <string name="express_inquiry_serial_number_indication">Número de rastreio</string>
   <string name="express_inquiry_serial_number_prefix">Número: %s</string>
@@ -233,22 +233,22 @@ Verifique o seu número de rastreio."</string>
   <string name="locating_fail">Não foi possível encontrar a sua localização</string>
   <string name="login_before_use">Tem de iniciar sessão primeiro</string>
   <string name="login_ok">Iniciar sessão</string>
-  <string name="mark_number_custom_mark_deleted">Etiqueta removida</string>
-  <string name="mark_number_dialog_maintitle">Reportar este número</string>
-  <string name="mark_number_dialog_subtitle">Reportado por %2$d pessoas como %1$s</string>
-  <string name="mark_number_feedback">Reportar</string>
-  <string name="mark_number_feedback_hint">Introduzir feedback</string>
-  <string name="mark_number_feedback_invalid_hint">Introduzir o seu feedback</string>
-  <string name="mark_number_feedback_success">Feedback enviado com sucesso</string>
-  <string name="mark_number_marked_maintitle">Alterar relatório para este número</string>
-  <string name="mark_number_marked_subtitle">Reportou este número como %s</string>
-  <string name="mark_number_remove">Remover etiqueta</string>
-  <string name="mark_title_null_hint">Introduzir uma etiqueta</string>
+  <string name="mark_number_custom_mark_deleted">Marcador removido</string>
+  <string name="mark_number_dialog_maintitle">Marcar este número</string>
+  <string name="mark_number_dialog_subtitle">%1$s (marcado por %2$d pessoas)</string>
+  <string name="mark_number_feedback">Marcar</string>
+  <string name="mark_number_feedback_hint">Introduzir comentários</string>
+  <string name="mark_number_feedback_invalid_hint">Introduzir o seu comentário</string>
+  <string name="mark_number_feedback_success">Comentário enviado com sucesso</string>
+  <string name="mark_number_marked_maintitle">Alterar marcador</string>
+  <string name="mark_number_marked_subtitle">%s (marcador actual)</string>
+  <string name="mark_number_remove">Remover marcador</string>
+  <string name="mark_title_null_hint">Introduzir marcador</string>
   <string name="menu_add_black_list">Adicionar à lista de bloqueio</string>
   <string name="menu_add_to_favorite">Favoritos</string>
   <string name="menu_call_ip_number">Marcar chamada IP</string>
   <string name="menu_copy_text">Copiar para área de transferência</string>
-  <string name="menu_correct_yellow_page">Reportar um erro</string>
+  <string name="menu_correct_yellow_page">Reportar erros</string>
   <string name="menu_delete_call_log">Eliminar registos de chamadas</string>
   <string name="menu_delete_one">Remover dos registos de chamadas</string>
   <string name="menu_enroll_in_yellow_page">Iniciar sessão nas páginas amarelas</string>
@@ -392,8 +392,8 @@ Total: EUR %3$s"</string>
   <string name="toast_text_copied">Texto copiado</string>
   <string name="try_again">Tentar novamente</string>
   <string name="turn_off_hint_title">Não identificar números desconhecidos?</string>
-  <string name="turn_off_phone_event_hint">Não vai poder ver informações de relatórios para números de telefone desconhecidos</string>
-  <string name="turn_off_smart_antispam_hint">Desligar a protecção para chamadas de desconhecidos?</string>
+  <string name="turn_off_phone_event_hint">Não vai poder ver informações de marcadores para números de telefone desconhecidos</string>
+  <string name="turn_off_smart_antispam_hint">Não vai poder ver informações de marcadores para chamadas recebidas de números de telefone desconhecidos</string>
   <string name="turn_on_phone_event_dialog_title">Actualizar a base de dados de identificação de números</string>
   <string name="turn_on_phone_event_summary">Enviar estado do telefone dos números de serviço</string>
   <string name="turn_on_phone_event_title">Receber informações de serviço</string>
@@ -416,7 +416,7 @@ Total: EUR %3$s"</string>
   <string name="voicemail">Voice Mail</string>
   <string name="web_permission_message">%1$s necessita de ver o seu %2$s para funcionar normalmente</string>
   <string name="yellow_page_details">Detalhes empresariais</string>
-  <string name="yellow_page_website">Site oficial</string>
+  <string name="yellow_page_website">Website oficial</string>
   <string name="yellowpage_navigation_network_location_enable">Permitir</string>
   <string name="yellowpage_navigation_network_location_enable_later">Agora não</string>
   <string name="yellowpage_navigation_network_location_enabled">Acesso à localização está ligado. Pode desligá-lo em qualquer altura nas Definições</string>

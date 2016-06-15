@@ -32,7 +32,7 @@
   <string name="bl_no_blacklist">Sem números bloqueados</string>
   <string name="bl_no_block_call">Sem chamadas bloqueadas</string>
   <string name="bl_no_block_sms">Sem mensagens bloqueadas</string>
-  <string name="blacklist_prefix_add_hint">Bloquear todos os números que começam com este prefixo</string>
+  <string name="blacklist_prefix_add_hint">Bloquear todos os números que comecem com este prefixo</string>
   <string name="block_message_number">Mensagens: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Chamadas: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="button_text_delete">Eliminar</string>
@@ -46,10 +46,10 @@
   <string name="close_callwait">Desligado</string>
   <string name="customizer_mode_user_define_name">As minhas regras</string>
   <string name="dlg_add_blacklist">Bloquear este número?</string>
-  <string name="dlg_add_blacklist_warn_conflict_content">%1$s e %2$s outros contactos já estão na sua lista de excepções.</string>
+  <string name="dlg_add_blacklist_warn_conflict_content">%1$s e %2$s outros contactos já estão na sua lista de excepções</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Conflito nas excepções</string>
   <string name="dlg_add_keyword">Adicionar palavras-chave</string>
-  <string name="dlg_antispam_mode_delete_message">Não é possível recuperar regras depois de terem sido eliminadas.</string>
+  <string name="dlg_antispam_mode_delete_message">Não é possível recuperar regras depois de terem sido eliminadas</string>
   <string name="dlg_antispam_mode_delete_title">Eliminar regras?</string>
   <string name="dlg_antispam_using_mode_delete_message">Eliminar as regras que está a utilizar actualmente e voltar para as regras predefinidas da lista de bloqueio?</string>
   <string name="dlg_antispam_using_mode_international_delete_message">Eliminar as regras que está a utilizar actualmente e voltar para as regras predefinidas da lista de bloqueio?</string>
@@ -110,24 +110,24 @@
   <string name="mark_fraud_block">Reportado como fraude</string>
   <string name="mark_fraud_block_large">Fraudes</string>
   <string name="mark_fraud_time_setting">Bloquear números reportados como fraudes um número específico de vezes</string>
-  <string name="mark_harass">Bloquear Incómodos reportados</string>
-  <string name="mark_harass_block">Reportado como Incómodo</string>
+  <string name="mark_harass">Bloquear incómodos reportados</string>
+  <string name="mark_harass_block">Reportado como incómodo</string>
   <string name="mark_harass_block_large">Incómodos</string>
   <string name="mark_harass_time_setting">Bloquear números reportados como incómodos um número específico de vezes</string>
   <string name="mark_number_agent">Agências</string>
   <string name="mark_number_fraud">Fraudes</string>
   <string name="mark_number_harass">Assédio</string>
-  <string name="mark_number_info">Por vezes estas chamadas podem ser úteis (ex: Quando está à procura de um apartamento). Bloqueie apenas os números dos quais não quer receber chamadas.</string>
+  <string name="mark_number_info">Por vezes estas chamadas podem ser úteis (ex: Quando está à procura de um apartamento). Bloqueie apenas os números dos quais não quer receber chamadas</string>
   <string name="mark_number_sell">Telemarket</string>
   <string name="mark_number_setting_guide_content1">Bloquear chamadas de números reportados?</string>
   <string name="mark_number_setting_guide_content2">Bloquear chamadas de números que são reportados por outros utilizadores automaticamente</string>
   <string name="mark_number_setting_guide_content3">Reportou um número como %1$s. Deseja bloquear chamadas de números reportados como %2$s?</string>
   <string name="mark_number_setting_guide_forward">Definições da lista de bloqueio</string>
-  <string name="mark_number_setting_guide_title">Bloquear os números reportados</string>
-  <string name="mark_sell">Bloquear telemarketing reportados</string>
-  <string name="mark_sell_block">Reportado como telemarketing</string>
-  <string name="mark_sell_block_large">Telemarketing</string>
-  <string name="mark_sell_time_setting">Bloquear números reportados como telemarketing um número específico de vezes</string>
+  <string name="mark_number_setting_guide_title">Bloquear números reportados</string>
+  <string name="mark_sell">Bloquear vendedores reportados</string>
+  <string name="mark_sell_block">Reportado como vendas</string>
+  <string name="mark_sell_block_large">Vendas</string>
+  <string name="mark_sell_time_setting">Bloquear números reportados como vendas um número específico de vezes</string>
   <string name="mark_time_setting_dialog_title">Reportar número</string>
   <string name="mark_time_text">%d</string>
   <string name="marked_by_others">"%d outros utilizadores marcaram como "</string>
@@ -161,13 +161,13 @@
   <string name="organization">Organização</string>
   <string name="phone">Telefone</string>
   <string name="read_all_sms">Ler tudo</string>
-  <string name="repeated_marked_number_summary">Não bloquear uma segunda chamada do mesmo número reportado em 3 minutos.</string>
+  <string name="repeated_marked_number_summary">Não bloquear uma segunda chamada do mesmo número reportado em 3 minutos</string>
   <string name="repeated_marked_number_title">Não bloquear chamadas repetidas de números reportados</string>
   <string name="report">Reportar</string>
   <string name="report_error">Não foi possível reportar a mensagem</string>
   <string name="report_only">Escolher uma mensagem para reportar</string>
   <string name="report_success">Mensagem reportada</string>
-  <string name="report_warning">"Reportar %1$s de mensagens para a Mi? As mensagens e os números de telefone serão enviados para o servidor Mi. As informações pessoais associadas a estas mensagens, manter-se-ão anónimas."</string>
+  <string name="report_warning">Reportar %1$s de mensagens para a Mi? As mensagens e os números de telefone serão enviados para o servidor Mi. As informações pessoais associadas a estas mensagens, manter-se-ão anónimas</string>
   <string name="report_warning_title">Reportar mensagens</string>
   <string name="sim_not_ready">O cartão SIM não está preparado</string>
   <string name="sim_not_ready_toast">O cartão SIM não está preparado</string>
@@ -204,8 +204,8 @@
   <string name="st_antispam_notification_sum">Mostrar notificações quando a chamada ou mensagem é bloqueada</string>
   <string name="st_antispam_title_anoy_incoming">Chamadas de desconhecidos</string>
   <string name="st_antispam_title_anoy_sms">Mensagens de desconhecidos</string>
-  <string name="st_antispam_title_contact_incoming">Chamadas de Contactos</string>
-  <string name="st_antispam_title_contact_sms">Mensagens de Contactos</string>
+  <string name="st_antispam_title_contact_incoming">Chamadas de contactos</string>
+  <string name="st_antispam_title_contact_sms">Mensagens de contactos</string>
   <string name="st_antispam_title_contactandanoy_group">Definições</string>
   <string name="st_antispam_title_null_incoming">Números privados</string>
   <string name="st_antispam_title_service_sms">Serviço de notificações</string>
@@ -220,7 +220,7 @@
   <string name="st_block_unknown_sms">Bloquear mensagens de desconhecidos</string>
   <string name="st_call_group">Chamadas</string>
   <string name="st_common_setting_group">Definições do filtro</string>
-  <string name="st_filter_keywords_setting_summary1">As mensagens enviadas por números desconhecidos que contêm palavras-chave serão bloqueadas.</string>
+  <string name="st_filter_keywords_setting_summary1">As mensagens enviadas por números desconhecidos que contêm palavras-chave serão bloqueadas</string>
   <string name="st_filter_keywords_setting_summary2">"
 (Utilize uma vírgula para separar múltiplas palavras)"</string>
   <string name="st_filter_keywords_setting_title">Configurar filtro de palavras-chave</string>
@@ -242,7 +242,7 @@
   <string name="st_sms_group">Mensagens</string>
   <string name="st_sub_title_customize_mode_name">Nome</string>
   <string name="st_sub_title_whiteblack_list_group">Lista de bloqueio</string>
-  <string name="st_sum_call_wait">A sua mensagem de ausência vai ser tocada também como sinal de ocupado para chamadas recebidas.</string>
+  <string name="st_sum_call_wait">A sua mensagem de ausência vai ser tocada também como sinal de ocupado para chamadas recebidas</string>
   <string name="st_title_addblacklist">Adicionar à lista de bloqueio</string>
   <string name="st_title_addwhitelist">Adicionar às excepções</string>
   <string name="st_title_adress">Adicionar localizações</string>

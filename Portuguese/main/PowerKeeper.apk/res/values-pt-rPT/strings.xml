@@ -35,7 +35,7 @@
   <string name="error_filename_too_long">O nome do ficheiro introduzido é demasiado longo</string>
   <string name="foreground_change">Aplicação está a executar em primeiro plano</string>
   <string name="fragment_nonesys_listempty">Sem aplicações instaladas</string>
-  <string name="fragment_tab_title_abnormal">Anormalidades</string>
+  <string name="fragment_tab_title_abnormal">Anomalias</string>
   <string name="fragment_tab_title_nonsys">Aplicações instaladas</string>
   <string name="fragment_tab_title_rank">Classificações</string>
   <string name="fragment_tab_title_sys">Aplicações de sistema</string>

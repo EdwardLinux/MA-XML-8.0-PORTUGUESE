@@ -288,7 +288,7 @@ ou introduzir palavra-passe do Bloqueio de aplicações"</string>
   <string name="datausage_purchase_pay_hint">Para cancelar, ligue %s</string>
   <string name="datausage_purchase_pkglist_networkerror">Não foi possível ligar à rede. Verifique a sua ligação de dados e tente novamente</string>
   <string name="datausage_purchase_pkglist_nodata">"Existe um conflito entre o seu pacote de dados actual e do pacote de dados que está a tentar comprar.
- Verifique com a sua operadora para mais informações."</string>
+ Verifique com a sua operadora para mais informações"</string>
   <string name="datausage_purchase_pkglist_servererror">Algo está errado com o servidor</string>
   <string name="datausage_purchase_result_failed">Não foi possível comprar dados. Verifique com a sua operadora para mais informações sobre o assunto</string>
   <string name="datausage_purchase_result_ok">"Acabou de comprar %s
