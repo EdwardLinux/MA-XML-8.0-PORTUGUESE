@@ -106,7 +106,7 @@
   <string name="callrecordview_menu_batch_delete">Limpar lista de chamadas</string>
   <string name="callrecordview_menu_blocklist">Lista de bloqueio</string>
   <string name="callrecordview_menu_conference">Chamada em conferência</string>
-  <string name="callrecordview_menu_delete">Limpar registo</string>
+  <string name="callrecordview_menu_delete">Limpar registos</string>
   <string name="callrecordview_menu_delete_accepted">Limpar registos das chamadas atendidas</string>
   <string name="callrecordview_menu_delete_all">Limpar registos de chamadas</string>
   <string name="callrecordview_menu_delete_called">Limpar registos das chamadas efectuadas</string>
@@ -227,7 +227,7 @@
   <string name="contact_detail_profile_switch_on_fail_toast">"Não foi possível ligar os cartões de contacto"</string>
   <string name="contact_detail_profile_switch_on_subtitle">Toque para ligar cartões de contacto</string>
   <string name="contact_detail_profile_switch_on_success_toast">Cartões de contacto ligados</string>
-  <string name="contact_directory_description">Directoria %1$s</string>
+  <string name="contact_directory_description">Páginas amarelas %1$s</string>
   <string name="contact_edit_save_error_empty">Contacto está vazio</string>
   <string name="contact_edit_title_edit">Editar contacto</string>
   <string name="contact_edit_title_insert">Guardar no %s</string>
@@ -376,7 +376,7 @@
   <string name="dialog_sync_add">Adicionar grupo de sincronização</string>
   <string name="dialog_voicemail_airplane_mode_message">Para ligar o Voice Mail, desligue o Modo de Avião</string>
   <string name="dialog_voicemail_not_ready_message">Para configurar o Voice Mail, vá a Menu &gt; Definições</string>
-  <string name="directory_search_label">Directoria</string>
+  <string name="directory_search_label">Páginas amarelas</string>
   <string name="display_all_contacts">Todos os contactos</string>
   <string name="display_more_groups">Mais grupos…</string>
   <string name="display_only_phones">Ocultar números incompletos</string>
@@ -1091,8 +1091,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="separatorJoinAggregateAll">Todos os contactos</string>
   <string name="separatorJoinAggregateSuggestions">Contactos sugeridos</string>
   <string name="service_more">Mais</string>
-  <string name="service_provider">Directoria</string>
-  <string name="service_provider_detail">Detalhes da directoria</string>
+  <string name="service_provider">Páginas amarelas</string>
+  <string name="service_provider_detail">Detalhes das Páginas amarelas</string>
   <string name="set_data_package">Definir um plano de dados primeiro</string>
   <string name="set_default">Definir predefinido</string>
   <string name="set_photo_failed_msg">Não foi possível atribuir imagem</string>
