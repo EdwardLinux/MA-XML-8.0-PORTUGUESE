@@ -66,7 +66,7 @@
   <string name="category_favorite">Favoritos</string>
   <string name="category_file">Ficheiros</string>
   <string name="category_files">Ficheiros</string>
-  <string name="category_midrive">MiDrive</string>
+  <string name="category_midrive">Mi Drive</string>
   <string name="category_music">Música</string>
   <string name="category_other">Outros</string>
   <string name="category_photo">Fotos</string>
@@ -108,7 +108,7 @@
   <string name="copy_failed">Não foi possível copiar</string>
   <string name="copy_failed_retry">Não foi possível copiar. Tente novamente após %1$s</string>
   <string name="copy_file_to_kuaipan">Copiar ficheiros para Kuaipan</string>
-  <string name="copy_file_to_midrive">Copiar ficheiros para MiDrive</string>
+  <string name="copy_file_to_midrive">Copiar ficheiros para Mi Drive</string>
   <string name="copy_text">Copiar texto</string>
   <string name="copy_to">Copiar para…</string>
   <string name="create_kuaipan_shortcut_pref">Criar atalho no ecrã inicial</string>
