@@ -12,6 +12,9 @@
   <string name="bugreport_dump_start_notification_summary">Isto vai levar vários minutos</string>
   <string name="bugreport_dump_start_notification_title">A criar relatório de erros…</string>
   <string name="bugreport_feedback_from">De: %s</string>
+  <string name="bugreport_tool_log">Criar relatório de erros</string>
+  <string name="bugreport_tool_log_toast">Registo gravado para %s</string>
+  <string name="bugreport_tool_log_toast_generate_bugreport">A criar relatório de erros (leva cerca de um minuto)</string>
   <string name="cta_cancel">Cancelar</string>
   <string name="cta_confirm">OK</string>
   <string name="cta_dialog_content">Esta aplicação necessita de uma ligação à Internet para funcionar normalmente</string>
@@ -157,6 +160,11 @@
   <string name="michat_wait_for_a_moment">Just a sec, help is on the way!</string>
   <string name="michat_webview_title">View details</string>
   <string name="min_error">Your %1$s should be longer.</string>
+  <string name="modem_tool_log">Capturar registos do modem</string>
+  <string name="modem_tool_log_start">Iniciar</string>
+  <string name="modem_tool_log_start_toast">Iniciar o envio do registo do modem para %s</string>
+  <string name="modem_tool_log_stop">Parar</string>
+  <string name="modem_tool_log_stop_toast">Parar o envio do registo do modem para %s</string>
   <string name="multi_graph_more">Total items: %d</string>
   <string name="network_err">"Can't connect to the network."</string>
   <string name="network_errorbtntip_custom">Try again</string>

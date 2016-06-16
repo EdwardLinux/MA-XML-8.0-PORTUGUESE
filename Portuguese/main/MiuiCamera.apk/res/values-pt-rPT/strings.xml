@@ -11,6 +11,7 @@
   <string name="accessibility_review_thumbnail">Foto mais recente</string>
   <string name="accessibility_setting_button">Botão de definições adicionais</string>
   <string name="accessibility_shutter_button">Botão de disparo</string>
+  <string name="accessibility_stereo_button">Modo Câmara Dupla</string>
   <string name="audio_focus_exit_button_text">Desligar áudio da focagem</string>
   <string name="burst_shoot_exit_button_text">Desligar disparo contínuo</string>
   <string name="camera_disabled">A câmara foi desactivada</string>
@@ -33,6 +34,11 @@
   <string name="confirm_restore_message">Restaurar as definições predefinidas da câmara?</string>
   <string name="confirm_restore_title">Restaurar definições predefinidas</string>
   <string name="dialog_ok">OK</string>
+  <string name="dual_camera_lens_covered_toast">Lentes tapadas</string>
+  <string name="dual_camera_low_constract_toast">O baixo contraste pode afectar os efeitos de Câmara Dupla</string>
+  <string name="dual_camera_lowlight_toast">A fraca iluminação pode afectar os efeitos de Câmara Dupla</string>
+  <string name="dual_camera_too_close_toast">Demasiado perto do objecto para os efeitos de Câmara Dupla</string>
+  <string name="dual_camera_use_hint">O modo Câmara Dupla não pode disparar o efeito blur. A distância entre a câmara e o objecto deve ser menos que dois metros</string>
   <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">Não foi possível iniciar a gravação de áudio</string>
   <string name="face_analyze_info">Idade: %2$s (%1$s)</string>
@@ -234,7 +240,8 @@
   <string name="pref_camera_snap_value_take_movie">Filme</string>
   <string name="pref_camera_snap_value_take_picture">Imagem</string>
   <string name="pref_camera_sound_title">Sons da câmara</string>
-  <string name="pref_camera_square_mode_title">Square</string>
+  <string name="pref_camera_square_mode_title">Quadrado</string>
+  <string name="pref_camera_stereo_mode_title">Estéreo</string>
   <string name="pref_camera_tilt_shift_entry_circle">Círculo</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Paralelo</string>
   <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
@@ -325,6 +332,7 @@
   <string name="simple_mode_button_text_scene">Desligar Modo de Cena</string>
   <string name="simple_mode_button_text_slow_video">Desligar Lapso de Tempo</string>
   <string name="simple_mode_button_text_square">Desligar Quadrado</string>
+  <string name="simple_mode_button_text_stereo_mode">Desligar Modo Estéreo</string>
   <string name="simple_mode_button_text_tilt_shift">Desligar Tilt-Shift</string>
   <string name="simple_mode_button_text_ubifocus">Desligar Refocar</string>
   <string name="spaceIsLow_content_external_storage_priority">O cartão SD está a ficar cheio</string>

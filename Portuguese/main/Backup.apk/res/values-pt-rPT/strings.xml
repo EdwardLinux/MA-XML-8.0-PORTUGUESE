@@ -296,7 +296,7 @@ Mantenha ambos os dispositivos perto um do outro."</string>
   <string name="trans_restoring_no_items">A sincronizar items</string>
   <string name="trans_retry">Repetir</string>
   <string name="trans_scan_invalid_qrcode">Código QR inválido</string>
-  <string name="trans_scan_qr_code_tips">Digitalizar código QR utilizando o novo dispositivo</string>
+  <string name="trans_scan_qr_code_tips">Digitalizar código QR no novo dispositivo</string>
   <string name="trans_select_data">Seleccionar itens a enviar</string>
   <string name="trans_select_data_no_space">"Sem espaço suficiente no novo dispositivo.
 Seleccione os ficheiros novamente ou liberte %s de armazenamento no novo dispositivo"</string>

@@ -57,6 +57,7 @@
   <string name="activate_email_notice">Certifique-se que activa a sua conta dentro de 24 horas</string>
   <string name="activity_not_found_notice">Não é possível localizar a aplicação</string>
   <string name="add_account">Associar conta</string>
+  <string name="alert_title_remove_account">Remover conta?</string>
   <string name="app_name">Conta Mi</string>
   <string name="authorize_title">Autorização</string>
   <string name="barcode_add_account_prompt">Para associar uma conta digitalize novamente o código QR depois de iniciar sessão</string>
@@ -75,7 +76,7 @@
   <string name="change_phone_number">Alterar número de telefone</string>
   <string name="checking_phone_num_availible">A verificar telefone…</string>
   <string name="cloud_service">Nuvem Mi</string>
-  <string name="completed">Tudo concluído</string>
+  <string name="completed">Tudo configurado</string>
   <string name="confirm_activate_email">Verificado</string>
   <string name="confirm_phone_number_dialog_message">Código de verificação vai ser enviado para: %s</string>
   <string name="confirm_phone_number_dialog_title">Confirmar número de telefone</string>
@@ -87,7 +88,10 @@
   <string name="cta_declaration_message">Para iniciar sessão na sua Conta Mi, é necessário ligar à Internet. Os serviços de localização e a sincronização com a Nuvem Mi vão ser ligados. Para fazer cópia dos seus dados, esta aplicação necessita de aceder aos seus contactos, mensagens, registos de chamadas e gravações. Não vamos utilizar os seus dados para fins comerciais ou partilhá-los com terceiros. Após iniciar sessão na Conta Mi, os serviços Mi vão ligar-se à Internet</string>
   <string name="cta_declaration_title">Termos e Condições</string>
   <string name="current_location_title">Localização actual</string>
+  <string name="data_keep_in_device">Manter neste dispositivo</string>
+  <string name="data_wipe_from_device">Eliminar a partir deste dispositivo</string>
   <string name="delete_action">Eliminar</string>
+  <string name="delete_bank_card_failed">小米闪付删除银行卡失败，请重新再试</string>
   <string name="delete_device_btn">Remover</string>
   <string name="delete_device_failed">Não foi possível remover dispositivo</string>
   <string name="delete_device_notice">Depois do dispositivo ser removido a sua sessão da Conta Mi vai ser terminada automaticamente. Não será possível utilizar este dispositivo para aceder a fotos, mensagens ou outros conteúdos armazenados na sua conta</string>
@@ -121,7 +125,7 @@
   <string name="find_device_request_error">Não é possível obter informação do estado. Tente novamente mais tarde</string>
   <string name="find_device_request_prepare_error">Não é possível obter estado. Tente novamente mais tarde</string>
   <string name="find_device_unknown_error">Não é possível obter estado. Tente novamente mais tarde</string>
-  <string name="forward_to_bind">Associar</string>
+  <string name="forward_to_bind">Adicionar</string>
   <string name="get_device_list_failed">Não é possível obter dispositivos</string>
   <string name="get_phone_verifycode_exceed_limit">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente</string>
   <string name="ignore">Agora não</string>
@@ -132,9 +136,7 @@
   <string name="location_service_not_working">Serviço de localização não está a funcionar</string>
   <string name="logout_failed">Não é possível terminar sessão</string>
   <string name="mi_account_identity_title">Verificar a sua identidade</string>
-  <string name="mi_insurance">Seguro Mi</string>
   <string name="mi_pass">Passe Mi</string>
-  <string name="mi_pay_identity">Identidade</string>
   <string name="micloud_account_name">Conta Mi</string>
   <string name="micloud_space_info">%s disponível</string>
   <string name="mili_center">Créditos Mi</string>
@@ -180,7 +182,7 @@ Para activar a sua conta siga o
   <string name="passport_downlink_reg">Criar conta utilizando um número de telefone</string>
   <string name="passport_email">Endereço de email</string>
   <string name="passport_email_or_id_hint_text">Endereço de email ou ID da Conta Mi</string>
-  <string name="passport_email_reg_success_summary">%1$s foi associada à sua conta. Pode utilizá-la para iniciar sessão ou para repor a sua palavra-passe</string>
+  <string name="passport_email_reg_success_summary">%1$s foi adicionada à sua conta. Pode utilizá-la para iniciar sessão ou para repor a sua palavra-passe</string>
   <string name="passport_error_device_id">Não foi possível obter o ID do dispositivo</string>
   <string name="passport_error_dup_email">O email introduzido já está associado a outra conta</string>
   <string name="passport_error_dup_phone">Este número de telefone já está associado a outra conta</string>
@@ -259,7 +261,7 @@ Para activar a sua conta siga o
   <string name="passport_reg_prompt">Não tem uma Conta Mi? Crie uma gratuitamente</string>
   <string name="passport_reg_sms_send_prompt">Enviar código de verificação para %s</string>
   <string name="passport_reg_success">Conta criada</string>
-  <string name="passport_reg_success_summary">%1$s foi associada à sua conta. Pode utilizá-la para iniciar sessão ou para redefinir a sua palavra-passe</string>
+  <string name="passport_reg_success_summary">%1$s foi adicionada à sua conta. Pode utilizá-la para iniciar sessão ou para redefinir a sua palavra-passe</string>
   <string name="passport_reg_type_email">Utilizar endereço de email</string>
   <string name="passport_reg_type_other_ways"><u>Utilizar o seu endereço de email ou um número alternativo</u></string>
   <string name="passport_reg_type_other_ways_title">Criar uma Conta Mi</string>
@@ -324,6 +326,7 @@ Para activar a sua conta siga o
   <string name="phone_unknown">Desconhecido</string>
   <string name="photoPickerNotFoundText">Sem fotos disponíveis</string>
   <string name="qq">QQ</string>
+  <string name="remove_account_notice">O que gostaria de fazer com as mensagens, contactos e outros dados que foram sincronizados a partir da sua Conta Mi?</string>
   <string name="remove_device_success_notice">Se remover este dispositivo dos seus dispositivos confiáveis, será novamente necessário iniciar o processo de verificação quando iniciar sessão​</string>
   <string name="remove_trust_btn">Remover de dispositivos confiáveis</string>
   <string name="remove_trust_notice">Remover de dispositivos confiáveis e terminar sessão</string>
@@ -342,8 +345,8 @@ Para activar a sua conta siga o
   <string name="scan_barcode_title">Para iniciar sessão na sua Conta Mi digitalize o código QR</string>
   <string name="security_question">Seleccionar pergunta</string>
   <string name="security_question_answer">Introduzir a resposta</string>
-  <string name="security_question_notice_message">Definir as perguntas de segurança depois de associar o seu telefone para poder repor as perguntas em caso de se esquecer delas</string>
-  <string name="security_question_notice_title">Associar telefone</string>
+  <string name="security_question_notice_message">Adicionar o seu telefone antes de definir as perguntas de segurança para poder repor as perguntas em caso de esquecimento</string>
+  <string name="security_question_notice_title">Adicionar telefone</string>
   <string name="security_question_prompt">"Perguntas de segurança podem ser utilizados quando alterar ou repuser a sua palavra-passe.
 Certifique-se que memoriza as respostas a estas perguntas."</string>
   <string name="select_location_title">Seleccionar a sua localização</string>
@@ -367,4 +370,7 @@ Certifique-se que memoriza as respostas a estas perguntas."</string>
   <string name="updated_nothing">Actualizado</string>
   <string name="user_avatar_update_title">Alterar foto de perfil</string>
   <string name="user_avatar_uploading">Aguarde…</string>
+  <string name="wipe_data_dialog_msg">%s ficheiros serão eliminados se continuar</string>
+  <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="wipe_data_dialog_title">Alguns itens ainda não foram sincronizados</string>
 </resources>

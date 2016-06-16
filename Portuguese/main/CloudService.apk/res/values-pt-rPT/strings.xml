@@ -127,6 +127,8 @@ Se trocar de cartão SIM, será enviada automaticamente outra mensagem para reac
   <string name="micloud_all_sub_2_intl_sms">2 mensagens de texto internacionais vão ser enviadas para activar o seu cartão SIM. Irá ser cobrado pela operadora</string>
   <string name="micloud_all_sub_2_sms">2 mensagens de texto nacionais vão ser enviadas para activar o seu cartão SIM. Irá ser cobrado pela operadora</string>
   <string name="micloud_all_sub_resend_sms">"Quando localizar dispositivo está activo será enviada uma SMS de activação após trocar de cartões SIM"</string>
+  <string name="micloud_battery_low_notification_message">Ligar carregador para sincronizar</string>
+  <string name="micloud_battery_low_notification_title">Bateria fraca</string>
   <string name="micloud_buy_member">Conta</string>
   <string name="micloud_check_sim_notify_text">"Parece que mudou os cartões SIM. Inicie sessão
 na sua Conta Mi para reactivar a Nuvem Mi."</string>
@@ -193,7 +195,7 @@ na sua Conta Mi para reactivar a Nuvem Mi."</string>
   <string name="micloud_find_device_finish">Concluído</string>
   <string name="micloud_find_device_guide_button">Ligar Localizar Dispositivo</string>
   <string name="micloud_find_device_guide_content">"Quando trocar o seu cartão SIM, uma mensagem vai ser enviada automaticamente 
-  para reactivar esta funcionalidade."</string>
+  para reactivar esta funcionalidade"</string>
   <string name="micloud_find_device_guide_fail_reopen">Ligar Localizar Dispositivo na Nuvem Mi</string>
   <string name="micloud_find_device_guide_fail_sub_net">Verifique a sua ligação de rede e tente novamente</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Ligação expirou. Tente novamente mais tarde</string>
@@ -205,7 +207,7 @@ na sua Conta Mi para reactivar a Nuvem Mi."</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Ligar Localizar Dispositivo para proteger os seus dados AliPay</string>
   <string name="micloud_find_device_guide_progress">A ligar Localizar Dispositivo…</string>
   <string name="micloud_find_device_guide_title">"Iniciar sessão %s para localizar, bloquear
-ou formatar o seu dispositivo."</string>
+ou formatar o seu dispositivo"</string>
   <string name="micloud_find_device_open_fail">Não foi possível ligar Localizar Dispositivo</string>
   <string name="micloud_find_device_opened">Localizar Dispositivo ligado</string>
   <string name="micloud_find_device_opened_content">Localize o seu dispositivo em %s</string>
@@ -227,7 +229,7 @@ Para corrigir esta situação pode eliminar alguns ficheiros para libertar espa�
   <string name="micloud_main_data_unsynced">%d aguardam sincronização</string>
   <string name="micloud_main_detail">Ver detalhes</string>
   <string name="micloud_main_last_sync_time">Última sincronização foi %s</string>
-  <string name="micloud_main_memory_low_message">Para sincronizar elimine alguns itens que armazenou na Nuvem</string>
+  <string name="micloud_main_memory_low_message">Para sincronizar elimine alguns itens que armazenou na Nuvem Mi</string>
   <string name="micloud_main_memory_low_title">O armazenamento interno do telefone está quase cheio</string>
   <string name="micloud_main_message_not_synced">%s dados não sincronizados</string>
   <string name="micloud_main_network_abnormal">Não é possível ligar à rede</string>
@@ -348,10 +350,6 @@ Toque nas definições de sincronização para ver mais opções."</string>
   <string name="micloud_web_discription_02">para armazenar e aceder aos seus ficheiros em qualquer lugar</string>
   <string name="micloud_web_discription_international">Visitar www.mi.com/micloud</string>
   <string name="micloud_website">Ver itens na Nuvem Mi</string>
-  <string name="micloud_wipe_data_confirm_label">Remover dados da Nuvem Mi</string>
-  <string name="micloud_wipe_data_confirm_title">Remover itens sincronizados com a Nuvem Mi do telefone após terminar sessão?</string>
-  <string name="micloud_wipe_data_remove">Remover</string>
-  <string name="micloud_wipe_data_retain">Sair</string>
   <string name="microsoft_cloud">Serviço Nuvem Microsoft</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Cerca de 10,50 € por ano</string>
@@ -470,11 +468,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="verify">Verificar</string>
   <string name="view_storage_title">Espaço de armazenamento</string>
   <string name="voip_choose_sim">Escolher número de telefone para activar Voz Mi</string>
-  <string name="wipe_data_dialog_button_check_sync">Verificar sincronização</string>
-  <string name="wipe_data_dialog_msg">%s não foram sincronizados e vão permanecer no seu telefone</string>
-  <string name="wipe_data_dialog_msg_and_on">, e outros itens</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">Alguns itens não foram sincronizados</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Nuvem Mi</string>
   <string name="xmpp_server_addr"/>

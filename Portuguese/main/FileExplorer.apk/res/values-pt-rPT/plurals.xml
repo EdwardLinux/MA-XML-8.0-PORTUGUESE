@@ -203,7 +203,7 @@
   <plurals name="file_notify_title_wechat_video_auto_backup">
     <item quantity="other">Copiados %1$d vídeos WeChat</item>
     <item quantity="zero">Copiados %1$d vídeos WeChat</item>
-    <item quantity="one">Copiado %1$d vídeo WeChat</item>
+    <item quantity="one">Copiado 1 vídeo WeChat</item>
     <item quantity="two">Copiados %1$d vídeos WeChat</item>
     <item quantity="few">Copiados %1$d vídeos WeChat</item>
     <item quantity="many">Copiados %1$d vídeos WeChat</item>
