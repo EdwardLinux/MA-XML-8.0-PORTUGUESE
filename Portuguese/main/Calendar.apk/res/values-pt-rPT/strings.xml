@@ -298,9 +298,7 @@
   <string name="no_network_btn">Tente novamente</string>
   <string name="no_syncable_calendars">Sem calendários</string>
   <string name="no_title_label">(Sem título)</string>
-  <string name="not_synced">Não sincronizado</string>
-  <string name="online_calendar_activity_label">Subscrever para o calendário</string>
-  <string name="online_reminder_header_text">Memorizar</string>  <string name="not_exist_topic_list">Não é possível obter a lista do calendário</string>
+  <string name="not_exist_topic_list">Não é possível obter a lista do calendário</string>
   <string name="not_synced">Não sincronizado</string>
   <string name="notification_online">%1$s: %2$s个新事件</string>
   <string name="online_calendar_activity_label">Subscrever para o calendário</string>

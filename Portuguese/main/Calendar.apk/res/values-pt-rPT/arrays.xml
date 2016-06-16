@@ -155,7 +155,7 @@
         <item>Transparente</item>
         <item>Fundo branco</item>
     </string-array>
-    <string-array name="miui_reminder_minutes_labels">
+    <string-array name="reminder_minutes_labels">
         <item>Sem lembrete</item>
         <item>0 minutos</item>
         <item>5 minutos</item>
@@ -167,7 +167,7 @@
         <item>2 dias</item>
         <item>1 semana</item>
     </string-array>
-    <string-array name="miui_preferences_default_reminder_labels">
+    <string-array name="preferences_default_reminder_labels">
          <item>Sem lembrete</item>
          <item>0 minutos</item>
          <item>5 minutos</item>
