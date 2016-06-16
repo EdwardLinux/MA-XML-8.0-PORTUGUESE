@@ -1353,7 +1353,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="font_size_preview_text">Sirva a este homem uma cerveja e kiwis</string>
   <string name="font_size_save">OK</string>
   <string name="font_size_small">Menor</string>
-  <string name="font_size_summary">"Alterar o tamanho do texto para o ecrã inicial, notificações, telefone, e menus de sistema.
+  <string name="font_size_summary">"Alterar o tamanho do texto para o ecrã inicial, notificações, telefone, e menus de sistema
 
 "</string>
   <string name="font_size_summary1">"Se o tamanho do texto ainda é muito pequeno, tente "</string>
@@ -3020,7 +3020,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_sms_received">Mensagem recebida</string>
   <string name="search_sound_effects_enable_title">Sons de toque</string>
   <string name="search_sound_settings">Som e vibração;Volumes;Modo silêncio;Alarmes;Música;Vibração;Toque do telefone;Toque do telefone predefinido;Mensagem recebida;Mensagem entregue;Sons de toque;Som de bloqueio de ecrã;Definições de áudio;Suprimir ruído</string>
-  <string name="search_status_bar">Notificações das aplicacões;Posição dos atalhos;Mostrar velocidade da ligação;Mostrar nome da operadora;Mostrar notificação de captura de ecrã;Mostrar no ecrã de bloqueio</string>
+  <string name="search_status_bar">Notificações e barra de estado;Notificações das aplicacões;Posição dos atalhos;Mostrar velocidade da ligação;Mostrar nome da operadora;Mostrar notificação de captura de ecrã;Mostrar no ecrã de bloqueio</string>
   <string name="search_status_bar_settings_custom_carrier">Editar nome da operadora</string>
   <string name="search_status_bar_settings_expandable_under_keyguard">Mostrar no ecrã de bloqueio</string>
   <string name="search_status_bar_settings_show_carrier">Mostrar nome da operadora</string>
@@ -3232,7 +3232,7 @@ Para utilizar a fixação no ecrã:
   <string name="sim_change_data_message">Utilizar %1$s em vez de %2$s para dados de telemóvel?</string>
   <string name="sim_change_data_title">Alterar SIM de dados?</string>
   <string name="sim_change_failed">"Não é possível alterar o PIN.
-Possívelmente o PIN está errado."</string>
+Possívelmente o PIN está incorrecto"</string>
   <string name="sim_change_failed_enable_sim_lock">Activar agora o bloqueio do SIM</string>
   <string name="sim_change_pin">PIN do SIM</string>
   <string name="sim_change_succeeded">PIN do SIM alterado com sucesso</string>
@@ -3250,7 +3250,7 @@ Possívelmente o PIN está errado."</string>
   <string name="sim_enter_pin">PIN do SIM</string>
   <string name="sim_lock_change_not_supported">Não é possível alterar o bloqueio do SIM</string>
   <string name="sim_lock_failed">"Não é possível alterar o estado de bloqueio do cartão SIM.
-Possívelmente o código PIN está incorrecto."</string>
+Possívelmente o código PIN está incorrecto"</string>
   <string name="sim_lock_off">Exigir PIN para utilizar o telefone</string>
   <string name="sim_lock_on">Exigir PIN para utilizar o telefone</string>
   <string name="sim_lock_settings">Definições de bloqueio do cartão SIM</string>
@@ -3322,12 +3322,12 @@ Possívelmente o código PIN está incorrecto."</string>
 
 O seu administrador pode monitorizar a sua actividade da rede, incluido emails, aplicações e páginas de Internet seguras.
 
-Para mais informação contacte o seu administrador."</string>
+Para mais informação contacte o seu administrador"</string>
   <string name="ssl_ca_cert_settings_button">Verificar credenciais de confiança</string>
   <string name="ssl_ca_cert_warning">A rede poderá ser monitorizada</string>
   <string name="ssl_ca_cert_warning_message">"Software de terceiros podem monitorizar a sua actividade na rede, incluindo mensagens de email, aplicações e páginas de Internet seguras.
 
-Uma credencial de confiança instalada no seu dispositivo está a fazer isto possível."</string>
+Uma credencial de confiança instalada no seu dispositivo está a fazer isto possível"</string>
   <string name="stable_build">" | Stable"</string>
   <string name="starting_android">A iniciar o Android</string>
   <string name="status_awaiting_tap">Toque numa etiqueta para escrever…</string>
@@ -3876,7 +3876,7 @@ Qualquer utilizador pode actualizar aplicações para todos os outros utilizador
   <string name="user_dict_settings_context_menu_edit_title">Editar</string>
   <string name="user_dict_settings_edit_dialog_title">Editar palavra</string>
   <string name="user_dict_settings_empty_text">"Não tem palavras no dicionário do utilizador.
-Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
+Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="user_dict_settings_more_languages">Mais idiomas…</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Dicionário pessoal</string>
