@@ -8,6 +8,7 @@
   <string name="media_status_starting">A ligar…</string>
   <string name="media_status_stopped">Parado</string>
   <string name="media_status_stopping">A parar…</string>
+  <string name="prjection_title">Visualização sem fios</string>
   <string name="search_for_devices">Actualizar</string>
   <string name="wifi_display_autonomous_go">Activar GO autónomo</string>
   <string name="wifi_display_certification_heading">Certificação</string>

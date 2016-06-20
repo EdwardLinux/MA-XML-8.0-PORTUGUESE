@@ -78,6 +78,7 @@
   <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
   <string name="conference_caller_info_name">Chamada de conferência de %1$s</string>
   <string name="conference_caller_name_me">Eu</string>
+  <string name="conference_callers_exceeded">Excedido o número de pessoas em conferência</string>
   <string name="contactPhoto">Foto do contacto</string>
   <string name="contacts_icon_label">Contactos</string>
   <string name="default_area_code_setting">Código de área predefinido</string>
@@ -120,12 +121,12 @@
   <string name="incall_error_supp_service_unknown">Serviço não suportado.</string>
   <string name="incoming_answer_voice_text">Resposta de voz</string>
   <string name="incoming_call_forwarded_title">Reencaminhar chamadas recebidas</string>
-  <string name="incoming_circle_text_answer">Atender</string>
-  <string name="incoming_circle_text_answer_p">Atender</string>
-  <string name="incoming_circle_text_message">Responder com SMS</string>
-  <string name="incoming_circle_text_message_p">Responder com SMS</string>
-  <string name="incoming_circle_text_reject">Rejeitar</string>
-  <string name="incoming_circle_text_reject_p">Rejeitar</string>
+  <string name="incoming_circle_text_answer">Soltar</string>
+  <string name="incoming_circle_text_answer_p">Deslizar para cima</string>
+  <string name="incoming_circle_text_message">Soltar</string>
+  <string name="incoming_circle_text_message_p">Deslizar para cima</string>
+  <string name="incoming_circle_text_reject">Soltar</string>
+  <string name="incoming_circle_text_reject_p">Deslizar para cima</string>
   <string name="ivr_menu_dialing_msg">A reencaminhar…</string>
   <string name="ivr_menu_dialing_msg_no_mute">Ir para o serviço seleccionado…[Correcção de erros automática está activado]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Prima %s</string>

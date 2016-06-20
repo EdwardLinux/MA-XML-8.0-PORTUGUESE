@@ -1274,9 +1274,9 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="enforce_read_external_title">Proteger armazenamento USB</string>
   <string name="enhanced_4g_lte_mode_summary">Utilizar dados LTE para aumentar a voz e as comunicações (recomendado)</string>
   <string name="enhanced_4g_lte_mode_title">Modo 4G LTE avançado</string>
-  <string name="enter_password">Para iniciar o Android, introduza a palavra-passe</string>
-  <string name="enter_pattern">Para iniciar o Android, desenhe o seu padrão</string>
-  <string name="enter_pin">Para iniciar o Android, introduza o seu PIN</string>
+  <string name="enter_password">Introduza a palavra-passe actual para desencriptar o dispositivo após reiniciar</string>
+  <string name="enter_pattern">Introduza o padrão actual para desencriptar o dispositivo após reiniciar</string>
+  <string name="enter_pin">Introduza o PIN actual para desencriptar o dispositivo após reiniciar</string>
   <string name="erase_application">Eliminar aplicações</string>
   <string name="erase_application_description">Eliminar as aplicações transferidas</string>
   <string name="erase_data">Eliminar</string>
@@ -2298,6 +2298,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_app_invisible">Definições/Definições adicionais/Funcionalidades Beta/Aplicações invisíveis</string>
   <string name="path_app_permission">Definições/Permissões</string>
   <string name="path_app_switch_key">Definições/Definições adicionais/Botões/Recentes</string>
+  <string name="path_application_lock">Definições/Bloqueio de aplicacões</string>
   <string name="path_applications_settings">Definições/Aplicações instaladas</string>
   <string name="path_back_key">Definições/Definições adicionais/Botões/Voltar</string>
   <string name="path_battery_indicator_settings">Definições/Bateria e desempenho/Indicador de bateria</string>
@@ -2431,7 +2432,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_wifi_advanced_ip_address_title">Definições/Wi-Fi/Definições avançadas/Endereço IP</string>
   <string name="path_wifi_advanced_mac_address_title">Definições/Wi-Fi/Definições avançadas/Endereço MAC</string>
   <string name="path_wifi_display_settings">Definições/Mais/Visualização sem fios</string>
-  <string name="path_wifi_enable">Definições/Wi-Fi/Activar Wi-Fi</string>
+  <string name="path_wifi_enable">Definições/Wi-Fi/Ligar Wi-Fi</string>
   <string name="path_wifi_install_credentials">Definições/Wi-Fi/Definições avançadas/Instalar certificados</string>
   <string name="path_wifi_menu_p2p">Definições/Wi-Fi/Definições avançadas/Wi-Fi Directo</string>
   <string name="path_wifi_menu_wps_pin">Definições/Wi-Fi/Definições avançadas/Pin de entrada WPS</string>
@@ -3089,7 +3090,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_wifi_wapi_cert_uninstall">Desinstalar certificados WAPI</string>
   <string name="search_wps_connect_title">Ligar WPS</string>
   <string name="search_xiaomi_account">Conta Mi</string>
-  <string name="search_xspace">XSpace</string>
+  <string name="search_xspace">Aplicações clonadas</string>
   <string name="search_zen_mode_option_miui_silent">Modo silêncio</string>
   <string name="second_space">Segundo espaço</string>
   <string name="secure_keyguard_business_title">&gt;Definir bloqueio de ecrã</string>

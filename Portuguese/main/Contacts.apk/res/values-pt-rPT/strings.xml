@@ -248,7 +248,6 @@
   <string name="contactsJoinedMessage">Contactos associados</string>
   <string name="contactsList">Contactos</string>
   <string name="contacts_hybrid_activity_label">Recuperar contactos</string>
-  <string name="contacts_in_call_show">Vídeo do %s</string>
   <string name="contacts_setting_title">Definições dos contactos</string>
   <string name="contacts_unavailable_add_account">Iniciar sessão numa conta</string>
   <string name="contacts_unavailable_create_contact">Criar novo contacto</string>
@@ -330,7 +329,6 @@
   <string name="description_view_contact_detail">Ver contacto</string>
   <string name="description_voicemail_button">Voice Mail</string>
   <string name="deselect_all">Desmarcar tudo</string>
-  <string name="details_list_group_header_more_action">Mais</string>
   <string name="details_list_group_header_other">Outros</string>
   <string name="device_bluetooth_title">Transferir contactos</string>
   <string name="device_brand_title">Escolher uma marca</string>
@@ -392,6 +390,8 @@
   <string name="display_warn_remove_ungrouped">Remover \"%s\" da sincronização também vai remover da sincronização contactos desagrupados</string>
   <string name="duplicate_group_name">Um grupo com este nome já existe</string>
   <string name="editContactDescription">Editar contacto</string>
+  <string name="editContactNameExpandCloseDescription">Fechar nome</string>
+  <string name="editContactNameExpandOpenDescription">Expandir nome</string>
   <string name="editGroupDescription">Editar grupo</string>
   <string name="edit_contact">Editar contacto</string>
   <string name="edit_contact_card_title">Editar cartão de contacto</string>
@@ -410,6 +410,8 @@
   <string name="eventLabelsGroup">Aniversário</string>
   <string name="eventTypeCustom">Personalizado</string>
   <string name="event_edit_field_hint_text">Data</string>
+  <string name="expandCloseViewDescription">Fechar</string>
+  <string name="expandOpenViewDescription">Expandir</string>
   <string name="export_sim_contact_finish">Contactos exportados</string>
   <string name="export_sim_contact_finish_msg">%1$d transferidos | %2$d duplicados | %3$d restante%4$s</string>
   <string name="export_to_sdcard">Exportar para o armazenamento</string>
@@ -533,37 +535,6 @@ Motivo: \"%s\""</string>
   <string name="importing_vcard_canceled_title">Importação %s foi cancelada</string>
   <string name="importing_vcard_description">A importar %s</string>
   <string name="importing_vcard_finished_title">Importação de vCard %s concluída</string>
-  <string name="in_call_show">Vídeo</string>
-  <string name="in_call_show_camera_open_error">"Não foi possível abrir a câmara"</string>
-  <string name="in_call_show_delete_message">Eliminar o seu vídeo?</string>
-  <string name="in_call_show_delete_title">Eliminar vídeo?</string>
-  <string name="in_call_show_demo_present">Pré-visualizar</string>
-  <string name="in_call_show_filter_brannan">Amanhecer</string>
-  <string name="in_call_show_filter_earlybird">Outono</string>
-  <string name="in_call_show_filter_jstyle">Japonês</string>
-  <string name="in_call_show_filter_mono">Mono</string>
-  <string name="in_call_show_filter_nashvile">Indigo</string>
-  <string name="in_call_show_filter_none">Normal</string>
-  <string name="in_call_show_filter_process_error">Ocorreu um erro, por favor repita</string>
-  <string name="in_call_show_filter_processing">A processar…</string>
-  <string name="in_call_show_filter_vivid">Vívido</string>
-  <string name="in_call_show_guide_intro">"Gravar um vídeo de perfil
-  que vai ser reproduzido nos dispositivos de outros utilizadores MIUI quando telefonar"</string>
-  <string name="in_call_show_guide_start_recording">Gravar agora</string>
-  <string name="in_call_show_guide_title">Vídeo de perfil</string>
-  <string name="in_call_show_long_press_to_record">Prima e segure para gravar</string>
-  <string name="in_call_show_pick_video">Escolher vídeo</string>
-  <string name="in_call_show_preview">Pré-visualizar</string>
-  <string name="in_call_show_preview_reshoot">Repetir</string>
-  <string name="in_call_show_recording">A gravar…</string>
-  <string name="in_call_show_reshoot">Gravar novamente</string>
-  <string name="in_call_show_save_completed">Vídeo de perfil gravado</string>
-  <string name="in_call_show_save_failed">"Não foi possível gravar o vídeo"</string>
-  <string name="in_call_show_tap_to_show_demo">Toque no ecrã para pré-visualizar</string>
-  <string name="in_call_show_too_short">Demasiado curto. Tente gravar um vídeo mais longo</string>
-  <string name="in_call_show_video_pick">Escolher</string>
-  <string name="in_call_show_video_pick_filter">"Vídeo tem que ser menor que 3 MB e ter menos de 20 segundos "</string>
-  <string name="in_call_show_view_play_error">"Não foi possível reproduzir vídeo"</string>
   <string name="insertContactDescription">Criar contacto</string>
   <string name="insertGroupDescription">Criar grupo</string>
   <string name="invalidContactMessage">O contacto não existe</string>
@@ -611,6 +582,7 @@ Motivo: \"%s\""</string>
   <string name="map_work">Ver endereço do trabalho</string>
   <string name="meid">"MEID: "</string>
   <string name="meid_invalid">MEID inválido</string>
+  <string name="menuMoreDescription">Mais</string>
   <string name="menu_accounts">Contas</string>
   <string name="menu_addStar">Favoritos</string>
   <string name="menu_bar_group_add">Adicionar</string>
@@ -735,7 +707,6 @@ Motivo: \"%s\""</string>
   <string name="multi_number_title">Chamada em conferência</string>
   <string name="multipleContactDeleteConfirmation">Eliminar este contacto vai eliminar informações de várias contas</string>
   <string name="multipleContactDeleteConfirmationDetail">Eliminar \"%s\" eliminar informações de várias contas</string>
-  <string name="my_in_call_show">Meu vídeo</string>
   <string name="my_phone_not_provider_bluetooth">O meu telefone não tem Bluetooth</string>
   <string name="my_phone_provider_bluetooth">O meu telefone tem Bluetooth</string>
   <string name="nameLabelsGroup">Nome</string>

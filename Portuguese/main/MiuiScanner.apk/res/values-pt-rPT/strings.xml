@@ -132,6 +132,8 @@
   <string name="shopping_title">Tirar uma foto do produto</string>
   <string name="shopping_vendor_info">Fornecido por Taobao</string>
   <string name="spaceIsLow_content">Sem espaço suficiente no cartão SD. Liberte algum espaço</string>
+  <string name="study_report_title">Reportar</string>
+  <string name="study_rotate_picture">A processar a foto</string>
   <string name="study_scan_result">Resultados</string>
   <string name="study_searching">A pesquisar resultados</string>
   <string name="study_title">Tirar uma foto do problema</string>

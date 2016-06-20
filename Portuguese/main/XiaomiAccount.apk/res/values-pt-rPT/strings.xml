@@ -137,6 +137,7 @@
   <string name="logout_failed">Não é possível terminar sessão</string>
   <string name="mi_account_identity_title">Verificar a sua identidade</string>
   <string name="mi_pass">Passe Mi</string>
+  <string name="mi_pay_identity">Identidade</string>
   <string name="micloud_account_name">Conta Mi</string>
   <string name="micloud_space_info">%s disponível</string>
   <string name="mili_center">Créditos Mi</string>

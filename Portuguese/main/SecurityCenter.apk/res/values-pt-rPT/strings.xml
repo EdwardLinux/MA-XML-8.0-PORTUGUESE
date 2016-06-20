@@ -236,6 +236,8 @@ ou introduzir palavra-passe do Bloqueio de aplicações"</string>
   <string name="connect_internet_by_usbshare">Internet partilhada por USB</string>
   <string name="connect_internet_by_wifi">Wi-Fi</string>
   <string name="continue_install">Instalar</string>
+  <string name="convenient_mode">Desbloquear todas as aplicações</string>
+  <string name="convenient_summary">Não necessitar de palavra-passe após uma aplicação ter sido desbloqueada</string>
   <string name="correction_attention_dialog_message">A ajustar definições neste momento. Aguarde que o processo conclua e tente novamente</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Cancelar</string>

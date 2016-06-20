@@ -197,6 +197,7 @@
   <string name="pull_to_refresh_release_label">Soltar para actualizar</string>
   <string name="refresh">Actualizar</string>
   <string name="reply">Responder</string>
+  <string name="reply_failed">Responder falhou</string>
   <string name="report_miui">Reportar erro</string>
   <string name="request_empty_data">Sem dados</string>
   <string name="save_pic">Guardar</string>

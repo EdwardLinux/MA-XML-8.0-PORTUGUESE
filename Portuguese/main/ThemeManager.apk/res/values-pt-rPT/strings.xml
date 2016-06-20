@@ -81,6 +81,9 @@
   <string name="gift_use_confirmation_dlg_title">Enviar este presente?</string>
   <string name="gift_use_fail_dlg_title">Aconteceu algo errado</string>
   <string name="gift_used">Enviar</string>
+  <string name="incompatible_dialog_message">Este tema não é totalmente compatível com MIUI 8. Alguns elementos podem ser mostrados incorrectamente</string>
+  <string name="incompatible_dialog_ok">Percebi</string>
+  <string name="incompatible_dialog_title">Problemas de compatibilidade</string>
   <string name="live_wallpaper">Papéis de parede ao vivo</string>
   <string name="loading">Aguarde…</string>
   <string name="loading_resource_detail_fail">Não é possível carregar o recurso</string>
@@ -316,7 +319,7 @@
   <string name="theme_batch_update_dlg_content_single">Actualizar %1$s agora?</string>
   <string name="theme_batch_update_dlg_title">Actualizar tema</string>
   <string name="theme_batch_updating_text">A actualizar (%1$d)</string>
-  <string name="theme_bug_report">Reportar erros</string>
+  <string name="theme_bug_report">Comentários</string>
   <string name="theme_changed_failed_message">Não é possível aplicar tema</string>
   <string name="theme_changed_message">Tema aplicado</string>
   <string name="theme_changing_dialog_title">"A aplicar "</string>
