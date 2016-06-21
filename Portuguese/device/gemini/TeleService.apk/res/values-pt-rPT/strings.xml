@@ -788,6 +788,7 @@ Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções.
   <string name="path_telocation_enable_title">Aplicações de sistema/Telefone/Localização/Mostrar localização</string>
   <string name="path_turnover_mute_title">Aplicações de sistema/Telefone/Definições das chamadas recebidas/Inverter para silenciar</string>
   <string name="path_voicemail_settings">Aplicações de sistema/Telefone/Definições avançadas/Definir</string>
+  <string name="path_voip_setting">Aplicações de sistema/Telefone/Definições VoIP</string>
   <string name="pause_prompt_no">Não</string>
   <string name="pause_prompt_str">"A enviar tons
 "</string>

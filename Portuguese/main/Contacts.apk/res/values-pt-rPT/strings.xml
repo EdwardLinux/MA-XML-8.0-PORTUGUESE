@@ -448,6 +448,8 @@ Motivo: \"%s\""</string>
   <string name="favorites_list_empty">Sem favoritos</string>
   <string name="firewall_setting">Lista de bloqueio</string>
   <string name="followed_yellowpage">Contas verificadas</string>
+  <string name="force_touch_miprofile">Cartão de contacto</string>
+  <string name="force_touch_new_contact">Novo contacto</string>
   <string name="foundTooManyContacts">Encontrados mais de %d</string>
   <string name="frequentList">Frequentes</string>
   <string name="from_account_format">%1$s</string>
