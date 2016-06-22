@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="group_move_success_toast">
-        <item quantity="other">%1$d movidos com sucesso</item>
+        <item quantity="other">Movidos %1$d contactos</item>
     </plurals>
     <plurals name="group_copy_success_toast">
-        <item quantity="other">%1$d copiados com sucesso</item>
+        <item quantity="other">Copiados %1$d contactos</item>
     </plurals>
     <plurals name="batch_delete_msg">
         <item quantity="other">Eliminar %d contactos?</item>

@@ -290,10 +290,10 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="filter">Filtrar</string>
   <string name="filter_a4_aesthetic">Refinado</string>
   <string name="filter_clarendon_fresh">Fresco</string>
-  <string name="filter_crema_elegant">Crema</string>
+  <string name="filter_crema_elegant">Rústico</string>
   <string name="filter_f2_classic">Clássico</string>
   <string name="filter_food">Comida</string>
-  <string name="filter_hudson_blues">Hudson</string>
+  <string name="filter_hudson_blues">Gelado</string>
   <string name="filter_japan_style_cool">Frio</string>
   <string name="filter_loft_twilight">Twilight</string>
   <string name="filter_original">Nenhum</string>
@@ -654,7 +654,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="video_editor_cancel">Cancelar</string>
   <string name="video_editor_done">Concluído</string>
   <string name="video_editor_down_load_later">Mais tarde</string>
-  <string name="video_editor_down_load_no_wifi_tips">Apenas pode transferir em Wi-Fi</string>
+  <string name="video_editor_down_load_no_wifi_tips">Ligue-se ao Wi-Fi para transferir</string>
   <string name="video_editor_down_load_now">Transferir</string>
   <string name="video_editor_encode_video">A codificar vídeo…</string>
   <string name="video_editor_encode_video_error">Não foi possível codificar vídeo</string>
@@ -676,8 +676,8 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="video_editor_more">Avançado</string>
   <string name="video_editor_not_support_tips">Esses ficheiros de vídeo não são suportados</string>
   <string name="video_editor_ok">OK</string>
-  <string name="video_editor_res_not_load_dialog_msg">Para utilizar, tem de transferir os pacotes de recursos</string>
-  <string name="video_editor_res_not_load_dialog_title">Necessário transferir</string>
+  <string name="video_editor_res_not_load_dialog_msg">Transferir o plug-in para utilizar esta funcionalidade</string>
+  <string name="video_editor_res_not_load_dialog_title">Transferência necessária</string>
   <string name="video_editor_template_family">Família</string>
   <string name="video_editor_template_forbidden_tips">Não é possível fazer isto quando estiver a utilizar um template</string>
   <string name="video_editor_template_oldfilm">Vintage</string>

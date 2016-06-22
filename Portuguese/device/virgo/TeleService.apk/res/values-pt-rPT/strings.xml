@@ -1021,6 +1021,7 @@ O cartão SIM será bloqueado após nova tentativa falhada"</string>
   <string name="simContacts_empty">Sem contactos no cartão SIM</string>
   <string name="simContacts_emptyLoading">A ler a partir do cartão SIM…</string>
   <string name="simContacts_title">Gerir contactos do cartão SIM</string>
+  <string name="simFdnContacts_empty">Sem contactos de marcação fixa</string>
   <string name="sim_card_activate">Verificação do SIM</string>
   <string name="sim_card_num">SIM %s</string>
   <string name="sim_contact_name">Nome</string>

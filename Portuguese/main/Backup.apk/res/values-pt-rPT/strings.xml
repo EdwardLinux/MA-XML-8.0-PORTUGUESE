@@ -343,5 +343,5 @@ e Transferências estão activas"</string>
 Tamanho: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"A introduzir a versão %1$s
 Tamanho da actualização Delta: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">Nova versão disponível!</string>
+  <string name="xiaomi_update_dialog_title">Actualização disponível</string>
 </resources>

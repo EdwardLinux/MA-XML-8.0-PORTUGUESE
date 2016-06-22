@@ -123,6 +123,7 @@ Pode também transferi-las separadamente"</string>
   <string name="private_space_setting">Gerir</string>
   <string name="public_app">Ambos os espaços</string>
   <string name="removeSuccess">Eliminado com sucesso</string>
+  <string name="remove_second_space_msg">删除手机分身,分身内的所有数据将丢失且无法恢复.确定要删除手机分身吗?</string>
   <string name="removingSpace">A eliminar…</string>
   <string name="restore_normal_show">Não mostrar mensagens privadas</string>
   <string name="restore_show_desc">Não mostrar mensagens privadas no segundo espaço. Elas ainda vão estar disponíveis no primeiro espaço</string>

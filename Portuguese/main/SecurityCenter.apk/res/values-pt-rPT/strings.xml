@@ -196,6 +196,7 @@ ou introduzir palavra-passe do Bloqueio de aplicações"</string>
   <string name="button_text_cleanup">Limpar</string>
   <string name="button_text_clear">Limpar</string>
   <string name="button_text_create_shortcut">Criar atalho no ecrã inicial</string>
+  <string name="button_text_deny">Negar</string>
   <string name="button_text_disconnect_now">Desligar</string>
   <string name="button_text_fix">Corrigir</string>
   <string name="button_text_fix_now">Corrigir</string>
@@ -689,6 +690,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="notification_battery_consume_abnormal_title">A bateria está a descarregar muito depressa</string>
   <string name="notification_battery_over_heat_summary">Descobrir as causas do aquecimento</string>
   <string name="notification_battery_over_heat_title">Temperatura actual %d℃</string>
+  <string name="notification_charging_title">A carregar</string>
   <string name="notification_exit_power_save_mode">Poupança de bateria desligada</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria carregada a %s</string>
   <string name="notification_item">Proteger as aplicações seleccionadas com o Bloqueio de aplicações</string>
@@ -774,9 +776,9 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="power_cell">Inactividade do telefone</string>
   <string name="power_center_auto_shutdown">Definições de ligar/desligar automático</string>
   <string name="power_center_battery_full">Bateria completamente carregada</string>
-  <string name="power_center_charge_time">%1$saté estar carregada</string>
+  <string name="power_center_charge_time">%1$s até estar carregada</string>
   <string name="power_center_consume_rank">Utilização de bateria</string>
-  <string name="power_center_consume_time">%1$srestantes</string>
+  <string name="power_center_consume_time">%1$s restantes</string>
   <string name="power_center_custom_title">Perfis de bateria</string>
   <string name="power_center_ontime_boot">Hora de ligar</string>
   <string name="power_center_ontime_shutdown">Hora de desligar</string>
@@ -1419,6 +1421,7 @@ Dados restantes incluem dados que foram passados do mês anterior."</string>
   <string name="usb_install_desc">Instalar esta aplicação via USB?</string>
   <string name="virus_list_header_title">%d vírus detectados</string>
   <string name="voltage_symbol">V</string>
+  <string name="wakepath_confirm_start_activity">Permitir que %1$s possa abrir %2$s?</string>
   <string name="warning_open_mi_sim">Ligar SIM Mi</string>
   <string name="wifi_exception_summary">Testar redes Wi-Fi disponíveis</string>
   <string name="wifi_exception_title">Testar rede Wi-Fi</string>

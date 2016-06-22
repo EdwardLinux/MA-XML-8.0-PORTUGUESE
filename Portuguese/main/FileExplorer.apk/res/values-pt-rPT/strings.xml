@@ -4,6 +4,7 @@
   <string name="account_login_title">Conta</string>
   <string name="action_mode_deselect_all">Desmarcar tudo</string>
   <string name="action_mode_select_all">Seleccionar tudo</string>
+  <string name="activity_parse_video_title">Colar URL</string>
   <string name="activity_rule">Regras</string>
   <string name="ad_download">Transferir</string>
   <string name="ad_downloading">Aguarde…</string>
@@ -12,6 +13,8 @@
   <string name="add_private_files">Adicionar ficheiros</string>
   <string name="add_task">Adicionar tarefas</string>
   <string name="adding_upload_tasks">A adicionar tarefas#8230;</string>
+  <string name="album_creator">Criado por %s</string>
+  <string name="album_name">Selecção diária: %s</string>
   <string name="all_topic">Todos os tópicos</string>
   <string name="already_liked">Já adiconou este item aos Favoritos</string>
   <string name="already_signin_description">Já foi deu entrada hoje</string>
@@ -173,6 +176,7 @@
   <string name="downloading_in_3g">A transferir em 3G…</string>
   <string name="drive_closed">Sem sessão iniciada</string>
   <string name="drive_opened">Com sessão iniciada</string>
+  <string name="editor_commend">Editar</string>
   <string name="email_platform">Email</string>
   <string name="empty_comment">O comentários não podem estar vazios</string>
   <string name="empty_file_download">Não é possível transferir ficheiros vazios</string>
@@ -245,12 +249,15 @@
   <string name="hot_comments">Comentários em destaque</string>
   <string name="hot_sticker">Stickers</string>
   <string name="hot_video">Vídeos</string>
+  <string name="hot_video_load_more">Mais &gt;</string>
   <string name="hottest_sticker_str">Populares</string>
   <string name="if_cancel">Cancelar esta operação?</string>
   <string name="image_loading_error">Não foi possível carregar imagem</string>
   <string name="input_memo_hint">Introduzir razões adicionais (opcional)</string>
   <string name="instruction">"Introduza o seguinte endereço no cliente FTP: "</string>
   <string name="instruction_pre">Toque para iniciar o servidor FTP</string>
+  <string name="interest_recommend">Vídeos recomendados</string>
+  <string name="join_activity">Participar</string>
   <string name="just_now">agora mesmo</string>
   <string name="kilobyteShort">KB</string>
   <string name="kp_category_all">Categorias</string>
@@ -336,7 +343,7 @@
   <string name="midrop_msg_1">Ligar Mi Drop nos outros dispositivos</string>
   <string name="midrop_msg_2">Quando Mi Drop estiver ligado, pode pesquisar dispositivos próximos e enviar ficheiros</string>
   <string name="midrop_send_files">Escolher ficheiros para enviar</string>
-  <string name="migrate_announcement_msg">O KuaiPan vai parar de funcionar no dia 30 de Junho de 2016. Nós sugerimos que mova os seu ficheiros para o Mi Drive agora. Não é necessária uma ligação de dados porque a transferência vai ocorrer nos nossos servidores. Durante a migração, vão ser paradas todas as transferências</string>
+  <string name="migrate_announcement_msg">O KuaiPan vai parar de funcionar no dia 30 de Junho de 2016. Nós sugerimos que mova os seu ficheiros para o Mi Drive agora. Não é necessária uma ligação de dados porque a transferência vai ocorrer nos nossos servidores. Durante a migração, vão ser paradas todas as transferências. O Mi Drive e a Nuvem Mi vão partilhar o armazenamento</string>
   <string name="migrate_announcement_title">KuaiPan está a ser substituído pelo Mi Drive</string>
   <string name="migrate_cancel">Cancelar</string>
   <string name="migrate_confirm">Transferir</string>
@@ -580,7 +587,7 @@ e nunca perca as novidades!"</string>
   <string name="repair_error">Não foi possível restaurar</string>
   <string name="repair_file">Restaurar ficheiros encriptados</string>
   <string name="repeat_upload_video">Este vídeo já foi partilhado. Escolha outro</string>
-  <string name="reply_success">O comentário vai ser mostrado após aprovação</string>
+  <string name="reply_success">O comentário adicionado</string>
   <string name="report_abuse">Abusos</string>
   <string name="report_advertisement">Anúncios</string>
   <string name="report_other">Outros</string>
@@ -682,6 +689,7 @@ e nunca perca as novidades!"</string>
   <string name="stay_awake_summary">Não deixar o ecrã entrar em modo de suspensão quando estiver a utilizar FTP</string>
   <string name="stay_awake_title">Manter o ecrã ligado</string>
   <string name="stop_server">Parar servidor</string>
+  <string name="storage_cloned_app">Armazenamento para as aplicações clonadas</string>
   <string name="storage_info">%1$s disponível</string>
   <string name="storage_info_detail">Disponível: %1$s Total: %2$s</string>
   <string name="storage_internal">Armazenamento interno</string>
@@ -713,6 +721,7 @@ e nunca perca as novidades!"</string>
   <string name="tab_storage">Armazenamento</string>
   <string name="tag_weixin_video">Vídeos</string>
   <string name="terabyteShort">TB</string>
+  <string name="title_album">Álbuns</string>
   <string name="title_app_tags">Aplicações</string>
   <string name="title_enable_documentsui">Ligar DocumentsUI</string>
   <string name="title_expire_video">Mesmo a expirar</string>
@@ -746,6 +755,10 @@ e nunca perca as novidades!"</string>
   <string name="ui_main_toast_operation_failed">Não é possível remover %1$s dos favoritos</string>
   <string name="unmount_inform_text">Desmontar armazenamento USB?</string>
   <string name="unreviewed_video_cannot_share">Os vídeos devem ser analisados antes de serem partilhados</string>
+  <string name="upload_external_action_hint">Colar URL</string>
+  <string name="upload_external_notification_failed">Não foi possível publicar</string>
+  <string name="upload_external_notification_success">Publicado com sucesso</string>
+  <string name="upload_external_notification_title">A publicar</string>
   <string name="upload_failed">Não foi possivel enviar</string>
   <string name="upload_file_toolarge_message">%1$d é demasiado grande. Não é possível enviar ficheiros maiores que 300MB</string>
   <string name="upload_local_video">Partilhar vídeo</string>
@@ -761,6 +774,7 @@ e nunca perca as novidades!"</string>
   <string name="upload_video_dialog_message">O seu vídeo vai ser mostrado nos vídeos populares depois de ser verificado</string>
   <string name="upload_video_dialog_title">Vídeo partilhado</string>
   <string name="upload_video_failed">Não foi possível partilhar o vídeo. Tente novamente</string>
+  <string name="upload_video_forbidden">Não envie vídeos iguais</string>
   <string name="upload_video_success">A verificar vídeo…</string>
   <string name="upload_video_tip">Não é possível partilhar mais do que um vídeo ao mesmo tempo</string>
   <string name="uploading">A enviar</string>
@@ -809,6 +823,13 @@ e nunca perca as novidades!"</string>
   <string name="video_data_consumption_confirm">OK</string>
   <string name="video_data_consumption_dialog_message">Enviar vai necessitar de %1$s de dados móveis</string>
   <string name="video_data_consumption_dialog_title">Aviso de dados móveis</string>
+  <string name="video_parse_btn">Iniciar</string>
+  <string name="video_parse_error_repeated">Não envie vídeos iguais</string>
+  <string name="video_parse_error_unknown">Este serviço de vídeo não é suportado. Tente um diferente</string>
+  <string name="video_parse_hint">Aplicações suportadas: WeChat, Weibo, Youku</string>
+  <string name="video_parse_success">Analizado com sucesso</string>
+  <string name="video_parse_timeout">Erro. Tente novamente</string>
+  <string name="video_parsing_btn">A analizar…</string>
   <string name="video_play_failed">Erro desconhecido</string>
   <string name="video_publish_hint">Uma boa descrição vai ajudar outras pessoas a encontrar o seu vídeo</string>
   <string name="video_releasing">A enviar…</string>
