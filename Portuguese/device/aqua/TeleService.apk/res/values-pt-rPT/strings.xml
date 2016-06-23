@@ -432,7 +432,7 @@
   <string name="flash_when_ring_summary">Acender luz de flash para chamadas recebidas</string>
   <string name="flash_when_ring_title">Acender flash quando tocar</string>
   <string name="fw_change_failed">"Não foi possível alterar o número de reencaminhamento.
-Contacte a sua operadora se este problema persistir."</string>
+Contacte a sua operadora se este problema persistir"</string>
   <string name="fw_get_in_vm_failed">"Não foi possível recuperar e guardar as definições actuais do número de reencaminhamento.
 Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="general_news_settings">Notícias Gerais</string>
@@ -591,8 +591,8 @@ Carregue e comece a falar"</string>
   <string name="livetalk_user_config_title">Verificar número de telefone</string>
   <string name="livetalk_welcome_description_text">"• Poupe até 70% nas suas tarifas de chamadas.
 • Telefone para qualquer país do mundo, não há restrições de operadora.
-• Carregue e comece a falar, não há definições complicadas."</string>
-  <string name="livetalk_welcome_notes_text">"Nota: Cada chamada necessita de 1KB de dados móveis. Números curtos e de serviço não são suportados. Se pagar por chamadas recebidas, vai ser cobrado pela operadora quando o roaming estiver ligado. A sua operadora pode cobrar por um SMS utilizado para verificar este número de telefone."</string>
+• Carregue e comece a falar, não há definições complicadas"</string>
+  <string name="livetalk_welcome_notes_text">"Nota: Cada chamada necessita de 1KB de dados móveis. Números curtos e de serviço não são suportados. Se pagar por chamadas recebidas, vai ser cobrado pela operadora quando o roaming estiver ligado. A sua operadora pode cobrar por um SMS utilizado para verificar este número de telefone"</string>
   <string name="livetalk_white_list_number_title">Fazer chamada normal</string>
   <string name="load_networks_progress">A pesquisar…</string>
   <string name="loading">Aguarde…</string>
@@ -677,28 +677,28 @@ Carregue e comece a falar"</string>
   <string name="national_enable">Notícias Nacionais está ligado</string>
   <string name="network_4G">4G (recomendado)</string>
   <string name="network_error_message">Mensagem de erro</string>
-  <string name="network_error_message_livetalk">Tente fazer uma chamada normal. Será cobrado pela operadora.</string>
+  <string name="network_error_message_livetalk">Tente fazer uma chamada normal. Será cobrado pela operadora</string>
   <string name="network_error_title">Erro de rede</string>
   <string name="network_global">Global</string>
   <string name="network_id">ID de Rede</string>
   <string name="network_info_message">Mensagem de rede</string>
   <string name="network_lte">LTE (recomendado)</string>
   <string name="network_message">Mensagem de rede</string>
-  <string name="network_query_error">Erro ao procurar redes.</string>
+  <string name="network_query_error">Erro ao procurar redes</string>
   <string name="network_settings_auto_select_title">Fechar auto seleccionar</string>
   <string name="network_settings_automatically_option">Escolher rede preferida automaticamente (%s)</string>
   <string name="network_settings_confirm_message">Talvez a rede não esteja disponível, tem a certeza?</string>
-  <string name="network_settings_data_connected_change">É necessário desligar os dados móveis enquanto está a mudar para outra rede.</string>
+  <string name="network_settings_data_connected_change">É necessário desligar os dados móveis enquanto está a mudar para outra rede</string>
   <string name="network_settings_duringcall">Operação não permitida durante uma chamada</string>
   <string name="network_settings_forbidden">%s (proibido)</string>
   <string name="network_settings_information">Desligar os dados móveis primeiro</string>
   <string name="network_settings_next">Seguinte</string>
-  <string name="network_settings_query_failed_message">Não foi possível pesquisar redes móveis.</string>
+  <string name="network_settings_query_failed_message">Não foi possível pesquisar redes móveis</string>
   <string name="network_settings_select_automatic_hint">"Não foi possível registar na rede seleccionada.
-Será utilizada a rede preferida em vez."</string>
+Será utilizada a rede preferida em vez"</string>
   <string name="network_settings_turn_off">desligar</string>
-  <string name="network_settings_warn_message">O dispositivo apenas vai ligar a redes que seleccionou manualmente.</string>
-  <string name="network_unconnected_message_livetalk">Erro de rede. Tente fazer uma chamada normal. Irá ser cobrado pela operadora.</string>
+  <string name="network_settings_warn_message">O dispositivo apenas vai ligar a redes que seleccionou manualmente</string>
+  <string name="network_unconnected_message_livetalk">Erro de rede. Tente fazer uma chamada normal. Irá ser cobrado pela operadora</string>
   <string name="network_unconnected_title">Erro de rede</string>
   <string name="network_unlock">Desbloquear</string>
   <string name="networks">Operadores de rede</string>
@@ -711,21 +711,21 @@ Será utilizada a rede preferida em vez."</string>
   <string name="no_balance_message">Sem saldo suficiente no seu pacote de carregamento. Pode fazer uma chamada normal em vez</string>
   <string name="no_balance_title">Sem saldo suficiente</string>
   <string name="no_call_barring">Sem barramentos</string>
-  <string name="no_change">Não foram feitas alterações.</string>
+  <string name="no_change">Não foram feitas alterações</string>
   <string name="no_data">Sem dados</string>
-  <string name="no_internet_available">Para fazer uma chamada pela Internet, tem de ter uma ligação à Internet.</string>
+  <string name="no_internet_available">Para fazer uma chamada pela Internet, tem de ter uma ligação à Internet</string>
   <string name="no_more">Não mais</string>
   <string name="no_sim_card">Inserir cartão SIM</string>
   <string name="no_vm_number">Número de Voice Mail em falta</string>
   <string name="no_vm_number_msg">Não existe número de Voice Mail armazenado no cartão SIM</string>
   <string name="no_voip">Chamadas pela Internet não suportadas</string>
-  <string name="no_wifi_available">Precisa de estar ligado a uma rede Wi-Fi para fazer chamadas pela Internet (utilize o Wi-Fi e Definições de rede).</string>
-  <string name="not_a_valid_port">O número da porta deve ser entre 1000 e 65534.</string>
+  <string name="no_wifi_available">Precisa de estar ligado a uma rede Wi-Fi para fazer chamadas pela Internet (utilize o Wi-Fi e Definições de rede)</string>
+  <string name="not_a_valid_port">O número da porta deve ser entre 1000 e 65534</string>
   <string name="not_activate_sim_card_content">O pacote de carregamento não foi verificado para o cartão SIM seleccionado. Tente usar o seu cartão SIM para fazer esta chamada. A sua operadora vai cobrar por esta chamada</string>
   <string name="not_activate_sim_card_content_title">"O número de telefone não foi ainda verificado"</string>
   <string name="not_activate_sim_card_content_with_operator">O pacote de carregamento não foi verificado para o cartão SIM %1$s(%2$s). Tente usar o seu cartão SIM para fazer esta chamada. A sua operadora vai cobrar por esta chamada</string>
-  <string name="not_allowed">O seu cartão SIM não permite ligar a esta rede.</string>
-  <string name="not_sufficient_funds_content">Sem saldo suficiente na sua conta. Tente utilizar o SIM para fazer esta chamada. A sua operadora vai cobrar por esta chamada.</string>
+  <string name="not_allowed">O seu cartão SIM não permite ligar a esta rede</string>
+  <string name="not_sufficient_funds_content">Sem saldo suficiente na sua conta. Tente utilizar o SIM para fazer esta chamada. A sua operadora vai cobrar por esta chamada</string>
   <string name="not_sufficient_funds_content_title">Sem saldo</string>
   <string name="not_support_message">Os pacotes de carregamento não suportam este tipo de números neste momento. Pode tentar fazer uma chamada normal</string>
   <string name="not_support_title">Número não suportado</string>
@@ -739,8 +739,8 @@ Será utilizada a rede preferida em vez."</string>
   <string name="notification_voicemail_title">Nova mensagem de voz</string>
   <string name="notification_voicemail_title_count">Nova mensagem de voz (%d)</string>
   <string name="number">Número</string>
-  <string name="nw_subset_unlock_failed">O pedido de desbloqueio do subconjunto do cartão SIM falhou.</string>
-  <string name="nw_subset_unlock_success">Subconjunto do cartão SIM desbloqueado.</string>
+  <string name="nw_subset_unlock_failed">O pedido de desbloqueio do subconjunto do cartão SIM falhou</string>
+  <string name="nw_subset_unlock_success">Subconjunto do cartão SIM desbloqueado</string>
   <string name="ok">OK</string>
   <string name="oldPin2Label">PIN2 antigo</string>
   <string name="oldPinLabel">PIN antigo</string>
@@ -761,7 +761,7 @@ Será utilizada a rede preferida em vez."</string>
   <string name="onscreenVideoCallText">Videochamada</string>
   <string name="open_miui">Abrir</string>
   <string name="operator_first">Dar prioridade ao plano da operadora</string>
-  <string name="operation_successfully">Operação com sucesso.</string>
+  <string name="operation_successfully">Operação com sucesso</string>
   <string name="operator_first_mins_hint">xx minutes</string>
   <string name="operator_first_mins_none_summary">Carregue o pacote primeiro</string>
   <string name="operator_first_mins_none_title">Minutos do pacote da operadora totalmente utilizados</string>
@@ -784,11 +784,11 @@ Será utilizada a rede preferida em vez."</string>
   <string name="ota_failure">Não é possível programar</string>
   <string name="ota_hfa_activation_dialog_message">"O telefone está a activar o serviço de dados móveis.
 
-Este processo poderá demorar até 5 minutos."</string>
+Este processo poderá demorar até 5 minutos"</string>
   <string name="ota_hfa_activation_title">A activar…</string>
   <string name="ota_listen">Siga as instruções de voz</string>
   <string name="ota_next">Seguinte</string>
-  <string name="ota_progress">Aguarde enquanto o telemóvel é programado.</string>
+  <string name="ota_progress">Aguarde enquanto o telemóvel é programado</string>
   <string name="ota_skip_activation_dialog_message">Se ignorar a activação, não pode fazer chamadas ou ligar a redes móveis de dados (embora possa ligar a redes Wi-Fi). Enquanto não activar o telefone, será informado para o activar cada vez que ligar o telefone</string>
   <string name="ota_skip_activation_dialog_skip_label">Ignorar</string>
   <string name="ota_skip_activation_dialog_title">Ignorar activação?</string>
@@ -800,12 +800,12 @@ Este processo poderá demorar até 5 minutos."</string>
   <string name="ota_title_problem_with_activation">Não é possível activar</string>
   <string name="ota_touch_activate">"É necessário fazer uma chamada específica para activar o serviço do seu telefone. 
 
-Depois de premir “Activar”, ouvir as instruções fornecidas pela sua operadora para activar o seu telefone."</string>
+Depois de premir “Activar”, ouvir as instruções fornecidas pela sua operadora para activar o seu telefone"</string>
   <string name="ota_try_again">Repetir</string>
   <string name="ota_unsuccessful">"O seu telefone não ficou activado.
 Precisa de encontrar uma zona com melhor cobertura (perto de uma janela, ou no exterior). 
 
-Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções."</string>
+Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções"</string>
   <string name="other">Outros</string>
   <string name="other_settings">Outras definições de chamada</string>
   <string name="other_settings_category">Outros</string>
@@ -835,17 +835,17 @@ Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções.
   <string name="phone_in_ecm_notification_title">Modo de Chamada de Retorno de Emergência</string>
   <string name="phone_number_hint_text">Número de telefone</string>
   <string name="pin2_attempts">"
-Tem mais %d tentativas."</string>
+Tem mais %d tentativas"</string>
   <string name="pin2_changed">PIN2 alterado com sucesso</string>
   <string name="pin2_error_exception">Erro do cartão SIM ou da rede</string>
   <string name="pin2_invalid">FDN não foi actualizado porque introduziu um PIN incorrecto</string>
   <string name="pin2_invalid_or_name_is_too_long">Introduziu um PIN inválido ou o nome que introduziu é muito longo</string>
   <string name="pin2_lock_warning">"
-Funções relacionadas com PIN2 serão bloqueadas depois de outra tentativa falhada."</string>
+Funções relacionadas com PIN2 serão bloqueadas depois de outra tentativa falhada"</string>
   <string name="pin2_or_fdn_invalid">Não foram actualizados os números autorizados. O PIN2 estava errado ou o número de telefone foi rejeitado</string>
   <string name="pin2_unblocked">O PIN2 deixou de estar bloqueado</string>
   <string name="pin_attempts">"
-%d tentativas."</string>
+%d tentativas"</string>
   <string name="pin_changed">PIN do SIM foi alterado com sucesso</string>
   <string name="pin_failed">O PIN que introduziu está incorrecto</string>
   <string name="pin_lock_warning">"
@@ -926,7 +926,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="puk2_requested">O código está errado, o cartão SIM foi bloqueado. Introduzir o código do PUK2</string>
   <string name="puk_label">Introduzir código PUK</string>
   <string name="puk_lock_warning">"
-O cartão SIM será eliminado após outra tentativa falhada."</string>
+O cartão SIM será eliminado após outra tentativa falhada"</string>
   <string name="puk_requested">Palavra-passe incorrecta, PIN está bloqueado. Necessário PUK</string>
   <string name="puk_unlock_failed">Desbloqueio com PUK sem sucesso</string>
   <string name="puk_unlock_success">Desbloqueio com PUK com sucesso</string>
@@ -934,7 +934,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="purchase_description_summary">"- Telefone para qualquer país do mundo, não há restrições de operadora.
 - Sem conflitos com o seu plano actual.
 - Carregue e comece a falar.
-- Sem definições complicadas."</string>
+- Sem definições complicadas"</string>
   <string name="purchase_description_title">Acerca de</string>
   <string name="purchase_limit">Atingiu o limite do carregamento</string>
   <string name="purchase_list">Histórico de compras</string>
@@ -1205,7 +1205,7 @@ Utilizá-la para pacotes de carregamento?"</string>
   <string name="vibrate_after_connected_summary">Vibrar quando atende</string>
   <string name="vibrate_after_connected_title">Vibração após ligação</string>
   <string name="vm_change_failed">"Não foi possível alterar o número de Voice Mail.
-Contacte a sua operadora se este problema persistir."</string>
+Contacte a sua operadora se este problema persistir"</string>
   <string name="vm_changed">Número de Voice Mail alterado</string>
   <string name="voice_privacy">Privacidade de voz</string>
   <string name="voice_privacy_summary"/>
