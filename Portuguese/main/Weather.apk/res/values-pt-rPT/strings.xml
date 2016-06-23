@@ -101,7 +101,7 @@
   <string name="install">Instalar</string>
   <string name="international_detail_menu_title">Detalhes</string>
   <string name="international_details_pressure_title">Pressão</string>
-  <string name="international_details_real_feel_title">Parece que está</string>
+  <string name="international_details_real_feel_title">"Parece que está "</string>
   <string name="international_details_title">Detalhes</string>
   <string name="international_details_uv_index_title">Indíce UV</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
