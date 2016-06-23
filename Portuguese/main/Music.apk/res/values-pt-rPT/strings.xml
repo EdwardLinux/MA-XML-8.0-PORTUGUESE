@@ -299,6 +299,8 @@
   <string name="filter_by_size_prefix">"Ocultar ficheiros inferiores a: "</string>
   <string name="filter_by_size_summary">Ocultar pequenos ficheiros de áudios</string>
   <string name="find_music">Procurar músicas</string>
+  <string name="force_touch_audio_picker">Selector de áudio</string>
+  <string name="force_touch_play_local_music_random">Reproduzir aleatóriamente</string>
   <string name="format_not_support">Este formato não é suportado</string>
   <string name="format_unsupported_or_corrupted">Este formato não é suportado ou o ficheiro está corrompido</string>
   <string name="fragment_more">Mais</string>
@@ -348,6 +350,8 @@
   <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="loading_hint">Aguarde…</string>
   <string name="local_music">Dispositivo</string>
+  <string name="local_music_empty">Lista de reprodução vazia</string>
+  <string name="local_music_empty_goto_online">Não foram encontradas músicas</string>
   <string name="local_music_is_not_available">As músicas no dispositivo não se encontram disponíveis</string>
   <string name="local_tracks_short">Dispositivo</string>
   <string name="login_first">Primeiro inicie sessão na sua Conta Mi</string>

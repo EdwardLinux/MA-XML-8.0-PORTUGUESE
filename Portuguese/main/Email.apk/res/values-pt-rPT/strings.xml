@@ -414,7 +414,7 @@
   <string name="folder_sent_name_en0">Enviar</string>
   <string name="folder_sent_name_en1">Mensagens enviadas</string>
   <string name="folder_sent_name_en2">Mensagem enviada</string>
-  <string name="folder_sent_name_en3">Ficheiros enviados</string>
+  <string name="folder_sent_name_en3">Itens enviados</string>
   <string name="folder_sent_name_en4">[Gmail]/Email enviado</string>
   <string name="folder_shortcut_widget_label">Pasta Email</string>
   <string name="folder_synchronization_mail_settings">Definições de sincronização de pastas</string>
@@ -522,8 +522,8 @@
   <string name="mark_important">Marcar como importante</string>
   <string name="mark_not_important">Desmarcar como importante</string>
   <string name="mark_not_spam">Não é spam</string>
-  <string name="mark_read">Marcar como lida</string>
-  <string name="mark_unread">Marcar como não lida</string>
+  <string name="mark_read">Lidas</string>
+  <string name="mark_unread">Não lidas</string>
   <string name="me_object_pronun">eu</string>
   <string name="me_subject_pronun">eu</string>
   <string name="meeting_accepted">Aceite: %s</string>
@@ -548,7 +548,7 @@
   <string name="menu_discovery">Descobrir</string>
   <string name="menu_folder_options">Opções de sincronização</string>
   <string name="menu_move_to">Mover para</string>
-  <string name="menu_move_to_inbox">Mover para a Caixa de entrada</string>
+  <string name="menu_move_to_inbox">Mover para a caixa de entrada</string>
   <string name="menu_photo_save_all">Guardar tudo</string>
   <string name="menu_photo_share">Partilhar</string>
   <string name="menu_photo_share_all">Partilhar tudo</string>
