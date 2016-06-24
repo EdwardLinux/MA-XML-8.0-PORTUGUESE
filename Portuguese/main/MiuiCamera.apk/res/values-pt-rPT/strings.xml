@@ -135,7 +135,7 @@
   <string name="pref_camera_facedetection_title">Detecção de rosto</string>
   <string name="pref_camera_fisheye_title">Olho-de-Peixe</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
-  <string name="pref_camera_flashmode_entry_off">Desligado</string>
+  <string name="pref_camera_flashmode_entry_off">Deslig.</string>
   <string name="pref_camera_flashmode_entry_on">Ligado</string>
   <string name="pref_camera_flashmode_entry_torch">Lanterna</string>
   <string name="pref_camera_flashmode_title">Modo flash</string>
@@ -147,8 +147,8 @@
   <string name="pref_camera_focusmode_title">Modo de focagem</string>
   <string name="pref_camera_gradienter_title">Endireitar</string>
   <string name="pref_camera_hand_night_title">Noite</string>
-  <string name="pref_camera_hdr_entry_off">Desligado</string>
-  <string name="pref_camera_hfr_entry_off">Desligado</string>
+  <string name="pref_camera_hdr_entry_off">Deslig.</string>
+  <string name="pref_camera_hfr_entry_off">Deslig.</string>
   <string name="pref_camera_histogram_entry_disable">Desligar</string>
   <string name="pref_camera_histogram_entry_enable">Ligar</string>
   <string name="pref_camera_iso_entry_auto">Automático</string>
