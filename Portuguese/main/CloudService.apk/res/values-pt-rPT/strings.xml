@@ -232,6 +232,10 @@ Para corrigir esta situação pode eliminar alguns ficheiros para libertar espa�
   <string name="micloud_main_memory_low_message">Para sincronizar elimine alguns itens que armazenou na Nuvem Mi</string>
   <string name="micloud_main_memory_low_title">O armazenamento interno do telefone está quase cheio</string>
   <string name="micloud_main_message_not_synced">%s dados não sincronizados</string>
+  <string name="micloud_main_multi_user_error_message">"Iniciou sessão com a mesma conta que no primeiro espaço o que causou um erro na Conta Mi. Se quiser fazer uma cópia dos seus ficheiros:
+1. Utilize uma conta diferente.
+2. Mova itens para o primeiro espaço."</string>
+  <string name="micloud_main_multi_user_error_title">Erro da Nuvem Mi</string>
   <string name="micloud_main_network_abnormal">Não é possível ligar à rede</string>
   <string name="micloud_main_network_error">Não é possível ligar à rede</string>
   <string name="micloud_main_not_sync">%d itens a aguardar para sincronizar</string>
@@ -285,7 +289,7 @@ Toque nas definições de sincronização para ver mais opções."</string>
   <string name="micloud_notif_content_depend_wifi">Ligar ao Wi-Fi para sincronizar</string>
   <string name="micloud_notif_content_master_depend_wifi">Ligar primeiro ao Wi-Fi</string>
   <string name="micloud_notif_content_memory_low">Sem espaço de armazenamento suficiente</string>
-  <string name="micloud_notif_content_multi_user_error">Iniciou sessão na mesma conta que o espaço original</string>
+  <string name="micloud_notif_content_multi_user_error">Iniciou sessão com a mesma conta do primeiro espaço</string>
   <string name="micloud_notif_content_sync_finish">Conta Mi</string>
   <string name="micloud_notif_content_sync_not_finish">Detalhes</string>
   <string name="micloud_notif_content_sync_with_off">Toque para sincronizar o seu dispositivo agora</string>

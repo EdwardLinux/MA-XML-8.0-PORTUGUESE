@@ -51,9 +51,9 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
   <string name="feedback_collect_log_failed">Não foi possível obter registos</string>
   <string name="feedback_description">Descrição</string>
-  <string name="feedback_description_bugreport_hint">Nalguns casos () o meu telefone funciona mal ()</string>
+  <string name="feedback_description_bugreport_hint">Nalguns casos (…) o meu telefone funciona mal (…)</string>
   <string name="feedback_description_label">Descrição</string>
-  <string name="feedback_description_suggest_hint">Eu gostaria de adicionar uma nova funcionalidade () porque preciso ()</string>
+  <string name="feedback_description_suggest_hint">Eu gostaria de adicionar uma nova funcionalidade (…) porque preciso (…)</string>
   <string name="feedback_detail_tile">Progresso</string>
   <string name="feedback_empty_report_list">Sem relatórios ainda</string>
   <string name="feedback_history_remind_login_desc">Iniciar sessão na sua Conta Mi para ver detalhes e o estado do seu relatório</string>

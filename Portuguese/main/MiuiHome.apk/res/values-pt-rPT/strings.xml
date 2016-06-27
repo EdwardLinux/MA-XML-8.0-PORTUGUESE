@@ -212,6 +212,7 @@
   <string name="process"/>
   <string name="recommend_apps_default_title">Vazio</string>
   <string name="recommend_apps_notice">Aplicações recomendadas</string>
+  <string name="recommend_apps_notice_nodata">Aplicações recomendadas (Sem dados)</string>
   <string name="recommend_apps_switch_title">Aplicações recomendadas</string>
   <string name="recommend_apps_tips">Esta funcionalidade necessita de estar ligada à Internet para funcionar normalmente. Para desligar esta funcionalidade toque no nome desta pasta</string>
   <string name="reset_scene_prompt">O ecrã será reiniciado para o layout predefinido</string>

@@ -101,7 +101,7 @@
   <string name="install">Instalar</string>
   <string name="international_detail_menu_title">Detalhes</string>
   <string name="international_details_pressure_title">Pressão</string>
-  <string name="international_details_real_feel_title">"Parece que está "</string>
+  <string name="international_details_real_feel_title">Parece que está</string>
   <string name="international_details_title">Detalhes</string>
   <string name="international_details_uv_index_title">Indíce UV</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
@@ -145,9 +145,9 @@ Toque no ecrã para adicionar adicionar ou repor cidade"</string>
   <string name="top_pollution_pm10">PM10</string>
   <string name="top_pollution_pm25">PM2.5</string>
   <string name="top_pollution_so2">SO2</string>
-  <string name="traffic_control_daty_after_tomorrow_numbers">O dia depois de amanhã: %1$s %2$s</string>
-  <string name="traffic_control_today_numbers">Hoje: %1$s %2$s</string>
-  <string name="traffic_control_tomorrow_numbers">Amanhã: %1$s %2$s</string>
+  <string name="traffic_control_daty_after_tomorrow_numbers">O dia depois de amanhã: %1$s</string>
+  <string name="traffic_control_today_numbers">Hoje: %1$s</string>
+  <string name="traffic_control_tomorrow_numbers">Amanhã: %1$s</string>
   <string name="traffic_controls">Controlos de tráfego</string>
   <string name="twc_logo_title"/>
   <string name="video_dialog_no_play"/>

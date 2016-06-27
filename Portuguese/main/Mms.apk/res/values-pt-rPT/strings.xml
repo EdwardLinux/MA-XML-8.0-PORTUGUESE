@@ -19,8 +19,8 @@
   <string name="add_slide_hint">Seleccionar para criar um diapositivo novo</string>
   <string name="add_smiley">Sorrisos</string>
   <string name="add_timing">Horas</string>
-  <string name="add_to_browser_favorite_failed">sem sucesso</string>
-  <string name="add_to_browser_favorite_success">com sucesso</string>
+  <string name="add_to_browser_favorite_failed">Não foi possível adicionar</string>
+  <string name="add_to_browser_favorite_success">Adicionado com sucesso</string>
   <string name="add_video">Adicionar vídeo</string>
   <string name="adding_attachments">Aguarde enquanto os ficheiros são adicionados na apresentação de diapositivos</string>
   <string name="adding_attachments_title">A adicionar anexos</string>
@@ -165,9 +165,9 @@
   <string name="failed_to_add_media">Não pode adicionar %1$s à sua mensagem</string>
   <string name="failed_to_resize_image">Imagem não redimensionada</string>
   <string name="fake_cell_alert_hint">Parece que a mensagem foi enviada de um número de telefone diferente do que está a ser mostrado. Tenha cuidado com SMS que contém pedidos financeiros</string>
-  <string name="fake_cell_checking_hint">Verificação de segurança…</string>
+  <string name="fake_cell_checking_hint">A verificar a segurança…</string>
   <string name="fake_cell_safe_hint">Esta mensagem é segura</string>
-  <string name="fake_cell_timeout_hint">Erro ao verificar segurança</string>
+  <string name="fake_cell_timeout_hint">Não foi possível verificar segurança</string>
   <string name="fdn_check_failure">Só pode enviar mensagens para os números de marcação fixa</string>
   <string name="festival">Respostas rápidas</string>
   <string name="festival_continue">Continuar</string>
@@ -489,10 +489,8 @@
   <string name="search_setting_description">Texto nas suas mensagens</string>
   <string name="search_show_more_results">Mostrar mais</string>
   <string name="search_title_mms">Mensagens</string>
-  <string name="second_mms">Mensagens do segundo espaço</string>
-  <string name="second_mms_introduction">Vá para o segundo espaço</string>
-  <string name="second_mms_notice">Apenas mostrar mensagens do segundo espaço</string>
-  <string name="second_mms_switch">Trocar utilizador</string>
+  <string name="second_mms_introduction">Ir para o segundo espaço</string>
+  <string name="second_mms_switch">Trocar</string>
   <string name="secs">segs</string>
   <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"O remetente não está nos seus contactos.
  "&lt;/font&gt;</string>
@@ -626,15 +624,15 @@ Tentativas efectuadas: %s."</string>
   <string name="unstick_conversation">Desafixar da conversa actual</string>
   <string name="unsticked_conversation">Já desafixou a conversa actual</string>
   <string name="unsupported_media_format">Formato %1$s não suportado</string>
-  <string name="url_fraud_dangerous_alert">"O website que está a tentar visitar é um link fraudulento e pode ser prejudicial para o seu dispositivo. Tem a certeza que quer continuar? 
+  <string name="url_fraud_dangerous_alert">"O website que está a tentar visitar pode ser perigoso. Pode danificar o seu dispositivo. Visitar na mesma? 
 %s"</string>
   <string name="url_fraud_insurance">Seguro de fraude</string>
-  <string name="url_fraud_risky_alert">"O website que está a tentar visitar é um link fraudulento. Tem a certeza que quer continuar? 
+  <string name="url_fraud_risky_alert">"O website que está a tentar visitar pode ser perigoso. Visitar na mesma? 
 %s"</string>
-  <string name="url_fraud_title">Suspeita de fraude</string>
+  <string name="url_fraud_title">O Website pode ser fake</string>
   <string name="url_fraud_visit"><u>Visitar na mesma</u></string>
   <string name="url_result_safe">Este URL é seguro</string>
-  <string name="url_scanning">Verificação de URL…</string>
+  <string name="url_scanning">A verificar URL…</string>
   <string name="user_agreement1">Leia os termos aplicáveis cuidadosamente antes de instalar software adicional ou usar este produto.</string>
   <string name="user_agreement2">Termos do Serviço</string>
   <string name="user_agreement3">" e "</string>

@@ -86,7 +86,7 @@ Pode também transferi-las separadamente"</string>
   <string name="import_contacts_desc">Tornar os contactos importados privados</string>
   <string name="import_contacts_suc">Contactos privados importados</string>
   <string name="import_file_suc">Itens importados para as pastas</string>
-  <string name="import_now">Exportar</string>
+  <string name="import_now">Importar</string>
   <string name="import_photo">Importar fotos</string>
   <string name="import_photo_desc">Ver itens partilhados no segundo espaço</string>
   <string name="import_photo_suc">Fotos importadas</string>
@@ -123,7 +123,7 @@ Pode também transferi-las separadamente"</string>
   <string name="private_space_setting">Gerir</string>
   <string name="public_app">Ambos os espaços</string>
   <string name="removeSuccess">Eliminado com sucesso</string>
-  <string name="remove_second_space_msg">删除手机分身,分身内的所有数据将丢失且无法恢复.确定要删除手机分身吗?</string>
+  <string name="remove_second_space_msg">Todos os dados das aplicações do segundo espaço vão ser perdidas após eliminar o segundo espaço. Eliminar o segundo espaço?</string>
   <string name="removingSpace">A eliminar…</string>
   <string name="restore_normal_show">Não mostrar mensagens privadas</string>
   <string name="restore_show_desc">Não mostrar mensagens privadas no segundo espaço. Elas ainda vão estar disponíveis no primeiro espaço</string>

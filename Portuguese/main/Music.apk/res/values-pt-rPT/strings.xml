@@ -299,7 +299,7 @@
   <string name="filter_by_size_prefix">"Ocultar ficheiros inferiores a: "</string>
   <string name="filter_by_size_summary">Ocultar pequenos ficheiros de áudios</string>
   <string name="find_music">Procurar músicas</string>
-  <string name="force_touch_audio_picker">Selector de áudio</string>
+  <string name="force_touch_audio_picker">Reconhecer músicas</string>
   <string name="force_touch_play_local_music_random">Reproduzir aleatóriamente</string>
   <string name="format_not_support">Este formato não é suportado</string>
   <string name="format_unsupported_or_corrupted">Este formato não é suportado ou o ficheiro está corrompido</string>
@@ -494,11 +494,11 @@
   <string name="package_filter">Pacotes</string>
   <string name="pause_download">Pausar</string>
   <string name="paused_by_app">Em pausa</string>
-  <string name="paused_in_power_save_mode">Em pausa no modo Poupança de Bateria</string>
+  <string name="paused_in_power_save_mode">Em pausa quando a poupança de bateria estiver ligada</string>
   <string name="paused_insufficient_space">A aguardar</string>
-  <string name="paused_queued_for_wifi">A aguardar pela rede</string>
+  <string name="paused_queued_for_wifi">A aguardar por ligação</string>
   <string name="paused_unknown">Em pausa</string>
-  <string name="paused_waiting_for_network">A aguardar pela rede</string>
+  <string name="paused_waiting_for_network">A aguardar por ligação</string>
   <string name="paused_waiting_to_retry">A aguardar para repetir</string>
   <string name="page_local_setting">Definições</string>
   <string name="pay">Pagar:</string>
@@ -518,7 +518,7 @@
   <string name="please_download_first">Tem que transferir esta música antes que a possa definir como toque</string>
   <string name="please_search_or_select">Pesquise ou seleccione a letra</string>
   <string name="please_select_song">Escolha uma música primeiro</string>
-  <string name="power_save_mode_dialog_msg">O dispositivo está no modo Poupança de Bateria. Iniciar transferências agora?</string>
+  <string name="power_save_mode_dialog_msg">A poupança de bateria está ligada. Iniciar transferências agora?</string>
   <string name="pref_download_settings_title">Limite do tamanho de transferências</string>
   <string name="pref_summary_any_bytes_popup">Aguardar sempre por uma ligação Wi-Fi para transferir ficheiros</string>
   <string name="pref_summary_enable_max_bytes_popup">Mostrar notificação popup quando utilizar ligação de dados móveis para transferir conteúdo</string>
@@ -566,7 +566,7 @@
   <string name="resume_download">Continuar</string>
   <string name="retry">Repetir</string>
   <string name="retry_after_network_available">Não foi possível ligar à rede. Verifique a sua ligação e tente novamente</string>
-  <string name="retry_download">Repetir</string>
+  <string name="retry_download">Tentar novamente</string>
   <string name="ringtone_not_support">Este formato de música não é suportado</string>
   <string name="root_downloads">Transferências</string>
   <string name="save_to_playlist">Guardar como lista de reprodução</string>
@@ -619,7 +619,7 @@
   <string name="settings_search_title_desktop_lyric"/>
   <string name="settings_search_title_download_quality"/>
   <string name="settings_search_title_download_when_favorite"/>
-  <string name="settings_search_title_notification">Definições das notificações</string>
+  <string name="settings_search_title_notification">Notificações de Música</string>
   <string name="settings_search_title_vip_service"/>
   <string name="share_append_text">De @MIUI</string>
   <string name="share_chooser_title">Partilhar via</string>
