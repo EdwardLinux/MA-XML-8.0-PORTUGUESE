@@ -162,7 +162,7 @@ utilizando %s"</string>
   <string name="data_usage_warning_title">Aviso de utilização de dados</string>
   <string name="data_usage_wifi_limit_snoozed_title">Limite de dados Wi-Fi excedido</string>
   <string name="data_usage_wifi_limit_title">Limite de dados Wi-Fi atingido</string>
-  <string name="date_and_time" formatted="false">%-e %b, %Y, %-l:%M:%S %p</string>
+  <string name="date_and_time" formatted="false">%H:%M:%S %d/%m/%Y</string>
   <string name="date_picker_decrement_day_button">Diminuir dia</string>
   <string name="date_picker_decrement_month_button">Diminuir mês</string>
   <string name="date_picker_decrement_year_button">Diminuir ano</string>
@@ -172,7 +172,7 @@ utilizando %s"</string>
   <string name="date_picker_increment_year_button">Aumentar ano</string>
   <string name="date_picker_next_month_button">Mês seguinte</string>
   <string name="date_picker_prev_month_button">Mês anterior</string>
-  <string name="date_time">%1$s, %2$s</string>
+  <string name="date_time">%2$s %1$s</string>
   <string name="date_time_done">Concluído</string>
   <string name="date_time_set">Definir</string>
   <string name="day">dia</string>
@@ -608,7 +608,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="mmiComplete">MMI concluído</string>
   <string name="mmiError">Problema de ligação ou código MMI inválido</string>
   <string name="mmiFdnError">A operação está restringida a números fixos autorizados</string>
-  <string name="month_day_year" formatted="false">%-e %B, %Y</string>
+  <string name="month_day_year" formatted="false">%-e de %B de %Y</string>
   <string name="more_item_label">Mais</string>
   <string name="muted_by">Silenciado por %1$s</string>
   <string name="needPuk">O seu cartão SIM está bloqueado com PUK. Introduza o código PUK para o desbloquear</string>
