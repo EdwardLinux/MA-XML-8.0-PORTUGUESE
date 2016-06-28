@@ -243,7 +243,7 @@
   <string name="close_dialog">OK</string>
   <string name="close_profile">Fechar</string>
   <string name="cloud_antispam_title">Identificar números desconhecidos</string>
-  <string name="cmcc_ut_data_enable_prompt">Não foi possível ligar utilizando a rede VoLTE. Ligue os dados móveis agora</string>
+  <string name="cmcc_ut_data_enable_prompt">Este serviço necessita de uma ligação de dados móveis. Ligue-a para continuar</string>
   <string name="command_error_fdn_failure">Primeiro tem que desactivar FDN</string>
   <string name="common_problem_message">Saber mais em %1$s ou telefone para o nosso serviço de cliente (400-100-5678)</string>
   <string name="common_setting">Definições gerais</string>

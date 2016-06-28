@@ -79,7 +79,7 @@
   <string name="auto_upload_before_share_title">Dica</string>
   <string name="auto_upload_disable_tip">Sincronização com a Nuvem Mi está desligada</string>
   <string name="auto_upload_disable_toast_long_press_menu">Sincronização com a Nuvem Mi está desligada. Vá a Outros álbuns para ver</string>
-  <string name="auto_upload_enable_toast_long_press_menu">Sincronização com a Nuvem Mi está desligada. Vá a Álbuns para ver</string>
+  <string name="auto_upload_enable_toast_long_press_menu">Sincronização com a Nuvem Mi está ligada. Vá a Álbuns para ver</string>
   <string name="autofix">Ajuste automático</string>
   <string name="baby_album">Álbum do bébé</string>
   <string name="baby_album_change_background">Alterar foto em segundo plano</string>
@@ -682,7 +682,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="video_editor_filter_rainy">Chuva</string>
   <string name="video_editor_filter_rouge">Rouge</string>
   <string name="video_editor_filter_sunny">Sol</string>
-  <string name="video_editor_invalid_trim_arguments">Deve ser mair que um segundo</string>
+  <string name="video_editor_invalid_trim_arguments">Deve ter mais de um segundo</string>
   <string name="video_editor_loading_plugin">A carregar…</string>
   <string name="video_editor_more">Avançado</string>
   <string name="video_editor_not_support_tips">Esses ficheiros de vídeo não são suportados</string>
