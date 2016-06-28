@@ -13,7 +13,7 @@
         <item>Apelido</item>
         <item>Telefone</item>
         <item>Email</item>
-        <item>Organização</item>
+        <item>Empresa</item>
         <item>IM</item>
         <item>Telefone SIP</item>
         <item>Aniversário</item>
@@ -34,9 +34,9 @@
 "</item>
         <item>"Escolher templates
 "</item>
-        <item>"Criar pastas de notas
+        <item>"Criar pastas
 "</item>
-        <item>"Proteger notas privadas
+        <item>"Ocultar notas
 "</item>
         <item>"E mais e melhores funcionalidades!
   - Sincronizar com a Nuvem Mi

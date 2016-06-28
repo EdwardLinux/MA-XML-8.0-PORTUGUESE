@@ -388,9 +388,13 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="loading_video">A transferir vídeo…</string>
   <string name="loading_video_thumbnail">A transferir capa do vídeo…</string>
   <string name="local_space_full_button_text">Limpar espaço</string>
-  <string name="login_and_enable_service">Iniciar sessão para utilizar a Nuvem Mi</string>
+  <string name="login_and_enable_service">Iniciar sessão com a Conta Mi</string>
   <string name="lomoish">Lomo</string>
   <string name="long_press_to_refocus">Prima e segure para refocar</string>
+  <string name="main_discard_confirm_message">Os efeitos não foram guardados. Deseja sair?</string>
+  <string name="main_discard_negative_btn">Rejeitar</string>
+  <string name="main_discard_positive_btn">Guardar e sair</string>
+  <string name="main_save_error_msg">Não foi possível guardar os efeitos</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_album_new_album">Novo álbum</string>
   <string name="menu_item_sort_date">Data</string>
@@ -535,6 +539,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="rename_face_album">Alterar nome</string>
   <string name="rename_fail_msg">Não foi possível alterar nome</string>
   <string name="rename_from_contact">Atribuir nome dos contactos</string>
+  <string name="renren_description">Fornecido por RenRen</string>
   <string name="request_qr_code_failed">Não foi possível obter código QR</string>
   <string name="request_sms_url_failed">Não foi possível obter informação</string>
   <string name="request_sms_url_msg">A pedir informação…</string>
@@ -603,6 +608,9 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="storage_no_space">Sem espaço suficiente</string>
   <string name="straighten">Ajustar</string>
   <string name="straighten_tooltip">Arrastar foto para endireitar</string>
+  <string name="sub_discard_confirm_message">Guardar a operacão actual?</string>
+  <string name="sub_discard_negative_btn">Rejeitar</string>
+  <string name="sub_discard_positive_btn">Guardar</string>
   <string name="success_create_quick_icon_on_desk">Criado com sucesso</string>
   <string name="sync_album_in_proecess">A sincronizar o álbum…</string>
   <string name="sync_battery_low">Bateria fraca</string>
@@ -679,8 +687,10 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="video_editor_more">Avançado</string>
   <string name="video_editor_not_support_tips">Esses ficheiros de vídeo não são suportados</string>
   <string name="video_editor_ok">OK</string>
-  <string name="video_editor_res_not_load_dialog_msg">Transferir o plug-in para utilizar esta funcionalidade</string>
-  <string name="video_editor_res_not_load_dialog_title">Transferência necessária</string>
+  <string name="video_editor_res_download_failed_tips">Não foi possível transferir. Verifique as definições de rede e tente novamente</string>
+  <string name="video_editor_res_download_mobil_network_confirm_msg">Transferir músicas utilizando dados móveis?</string>
+  <string name="video_editor_res_download_mobil_network_confirm_title">Utilizar dados móveis</string>
+  <string name="video_editor_res_not_load_dialog_msg">Transferir músicas para utilizar esta funcionalidade (mais de 20MB)</string>
   <string name="video_editor_template_family">Família</string>
   <string name="video_editor_template_forbidden_tips">Não é possível fazer isto quando estiver a utilizar um template</string>
   <string name="video_editor_template_oldfilm">Vintage</string>

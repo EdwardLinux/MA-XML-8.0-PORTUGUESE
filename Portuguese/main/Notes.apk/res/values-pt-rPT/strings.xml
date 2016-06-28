@@ -110,13 +110,13 @@ Toque no botão + para criar uma pasta"</string>
   <string name="sns_desc_preview_wechat">Pré-visualização da mensagem WeChat</string>
   <string name="sns_desc_preview_weibo">Pré-visualização da mensagem Weibo</string>
   <string name="sns_footer_text">Criado com Notas Mi</string>
-  <string name="sns_hint_content">O que vai na sua mente?</string>
+  <string name="sns_hint_content">Introduzir mensagem</string>
   <string name="sns_hint_title">Assunto (opcional)</string>
   <string name="sns_message_disconnect">Não é possível ligar à rede. Tente novamente mais tarde</string>
   <string name="sns_title_edit">Editar título</string>
   <string name="sns_title_send">Enviar mensagem</string>
-  <string name="sns_toast_empty">Não é possível enviar um comentário vazio</string>
-  <string name="sns_toast_over_limit">Enviado como imagem (texto acima do limite)</string>
+  <string name="sns_toast_empty">Não é possível enviar uma mensagem vazia</string>
+  <string name="sns_toast_over_limit">Enviado como imagem</string>
   <string name="sync_tips">Toque para sincronizar notas com a Nuvem Mi</string>
   <string name="theme_title_antique">Outone</string>
   <string name="theme_title_arty">Floral</string>
