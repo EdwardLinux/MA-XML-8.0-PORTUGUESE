@@ -466,8 +466,6 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="incall_error_supp_service_unknown">Serviço não suportado</string>
   <string name="incall_error_wfc_only_no_wireless_network">Ligue-se a uma rede sem fios para fazer uma chamada</string>
   <string name="incall_status_dialed_mmi">Iniciar a sequência MMI…</string>
-  <string name="incoming_video_show_pref_summary">Mostrar perfil de vídeo definido pelo remetente. Para utilizar esta função, ligue os cartões de contacto</string>
-  <string name="incoming_video_show_pref_title">Mostrar perfil de vídeo do remetente</string>
   <string name="international_calls">Apenas internacionais</string>
   <string name="input_password">Introduzir palavra-passe</string>
   <string name="internation_remain_minutes">(ou %1$s %2$s tempo de chamadas internacionais)</string>
@@ -775,7 +773,6 @@ Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções.
   <string name="path_fdn">Aplicações de sistema/Telefone/Definições avançadas/Números de marcação fixa</string>
   <string name="path_flash_when_ring_title">Aplicações de sistema/Telefone/Definições das chamadas recebidas/Acender flash quando tocar</string>
   <string name="path_handon_ringer_title">Aplicações de sistema/Telefone/Definições das chamadas recebidas/Parar de tocar ao levantar</string>
-  <string name="path_incoming_video_show_pref_title">Aplicações de sistema/Telefone/Definições avançadas/Mostrar perfil de vídeo do remetente</string>
   <string name="path_missed_call_notify_times_title">Aplicações de sistema/Telefone/Definições avançadas/Avisos de chamada não atendida</string>
   <string name="path_preference_dial_pad_touch_tone_title">Aplicações de sistema/Telefone/Definições avançadas/Tons de toque do teclado de marcação</string>
   <string name="path_preference_telocation_title">Aplicações de sistema/Telefone/Localização</string>

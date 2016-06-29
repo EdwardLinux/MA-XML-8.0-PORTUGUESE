@@ -110,7 +110,7 @@
   <string name="copied">Copiado</string>
   <string name="copy_failed">Não foi possível copiar</string>
   <string name="copy_failed_retry">Não foi possível copiar. Tente novamente após %1$s</string>
-  <string name="copy_file_to_kuaipan">Copiar ficheiros para Kuaipan</string>
+  <string name="copy_file_to_kuaipan">Copiar ficheiros para KuaiPan</string>
   <string name="copy_file_to_midrive">Copiar ficheiros para Mi Drive</string>
   <string name="copy_text">Copiar texto</string>
   <string name="copy_to">Copiar para…</string>
@@ -338,7 +338,7 @@
   <string name="mi_router_label">Router</string>
   <string name="midrive_network_connect_confirm">O Mi Drive necessita de ligar à Internet para funcionar normalmente</string>
   <string name="midrive_space_full">Sem espaço suficiente no Mi Drive</string>
-  <string name="midrive_welcome_message">Os seus ficheiros Kuaipan foram movidos para o Mi Drive com sucesso. Tem uma subscrição de três meses como oferta. O Mi Drive e a Nuvem Mi vão partilhar armazenamento. Pode aceder aos seus ficheiros em i.mi.com</string>
+  <string name="midrive_welcome_message">Os seus ficheiros KuaiPan foram movidos para o Mi Drive com sucesso. Tem uma subscrição de três meses como oferta. O Mi Drive e a Nuvem Mi vão partilhar armazenamento. Pode aceder aos seus ficheiros em i.mi.com</string>
   <string name="midrive_welcome_title">Bem-vindo à Mi Drive</string>
   <string name="midrop_msg_1">Ligar Mi Drop nos outros dispositivos</string>
   <string name="midrop_msg_2">Quando Mi Drop estiver ligado, pode pesquisar dispositivos próximos e enviar ficheiros</string>
@@ -351,16 +351,16 @@
   <string name="migrate_failed_msg">"Erro na migração de dados. Mova os seus ficheiros manualmente."<a href="http://www.kuaipan.cn">Toque aqui para ver</a></string>
   <string name="migrate_failed_title">Erro na migração de dados</string>
   <string name="migrate_failed_toast">"Erro na migração de dados. Mova os seus ficheiros manualmente."<a href="http://www.kuaipan.cn">Toque aqui para ver</a></string>
-  <string name="migrate_hint">Importante: Kuaipan está a ser substituído pelo Mi Drive. Toque para mover os seus ficheiros</string>
-  <string name="migrate_note">Importante: Kuaipan está a ser substituído pelo Mi Drive. Mova os seus ficheiros agora</string>
+  <string name="migrate_hint">Importante: KuaiPan está a ser substituído pelo Mi Drive. Toque para mover os seus ficheiros</string>
+  <string name="migrate_note">Importante: KuaiPan está a ser substituído pelo Mi Drive. Mova os seus ficheiros agora</string>
   <string name="migrate_runing">A mover ficheiros… Volte mais tarde</string>
   <string name="migrate_success_cancel">Eu sei</string>
   <string name="migrate_success_confirm">Verifique</string>
-  <string name="migrate_success_msg">Todos os seus ficheiros Kuaipan foram movidos com sucesso para o Mi Drive</string>
+  <string name="migrate_success_msg">Todos os seus ficheiros KuaiPan foram movidos com sucesso para o Mi Drive</string>
   <string name="migrate_success_title">Movido com sucesso</string>
   <string name="migrate_update_confirm">Experimentar agora</string>
-  <string name="migrate_update_msg">Kuaipan foi substituído pelo Mi Drive para lhe fornecer uma melhor experiência de utilização</string>
-  <string name="migrate_update_title">Kuaipan foi substituído pelo Mi Drive</string>
+  <string name="migrate_update_msg">KuaiPan foi substituído pelo Mi Drive para lhe fornecer uma melhor experiência de utilização</string>
+  <string name="migrate_update_title">KuaiPan foi substituído pelo Mi Drive</string>
   <string name="mobile_network_dialog_cancle">Cancelar</string>
   <string name="mobile_network_dialog_confirm">OK</string>
   <string name="mobile_network_dialog_tip">Utilizar a sua ligação de dados móveis para ver esta página?</string>
@@ -473,7 +473,7 @@ e nunca perca as novidades!"</string>
 2. Carregue-a da sua conta KuaiPan."</string>
   <string name="open_changed_file_title">Alteração aplicada</string>
   <string name="open_file_failed">Erro ao abrir</string>
-  <string name="open_private_folder">Soltar para ver pastas ocultas…</string>
+  <string name="open_private_folder">Soltar para ver pastas ocultas</string>
   <string name="operate_confirm_in_3g">Utilizar a sua ligação de dados móveis para transferir este ficheiro?</string>
   <string name="operating">A processar…</string>
   <string name="operation_add_fav">A adicionar aos favoritos…</string>
@@ -689,7 +689,7 @@ e nunca perca as novidades!"</string>
   <string name="stay_awake_summary">Não deixar o ecrã entrar em modo de suspensão quando estiver a utilizar FTP</string>
   <string name="stay_awake_title">Manter o ecrã ligado</string>
   <string name="stop_server">Parar servidor</string>
-  <string name="storage_cloned_app">Armazenamento para as aplicações clonadas</string>
+  <string name="storage_cloned_app">Armazenamento para aplicações clonadas</string>
   <string name="storage_info">%1$s disponível</string>
   <string name="storage_info_detail">Disponível: %1$s Total: %2$s</string>
   <string name="storage_internal">Armazenamento interno</string>

@@ -166,6 +166,7 @@
   <string name="failed_to_resize_image">Imagem não redimensionada</string>
   <string name="fake_cell_alert_hint">Parece que a mensagem foi enviada de um número de telefone diferente do que está a ser mostrado. Tenha cuidado com SMS que contém pedidos financeiros</string>
   <string name="fake_cell_checking_hint">A verificar a segurança…</string>
+  <string name="fake_cell_detection_entry">Detecção de estação base falsa</string>
   <string name="fake_cell_safe_hint">Esta mensagem é segura</string>
   <string name="fake_cell_timeout_hint">Não foi possível verificar segurança</string>
   <string name="fdn_check_failure">Só pode enviar mensagens para os números de marcação fixa</string>

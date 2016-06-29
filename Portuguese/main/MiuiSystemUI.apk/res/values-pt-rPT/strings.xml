@@ -176,11 +176,11 @@ Utilize apenas o carregador fornecido"</string>
   <string name="label_view">Ver</string>
   <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">Sem serviço</string>
-  <string name="long_screenshot_not_support_msg">A aplicação actual não suporta as capturas de ecrã longas</string>
+  <string name="long_screenshot_not_support_msg">A aplicação actual não suporta as capturas de ecrã extensas</string>
   <string name="long_screenshot_out_of_memory_error">O tamanho da imagem é demasiado grande</string>
   <string name="long_screenshot_processing">A processar…</string>
   <string name="long_screenshot_stop">Concluído</string>
-  <string name="long_screenshot_top_msg">A estender captura de ecrã…</string>
+  <string name="long_screenshot_top_msg">A criar captura de ecrã…</string>
   <string name="managed_profile_foreground_toast">Está a utilizar o seu perfil de trabalho</string>
   <string name="mdb_entering">A iniciar…</string>
   <string name="mdb_restore_cancel">Cancelar</string>

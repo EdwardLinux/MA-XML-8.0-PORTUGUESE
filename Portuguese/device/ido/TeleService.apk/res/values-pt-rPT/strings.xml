@@ -480,8 +480,6 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="incall_error_supp_service_unknown">Serviço não suportado</string>
   <string name="incall_error_wfc_only_no_wireless_network">Ligue-se a uma rede sem fios para fazer uma chamada</string>
   <string name="incall_status_dialed_mmi">Iniciar a sequência MMI…</string>
-  <string name="incoming_video_show_pref_summary">Mostrar perfil de vídeo definido pelo remetente. Para utilizar esta função, active os cartões de contacto</string>
-  <string name="incoming_video_show_pref_title">Mostrar perfil de vídeo do remetente</string>
   <string name="international_calls">Apenas internacionais</string>
   <string name="input_password">Introduzir palavra-passe</string>
   <string name="international_dial_complete_intention">Fazer chamadas internacionais de baixo custo</string>
