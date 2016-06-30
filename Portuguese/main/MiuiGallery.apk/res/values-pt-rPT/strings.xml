@@ -391,10 +391,10 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="login_and_enable_service">Iniciar sessão com a Conta Mi</string>
   <string name="lomoish">Lomo</string>
   <string name="long_press_to_refocus">Prima e segure para refocar</string>
-  <string name="main_discard_confirm_message">Os efeitos não foram guardados. Deseja sair?</string>
+  <string name="main_discard_confirm_message">Tem alterações não guardadas</string>
   <string name="main_discard_negative_btn">Rejeitar</string>
   <string name="main_discard_positive_btn">Guardar e sair</string>
-  <string name="main_save_error_msg">Não foi possível guardar os efeitos</string>
+  <string name="main_save_error_msg">Não foi possível guardar as alterações</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_album_new_album">Novo álbum</string>
   <string name="menu_item_sort_date">Data</string>
@@ -484,7 +484,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="phone_number_empty_alert">Adicionar número de telefone</string>
   <string name="photo">Fotos</string>
   <string name="photo_edit_file_not_exits_tip">Transferir foto antes de editar</string>
-  <string name="photo_editor_saving">A guardar</string>
+  <string name="photo_editor_saving">A guardar…</string>
   <string name="photo_page_save_uri_image_fail">Não foi possível guardar na Galeria</string>
   <string name="photo_page_save_uri_image_ok">Foto guardada na Galeria</string>
   <string name="photo_save_succeed">Guardado com sucesso</string>
@@ -608,7 +608,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="storage_no_space">Sem espaço suficiente</string>
   <string name="straighten">Ajustar</string>
   <string name="straighten_tooltip">Arrastar foto para endireitar</string>
-  <string name="sub_discard_confirm_message">Guardar a operacão actual?</string>
+  <string name="sub_discard_confirm_message">Guardar alterações?</string>
   <string name="sub_discard_negative_btn">Rejeitar</string>
   <string name="sub_discard_positive_btn">Guardar</string>
   <string name="success_create_quick_icon_on_desk">Criado com sucesso</string>

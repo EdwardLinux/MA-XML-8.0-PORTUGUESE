@@ -120,8 +120,8 @@
         <item quantity="one">%1$d favorito</item>
     </plurals>
     <plurals name="hint_account_contacts">
-        <item quantity="other">encontrou %1$d</item>
-        <item quantity="one">encontrou 1</item>
+        <item quantity="other">Encontrou %1$d contactos</item>
+        <item quantity="one">Encontrou 1 contacto</item>
     </plurals>
     <plurals name="pick_recent_contacts_list_title">
         <item quantity="other">%1$d contactos recentes</item>

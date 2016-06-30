@@ -132,7 +132,7 @@ Verifique o seu número de rastreio"</string>
   <string name="express_inquiry_serial_number_indication">Número de rastreio</string>
   <string name="express_inquiry_serial_number_prefix">Número: %s</string>
   <string name="express_inquiry_status_delivered">Entregue</string>
-  <string name="express_inquiry_status_difficult_goods">Com dificuldade</string>
+  <string name="express_inquiry_status_difficult_goods">Desconhecidos</string>
   <string name="express_inquiry_status_dispatch">A enviar</string>
   <string name="express_inquiry_status_on_the_way">A caminho</string>
   <string name="express_inquiry_status_receipted">Recebido</string>

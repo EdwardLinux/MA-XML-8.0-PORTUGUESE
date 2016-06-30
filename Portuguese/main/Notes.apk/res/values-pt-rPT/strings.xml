@@ -83,7 +83,7 @@ Toque no botão + para criar uma pasta"</string>
   <string name="pref_title_recover_help">Recuperar notas</string>
   <string name="privacy_hint">Privacidade</string>
   <string name="privacy_notes_fragment_title">Notas ocultas</string>
-  <string name="recover_notes_hint">Foram detectadas anomalias nos dados das Notas. Tente recuperá-las em i.mi.com</string>
+  <string name="recover_notes_hint">Ocorreu um erro. Vá a i.mi.com para restaurar as notas</string>
   <string name="redo">Refazer</string>
   <string name="rename_folder_dialog_tile">Renomear pasta</string>
   <string name="search">Notas</string>
