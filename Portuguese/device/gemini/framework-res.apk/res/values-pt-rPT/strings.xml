@@ -325,9 +325,9 @@ utilizando %s"</string>
   <string name="global_action_toggle_silent_mode">Modo silêncio</string>
   <string name="global_action_voice_assist">Assistente de voz</string>
   <string name="global_actions">Opções do telefone</string>
-  <string name="global_actions_airplane_mode_off_status">Modo de Avião está desligado</string>
-  <string name="global_actions_airplane_mode_on_status">Modo de Avião está ligado</string>
-  <string name="global_actions_toggle_airplane_mode">Modo de Avião</string>
+  <string name="global_actions_airplane_mode_off_status">Modo Avião está desligado</string>
+  <string name="global_actions_airplane_mode_on_status">Modo Avião está ligado</string>
+  <string name="global_actions_toggle_airplane_mode">Modo Avião</string>
   <string name="gpsNotifMessage">Pedido por %1$s (%2$s)</string>
   <string name="gpsNotifTicker">Pedido de localização de %s</string>
   <string name="gpsNotifTitle">Pedido de localização</string>

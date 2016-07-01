@@ -76,7 +76,7 @@
   <string name="hourly_forcast_now">Agora</string>
   <string name="hourly_forecast_title">Previsão horária</string>
   <string name="indices_desc_Precip1hr">%1$s mm</string>
-  <string name="indices_desc_feel">Parece que está %1$s°C</string>
+  <string name="indices_desc_feel">"Parece estar %1$s°C"</string>
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
   <string name="indices_desc_humidity">Humidade %1$s%%</string>
   <string name="indices_desc_humidity_without_pic">%1$s%%</string>
@@ -101,7 +101,7 @@
   <string name="install">Instalar</string>
   <string name="international_detail_menu_title">Detalhes</string>
   <string name="international_details_pressure_title">Pressão</string>
-  <string name="international_details_real_feel_title">Parece estar</string>
+  <string name="international_details_real_feel_title">"Parece estar "</string>
   <string name="international_details_title">Detalhes</string>
   <string name="international_details_uv_index_title">Indíce UV</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>

@@ -37,7 +37,7 @@
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ir para Definições</string>
   <string name="fp_nav_center_action_choose_dlg_title">Toque rápido para o ecrã inicial</string>
   <string name="frequent_phrases">Frases freqs.</string>
-  <string name="global_actions_airplane_mode">Modo de Avião</string>
+  <string name="global_actions_airplane_mode">Modo Avião</string>
   <string name="global_actions_reboot">Reiniciar</string>
   <string name="global_actions_shutdown">Desligar</string>
   <string name="global_actions_silent_mode">Silêncio</string>
@@ -103,7 +103,7 @@
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_cast">Transmitir</string>
   <string name="status_bar_toggle_data">Dados móveis</string>
-  <string name="status_bar_toggle_flight_mode">Modo de Avião</string>
+  <string name="status_bar_toggle_flight_mode">Modo Avião</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Bloquear</string>
   <string name="status_bar_toggle_midrop">Mi Drop</string>
