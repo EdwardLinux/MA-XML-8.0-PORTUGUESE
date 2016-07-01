@@ -35,7 +35,7 @@
         <item>30 segundos</item>
         <item>1 minuto</item>
         <item>2 minutos</item>
-        <item>5 minutes</item>
+        <item>5 minutos</item>
         <item>10 minutos</item>
         <item>30 minutos</item>
     </string-array>
@@ -43,8 +43,8 @@
         <item>Normal</item>
         <item>Média</item>
         <item>Grande</item>
+        <item>Muito grande</item>
         <item>Enorme</item>
-        <item>Ultra</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Muito lenta</item>
@@ -211,7 +211,7 @@
         <item>modificar calendário</item>
         <item>pesquisa de wi-fi</item>
         <item>notificação</item>
-        <item>pesquisa telemóvel</item>
+        <item>pesquisa móvel</item>
         <item>ligar para telefone</item>
         <item>ler SMS</item>
         <item>escrever SMS</item>
@@ -238,7 +238,7 @@
         <item>volume de multimédia</item>
         <item>volume de alarme</item>
         <item>volume de notificação</item>
-        <item>volume de bluetooth</item>
+        <item>volume de Bluetooth</item>
         <item>manter activo</item>
         <item>monitorizar localização</item>
         <item>monitorizar localização de potência elevada</item>
@@ -298,7 +298,7 @@
         <item>Sans-serif</item>
         <item>Sans-serif condensado</item>
         <item>Serif</item>
-        <item>Monoespaço serif</item>
+        <item>Monoespaço Serif</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Muito pequeno</item>
@@ -532,14 +532,14 @@
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
-        <item>Reinstalar MiPhoneManager.</item>
+        <item>Reinstalar MiPhoneManager</item>
     </string-array>
     <string-array name="msd_pc_system_retry_linux">
         <item>Instalar ferramenta: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
-        <item>Criar o directório: mkdir /media/mtp</item>
+        <item>Criar a directoria: mkdir /media/mtp</item>
         <item>Confirme as permissões de grupos de utilizadores no grupo de utilizador actual</item>
         <item>Iniciar sessão novamente</item>
-        <item>Acesso montado no dispositivo: mtpfs /media/mtp via file explorer; mesmo que o directório local</item>
+        <item>Acesso montado no dispositivo: mtpfs /media/mtp via explorador de ficheiros; mesmo que o directório local</item>
         <item>"Desinstalar dispositivo: fusermount -u /media/mtp
 Nota: Apenas para Ubuntu 8.04!"</item>
     </string-array>
