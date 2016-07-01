@@ -2301,7 +2301,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone"</string>
   <string name="screen_paper_mode_turn_on">Ligado</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Não mostrar novamente</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Permitir</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Para actualizar a lista de aplicações que utilizam o Modo Leitura, é necessário uma ligação à Internet</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Para actualizar a lista de aplicações que utilizam o Modo Leitura é necessária uma ligação à Internet</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Ligação à Internet</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Actualizar lista de aplicações que utilizam o Modo Leitura automaticamente</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Actualizar automaticamente</string>
