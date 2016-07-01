@@ -919,7 +919,9 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="please_choose_the_duration">Escolher duração</string>
   <string name="port_title">Número da porta</string>
   <string name="preference_auto_ip_summary_disable">Desligado</string>
-  <string name="preference_category_ringtone">Tocar e Vibrar</string>
+  <string name="preference_category_ringtone">Tocar e vibrar</string>
+  <string name="preference_data_usage_summary">Definir o seu plano de dados para controlar a utilização de dados móveis</string>
+  <string name="preference_data_usage_title">Definir plano de dados</string>
   <string name="preference_dial_pad_touch_tone_default">Predefinido</string>
   <string name="preference_dial_pad_touch_tone_piano">Teclas de piano</string>
   <string name="preference_dial_pad_touch_tone_title">Sons do teclado</string>

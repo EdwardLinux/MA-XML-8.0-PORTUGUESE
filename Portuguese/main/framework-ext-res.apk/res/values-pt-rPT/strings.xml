@@ -36,7 +36,7 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Agora não</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ir para Definições</string>
   <string name="fp_nav_center_action_choose_dlg_title">Toque rápido para o ecrã inicial</string>
-  <string name="frequent_phrases">Frases frequentes</string>
+  <string name="frequent_phrases">Frases freqs.</string>
   <string name="global_actions_airplane_mode">Modo de Avião</string>
   <string name="global_actions_reboot">Reiniciar</string>
   <string name="global_actions_shutdown">Desligar</string>
@@ -45,10 +45,10 @@
   <string name="group_name_coworkers">Colegas de trabalho</string>
   <string name="group_name_family">Família</string>
   <string name="group_name_friends">Amigos</string>
-  <string name="handy_mode_enter_dlg_msg">Entrar no Modo de Uma Mão?</string>
-  <string name="handy_mode_enter_dlg_title">Entrar no Modo de Uma Mão</string>
+  <string name="handy_mode_enter_dlg_msg">Entrar no Modo Uma Mão?</string>
+  <string name="handy_mode_enter_dlg_title">Entrar no Modo Uma Mão</string>
   <string name="handy_mode_summary">Para sair, toque na área escurecida</string>
-  <string name="handy_mode_title">Modo de Uma Mão</string>
+  <string name="handy_mode_title">Modo Uma Mão</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Coloque o seu dedo no botão Início</string>
   <string name="internal_livetalk_enable">A utilizar pacote de recarga para chamadas nacionais</string>
   <string name="international_livetalk_enable">A utilizar pacote de recarga para chamadas internacionais</string>
@@ -80,7 +80,7 @@
   <string name="screen_on_proximity_sensor_hint">Para desligar esta funcionalidade, prima os botões Voltar e Volume Acima simultâneamente</string>
   <string name="screen_on_proximity_sensor_summary">Não tape a área laranja do ecrã</string>
   <string name="screen_on_proximity_sensor_title">Prevenir uso inadvertido no bolso</string>
-  <string name="screen_paper_mode_enter_toast">Modo de Leitura está ligado. Para desligar esta funcionalidade vá a Definições &gt; Ecrã &gt; Modo de Leitura</string>
+  <string name="screen_paper_mode_enter_toast">O Modo Leitura está ligado. Para desligar esta funcionalidade vá a Definições &gt; Ecrã &gt; Modo Leitura</string>
   <string name="screen_rotation_freeze_message">Rotação automática desligada</string>
   <string name="security_permission_denied_text">Acesso negado</string>
   <string name="security_permission_failed_text">Erro interno. Tente novamente mais tarde</string>
@@ -108,7 +108,7 @@
   <string name="status_bar_toggle_lock">Bloquear</string>
   <string name="status_bar_toggle_midrop">Mi Drop</string>
   <string name="status_bar_toggle_mute">Silêncio</string>
-  <string name="status_bar_toggle_paper_mode">Modo de Leitura</string>
+  <string name="status_bar_toggle_paper_mode">Modo Leitura</string>
   <string name="status_bar_toggle_power_mode">Desempenho</string>
   <string name="status_bar_toggle_quiet_mode">Não incomodar</string>
   <string name="status_bar_toggle_rotate">Rotação</string>

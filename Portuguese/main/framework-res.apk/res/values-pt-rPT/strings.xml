@@ -1190,7 +1190,7 @@ para a conta %s."</string>
   <string name="permlab_diagnostic">ler/escrever nas propriedades dos recursos de diagnóstico</string>
   <string name="permlab_disableKeyguard">desactivar o bloqueio de ecrã</string>
   <string name="permlab_dump">obter o estado interno do sistema</string>
-  <string name="permlab_enableCarMode">activar o Modo de Condução</string>
+  <string name="permlab_enableCarMode">activar o Modo Condução</string>
   <string name="permlab_expandStatusBar">expandir/fechar barra de estado</string>
   <string name="permlab_factoryTest">executar modo de teste de fábrica</string>
   <string name="permlab_filter_events">filtrar eventos</string>

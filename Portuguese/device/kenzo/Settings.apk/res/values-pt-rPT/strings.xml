@@ -552,6 +552,8 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="cache_header_label">Cache</string>
   <string name="cache_size_label">Cache</string>
   <string name="cached">Processo em segundo plano em cache</string>
+  <string name="calendar_sound_dialog_title">Escolher som do calendário</string>
+  <string name="calendar_sound_title">Som do calendário</string>
   <string name="call_settings_summary">Configurar Voice Mail, reencaminhamento de chamadas, chamada em espera, ID do autor da chamada</string>
   <string name="call_settings_title">Definições de chamadas</string>
   <string name="camera_key_action_app_title">Abrir aplicação</string>
@@ -985,7 +987,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="done_button">Concluído</string>
   <string name="download_current_rom">Obter a última versão MIUI</string>
   <string name="downloading_description">A transferir…</string>
-  <string name="drive_mode">Modo de Condução</string>
+  <string name="drive_mode">Modo Condução</string>
   <string name="drive_mode_auto_reply">Resposta rápida</string>
   <string name="drive_mode_auto_sms_reply_content">Não posso atender agora… Ligo mais tarde</string>
   <string name="drive_mode_auto_sms_reply_content_title">Resposta rápida</string>
@@ -993,10 +995,10 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="drive_mode_invert_stop_report">Inverter telefone para silenciar</string>
   <string name="drive_mode_only_contact_reply">Responder apenas aos Contactos</string>
   <string name="drive_mode_phone_report">Relatório de chamadas recebidas</string>
-  <string name="drive_mode_settings">Definições do Modo de Condução</string>
+  <string name="drive_mode_settings">Definições do Modo Condução</string>
   <string name="drive_mode_sms_auto_sms_reply">Resposta às SMS</string>
   <string name="drive_mode_sms_report">Mensagens</string>
-  <string name="drive_mode_title">Modo de Condução</string>
+  <string name="drive_mode_title">Modo Condução</string>
   <string name="drive_mode_voice_report">Saída de texto para voz</string>
   <string name="dtmf_tone_enable_title">Tons de marcação</string>
   <string name="edge_mode_back">Voltar</string>
@@ -1017,7 +1019,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="enable_adb_summary">Modo de depuração quando o USB está ligado</string>
   <string name="enable_compatibility">Redimensionar aplicação</string>
   <string name="enable_crypt_keeper_encrypt">Activar encriptação</string>
-  <string name="enable_drive_mode">Modo de Condução</string>
+  <string name="enable_drive_mode">Modo Condução</string>
   <string name="enable_mobile_data_when_opening_hotspot">Activar também a ligação de dados móveis?</string>
   <string name="enable_opengl_traces_title">Activar traços OpenGL</string>
   <string name="enable_service_title">Utilizar %1$s?</string>
@@ -1151,8 +1153,8 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="global_locale_change_title">Alterar idioma</string>
   <string name="google_backup_section_title">Cópia do Google e restauro</string>
   <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
-  <string name="handy_mode">Modo de Uma Mão</string>
-  <string name="handy_mode_enter_ask">Perguntar antes de entrar no Modo de Uma Mão</string>
+  <string name="handy_mode">Modo Uma Mão</string>
+  <string name="handy_mode_enter_ask">Perguntar antes de entrar no Modo Uma Mão</string>
   <string name="handy_mode_size">Tamanho do ecrã</string>
   <string name="handy_mode_tips">Deslize para a esquerda ou para a direita desde o botão Início, para arrastar a imagem para um dos lados</string>
   <string name="haptic_feedback_enable_title">Vibrar ao tocar</string>
@@ -1837,7 +1839,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_equalizer">Definições/Som e vibração/Definições de áudio/Equalizador</string>
   <string name="path_font_settings">Definições/Tipo de letra do sistema</string>
   <string name="path_gps_settings">Definições/Definições adicionais/Privacidade/Localização</string>
-  <string name="path_handy_mode_settings">Definições/Definições adicionais/Modo de Uma Mão</string>
+  <string name="path_handy_mode_settings">Definições/Definições adicionais/Modo Uma Mão</string>
   <string name="path_home_key">Definições/Definições adicionais/Botões/Início</string>
   <string name="path_key_settings">Definições/Definições adicionais/Botões</string>
   <string name="path_lab_functions_title">Definições/Adicionais/Funcionalidades beta</string>
@@ -1886,7 +1888,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_screen_key_long_press_timeout">Definições/Definições adicionais/Botões/Definir tempo de espera do botão</string>
   <string name="path_screen_on_proximity_sensor_title">Definições/Ecrã de bloqueio e segurança/Prevenir uso inadvertido no bolso</string>
   <string name="path_screen_optimize">Definições/Ecrã/Cores e contraste</string>
-  <string name="path_screen_paper_mode">Definições/Ecrã/Modo de Leitura</string>
+  <string name="path_screen_paper_mode">Definições/Ecrã/Modo Leitura</string>
   <string name="path_screen_saver_settings">Definições/Ecrã/Protecção de ecrã</string>
   <string name="path_screen_timeout_settings">Definições/Ecrã de bloqueio e segurança/Suspender</string>
   <string name="path_second_space">Definições/Segundo espaço</string>
@@ -2268,7 +2270,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone"</string>
   <string name="scan_list_label">Resultados da pesquisa:</string>
   <string name="screen">Ecrã</string>
   <string name="screen_color_and_optimize">Cores e contraste</string>
-  <string name="screen_color_and_optimize_disabled">Não é possível ajustar temperatura da cor no Modo de Leitura</string>
+  <string name="screen_color_and_optimize_disabled">Não é possível ajustar temperatura da cor no Modo Leitura</string>
   <string name="screen_color_temperature">Cores</string>
   <string name="screen_color_temperature_and_saturation">Cores e saturação</string>
   <string name="screen_compatibility_label">Compatibilidade do ecrã</string>
@@ -2294,7 +2296,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone"</string>
   <string name="screen_paper_mode_range_title">Definições</string>
   <string name="screen_paper_mode_set_apps_title">Aplicações em modo de Leitura</string>
   <string name="screen_paper_mode_summary">Reduzir brilho de fundo do ecrã</string>
-  <string name="screen_paper_mode_title">Modo de Leitura</string>
+  <string name="screen_paper_mode_title">Modo Leitura</string>
   <string name="screen_paper_mode_turn_off">Desligado</string>
   <string name="screen_paper_mode_turn_on">Ligado</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Não mostrar novamente</string>
@@ -2437,7 +2439,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone"</string>
   <string name="search_ntts_settings_title">Saída de texto para voz;TTS</string>
   <string name="search_oldman_mode">Modo Leve;Modo Leve</string>
   <string name="search_onekey_migrate">Mi Mover;Migração num clique</string>
-  <string name="search_other_advanced_settings">Definições adicionais;Definições de privacidade;Data e hora;Idioma e entrada;Modo de Uma Mão;Bateria e desempenho;Armazenamento;LED de notificações;LED;Auriculares e efeitos de áudio;Botões;Chaves;Acessibilidade;Funcionalidades Beta;Funções de laboratório;Opções de programador;Cópia e restauro;Mi Mover;Migração num clique</string>
+  <string name="search_other_advanced_settings">Definições adicionais;Definições de privacidade;Data e hora;Idioma e entrada;Modo Uma Mão;Bateria e desempenho;Armazenamento;LED de notificações;LED;Auriculares e efeitos de áudio;Botões;Chaves;Acessibilidade;Funcionalidades Beta;Funções de laboratório;Opções de programador;Cópia e restauro;Mi Mover;Migração num clique</string>
   <string name="search_owner_info_settings">Info. do proprietário</string>
   <string name="search_page_layout_settings">Tamanho do texto</string>
   <string name="search_pointer_speed">Velocidade do ponteiro</string>
@@ -2458,7 +2460,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone"</string>
   <string name="search_screen_effect">Cores e saturação;Cores e contraste</string>
   <string name="search_screen_key_long_press_timeout">Definir tempo de espera do botão</string>
   <string name="search_screen_on_proximity_sensor_title">Prevenir uso inadvertido no bolso</string>
-  <string name="search_screen_paper_mode">Modo de Leitura</string>
+  <string name="search_screen_paper_mode">Modo Leitura</string>
   <string name="search_screen_saver_settings">Protecção de ecrã</string>
   <string name="search_screen_timeout">Suspender;Bloqueio de ecrã</string>
   <string name="search_second_space">Segundo espaço</string>

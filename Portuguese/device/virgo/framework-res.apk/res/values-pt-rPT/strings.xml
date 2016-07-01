@@ -813,7 +813,7 @@ para a conta %s."</string>
   <string name="permlab_control_incall_experience">proporcionar uma experiência de utilizador em chamada</string>
   <string name="permlab_createNetworkSockets">ter acesso total à rede</string>
   <string name="permlab_disableKeyguard">desactivar o bloqueio de ecrã</string>
-  <string name="permlab_enableCarMode">activar Modo de Condução</string>
+  <string name="permlab_enableCarMode">activar Modo Condução</string>
   <string name="permlab_expandStatusBar">expandir/fechar barra de estado</string>
   <string name="permlab_flashlight">controlar lanterna</string>
   <string name="permlab_getAccounts">pesquisar contas no dispositivo</string>
