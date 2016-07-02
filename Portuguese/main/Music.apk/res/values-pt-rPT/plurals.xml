@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="download_finished">
-         <item quantity="other"><font color="red">%d músicas</font> transferidas</item>
-         <item quantity="one"><font color="red">%d música</font> transferida</item>
+        <item quantity="other"><font color="red">%d músicas</font> transferidas</item>
+        <item quantity="one"><font color="red">%d música</font> transferida</item>
      </plurals>
      <plurals name="download_running">
-         <item quantity="other"><font color="red">%d músicas</font> a transferir</item>
-         <item quantity="one"><font color="red">%d música</font> a transferir</item>
+        <item quantity="other"><font color="red">%d músicas</font> a transferir</item>
+        <item quantity="one"><font color="red">%d música</font> a transferir</item>
      </plurals>
      <plurals name="NTrackstoDownload">
         <item quantity="other">%d músicas vão ser transferidas</item>
@@ -70,7 +70,7 @@
      <plurals name="Nquit_warning">
         <item quantity="other">Vai parar de tocar em %d minutos</item>
         <item quantity="one">Vai parar de tocar em %d minuto</item>
-    </plurals>	 
+     </plurals>	 
      <plurals name="folder_songs_count">
         <item quantity="other">%d músicas</item>
         <item quantity="one">1 música</item>

@@ -77,8 +77,8 @@
         <item quantity="one">%d foto</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d fotos a aguardar para serem copiadas</item>
-        <item quantity="one">1 foto a aguardar para ser copiada</item>
+        <item quantity="other">%1$d fotos aguardam para serem copiadas</item>
+        <item quantity="one">1 foto aguarda para ser copiada</item>
     </plurals>
     <plurals name="album_count_and_size">
         <item quantity="other">%1$d itens | %2$s</item>
@@ -89,32 +89,32 @@
         <item quantity="one">%1$d item foi copiado</item>
     </plurals>
     <plurals name="backup_waiting">
-        <item quantity="other">%1$d itens a aguardar para serem copiados</item>
-        <item quantity="one">%1$d item a aguardar para ser copiado</item>
+        <item quantity="other">%1$d itens aguardam para serem copiados</item>
+        <item quantity="one">%1$d item aguarda para ser copiado</item>
     </plurals>
     <plurals name="network_unsatisfied">
-        <item quantity="other">Erro de rede. %1$d itens a aguardar para serem copiados</item>
-        <item quantity="one">Erro de rede. %1$d iitem a aguardar para ser copiado</item>
+        <item quantity="other">Erro de rede. %1$d itens aguardam para serem copiados</item>
+        <item quantity="one">Erro de rede. %1$d item aguarda para ser copiado</item>
     </plurals>
     <plurals name="sync_off">
-        <item quantity="other">A sincronização está desligada. %1$d itens a aguardar para serem copiados</item>
-        <item quantity="one">A sincronização está desligada. %1$d item a aguardar para ser copiado</item>
+        <item quantity="other">A sincronização está desligada. %1$d itens aguardam para serem copiados</item>
+        <item quantity="one">A sincronização está desligada. %1$d item aguarda para ser copiado</item>
     </plurals>
     <plurals name="cloud_space_full">
-        <item quantity="other">A Nuvem Mi está cheia. %1$d itens a aguardar para serem copiados</item>
-        <item quantity="one">A Nuvem Mi está cheia. %1$d item a aguardar para ser copiado</item>
+        <item quantity="other">A Nuvem Mi está cheia. %1$d itens aguardam para serem copiados</item>
+        <item quantity="one">A Nuvem Mi está cheia. %1$d item aguarda para ser copiado</item>
     </plurals>
     <plurals name="local_space_full">
-        <item quantity="other">Sem espaço no armazenamento. %1$d itens a aguardar para serem copiados</item>
-        <item quantity="one">Sem espaço no armazenamento. %1$d item a aguardar para ser copiado</item>
+        <item quantity="other">Sem espaço no armazenamento. %1$d itens aguardam para serem copiados</item>
+        <item quantity="one">Sem espaço no armazenamento. %1$d item aguarda para ser copiado</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d vídeos a aguardar para serem copiados</item>
-        <item quantity="one">1 vídeo a aguardar para ser copiado</item>
+        <item quantity="other">%1$d vídeos aguardam para serem copiados</item>
+        <item quantity="one">1 vídeo aguarda para ser copiado</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d items a aguardar para serem copiados</item>
-        <item quantity="one">1 item a aguardar para ser copiado</item>
+        <item quantity="other">%1$d itens aguardam para serem copiados</item>
+        <item quantity="one">1 item aguarda para ser copiado</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">A fazer cópia de %1$d fotos…</item>

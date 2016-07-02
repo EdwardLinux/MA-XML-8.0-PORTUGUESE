@@ -2,7 +2,7 @@
 <resources>
   <string name="abandon">Cancelar</string>
   <string name="accept">Aceitar</string>
-  <string name="accept_or_deny">%1$s partilhou o álbum %2$s contigo</string>
+  <string name="accept_or_deny">%1$s partilhou o álbum %2$s consigo</string>
   <string name="add_automatically_alert_msg">Adicionar fotos de \"%1$s\" a este álbum automaticamente?</string>
   <string name="add_automatically_alert_title">Adicionar fotos automaticamente</string>
   <string name="add_sharer">Adicionar membro</string>
@@ -78,8 +78,8 @@
   <string name="auto_upload_before_share_message">Fazer cópia deste álbum para a Nuvem Mi antes de partilhar</string>
   <string name="auto_upload_before_share_title">Dica</string>
   <string name="auto_upload_disable_tip">Sincronização com a Nuvem Mi está desligada</string>
-  <string name="auto_upload_disable_toast_long_press_menu">Sincronização com a Nuvem Mi está desligada. Vá a Outros álbuns para ver</string>
-  <string name="auto_upload_enable_toast_long_press_menu">Sincronização com a Nuvem Mi está ligada. Vá a Álbuns para ver</string>
+  <string name="auto_upload_disable_toast_long_press_menu">A sincronização com a Nuvem Mi está desligada. Vá a Outros álbuns para ver</string>
+  <string name="auto_upload_enable_toast_long_press_menu">A sincronização com a Nuvem Mi está ligada. Vá a Álbuns para ver</string>
   <string name="autofix">Ajuste automático</string>
   <string name="baby_album">Álbum do bébé</string>
   <string name="baby_album_change_background">Alterar foto em segundo plano</string>
@@ -87,7 +87,7 @@
   <string name="baby_album_new_photo_remind">Existem fotos novas no seu álbum de bebé</string>
   <string name="baby_album_setting_title">Informação do bebé</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%2$s de %1$s,
-%4$s de %3$s partilhou o álbum de %5$s contigo"</string>
+%4$s de %3$s partilhou o álbum de %5$s consigo"</string>
   <string name="baby_album_sharer_recommand_face">Adicionar fotos existentes de %1$s?</string>
   <string name="baby_album_sharers_page_title">Partilhar com a família</string>
   <string name="baby_birthday">Aniversário</string>
@@ -114,7 +114,7 @@
   <string name="black_white">P&amp;B plano</string>
   <string name="blank_app_name"/>
   <string name="brannan">Brannan</string>
-  <string name="browse_category_title">Navegar</string>
+  <string name="browse_category_title">Explorar</string>
   <string name="buy_member_tip">Tornar-se membro</string>
   <string name="by_email">Email</string>
   <string name="by_others">Outro</string>
@@ -134,7 +134,7 @@
   <string name="choose_owner_relation">Relação</string>
   <string name="choose_people">Escolher o álbum de uma pessoa</string>
   <string name="choose_some_people">Escolher álbum com %s</string>
-  <string name="clear_local_photo_direction">Se eliminar fotos ou vídeos do seu dispositivo, elas ainda vão estar disponíveis na Nuvem Mi</string>
+  <string name="clear_local_photo_direction">Se eliminar fotos ou vídeos do seu dispositivo, estes ainda vão ficar disponíveis na Nuvem Mi</string>
   <string name="click_download_gif">Toque para transferir GIF</string>
   <string name="click_top_right">Toque neste ícone</string>
   <string name="cloud_camera_display_name">Fotos da câmara</string>
@@ -203,10 +203,10 @@
   <string name="delete_from_all_devices">de todos os dispositivos</string>
   <string name="delete_from_devices">Todos os dispositivos sincronizados</string>
   <string name="delete_from_devices_album">Todos os dispositivos que sincronizaram este álbum</string>
-  <string name="delete_from_homepage_album">Álbuns mostrados na Galeria</string>
-  <string name="delete_from_web">Álbuns Web</string>
+  <string name="delete_from_homepage_album">Álbuns mostrados na galeria</string>
+  <string name="delete_from_web">Álbuns web</string>
   <string name="delete_in_album">Quando eliminar fotos ou vídeos de um álbum, também vão ser eliminados de:</string>
-  <string name="delete_in_home_page">Quando eliminar uma foto ou vídeo da Galeria, também vão ser eliminados de:</string>
+  <string name="delete_in_home_page">Quando eliminar uma foto ou vídeo da galeria, também vão ser eliminados de:</string>
   <string name="delete_in_process">A eliminar…</string>
   <string name="delete_origin">Eliminar itens do álbum original</string>
   <string name="delete_other_shared_images">Não é possível eliminar fotos partilhadas por outras pessoas</string>
@@ -282,7 +282,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="face_move_dialog_title">Escolher um álbum</string>
   <string name="facelift">Brilho do rosto</string>
   <string name="facetan">Rosto bronzeado</string>
-  <string name="fail_hint">Não foi possível concluir operação</string>
+  <string name="fail_hint">Não foi possível concluir tarefa</string>
   <string name="fail_to_pick_email">Endereço de email inválido</string>
   <string name="fail_to_sync_album">Não foi possível sincronizar álbum. Verifique a sua ligação de dados e tente novamente</string>
   <string name="family_member_invitation_text">Outro membro da família</string>
@@ -317,11 +317,11 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="frame_button">Moldura</string>
   <string name="frame_classic">Clássico</string>
   <string name="frame_movie">Filme</string>
-  <string name="frame_semicircle">Semicírculo</string>
+  <string name="frame_semicircle">Semi-círculo</string>
   <string name="frame_white">Branco</string>
   <string name="free">Personalizado</string>
   <string name="gallery_setting">Definições</string>
-  <string name="gallery_sync_disable_toast">Sincronização com a Galeria está desligada</string>
+  <string name="gallery_sync_disable_toast">A sincronização com a galeria está desligada</string>
   <string name="get_album_info_in_process">A obter detalhes do álbum partilhado…</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
@@ -405,7 +405,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="merge_album_title">Unir álbuns</string>
   <string name="messagelist_sender_self">Eu</string>
   <string name="micloud_introduce">Fazer cópias de fotos e vídeos automaticamente (É necessário uma Conta Mi)</string>
-  <string name="more_album_hint">", etc."</string>
+  <string name="more_album_hint">", etc"</string>
   <string name="more_face_album_name">Mais pessoas</string>
   <string name="must_pick_file">Seleccionar uma foto</string>
   <string name="name_split">", "</string>
@@ -445,7 +445,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="operation_force_top">Fixar</string>
   <string name="operation_hide">Ocultar</string>
   <string name="operation_in_process">A processar…</string>
-  <string name="operation_not_show_in_photos_tab">Não mostrar em Fotos</string>
+  <string name="operation_not_show_in_photos_tab">Não mostrar em fotos</string>
   <string name="operation_projection">Transmitir</string>
   <string name="operation_remove_from_face_album">Remover do álbum</string>
   <string name="operation_remove_secret">Mostrar</string>
@@ -454,7 +454,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="operation_set_contact_photo">Definir como foto de contacto</string>
   <string name="operation_set_wallpaper">Definir como papel de parede</string>
   <string name="operation_share">Partilhar</string>
-  <string name="operation_show_in_photos_tab">Mostrar em Fotos</string>
+  <string name="operation_show_in_photos_tab">Mostrar em fotos</string>
   <string name="operation_show_on_map">Mostrar no mapa</string>
   <string name="operation_slide_show">Iniciar apresentação de diapositivos</string>
   <string name="operation_successful">Concluído</string>
@@ -473,7 +473,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="paint_cancel_title">Rejeitar alterações</string>
   <string name="paint_crop_cancel_context">Guardar imagem cortada?</string>
   <string name="paint_crop_cancel_title">Rejeitar alterações</string>
-  <string name="paint_crop_tips">Colocar a área alvo da imagem perto do centro da grade</string>
+  <string name="paint_crop_tips">Colocar a área alvo da imagem perto do centro da grelha</string>
   <string name="paint_highlight">Riscar</string>
   <string name="paint_highlight_cancel_context">Gravar a imagem com riscos?</string>
   <string name="paint_highlight_cancel_title">Rejeitar alterações</string>
@@ -485,8 +485,8 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="photo">Fotos</string>
   <string name="photo_edit_file_not_exits_tip">Transferir foto antes de editar</string>
   <string name="photo_editor_saving">A guardar…</string>
-  <string name="photo_page_save_uri_image_fail">Não foi possível guardar na Galeria</string>
-  <string name="photo_page_save_uri_image_ok">Foto guardada na Galeria</string>
+  <string name="photo_page_save_uri_image_fail">Não foi possível guardar na galeria</string>
+  <string name="photo_page_save_uri_image_ok">Foto guardada na galeria</string>
   <string name="photo_save_succeed">Guardado com sucesso</string>
   <string name="photoeditor_name">Editor de Fotos</string>
   <string name="pick_from_contact">Escolher dos contactos</string>
@@ -549,14 +549,14 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="rise">Quente</string>
   <string name="rotate">Rodar</string>
   <string name="rotate_tooltip">Arrastar foto para rodar</string>
-  <string name="runtime_permission_ungranted">A Galeria fechou devido a permissões não concedidas</string>
-  <string name="same_name_album_exist_and_toast">"Já existe um álbum com esse nome. Criado como '%s' em vez."</string>
+  <string name="runtime_permission_ungranted">A galeria fechou devido a permissões não concedidas</string>
+  <string name="same_name_album_exist_and_toast">"Já existe um álbum com esse nome. Criado como '%s' em vez"</string>
   <string name="saturation">Saturação</string>
   <string name="saturation_abbr">S</string>
   <string name="save">Guardar</string>
   <string name="save_photo">Guardar a foto editada?</string>
   <string name="saving_failure">Não é possível guardar foto</string>
-  <string name="scan_barcode_guide">Para obter código QR do álbum, toque no ícone Partilhar</string>
+  <string name="scan_barcode_guide">Para obter o código QR do álbum toque no ícone Partilhar</string>
   <string name="scan_barcode_to_join">Digitalizar código QR para adicionar álbum</string>
   <string name="scan_qr_code_buttom_text">Digitalizar código QR para ver este álbum</string>
   <string name="secret_album_display_name">Álbum oculto</string>
@@ -568,10 +568,10 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="send_invitation_fail">Não foi possível enviar convite</string>
   <string name="send_multiple_files_hint_format">Enviar (%s)</string>
   <string name="send_public_url">Enviar URL do álbum</string>
-  <string name="send_too_many_files_error">Pode enviar até %d itens duma vez</string>
+  <string name="send_too_many_files_error">Pode enviar até %d itens de uma vez</string>
   <string name="sepia">Sépia</string>
   <string name="set_as_baby_lock_wallpaper">Definir como papel de parede do ecrã de bloqueio</string>
-  <string name="set_face_group_toast_msg_new_user">Segure numa pessoa para unir ou ignorar</string>
+  <string name="set_face_group_toast_msg_new_user">Segure na foto de uma pessoa para unir ou ignorar</string>
   <string name="set_face_group_toast_msg_old_user">Segure na foto de uma pessoa para criar grupos (Família, Amigos, etc.)</string>
   <string name="set_face_group_toast_title_new_user">Sugestão</string>
   <string name="set_face_group_toast_title_old_user">As pessoas podem ser organizadas em grupos</string>
@@ -583,7 +583,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="share_album_needs_auto_upload_tip">Não é possível desligar a cópia automática para álbuns partilhados</string>
   <string name="share_by_email_start">Partilhar %1$s em segundo plano</string>
   <string name="share_by_email_successfully">Partilhado %1$s</string>
-  <string name="share_public_url_text">Partilhei o álbum %1$s contigo. Veja-o em %2$s</string>
+  <string name="share_public_url_text">Partilhei o álbum %1$s consigo. Veja-o em %2$s</string>
   <string name="share_with_family">Partilhar com a família</string>
   <string name="sharer_quota_fulfiled">Já partilhou este álbum com o limite máximo de pessoas</string>
   <string name="sharpen">Afiado</string>
@@ -603,7 +603,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="slim_tip_title">Optimização de armazenamento</string>
   <string name="slimming">A optimizar…</string>
   <string name="square">Quadrado</string>
-  <string name="start_debug">Depurar Galeria</string>
+  <string name="start_debug">Depurar galeria</string>
   <string name="start_to_use_face_albumset">Ordenar por pessoas</string>
   <string name="storage_no_space">Sem espaço suficiente</string>
   <string name="straighten">Ajustar</string>
@@ -660,7 +660,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="video_editor_audio_rock">Rock</string>
   <string name="video_editor_audio_sad">Balada</string>
   <string name="video_editor_audio_young">Ukulele</string>
-  <string name="video_editor_auto_trim">Redução auto.</string>
+  <string name="video_editor_auto_trim">Redução auto</string>
   <string name="video_editor_auto_trim_tip">A reduzir…</string>
   <string name="video_editor_cancel">Cancelar</string>
   <string name="video_editor_done">Concluído</string>
@@ -685,7 +685,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="video_editor_invalid_trim_arguments">Deve ter mais de um segundo</string>
   <string name="video_editor_loading_plugin">A carregar…</string>
   <string name="video_editor_more">Avançado</string>
-  <string name="video_editor_not_support_tips">Esses ficheiros de vídeo não são suportados</string>
+  <string name="video_editor_not_support_tips">Este formato de vídeo não é suportado</string>
   <string name="video_editor_ok">OK</string>
   <string name="video_editor_res_download_failed_tips">Não foi possível transferir. Verifique as definições de rede e tente novamente</string>
   <string name="video_editor_res_download_mobil_network_confirm_msg">Transferir músicas utilizando dados móveis?</string>

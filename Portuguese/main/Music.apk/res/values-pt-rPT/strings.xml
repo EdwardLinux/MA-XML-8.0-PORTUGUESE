@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="account">Conta</string>
   <string name="account_and_cloud">Conta</string>
@@ -56,7 +56,7 @@
   <string name="atmd_music">Final</string>
   <string name="audio_picker_title">Escolher uma música</string>
   <string name="auth_activity_title">Conta Xunlei</string>
-  <string name="auto_download_in_wifi">Transferir as músicas favoritas por WiFi</string>
+  <string name="auto_download_in_wifi">Transferir as músicas favoritas por Wi-Fi</string>
   <string name="auto_payment">Renovação automática</string>
   <string name="auto_payment_date">Próximo pagamento: %s</string>
   <string name="auto_restart_under_wifi">O ficheiro vai ser transferido automaticamente em Wi-Fi</string>
@@ -64,7 +64,7 @@
   <string name="available_playlist_name_format">Nova lista de reprodução %d</string>
   <string name="avoid_to_use_traffic_summary">Mostrar aviso de utilização de dados móveis</string>
   <string name="avoid_to_use_traffic_title">Utilize apenas Wi-Fi para transmitir música</string>
-  <string name="back_confirm">Prima voltar novamente para pôr a aplicação em segundo plano</string>
+  <string name="back_confirm">Toque voltar novamente para pôr a aplicação em segundo plano</string>
   <string name="baidu_music">Música Baidu</string>
   <string name="being_disable_auto_payment">A desligar…</string>
   <string name="being_enable_auto_payment">A ligar…</string>
@@ -102,7 +102,7 @@
   <string name="confirm_delete_the_download_item_message">Eliminar estas transferências?</string>
   <string name="confirm_download">Transferir</string>
   <string name="confirm_to_renew">Renovar</string>
-  <string name="cp_info_first">O serviço de streaming é oferecido por Ultimate Inc.</string>
+  <string name="cp_info_first">O serviço de streaming é oferecido por Ultimate Inc</string>
   <string name="cp_info_second">service1@ultimobi.com</string>
   <string name="create_playlist">Criar nova lista de reprodução</string>
   <string name="create_playlist_failure">Não foi possível criar lista de reprodução</string>
@@ -137,9 +137,9 @@
   <string name="dialog_button_login">Iniciar e sincronizar músicas</string>
   <string name="dialog_button_scan_tracks">Pesquisar músicas neste dispositivo</string>
   <string name="dialog_cannot_resume">Transferência interrompida. Não pode ser transferida</string>
-  <string name="dialog_confirm_delete_checkbox_message">Eliminar ficheiros no dispositivo também</string>
+  <string name="dialog_confirm_delete_checkbox_message">Eliminar ficheiro(s) do dispositivo?</string>
   <string name="dialog_confirm_delete_downloads_message">Eliminar %d transferências?</string>
-  <string name="dialog_confirm_delete_the_download_item_message">Eliminar estas transferências</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Eliminar esta(s) transferência(s)?</string>
   <string name="dialog_failed_body">Quer voltar a transferir o ficheiro mais tarde ou eliminá-lo das transferências pendentes?</string>
   <string name="dialog_file_already_exists">Não é possível transferir. O ficheiro de destino já existe</string>
   <string name="dialog_file_missing_body">O ficheiro transferido não foi encontrado</string>
@@ -238,7 +238,7 @@
   <string name="editmode_menu_share">Partilhar</string>
   <string name="empty_page_no_album">Sem álbuns</string>
   <string name="empty_page_no_artist">Sem artistas</string>
-  <string name="empty_page_no_document">Sem ficheiros áudio</string>
+  <string name="empty_page_no_document">Sem ficheiros de áudio</string>
   <string name="empty_page_no_track">Sem músicas</string>
   <string name="enable_auto_payment_fail">Não foi possível ligar</string>
   <string name="enable_auto_payment_fail_message">Não foi possível ligar a renovação automática</string>
@@ -297,7 +297,7 @@
   <string name="filter_by_size_max">2MB</string>
   <string name="filter_by_size_min">0KB</string>
   <string name="filter_by_size_prefix">"Ocultar ficheiros inferiores a: "</string>
-  <string name="filter_by_size_summary">Ocultar pequenos ficheiros de áudios</string>
+  <string name="filter_by_size_summary">Ocultar pequenos ficheiros de áudio</string>
   <string name="find_music">Procurar músicas</string>
   <string name="force_touch_audio_picker">Reconhecer músicas</string>
   <string name="force_touch_play_local_music_random">Reproduzir aleatóriamente</string>
@@ -371,8 +371,8 @@
   <string name="menu_title_resume_all">Iniciar tudo</string>
   <string name="menu_title_settings">Definições</string>
   <string name="message_delete_playlist">Eliminar lista de reprodução %s?</string>
-  <string name="metered_alert">Aviso do uso de dados Móveis</string>
-  <string name="metered_alert_msg">Utilizar a sua ligação de dados para transmitir música vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
+  <string name="metered_alert">Aviso de utilização de dados móveis</string>
+  <string name="metered_alert_msg">Se utilizar a sua ligação de dados para ouvir músicas vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
   <string name="metered_allow">Streaming</string>
   <string name="metered_disallow">Cancelar</string>
   <string name="metered_play_toast">Transmissão via ligação de dados</string>
@@ -389,7 +389,7 @@
   <string name="miuishare_app_name">Partilha Miui</string>
   <string name="miuishare_no_network">Não é possível ligar à rede</string>
   <string name="miuishare_publish">Enviar</string>
-  <string name="miuishare_share_done">Partilhado com sucesso</string>
+  <string name="miuishare_share_done">Enviado com sucesso</string>
   <string name="miuishare_share_editor_title">Partilhar</string>
   <string name="miuishare_title_more">Mais</string>
   <string name="miuishare_title_share">Partilhar</string>
@@ -411,7 +411,7 @@
   <string name="more_online_song">Mais</string>
   <string name="more_online_suggest">Mais</string>
   <string name="more_settings">Definições avançadas</string>
-  <string name="more_settings_summary">Transferir definições, modo de suspensão, dados móveis, filtros de ficheiro, etc</string>
+  <string name="more_settings_summary">Temporizador, filtrar ficheiros de áudio, etc</string>
   <string name="multichoice">Seleccionar</string>
   <string name="music_browser_label">Música</string>
   <string name="music_filter">Filtrar ficheiros de áudio</string>
@@ -463,15 +463,15 @@
   <string name="notification_des_next_song">Seguinte: %s</string>
   <string name="notification_des_no_song">Música Mi. Novidades todos os dias</string>
   <string name="notification_download_complete">Transferência concluída</string>
-  <string name="notification_download_failed">Transferência não efectuada.</string>
-  <string name="notification_download_failed_more">Não foi possível transferir %1$d items</string>
+  <string name="notification_download_failed">Transferência não efectuada</string>
+  <string name="notification_download_failed_more">Não foi possível transferir %1$d itens</string>
   <string name="notification_download_success_more">%1$d transferido</string>
   <string name="notification_favorite_summary">Obter notificações sobre novos lançamentos e últimos hits</string>
   <string name="notification_favorite_title">Notificações acerca dos seus artistas favoritos</string>
   <string name="notification_headset_custom">Rejeitar</string>
   <string name="notification_headset_info">Toque para ver definições</string>
   <string name="notification_headset_settings">Auriculares ligados</string>
-  <string name="notification_need_wifi_for_size">O tamanho da transferência necessita de Wi-Fi</string>
+  <string name="notification_need_wifi_for_size">O tamanho da transferência necessita de uma ligação Wi-Fi</string>
   <string name="notification_play_summary">Ver a música actual e a próxima e mostrar letras no ecrã inicial</string>
   <string name="notification_play_title">Widget na área de notificações</string>
   <string name="notification_recommend_summary">Saber mais sobre as novas tendências musicais e promoções da aplicação</string>
@@ -521,7 +521,7 @@
   <string name="power_save_mode_dialog_msg">A poupança de bateria está ligada. Iniciar transferências agora?</string>
   <string name="pref_download_settings_title">Limite do tamanho de transferências</string>
   <string name="pref_summary_any_bytes_popup">Aguardar sempre por uma ligação Wi-Fi para transferir ficheiros</string>
-  <string name="pref_summary_enable_max_bytes_popup">Mostrar notificação popup quando utilizar ligação de dados móveis para transferir conteúdo</string>
+  <string name="pref_summary_enable_max_bytes_popup">Mostrar notificação quando utilizar ligação de dados móveis para transferir conteúdo</string>
   <string name="pref_summary_max_bytes_limit_format">Aguardar por Wi-Fi se o tamanho do ficheiro exceder %s</string>
   <string name="pref_summary_no_limit_popup">Ilimitado</string>
   <string name="pref_title_enable_max_bytes_popup">Mostrar aviso de utilização de dados</string>
@@ -529,8 +529,8 @@
   <string name="preset_music_playlist">Lista de reprodução Música Mi</string>
   <string name="presonal_center">Definições da conta</string>
   <string name="price">"Preço: "</string>
-  <string name="priority_storage">Utilizar o cartão SD</string>
-  <string name="priority_storage_summary">Se disponível transferir automaticamente para o cartão SD</string>
+  <string name="priority_storage">Guardar no cartão SD</string>
+  <string name="priority_storage_summary">Guardar músicas automaticamente para o cartão SD</string>
   <string name="privacy_notif_content">Toque para ver detalhes</string>
   <string name="privacy_notif_title">O acelerador de transferências Xunlei está ligado</string>
   <string name="privacy_tip_cancel">Cancelar</string>
@@ -570,7 +570,7 @@
   <string name="ringtone_not_support">Este formato de música não é suportado</string>
   <string name="root_downloads">Transferências</string>
   <string name="save_to_playlist">Guardar como lista de reprodução</string>
-  <string name="search_album">Pesquisar albums</string>
+  <string name="search_album">Pesquisar álbuns</string>
   <string name="search_for_album">Álbum</string>
   <string name="search_for_artist">Artista</string>
   <string name="search_hint">Pesquisar</string>
@@ -593,8 +593,8 @@
   <string name="send_to">Partilhar</string>
   <string name="send_to_title">Enviar para (%1$s)</string>
   <string name="server_error">Erro do servidor. Tente mais tarde</string>
-  <string name="service_and_settings">Definições e serviços</string>
-  <string name="service_stop">Serviço discontinuado</string>
+  <string name="service_and_settings">Serviços e definições</string>
+  <string name="service_stop">Serviço descontinuado</string>
   <string name="set_album_successful">O álbum foi definido com sucesso</string>
   <string name="set_as_ring">Definir como toque</string>
   <string name="set_id3_failed">Não é possível guardar informação</string>
@@ -632,7 +632,7 @@
   <string name="shuffle_on_notif">Aleatório ligado</string>
   <string name="similar_songs">Músicas idênticas</string>
   <string name="sleep_mode">Temporizador</string>
-  <string name="sleep_mode_canceled">O Modo de suspensão foi desligado</string>
+  <string name="sleep_mode_canceled">O modo de suspensão foi desligado</string>
   <string name="sleep_mode_summary">Parar a reprodução após um determinado tempo</string>
   <string name="sleep_mode_title">Temporizador</string>
   <string name="song_exist_in_playlist">Esta música já existe na lista de reprodução</string>
@@ -653,7 +653,7 @@
   <string name="storage_internal">Armazenamento interno</string>
   <string name="storage_sd_card">Cartão SD</string>
   <string name="storage_usb">Armazenamento USB</string>
-  <string name="stream_normal">Reproduzir na qualidade standard</string>
+  <string name="stream_normal">Reproduzir na qualidade normal</string>
   <string name="stream_quality">Qualidade do streaming</string>
   <string name="streamloadingtext">Ligar a %s</string>
   <string name="sub_explanation">Plano de dados da Música Mi</string>
@@ -679,7 +679,7 @@
   <string name="ticket_title">Mostrar bilhetes</string>
   <string name="time_to_upgrade">Actualizar Música</string>
   <string name="title_online_artist">Artistas Tendências</string>
-  <string name="title_online_billboard">Charts</string>
+  <string name="title_online_billboard">Tabela</string>
   <string name="title_online_fm">Rádio</string>
   <string name="title_online_recommend">Destaque listas de reprodução</string>
   <string name="title_online_release">Novos álbuns</string>
@@ -693,9 +693,9 @@
   <string name="toast_download_error_by_count_limit">Chegou ao limite das suas transferências para este mês</string>
   <string name="toast_download_error_by_vip_required">Obter Pacote Músicas Premium para transferir esta música</string>
   <string name="toast_download_in_process">A transferir…</string>
-  <string name="toast_normal_songs_for_download">Qualidade da transferência definida para standard</string>
-  <string name="toast_normal_songs_for_stream">Qualidade do streaming definida para standard</string>
-  <string name="toast_stream_normal">A reproduzir músicas em qualidade standard. Obter Pacote Músicas Premium para disfrutar de transmissão em alta qualidade</string>
+  <string name="toast_normal_songs_for_download">Qualidade da transferência definido para normal</string>
+  <string name="toast_normal_songs_for_stream">Qualidade do streaming definido para normal</string>
+  <string name="toast_stream_normal">A reproduzir músicas em qualidade normal. Adquira o Pacote de Músicas Premium para obter uma transmissão em alta qualidade</string>
   <string name="toast_uhd_songs_for_download">Qualidade da transferência definida para alta</string>
   <string name="toast_uhd_songs_for_stream">Qualidade da transmissão definida para alta</string>
   <string name="toast_vip_download_one_limit">" Chegou ao limite das suas transferências para este mês. Pode transferir mais músicas quando obtiver Pacote Músicas no próximo mês"</string>
@@ -728,7 +728,7 @@
   <string name="upgrade_membership">Obter mais armazenamento</string>
   <string name="upgrade_music">Actualizar Música</string>
   <string name="upgrade_music_message">As actualizações estão prontas. Reinicie para actualizar</string>
-  <string name="upgrade_nobeta">Estamos a descontinur o nosso serviço de transmissão actual, enquanto não forem resolvidas questões de direitos de autor. Lamentamos pelo inconveniente :(</string>
+  <string name="upgrade_nobeta">Estamos a descontinuar o nosso serviço de transmissão actual, enquanto não forem resolvidas questões de direitos de autor. Lamentamos pelo inconveniente</string>
   <string name="upgrade_remind">Actualização disponível</string>
   <string name="upgrade_services">Actualizações</string>
   <string name="upgrade_suggest">Estamos a descontinuar o nosso serviço de transmissão devido a questões de direitos de autor. Actualize para a versão mais recente da aplicação de música para ouvir música de alta qualidade</string>
@@ -737,16 +737,16 @@
   <string name="upgrade_waringing">Só pode ouvir músicas que tenha armazenadas</string>
   <string name="valid_period">Válido: %s</string>
   <string name="version_info">Versão</string>
-  <string name="vip_auto_renew_message">A sua subscrição de Música vai ser renovada automaticamente esta noite. Certifique-se que tem Créditos Mi suficientes na sua conta para concluir o pagamento</string>
+  <string name="vip_auto_renew_message">A sua subscrição de Música vai ser renovada automaticamente. Certifique-se que tem Créditos Mi suficientes na sua conta para concluir o pagamento</string>
   <string name="vip_auto_renew_notification_message">Adicionar Créditos Mi para renovar a sua subscrição de Música</string>
   <string name="vip_auto_renew_notification_title">Pagamento de subscrição</string>
   <string name="vip_auto_renew_title">Renovação de subscrição</string>
-  <string name="vip_renew_message">Não vai poder fazer stream de áudio de alta qualidade, mas ainda consegue fazer stream de músicas na qualidade standard</string>
+  <string name="vip_renew_message">Não vai poder fazer stream de áudio em alta qualidade, mas ainda consegue fazer stream de músicas em qualidade normal</string>
   <string name="vip_renew_notification_message">Não vai poder fazer stream de áudio de alta qualidade depois da sua subscrição expirar</string>
   <string name="vip_renew_notification_title">Subscrição expira amanhã</string>
   <string name="vip_renew_title">Subscrição expirada</string>
-  <string name="vip_required">Obter Pacote Músicas Premium para reproduzir esta música. Nós saltámo-la por agora</string>
-  <string name="vip_required_with_song">Obter Pacote Músicas Premium Premium para reproduzir “%s”. Nós saltámo-la por agora</string>
+  <string name="vip_required">Obter Pacote Músicas Premium para reproduzir esta música. Pode experimentar por agora</string>
+  <string name="vip_required_with_song">Obter Pacote Músicas Premium para reproduzir “%s”. Pode experimentar por agora</string>
   <string name="warning_tip_cancel">Transferir</string>
   <string name="warning_tip_content">Não existe ligação à rede. Se utilizar a sua ligação de dados móveis para terminar esta transferência vai aumentar o consumo de dados móveis. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
   <string name="warning_tip_ok">Pausar</string>
@@ -754,6 +754,6 @@
   <string name="welcome_to_new_music">Bem-vindo à nova versão de Música Mi!</string>
   <string name="wifi_required_body" formatted="false">"Deverá utilizar o Wi-Fi para concluir esta %s transferência. 
 
-Toque em %s para iniciar esta transferência da próxima vez que obter uma ligação à rede Wi-Fi."</string>
+Toque em %s para iniciar esta transferência da próxima vez que obter uma ligação à rede Wi-Fi"</string>
   <string name="wifi_required_title">Transferência demasiado grande para o operador de rede</string>
 </resources>

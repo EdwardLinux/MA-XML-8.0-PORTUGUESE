@@ -3515,8 +3515,9 @@ A configuração do telefone pode exigir a actividade de rede significativa"</st
   <string name="wifi_tether_configure_ssid_default">Ponto de Acesso Android</string>
   <string name="wifi_tether_configure_subtext">Ponto de Acesso Móvel: SSID %1$s</string>
   <string name="wifi_tether_enabled_subtext">Ponto de Acesso Móvel %1$s activo</string>
-  <string name="wifi_tether_failed_subtext">Erro de Ponto de Acesso Móvel</string>
+  <string name="wifi_tether_failed_subtext">Erro no Ponto de Acesso Móvel</string>
   <string name="wifi_tether_setting_title">Definições</string>
+  <string name="wifi_tether_settings_title">Ponto de Acesso Móvel</string>
   <string name="wifi_tether_starting">A ligar PA Móvel…</string>
   <string name="wifi_tether_stopping">A desligar PA Móvel…</string>
   <string name="wifi_type_approval"/>
