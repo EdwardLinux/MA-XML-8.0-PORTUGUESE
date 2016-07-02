@@ -25,7 +25,7 @@
   <string name="ac_mode_dry">Desumidificação</string>
   <string name="ac_mode_fan">Direcção</string>
   <string name="ac_mode_hot">Aquecimento</string>
-  <string name="ac_set_timer_title_text">请选定时间后，对准空调按下定时按钮</string>
+  <string name="ac_set_timer_title_text">Seleccionar hora e premir o botão do temporizador no AC</string>
   <string name="activity_stb_list_title">Escolher set-top box</string>
   <string name="actor_intro_title_text">Transmitir</string>
   <string name="add">Adicionar</string>
@@ -44,6 +44,7 @@
   <string name="add_new_tv">Adicionar TV</string>
   <string name="add_new_tv_power_only">Corresponder o botão Ligar/Desligar…</string>
   <string name="adjust_auto_tune_interval">Ajuste automático do intervalo</string>
+  <string name="agile_control">&lt;u&gt;&amp;#24555;&amp;#25463;&amp;#36965;&amp;#25511;&amp;#22120;&lt;/u&gt;</string>
   <string name="agree">Concordar</string>
   <string name="airkan_disconnect">Dispositivos não ligados</string>
   <string name="airkan_disconnect_display_name">Dispositivos não ligados</string>
@@ -198,14 +199,19 @@
   <string name="epg_book_program">预约 %1$s [%2$s] 成功</string>
   <string name="epg_bookable">Reservar</string>
   <string name="epg_booked">Reservado</string>
+  <string name="epg_booked_program_time_left">已预约 （还有%1$s播出）</string>
   <string name="epg_booked_str">Programado</string>
   <string name="epg_bottom_subtitle_textview_str">Emparelhar set-top box para ver mais detalhes</string>
   <string name="epg_bottom_subtitle_textview_str2">Toque para ver controlo remoto</string>
   <string name="epg_bottom_title_textview_str">Toque para emparelhar set-top box</string>
   <string name="epg_cancel_book_program">%1$s [%2$s] 取消预约</string>
   <string name="epg_change_channel">Trocar canais</string>
+  <string name="epg_change_channel_casting">换台 （正在播出）</string>
+  <string name="epg_change_channel_not_casting">换台 （还有%1$s播出）</string>
   <string name="epg_channel_group_open">Mostrar tudo</string>
   <string name="epg_channel_search_hint">输入频道号/频道名搜索</string>
+  <string name="epg_comment_action_bar_title">评论: %1$s</string>
+  <string name="epg_comment_list_title">评论（%1$d）</string>
   <string name="epg_detail_title_text">Descrição</string>
   <string name="epg_details_episode">Ep. %1$s</string>
   <string name="epg_edit_channel_name">频道名</string>
@@ -764,8 +770,9 @@ Para activar a sua conta, siga o
  ecrã"</string>
   <string name="screenshot_failed">Não foi possível a captura de ecrã</string>
   <string name="screenshot_failed_and_check_connection">Não foi possível a captura de ecrã. Verifique os dispositivos ligados</string>
-  <string name="screenshot_not_support_adb_devices">Capturas de ecrã não suportadas para este dispositivo</string>
-  <string name="screenshot_not_support_video">Capturas de ecrã não suportadas actualmente</string>
+  <string name="screenshot_failed_privicy">Não foi possível a captura de ecrã</string>
+  <string name="screenshot_not_support_adb_devices">As capturas de ecrã não suportadas para este dispositivo</string>
+  <string name="screenshot_not_support_video">AS capturas de ecrã não suportadas actualmente</string>
   <string name="screenshoting">A capturar imagem de ecrã…</string>
   <string name="search">Pesquisar</string>
   <string name="search_failed">Não foi possível obter resultados</string>
@@ -875,6 +882,7 @@ Para activar a sua conta, siga o
   <string name="suggest_use_wifi_rc">*O controlo remoto por Wi-Fi tem mais funções tais como pesquisar vídeos, instalar aplicações, etc.</string>
   <string name="supported_by_kookong">Suporte técnico por Youku</string>
   <string name="supporting_soon">Brevemente</string>
+  <string name="swipe_loading">Aguarde…</string>
   <string name="switch_place">Escolher cidade</string>
   <string name="technical_support">Suporte técnico</string>
   <string name="temperature">Temperatura</string>
@@ -932,6 +940,13 @@ Para alterar, premir longamente o botão Ligar/Desligar da TV"</string>
   <string name="video_category_filter">%s筛选</string>
   <string name="video_channel_entry">进入%s频道</string>
   <string name="video_channel_hot">热播%s</string>
+  <string name="video_comment_get_reply_failed">获取评论失败,点击重试</string>
+  <string name="video_comment_latest_list_title">最新评论</string>
+  <string name="video_comment_no_reply">暂无评论,点击发表</string>
+  <string name="video_comment_refresh_failed">刷新评论失败</string>
+  <string name="video_comment_reply">\@%s:</string>
+  <string name="video_comment_reply_empty">评论不能为空</string>
+  <string name="video_comment_reply_failed">评论失败</string>
   <string name="video_count_info">共%d部视频</string>
   <string name="video_detial_unfold">Em desenvolvimento</string>
   <string name="video_director_label">"Director: "</string>
@@ -965,6 +980,8 @@ Para alterar, premir longamente o botão Ligar/Desligar da TV"</string>
   <string name="weather_out">Temperatura exterior:</string>
   <string name="wechat_account">Conta WeChat</string>
   <string name="wifi_rc_create_help">Como criar um controlo remoto Wi-Fi</string>
+  <string name="wifi_rc_create_shortcut_desc">Adicionar um atalho ao ecrã inicial para "%1$s"?</string>
+  <string name="wifi_rc_create_shortcut_title">Adicionar atalho</string>
   <string name="wind_direct">Fixo</string>
   <string name="wind_direct_automatic">Balanceado</string>
   <string name="wind_direct_down">Baixo</string>
@@ -978,6 +995,7 @@ Para alterar, premir longamente o botão Ligar/Desligar da TV"</string>
   <string name="wind_speed_medium">Normal</string>
   <string name="wind_sweep">Balanço</string>
   <string name="wx_not_installed">O cliente não está instalado</string>
+  <string name="xiaomi_vip">VIP Mi</string>
   <string name="year_month_day_format">dd/MM/yyyy</string>
   <string name="yes">Sim</string>
   <string name="yesterday">Ontem</string>
