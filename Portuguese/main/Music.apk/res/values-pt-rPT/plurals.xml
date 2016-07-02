@@ -70,7 +70,7 @@
      <plurals name="Nquit_warning">
         <item quantity="other">Vai parar de tocar em %d minutos</item>
         <item quantity="one">Vai parar de tocar em %d minuto</item>
-     </plurals>	 
+     </plurals>
      <plurals name="folder_songs_count">
         <item quantity="other">%d músicas</item>
         <item quantity="one">1 música</item>

@@ -134,7 +134,7 @@
   <string name="choose_owner_relation">Relação</string>
   <string name="choose_people">Escolher o álbum de uma pessoa</string>
   <string name="choose_some_people">Escolher álbum com %s</string>
-  <string name="clear_local_photo_direction">Se eliminar fotos ou vídeos do seu dispositivo, estes ainda vão ficar disponíveis na Nuvem Mi</string>
+  <string name="clear_local_photo_direction">Se eliminar fotos ou vídeos do seu dispositivo, estes ainda vão estar disponíveis na Nuvem Mi</string>
   <string name="click_download_gif">Toque para transferir GIF</string>
   <string name="click_top_right">Toque neste ícone</string>
   <string name="cloud_camera_display_name">Fotos da câmara</string>
@@ -203,10 +203,10 @@
   <string name="delete_from_all_devices">de todos os dispositivos</string>
   <string name="delete_from_devices">Todos os dispositivos sincronizados</string>
   <string name="delete_from_devices_album">Todos os dispositivos que sincronizaram este álbum</string>
-  <string name="delete_from_homepage_album">Álbuns mostrados na galeria</string>
-  <string name="delete_from_web">Álbuns web</string>
+  <string name="delete_from_homepage_album">Álbuns mostrados na Galeria</string>
+  <string name="delete_from_web">Álbuns Web</string>
   <string name="delete_in_album">Quando eliminar fotos ou vídeos de um álbum, também vão ser eliminados de:</string>
-  <string name="delete_in_home_page">Quando eliminar uma foto ou vídeo da galeria, também vão ser eliminados de:</string>
+  <string name="delete_in_home_page">Quando eliminar uma foto ou vídeo da Galeria, também vão ser eliminados de:</string>
   <string name="delete_in_process">A eliminar…</string>
   <string name="delete_origin">Eliminar itens do álbum original</string>
   <string name="delete_other_shared_images">Não é possível eliminar fotos partilhadas por outras pessoas</string>
@@ -321,7 +321,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="frame_white">Branco</string>
   <string name="free">Personalizado</string>
   <string name="gallery_setting">Definições</string>
-  <string name="gallery_sync_disable_toast">A sincronização com a galeria está desligada</string>
+  <string name="gallery_sync_disable_toast">A sincronização com a Galeria está desligada</string>
   <string name="get_album_info_in_process">A obter detalhes do álbum partilhado…</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
@@ -405,7 +405,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="merge_album_title">Unir álbuns</string>
   <string name="messagelist_sender_self">Eu</string>
   <string name="micloud_introduce">Fazer cópias de fotos e vídeos automaticamente (É necessário uma Conta Mi)</string>
-  <string name="more_album_hint">", etc"</string>
+  <string name="more_album_hint">", etc."</string>
   <string name="more_face_album_name">Mais pessoas</string>
   <string name="must_pick_file">Seleccionar uma foto</string>
   <string name="name_split">", "</string>
@@ -445,7 +445,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="operation_force_top">Fixar</string>
   <string name="operation_hide">Ocultar</string>
   <string name="operation_in_process">A processar…</string>
-  <string name="operation_not_show_in_photos_tab">Não mostrar em fotos</string>
+  <string name="operation_not_show_in_photos_tab">Não mostrar em Fotos</string>
   <string name="operation_projection">Transmitir</string>
   <string name="operation_remove_from_face_album">Remover do álbum</string>
   <string name="operation_remove_secret">Mostrar</string>
@@ -454,7 +454,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="operation_set_contact_photo">Definir como foto de contacto</string>
   <string name="operation_set_wallpaper">Definir como papel de parede</string>
   <string name="operation_share">Partilhar</string>
-  <string name="operation_show_in_photos_tab">Mostrar em fotos</string>
+  <string name="operation_show_in_photos_tab">Mostrar em Fotos</string>
   <string name="operation_show_on_map">Mostrar no mapa</string>
   <string name="operation_slide_show">Iniciar apresentação de diapositivos</string>
   <string name="operation_successful">Concluído</string>
@@ -485,8 +485,8 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="photo">Fotos</string>
   <string name="photo_edit_file_not_exits_tip">Transferir foto antes de editar</string>
   <string name="photo_editor_saving">A guardar…</string>
-  <string name="photo_page_save_uri_image_fail">Não foi possível guardar na galeria</string>
-  <string name="photo_page_save_uri_image_ok">Foto guardada na galeria</string>
+  <string name="photo_page_save_uri_image_fail">Não foi possível guardar na Galeria</string>
+  <string name="photo_page_save_uri_image_ok">Foto guardada na Galeria</string>
   <string name="photo_save_succeed">Guardado com sucesso</string>
   <string name="photoeditor_name">Editor de Fotos</string>
   <string name="pick_from_contact">Escolher dos contactos</string>
@@ -549,14 +549,14 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="rise">Quente</string>
   <string name="rotate">Rodar</string>
   <string name="rotate_tooltip">Arrastar foto para rodar</string>
-  <string name="runtime_permission_ungranted">A galeria fechou devido a permissões não concedidas</string>
-  <string name="same_name_album_exist_and_toast">"Já existe um álbum com esse nome. Criado como '%s' em vez"</string>
+  <string name="runtime_permission_ungranted">A Galeria fechou devido a permissões não concedidas</string>
+  <string name="same_name_album_exist_and_toast">"Já existe um álbum com esse nome. Foi criado como '%s' em vez"</string>
   <string name="saturation">Saturação</string>
   <string name="saturation_abbr">S</string>
   <string name="save">Guardar</string>
   <string name="save_photo">Guardar a foto editada?</string>
   <string name="saving_failure">Não é possível guardar foto</string>
-  <string name="scan_barcode_guide">Para obter o código QR do álbum toque no ícone Partilhar</string>
+  <string name="scan_barcode_guide">Para obter o código QR do álbum, toque no ícone Partilhar</string>
   <string name="scan_barcode_to_join">Digitalizar código QR para adicionar álbum</string>
   <string name="scan_qr_code_buttom_text">Digitalizar código QR para ver este álbum</string>
   <string name="secret_album_display_name">Álbum oculto</string>
@@ -603,7 +603,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="slim_tip_title">Optimização de armazenamento</string>
   <string name="slimming">A optimizar…</string>
   <string name="square">Quadrado</string>
-  <string name="start_debug">Depurar galeria</string>
+  <string name="start_debug">Depurar Galeria</string>
   <string name="start_to_use_face_albumset">Ordenar por pessoas</string>
   <string name="storage_no_space">Sem espaço suficiente</string>
   <string name="straighten">Ajustar</string>
@@ -660,7 +660,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="video_editor_audio_rock">Rock</string>
   <string name="video_editor_audio_sad">Balada</string>
   <string name="video_editor_audio_young">Ukulele</string>
-  <string name="video_editor_auto_trim">Redução auto</string>
+  <string name="video_editor_auto_trim">Redução auto.</string>
   <string name="video_editor_auto_trim_tip">A reduzir…</string>
   <string name="video_editor_cancel">Cancelar</string>
   <string name="video_editor_done">Concluído</string>
