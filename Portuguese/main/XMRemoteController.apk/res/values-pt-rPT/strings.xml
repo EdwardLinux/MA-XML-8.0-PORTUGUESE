@@ -498,6 +498,7 @@ aguarde um momento depois da acção."</string>
   <string name="none">Vazio</string>
   <string name="not_login">Sem sessão iniciada</string>
   <string name="not_respond">Sem resposta</string>
+  <string name="not_updated_yet">Ainda não actualizei</string>
   <string name="notification_found_device_text">Pode utilizar o C.Remoto Mi para o controlar</string>
   <string name="notification_found_device_title">Encontrado um %1$s</string>
   <string name="notification_found_shared_remote_text">Toque para o controlar</string>
