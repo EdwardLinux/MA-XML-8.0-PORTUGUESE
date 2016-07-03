@@ -94,7 +94,7 @@
     </plurals>
     <plurals name="network_unsatisfied">
         <item quantity="other">Erro de rede. %1$d itens a aguardar para serem copiados</item>
-        <item quantity="one">Erro de rede. %1$d iitem a aguardar para ser copiado</item>
+        <item quantity="one">Erro de rede. %1$d item a aguardar para ser copiado</item>
     </plurals>
     <plurals name="sync_off">
         <item quantity="other">A sincronização está desligada. %1$d itens a aguardar para serem copiados</item>
@@ -113,7 +113,7 @@
         <item quantity="one">1 vídeo a aguardar para ser copiado</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d items a aguardar para serem copiados</item>
+        <item quantity="other">%1$d itens a aguardar para serem copiados</item>
         <item quantity="one">1 item a aguardar para ser copiado</item>
     </plurals>
     <plurals name="number_of_uploading_images">

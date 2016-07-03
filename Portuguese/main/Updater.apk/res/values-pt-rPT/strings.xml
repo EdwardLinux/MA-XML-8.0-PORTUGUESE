@@ -34,12 +34,12 @@
   <string name="check_local_package_validate_error_button">OK</string>
   <string name="check_local_package_validate_error_msg">Não foi possível verificar o pacote de actualização</string>
   <string name="check_local_package_wipe_btn">Formatar e actualizar</string>
-  <string name="check_local_package_wipe_msg">Vai actualizar para a versão MIUI %s, que é menos recente que a versão actual. Os seus dados pessoais vão ser formatados. Certifique-se que faz cópias de segurança de todos os itens importantes antes de iniciar o processo</string>
+  <string name="check_local_package_wipe_msg">Vai actualizar para a versão MIUI %s, que é menos recente que a versão actual. Os seus dados pessoais vão ser eliminados. Certifique-se que faz cópias de segurança de todos os dados importantes antes de iniciar o processo</string>
   <string name="check_local_package_wipe_title">Formatar dados?</string>
   <string name="check_new_version">Verificar</string>
   <string name="check_update_policy">Definições</string>
-  <string name="check_update_when_wifi_available">Verificar actualizações apenas em Wi-Fi</string>
-  <string name="check_update_when_wifi_available_sum">Utilizar apenas Wi-Fi para verificar as actualizações</string>
+  <string name="check_update_when_wifi_available">Verificar actualizações por Wi-Fi</string>
+  <string name="check_update_when_wifi_available_sum">Utilizar apenas o Wi-Fi para verificar as actualizações</string>
   <string name="clean_up_button">Limpar</string>
   <string name="comment_invalid">Avaliar esta actualização (toque nas estrelas)</string>
   <string name="comment_publish">Submeter</string>
@@ -75,7 +75,7 @@
   <string name="expect">Expectativas</string>
   <string name="experimental_build">Alpha</string>
   <string name="finish">Terminar</string>
-  <string name="fourgrid_hint_text">Obrigado por ajudar o programador e a construir a MIUI! Diga-nos o que pensa para nos ajudar a fazer uma MIUI melhor</string>
+  <string name="fourgrid_hint_text">Obrigado por ajudar o programador a construir a MIUI! Diga-nos o que pensa para nos ajudar a fazer uma MIUI melhor</string>
   <string name="fourgrid_no_notificaiont">Não mostrar na barra de notificações</string>
   <string name="fourgrid_notificaiont">Mostrar na barra de notificações</string>
   <string name="get_auto">Utilizar rede móvel ou Wi-Fi</string>
@@ -94,7 +94,7 @@
   <string name="log_share">Partilhar</string>
   <string name="menu_title_current_version_log">O que há de novo?</string>
   <string name="menu_title_download_current_rom">Transferir actualização</string>
-  <string name="menu_title_pick_rom_file">Seleccionar actualização</string>
+  <string name="menu_title_pick_rom_file">Seleccionar ficheiro de actualização</string>
   <string name="menu_title_recovery">Reiniciar em modo de restauro</string>
   <string name="miui_BBS">" "<a href="http://bbs.miui.com">Vá ao fórum MIUI</a>" "</string>
   <string name="miui_summary_has_new_version">" Actualização disponível "</string>
@@ -161,16 +161,16 @@
   <string name="repeat">Tente novamente</string>
   <string name="root_acquired">Permitir acesso root</string>
   <string name="root_agree_check_box_title">Eu entendo os riscos do acesso root</string>
-  <string name="root_dangerous_msg">Permitir o acesso root é extremamente perigoso e pode expôr o seu dispositivo e dados pessoais a ataques de aplicações maliciosas. Concorda que é o único responsável por qualquer tipo de dano no seu dispositivo ou perca de dados que resultem da permissão de acesso root</string>
+  <string name="root_dangerous_msg">Permitir o acesso root é extremamente perigoso e pode expôr o seu dispositivo e dados pessoais a ataques de aplicações maliciosas. Concorda que é o único responsável por qualquer tipo de dano no seu dispositivo ou perca de dados que resultem da permissão de acesso root?</string>
   <string name="set_auto">Verificar actualizações automaticamente</string>
   <string name="set_auto_msg">Transferir actualizações automaticamente quando estiver ligado ao Wi-Fi?</string>
-  <string name="set_auto_update_title">Atualizar automaticamente?</string>
+  <string name="set_auto_update_title">Actualizar automaticamente</string>
   <string name="set_installfail_full_msg">Erro inesperado. Toque OK para reportar este erro</string>
   <string name="set_installfail_msg">Transferir esta actualização através da sua ligação de dados móveis vai aumentar excessivamente o consumo de dados</string>
   <string name="set_installfail_title">Tente transferir novamente a actualização</string>
   <string name="set_installfail_title_full">Não é possível actualizar</string>
-  <string name="set_network_msg">Para transferir esta actualização, ligue a uma rede Wi-Fi</string>
-  <string name="set_network_root_msg">Para obter acesso root, ligue a uma rede Wi-Fi</string>
+  <string name="set_network_msg">Para transferir uma actualização ligue uma rede Wi-Fi</string>
+  <string name="set_network_root_msg">Para obter acesso root ligue uma rede Wi-Fi</string>
   <string name="set_network_title">Ligar à rede</string>
   <string name="set_only_wifi">Utilizar apenas Wi-Fi</string>
   <string name="share">Partilhar</string>
@@ -183,8 +183,8 @@
   <string name="sina_share_fail_content_repeat">Não foi possível partilhar, o conteúdo já existe…</string>
   <string name="sina_share_pendding">A enviar…</string>
   <string name="sina_share_success">Enviado</string>
-  <string name="sina_token_expired_warning">Conta Weibo expirou: Por favor ligue novamente</string>
-  <string name="sina_token_invalid_warning">Conta Weibo é inválida: Por favor ligue novamente</string>
+  <string name="sina_token_expired_warning">Conta Weibo expirou: Por favor, ligue novamente</string>
+  <string name="sina_token_invalid_warning">Conta Weibo é inválida: Por favor, ligue novamente</string>
   <string name="sogou_uninstall_msg">Teclado Sogou (Edição Mi) deixou de ser compatível com MIUI7. Troque de teclado ou actualize para uma nova versão</string>
   <string name="sogou_uninstall_negative_button">Actualizar Sogou</string>
   <string name="sogou_uninstall_positive_button">Trocar teclados</string>
@@ -210,7 +210,7 @@
   <string name="update_feedback_end">Perdeu a quarta grelha desta semana</string>
   <string name="update_feedback_end_sum">Pode participar a cada segunda-feira</string>
   <string name="update_feedback_expired">"Perdeu a votação desta semana.
-Mas pode fazê-lo na segunda-feira."</string>
+Mas pode fazê-lo na segunda-feira"</string>
   <string name="update_feedback_need_account">É necessário iniciar sessão na Conta Mi</string>
   <string name="update_feedback_need_network">Ligue-se primeiro à Internet</string>
   <string name="update_feedback_need_update">Tem que actualizar o seu sistema para a versão mais recente</string>
@@ -246,7 +246,7 @@ no Comentário de Programa Beta"</string>
   <string name="vote_error2">"Não é possível enviar o comentário.
 Actualize o seu dispositivo e tente novamente"</string>
   <string name="vote_error3">"Não foi possível iniciar sessão.
-Tente novamente iniciar sessão na sua Conta Mi."</string>
+Tente novamente iniciar sessão na sua Conta Mi"</string>
   <string name="vote_error4">Já submeteu o seu comentário</string>
   <string name="vote_error5">"Algo correu mal
 Não foi possível submeter o comentário"</string>
@@ -258,7 +258,7 @@ Não foi possível submeter o comentário"</string>
   <string name="vote_submit">Enviar</string>
   <string name="weekly_build">Semanal</string>
   <string name="welcom_button">Sim</string>
-  <string name="welcom_message">Tudo pronto para começar</string>
+  <string name="welcom_message">Tudo pronto para começar!</string>
   <string name="welcom_title">Bem-vindo à MIUI 8</string>
   <string name="worst_update">A pior actualização até agora</string>
 </resources>

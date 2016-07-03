@@ -36,13 +36,13 @@
   <string name="receiver_file_cancel">Transferência de ficheiro de %1$s interrompida</string>
   <string name="receiver_file_current">A receber %2$d ficheiros de %1$s</string>
   <string name="receiver_file_num">%2$d ficheiro(s) de %1$s</string>
-  <string name="receiver_in_progress_summary">Espere até a transferência em curso acabar para enviar novos ficheiros</string>
+  <string name="receiver_in_progress_summary">Aguarde até a transferência actual terminar para enviar novos ficheiros</string>
   <string name="receiver_in_progress_title">A enviar…</string>
   <string name="receiver_insufficient_storage">Não existe espaço suficiente</string>
   <string name="receiver_insufficient_storage_cannot_send">Não é possível enviar: não existe espaço suficiente</string>
-  <string name="receiver_interrupt_summary">Não desligue o Wi-Fi quando existem ficheiros a ser recebidos</string>
-  <string name="receiver_interrupt_summary_v21">Não desligue o Ponto de Acesso quando existem ficheiros a ser recebidos</string>
-  <string name="receiver_notification_turn_on">O recepiente tem de ligar o Mi Drop</string>
+  <string name="receiver_interrupt_summary">Não desligue o Wi-Fi quando existem ficheiros a serem recebidos</string>
+  <string name="receiver_interrupt_summary_v21">Não desligue o Ponto de Acesso quando existem ficheiros a serem recebidos</string>
+  <string name="receiver_notification_turn_on">O receptor tem de ligar o Mi Drop</string>
   <string name="receiver_notification_turn_on_help">Ligar para pesquisar dispositivos e enviar ficheiros</string>
   <string name="receiver_pic_file_current">A receber %2$d imagens de %1$s</string>
   <string name="receiver_pic_file_num">%2$d imagens de %1$s</string>
@@ -59,15 +59,15 @@
   <string name="sender_cancel">Não enviar</string>
   <string name="sender_complete">Concluído</string>
   <string name="sender_fail">Não foi possível enviar</string>
-  <string name="sender_file_num">Á espera de %1$d ficheiros</string>
+  <string name="sender_file_num">À espera de %1$d ficheiros</string>
   <string name="sender_finish">Enviado</string>
   <string name="sender_in_progress_later">Tente novamente mais tarde</string>
   <string name="sender_in_progress_now">Cancelar</string>
   <string name="sender_in_progress_title">Cancelar transferência?</string>
-  <string name="sender_interrupt_summary">Não desligue o Wi-Fi quando existem ficheiros a ser enviados</string>
+  <string name="sender_interrupt_summary">Não desligue o Wi-Fi quando existem ficheiros a serem enviados</string>
   <string name="sender_interupt">Transferência interrompida</string>
   <string name="sender_reject">Não aceitar</string>
-  <string name="sender_reject_kick_off">Por favor tente mais tarde</string>
+  <string name="sender_reject_kick_off">Por favor, tente mais tarde</string>
   <string name="sender_return">Voltar</string>
   <string name="sender_scan_error">Não foi possível verificar. Envie novamente</string>
   <string name="sender_select_device">Escolher um dispositivo</string>
@@ -75,5 +75,5 @@
   <string name="sender_wait">A aguardar</string>
   <string name="sender_wait_queue">A aguardar</string>
   <string name="transfer_interrupt">Transferência interrompida</string>
-  <string name="transmission_connect">Não foi possível localizar recipiente</string>
+  <string name="transmission_connect">Não foi possível localizar o receptor</string>
 </resources>
