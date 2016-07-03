@@ -116,6 +116,9 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="agps_roaming_dia_title">Utilizar A-GPS em roaming</string>
   <string name="agps_roaming_summary">Utilizar dados móveis para auxiliar o GPS quando em roaming</string>
   <string name="airplane_mode">Modo Avião</string>
+  <string name="alarm_sound_dialog_title">Escolher o som do alarme</string>
+  <string name="alarm_sound_title">Som do alarme</string>
+  <string name="alarm_volume_option_title">Volume do alarme</string>
   <string name="alarm_volume_title">Alarme</string>
   <string name="all_volume_title">Volumes</string>
   <string name="allow">Permitir</string>
@@ -594,6 +597,8 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="carrier_enabled">Activar/desactivar APN</string>
   <string name="carrier_enabled_summaryOff">APN desactivado</string>
   <string name="carrier_enabled_summaryOn">APN activado</string>
+  <string name="category_personal">Pessoal</string>
+  <string name="category_work">Trabalho</string>
   <string name="cdma_security_settings_summary">Definir a minha localização, desbloqueio de ecrã, credencial de bloqueio do armazenamento</string>
   <string name="cell_broadcast_settings">Definições de difusão móvel</string>
   <string name="cell_broadcast_settings_summary">Seleccione o tipo de alertas de emergência a mostrar</string>
@@ -1176,9 +1181,9 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="header_add_an_account">Adicionar uma conta</string>
   <string name="header_application_sync_settings">Definições de sincronização das aplicações</string>
   <string name="header_category_accounts">Contas</string>
-  <string name="header_category_device">DISPOSITIVO</string>
-  <string name="header_category_personal">PESSOAL</string>
-  <string name="header_category_system">SISTEMA</string>
+  <string name="header_category_device">Dispositivo</string>
+  <string name="header_category_personal">Pessoal</string>
+  <string name="header_category_system">Sistema</string>
   <string name="header_category_wireless_networks">Redes</string>
   <string name="header_data_and_synchronization">Dados e sincronização</string>
   <string name="heavy_weight_stop_description">Esta aplicação não pode ser interrompida em segurança. Se o fizer, pode perder alguns dos trabalhos actuais</string>
@@ -1512,6 +1517,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>armazenament
   <string name="media_format_gesture_prompt">Desenhar o seu padrão de desbloqueio</string>
   <string name="media_format_summary">Eliminar todos os dados no armazenamento USB</string>
   <string name="media_format_title">Apagar armazenamento USB</string>
+  <string name="media_volume_option_title">Volume multimédia</string>
   <string name="media_volume_summary">Definir volume para música e vídeos</string>
   <string name="media_volume_title">Multimédia</string>
   <string name="medium_font">Média</string>
@@ -1874,6 +1880,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_page_layout_settings">Definições/Tamanho do tipo de letra</string>
   <string name="path_pn_settings">Definições/Redes móveis/Pontos de acesso (APN)</string>
   <string name="path_pointer_speed">Definições/Definições adicionais/Idioma e entrada/Velocidade do ponteiro</string>
+  <string name="path_power_checker">Definições/Definições adicionais/Funcionalidades Beta/Controlo de energia</string>
   <string name="path_power_hide_mode_title">Definições/Bateria e desempenho/Gerir utilização da bateria das aplicacões</string>
   <string name="path_power_mode_settings">Definições/Bateria e desempenho/Definições de energia</string>
   <string name="path_power_optimize">Definições/Definições adicionais/Funcionalidades Beta/Poupança de bateria</string>
@@ -1888,7 +1895,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_screen_key_long_press_timeout">Definições/Definições adicionais/Botões/Definir tempo de espera do botão</string>
   <string name="path_screen_on_proximity_sensor_title">Definições/Ecrã de bloqueio e segurança/Prevenir uso inadvertido no bolso</string>
   <string name="path_screen_optimize">Definições/Ecrã/Cores e contraste</string>
-  <string name="path_screen_paper_mode">Definições/Ecrã/Modo Leitura</string>
+  <string name="path_screen_paper_mode">Definições/Ecrã/Modo de Leitura</string>
   <string name="path_screen_saver_settings">Definições/Ecrã/Protecção de ecrã</string>
   <string name="path_screen_timeout_settings">Definições/Ecrã de bloqueio e segurança/Suspender</string>
   <string name="path_second_space">Definições/Segundo espaço</string>
@@ -1968,6 +1975,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="permission_mgr">Permissões</string>
   <string name="permissions_label">Permissões</string>
   <string name="personal_data_section_title">Dados pessoais</string>
+  <string name="personal_device_admin_title">Pessoal</string>
+  <string name="personal_section_title">Pessoal</string>
   <string name="phone_call_noise_suppression">Suprimir o ruído durante as chamadas</string>
   <string name="phone_info_label">Informações do telefone</string>
   <string name="phone_language">Idioma</string>
@@ -1990,6 +1999,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Inactividade do telefone</string>
   <string name="power_center">Energia</string>
+  <string name="power_checker">Controlo de energia</string>
   <string name="power_hide_mode_summary">"Poupar bateria restringindo processos individualmente em segundo plano das aplicações, ligações Wi-Fi, dados móveis e utilização de GPS"</string>
   <string name="power_hide_mode_title">Gerir utilização da bateria das aplicações</string>
   <string name="power_idle">Telefone inactivo</string>
@@ -2237,6 +2247,7 @@ Não vai perder quaisquer dados das aplicações"</string>
   <string name="restriction_wifi_config_summary">Permitir modificações às definições de Wi-Fi e redes móveis</string>
   <string name="restriction_wifi_config_title">Wi-Fi e Redes Móveis</string>
   <string name="retry">Repetir</string>
+  <string name="ring_volume_option_title">Volume do toque</string>	
   <string name="ring_volume_title">Volume do toque</string>
   <string name="ringtone_mute">Nenhum</string>
   <string name="ringtone_slot_setting_title">Definições do cartão</string>
@@ -2270,7 +2281,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone"</string>
   <string name="scan_list_label">Resultados da pesquisa:</string>
   <string name="screen">Ecrã</string>
   <string name="screen_color_and_optimize">Cores e contraste</string>
-  <string name="screen_color_and_optimize_disabled">Não é possível ajustar temperatura da cor no Modo Leitura</string>
+  <string name="screen_color_and_optimize_disabled">Não é possível ajustar temperatura da cor no Modo de Leitura</string>
   <string name="screen_color_temperature">Cores</string>
   <string name="screen_color_temperature_and_saturation">Cores e saturação</string>
   <string name="screen_compatibility_label">Compatibilidade do ecrã</string>
@@ -2296,7 +2307,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone"</string>
   <string name="screen_paper_mode_range_title">Definições</string>
   <string name="screen_paper_mode_set_apps_title">Aplicações em modo de Leitura</string>
   <string name="screen_paper_mode_summary">Reduzir brilho de fundo do ecrã</string>
-  <string name="screen_paper_mode_title">Modo Leitura</string>
+  <string name="screen_paper_mode_title">Modo de Leitura</string>
   <string name="screen_paper_mode_turn_off">Desligado</string>
   <string name="screen_paper_mode_turn_on">Ligado</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Não mostrar novamente</string>
@@ -2443,6 +2454,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone"</string>
   <string name="search_owner_info_settings">Info. do proprietário</string>
   <string name="search_page_layout_settings">Tamanho do texto</string>
   <string name="search_pointer_speed">Velocidade do ponteiro</string>
+  <string name="search_power_checker">Controlo de energia</string>
   <string name="search_power_hide_mode_title">Gerir utilização da bateria das aplicacões</string>
   <string name="search_power_mode">Definições de energia</string>
   <string name="search_power_optimize">Poupança de bateria</string>
@@ -2460,7 +2472,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone"</string>
   <string name="search_screen_effect">Cores e saturação;Cores e contraste</string>
   <string name="search_screen_key_long_press_timeout">Definir tempo de espera do botão</string>
   <string name="search_screen_on_proximity_sensor_title">Prevenir uso inadvertido no bolso</string>
-  <string name="search_screen_paper_mode">Modo Leitura</string>
+  <string name="search_screen_paper_mode">Modo de Leitura</string>
   <string name="search_screen_saver_settings">Protecção de ecrã</string>
   <string name="search_screen_timeout">Suspender;Bloqueio de ecrã</string>
   <string name="search_second_space">Segundo espaço</string>
@@ -2811,6 +2823,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="sync_wifi_only">Apenas Wi-Fi</string>
   <string name="system">Sistema</string>
   <string name="system_app_settings">Aplicações de sistema</string>
+  <string name="system_and_device_section_title">Sistema e dispositivo</string>
   <string name="system_backup_section_title">Cópia</string>
   <string name="system_package">As actualizações do sistema não podem ser instaladas em fontes externas</string>
   <string name="system_storage">Armazenamento do sistema</string>

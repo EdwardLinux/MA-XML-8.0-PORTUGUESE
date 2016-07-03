@@ -140,7 +140,7 @@
   <string name="power_mode_view_user_define_title">Novo evento</string>
   <string name="power_optimize_activity_profile_file_error">Erro na poupança de bateria</string>
   <string name="ragment_sys_listempty">Sem aplicações de sistema</string>
-  <string name="reading">Modo Leitura</string>
+  <string name="reading">Modo de Leitura</string>
   <string name="screen_off">Ecrã desligado</string>
   <string name="screen_off_10_min">Ecrã desligado há mais de 10 minutos</string>
   <string name="screen_on">Ecrã ligado</string>

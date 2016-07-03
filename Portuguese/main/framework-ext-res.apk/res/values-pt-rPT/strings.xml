@@ -80,7 +80,7 @@
   <string name="screen_on_proximity_sensor_hint">Para desligar esta funcionalidade, prima os botões Voltar e Volume Acima simultâneamente</string>
   <string name="screen_on_proximity_sensor_summary">Não tape a área laranja do ecrã</string>
   <string name="screen_on_proximity_sensor_title">Prevenir uso inadvertido no bolso</string>
-  <string name="screen_paper_mode_enter_toast">O Modo Leitura está ligado. Para desligar esta funcionalidade vá a Definições &gt; Ecrã &gt; Modo Leitura</string>
+  <string name="screen_paper_mode_enter_toast">O Modo de Leitura está ligado. Para desligar esta funcionalidade vá a Definições &gt; Ecrã &gt; Modo de Leitura</string>
   <string name="screen_rotation_freeze_message">Rotação automática desligada</string>
   <string name="security_permission_denied_text">Acesso negado</string>
   <string name="security_permission_failed_text">Erro interno. Tente novamente mais tarde</string>
@@ -108,7 +108,7 @@
   <string name="status_bar_toggle_lock">Bloquear</string>
   <string name="status_bar_toggle_midrop">Mi Drop</string>
   <string name="status_bar_toggle_mute">Silêncio</string>
-  <string name="status_bar_toggle_paper_mode">Modo Leitura</string>
+  <string name="status_bar_toggle_paper_mode">Modo de Leitura</string>
   <string name="status_bar_toggle_power_mode">Desempenho</string>
   <string name="status_bar_toggle_quiet_mode">Não incomodar</string>
   <string name="status_bar_toggle_rotate">Rotação</string>

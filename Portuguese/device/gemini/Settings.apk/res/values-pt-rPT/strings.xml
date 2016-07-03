@@ -4,7 +4,7 @@
   <string name="aaid_info">"
 Identificador de anúncios é um ID único e permanente do seu dispositivo. Os fornecedores utilizam-no para seleccionar anúncios que vão ser mais úteis para si.
 
-Se escolher não utilizar anúncios personalizados, a quantidade de anúncios não vai ser reduzida mas os anúncios úteis para si vão ser reduzidos drásticamente."</string>
+Se escolher não utilizar anúncios personalizados, a quantidade de anúncios não vai ser reduzida mas os anúncios úteis para si vão ser reduzidos drásticamente"</string>
   <string name="about_settings">Acerca do telefone</string>
   <string name="about_settings_summary">Ver informações legais, estado, versão de software</string>
   <string name="ac_enable_summary">Definir uma palavra-passe para aplicacões individualmente</string>
@@ -43,7 +43,7 @@ Passo 1: Prima e segure o botão Ligar/Desligar até ouvir um som ou sentir uma 
 
 Passo 2: Toque e segure dois dedos até ouvir a confirmação de áudio.
 
-Se o dispositivo tiver vários utilizadores, ao utilizar este atalho no ecrã de bloqueio activa temporariamente a acessibilidade até que o dispositivo seja desbloqueado."</string>
+Se o dispositivo tiver vários utilizadores, ao utilizar este atalho no ecrã de bloqueio activa temporariamente a acessibilidade até que o dispositivo seja desbloqueado"</string>
   <string name="accessibility_global_gesture_preference_summary_off">Desligado</string>
   <string name="accessibility_global_gesture_preference_summary_on">Ligado</string>
   <string name="accessibility_global_gesture_preference_title">Atalho de acessibilidade</string>
@@ -63,7 +63,7 @@ Quando ampliado, pode:
 
 Também pode aumentar temporariamente o que estiver sobre o seu dedo com um triplo toque e segurar. Neste modo, pode mover o dedo ampliando para explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
 
-Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra de navegação e no teclado."</string>
+Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra de navegação e no teclado"</string>
   <string name="accessibility_screen_magnification_title">Ampliação de gestos</string>
   <string name="accessibility_service_default_description">Sem descrição fornecida</string>
   <string name="accessibility_services_title">Serviços</string>
@@ -120,9 +120,9 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="add_fingerprint_put_finger_title">Adicionar impressão digital</string>
   <string name="add_fingerprint_text">Adicionar impressão digital</string>
   <string name="add_fingerprint_toast_text">Coloque o seu dedo no sensor</string>
-  <string name="adding_profile_owner_warning">"Ao proceder, o seu Utilizador vai ser gerido pelo seu Administrador que também pode guardar dados associados, por adição aos seus dados pessoais.
+  <string name="adding_profile_owner_warning">"Ao proceder, o seu utilizador vai ser gerido pelo seu Administrador que também pode guardar dados associados, por adição aos seus dados pessoais.
 
-O seu Administrador pode monitorizar e gerir definições, acessos, aplicações e dados associados com este Utilizador, incluíndo actividade de rede e a informação de localização do seu dispositivo."</string>
+O seu Administrador pode monitorizar e gerir definições, acessos, aplicações e dados associados com este Utilizador, incluíndo actividade de rede e a informação de localização do seu dispositivo"</string>
   <string name="additional_permissions">Permissões adicionais</string>
   <string name="additional_permissions_more">%1$d mais</string>
   <string name="additional_system_update"/>
@@ -461,7 +461,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="bluetooth_broadcasting">Difusão</string>
   <string name="bluetooth_broadcasting_explaination">"Com esta funcionalidade ligada, o seu telefone pode comunicar com outros dispositivos próximos.
 
-A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
+A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="bluetooth_confirm_passkey_msg">Para emparelhar com:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Certifique-se que está a mostrar esta palavra-chave:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_connect_specific_profiles_title">Ligar a…</string>
   <string name="bluetooth_connected">Ligado</string>
@@ -850,13 +850,13 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="crypt_keeper_content_title">Encriptar dispositivo</string>
   <string name="crypt_keeper_data_corrupt_summary">"A palavra-passe introduzida está correcta mas, infelizmente, os dados estão corrompidos. 
 
-Para continuar a utilizar o telefone, é necessário efectuar uma reposição de fábrica. Quando configurar o telefone após a reposição, terá a oportunidade de restaurar quaisquer dados da cópia de segurança da sua Conta Google."</string>
+Para continuar a utilizar o telefone, é necessário efectuar uma reposição de fábrica. Quando configurar o telefone após a reposição, terá a oportunidade de restaurar quaisquer dados da cópia de segurança da sua Conta Google"</string>
   <string name="crypt_keeper_data_corrupt_title">Desencriptação sem sucesso</string>
   <string name="crypt_keeper_decrypt_methods">Após encriptar o seu telefone, assumindo que configurou um bloqueio de ecrã, vai ser necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. O único outro modo de desencriptar é fazer uma reposição dos dados de fábrica, apagando todos os seus dados</string>
   <string name="crypt_keeper_decrypt_methods_title">Desencriptar o seu dispositivo</string>
   <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas e dados, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar um restauro de dados de fábrica, apagando todos os seus dados.
 
-Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter o telefone a carregar até que a encriptação esteja terminada. Se interromper o processo de encriptação, perderá alguns ou todos os seus dados."</string>
+Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter o telefone a carregar até que a encriptação esteja terminada. Se interromper o processo de encriptação, perderá alguns ou todos os seus dados"</string>
   <string name="crypt_keeper_dialog_need_password_message">Deve definir um código PIN ou uma palavra-passe para o ecrã de bloqueio antes de iniciar a encriptação</string>
   <string name="crypt_keeper_dialog_need_password_title">Ecrã de bloqueio sem código PIN ou palavra-passe</string>
   <string name="crypt_keeper_encrypt_title">Encriptar dispositivo</string>
@@ -864,7 +864,7 @@ Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter
   <string name="crypt_keeper_enter_password">Introduza a sua palavra-passe</string>
   <string name="crypt_keeper_failed_summary">"A encriptação foi interrompida e não pôde terminar. Como resultado, os dados no telefone já não estão acessíveis.
 
-Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. Quando configurar o telefone após o restauro, terá oportunidade de restaurar os dados através da sua conta do Google."</string>
+Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. Quando configurar o telefone após o restauro, terá oportunidade de restaurar os dados através da sua conta do Google"</string>
   <string name="crypt_keeper_failed_title">Encriptação sem sucesso</string>
   <string name="crypt_keeper_final_desc">A operação de encriptação é irreversível e, se a interromper, perderá dados. A encriptação demora uma hora ou mais, durante a qual o telefone reiniciará várias vezes</string>
   <string name="crypt_keeper_force_power_cycle">Para desbloquear o telefone, desligue-o e volte a ligá-lo</string>
@@ -906,7 +906,7 @@ Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. 
   <string name="data_usage_app_restrict_background_summary_disabled">Para restringir dados em segundo plano para esta aplicação, defina primeiro um limite para dados móveis</string>
   <string name="data_usage_app_restrict_dialog">"Esta funcionalidade pode fazer com que uma aplicação que depende de dados em segundo plano deixe de funcionar quando apenas estiverem disponíveis redes móveis.
 
-Poderá encontrar controlos de utilização de dados mais adequados nas definições disponíveis da aplicação."</string>
+Poderá encontrar controlos de utilização de dados mais adequados nas definições disponíveis da aplicação"</string>
   <string name="data_usage_app_restrict_dialog_title">Restringir dados em segundo plano?</string>
   <string name="data_usage_app_restricted">Restringido</string>
   <string name="data_usage_app_settings">Definições da aplicação</string>
@@ -915,7 +915,7 @@ Poderá encontrar controlos de utilização de dados mais adequados nas definiç
   <string name="data_usage_auto_sync_off_dialog_title">Desligar sincronização automática?</string>
   <string name="data_usage_auto_sync_on_dialog">"Qualquer alteração que efectue nas contas a partir da Web será copiada automaticamente para o telefone.
 
-Algumas contas também podem copiar automaticamente para a Web qualquer alteração que efectue no telefone. É assim que funciona uma Conta Google."</string>
+Algumas contas também podem copiar automaticamente para a Web qualquer alteração que efectue no telefone. É assim que funciona uma Conta Google"</string>
   <string name="data_usage_auto_sync_on_dialog_title">Ligar sincronização automática?</string>
   <string name="data_usage_background_label">Segundo plano:</string>
   <string name="data_usage_cellular_data">Dados de rede móvel</string>
@@ -941,7 +941,7 @@ Algumas contas também podem copiar automaticamente para a Web qualquer alteraç
   <string name="data_usage_label_foreground">Primeiro plano</string>
   <string name="data_usage_limit_dialog_mobile">"A ligação de dados será desactivada quando o limite definido for atingido.
 
-Uma vez que a utilização de dados é medida pelo seu telefone e a sua operadora poderá reportar valores diferentes, considere utilizar um limite restrito."</string>
+Uma vez que a utilização de dados é medida pelo seu telefone e a sua operadora poderá reportar valores diferentes, considere utilizar um limite restrito"</string>
   <string name="data_usage_limit_dialog_title">Limitar utilização de dados</string>
   <string name="data_usage_limit_editor_title">Definir limite de utilização de dados</string>
   <string name="data_usage_list_mobile">Móvel</string>
@@ -1250,7 +1250,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="encryption_interstitial_header">Arranque seguro</string>
   <string name="encryption_interstitial_message_password">"O utilizador pode proteger ainda mais este dispositivo, se exigir a sua palavra-passe antes do arranque. Até o dispositivo arrancar, não pode receber chamadas, mensagens ou notificações, incluindo alarmes.
 
-Isto ajuda a proteger dados em dispositivos perdidos ou roubados."</string>
+Isto ajuda a proteger dados em dispositivos perdidos ou roubados"</string>
   <string name="encryption_interstitial_message_password_for_fingerprint">"Além de utilizar a sua impressão digital para desbloquear o dispositivo, pode proteger ainda mais o dispositivo ao exigir a sua palavra-passe antes do arranque. Até que o dispositivo arranque, não pode receber chamadas, mensagens nem notificações, incluindo alarmes.
 
 Isto ajuda a proteger dados em dispositivos perdidos ou roubados"</string>
@@ -1259,16 +1259,16 @@ Isto ajuda a proteger dados em dispositivos perdidos ou roubados"</string>
 Isto ajuda a proteger dados em dispositivos perdidos ou roubados"</string>
   <string name="encryption_interstitial_message_pattern_for_fingerprint">"Além de utilizar a sua impressão digital para desbloquear o dispositivo, pode proteger ainda mais o dispositivo ao exigir o seu padrão antes do arranque. Até que o dispositivo arranque, não pode receber chamadas, mensagens nem notificações, incluindo alarmes.
 
-Isto ajuda a proteger dados em dispositivos perdidos ou roubados."</string>
+Isto ajuda a proteger dados em dispositivos perdidos ou roubados"</string>
   <string name="encryption_interstitial_message_pin">"O utilizador pode proteger ainda mais este dispositivo, se exigir o seu PIN antes do arranque. Até o dispositivo arrancar, não pode receber chamadas, mensagens ou notificações, incluindo alarmes. 
 
-Isto ajuda a proteger dados em dispositivos perdidos ou roubados."</string>
+Isto ajuda a proteger dados em dispositivos perdidos ou roubados"</string>
   <string name="encryption_interstitial_message_pin_for_fingerprint">"Além de utilizar a sua impressão digital para desbloquear o dispositivo, pode proteger ainda mais o dispositivo ao exigir o seu PIN antes do arranque. Até que o dispositivo arranque, não pode receber chamadas, mensagens nem notificações, incluindo alarmes.
 
-Isto ajuda a proteger dados em dispositivos perdidos ou roubados."</string>
+Isto ajuda a proteger dados em dispositivos perdidos ou roubados"</string>
   <string name="enforce_read_external_confirm_message">"Quando o armazenamento USB está protegido, as aplicações devem solicitar permissão para ler dados de armazenamento externo.
 
-Algumas aplicações podem não funcionar até serem actualizadas pelos seus programadores."</string>
+Algumas aplicações podem não funcionar até serem actualizadas pelos seus programadores"</string>
   <string name="enforce_read_external_confirm_title">Proteger o armazenamento USB?</string>
   <string name="enforce_read_external_summary">Aplicações devem pedir permissão para ler o armazenamento USB</string>
   <string name="enforce_read_external_title">Proteger armazenamento USB</string>
@@ -1407,7 +1407,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="frequently_fragment_tempty">Itens utilizados com frequência serão mostrados aqui</string>
   <string name="fullbackup_data_summary">"Faça cópias de segurança automáticas dos dados do dispositivo (como palavras-passe de Wi-Fi e registo de chamadas) e dos dados das aplicações (como as definições e os ficheiros armazenados pelas aplicações) remotamente.
 
-Quando liga a cópia de segurança automática, os dados do dispositivo e das aplicações são guardados remotamente de forma periódica. Os dados das aplicações podem ser quaisquer dados que uma aplicação tenha guardado (com base nas definições do programador), incluindo dados potencialmente confidenciais como contactos, mensagens e fotos."</string>
+Quando liga a cópia de segurança automática, os dados do dispositivo e das aplicações são guardados remotamente de forma periódica. Os dados das aplicações podem ser quaisquer dados que uma aplicação tenha guardado (com base nas definições do programador), incluindo dados potencialmente confidenciais como contactos, mensagens e fotos"</string>
   <string name="fullbackup_erase_dialog_message">Pretende parar de fazer cópias de segurança dos dados do dispositivo (como palavras-passe de Wi-Fi e registo de chamadas) e dos dados das aplicações (como as definições e os ficheiros armazenados pelas aplicações) e eliminar todas as cópias no Google Drive?</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">automático</string>
@@ -2369,6 +2369,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_page_layout_settings">Definições/Tamanho do tipo de letra</string>
   <string name="path_pn_settings">Definições/Redes móveis/Pontos de acesso (APN)</string>
   <string name="path_pointer_speed">Definições/Definições adicionais/Idioma e entrada/Velocidade do ponteiro</string>
+  <string name="path_power_checker">Definições/Definições adicionais/Funcionalidades Beta/Controlo de energia</string>
   <string name="path_power_hide_mode_title">Definições/Bateria e desempenho/Gerir utilização da bateria das aplicacões</string>
   <string name="path_power_mode_settings">Definições/Bateria e desempenho/Definições de energia</string>
   <string name="path_power_optimize">Definições/Definições adicionais/Funcionalidades Beta/Poupança de bateria</string>
@@ -2383,7 +2384,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_screen_key_long_press_timeout">Definições/Definições adicionais/Botões/Definir tempo de espera do botão</string>
   <string name="path_screen_on_proximity_sensor_title">Definições/Ecrã de bloqueio e segurança/Prevenir uso inadvertido no bolso</string>
   <string name="path_screen_optimize">Definições/Ecrã/Cores e contraste</string>
-  <string name="path_screen_paper_mode">Definições/Ecrã/Modo Leitura</string>
+  <string name="path_screen_paper_mode">Definições/Ecrã/Modo de Leitura</string>
   <string name="path_screen_saver_settings">Definições/Ecrã/Protecção de ecrã</string>
   <string name="path_screen_timeout_settings">Definições/Ecrã de bloqueio e segurança/Suspender</string>
   <string name="path_second_space">Definições/Segundo espaço</string>
@@ -2496,6 +2497,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="power_charging_duration_ac">%1$s - %2$s até ficar completa através de CA</string>
   <string name="power_charging_duration_usb">%1$s - %2$s até ficar completa através de USB</string>
   <string name="power_charging_duration_wireless">%1$s - %2$s até ficar completa através de sem fios</string>
+  <string name="power_checker">Controlo de energia</string>
   <string name="power_discharge_remaining">%1$s restante(s)</string>
   <string name="power_discharging_duration">%1$s - resta(m) aprox. %2$s</string>
   <string name="power_flashlight">Lanterna</string>
@@ -2782,7 +2784,7 @@ Não vai perder nenhum dado das aplicações"</string>
   <string name="roaming_warning">Quando permite roaming de dados, poderá acarretar custos significativos!</string>
   <string name="roaming_warning_multiuser">"Quando permite dados em roaming, poderá acarretar custos significativos de roaming!
 
-Estas definições vão afectar todos os  utilizadores deste telefone."</string>
+Estas definições vão afectar todos os  utilizadores deste telefone"</string>
   <string name="rssi_label">RSSI:</string>
   <string name="running_frequency">Frequência</string>
   <string name="running_process_item_removed_user_label">Utilizador removido</string>
@@ -2813,7 +2815,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="scan_list_label">Resultados da pesquisa:</string>
   <string name="screen">Ecrã</string>
   <string name="screen_color_and_optimize">Cores e contraste</string>
-  <string name="screen_color_and_optimize_disabled">Não é possível ajustar temperatura da cor no Modo Leitura</string>
+  <string name="screen_color_and_optimize_disabled">Não é possível ajustar temperatura da cor no Modo de Leitura</string>
   <string name="screen_color_temperature">Cores</string>
   <string name="screen_color_temperature_and_saturation">Cores e saturação</string>
   <string name="screen_compatibility_label">Compatibilidade do ecrã</string>
@@ -2832,23 +2834,23 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="screen_optimize">Contraste</string>
   <string name="screen_paper_mode_adjust_level">Intensidade</string>
   <string name="screen_paper_mode_apps_loading">Aguarde…</string>
-  <string name="screen_paper_mode_apps_title">Utilizar Modo Leitura</string>
-  <string name="screen_paper_mode_global_summary">Utilizar Modo Leitura para todas as aplicações</string>
+  <string name="screen_paper_mode_apps_title">Utilizar Modo de Leitura</string>
+  <string name="screen_paper_mode_global_summary">Utilizar Modo de Leitura para todas as aplicações</string>
   <string name="screen_paper_mode_global_title">Todas as aplicações</string>
-  <string name="screen_paper_mode_local_summary">Utilizar Modo Leitura nas aplicações que seleccionou</string>
+  <string name="screen_paper_mode_local_summary">Utilizar Modo de Leitura nas aplicações que seleccionou</string>
   <string name="screen_paper_mode_local_title">Aplicações seleccionadas</string>
-  <string name="screen_paper_mode_off_apps_title">"Não utilizar Modo Leitura"</string>
+  <string name="screen_paper_mode_off_apps_title">"Não utilizar Modo de Leitura"</string>
   <string name="screen_paper_mode_range_title">Definições</string>
-  <string name="screen_paper_mode_set_apps_title">Aplicações em Modo Leitura</string>
+  <string name="screen_paper_mode_set_apps_title">Aplicações em Modo de Leitura</string>
   <string name="screen_paper_mode_summary">Reduzir brilho de fundo do ecrã</string>
-  <string name="screen_paper_mode_title">Modo Leitura</string>
+  <string name="screen_paper_mode_title">Modo de Leitura</string>
   <string name="screen_paper_mode_turn_off">Desligado</string>
   <string name="screen_paper_mode_turn_on">Ligado</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Não mostrar novamente</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Permitir</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Para actualizar a lista de aplicações que utilizam o Modo Leitura, é necessário ligar à Internet</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Para actualizar a lista de aplicações que utilizam o Modo de Leitura, é necessário ligar à Internet</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Ligação à Internet</string>
-  <string name="screen_paper_mode_update_white_pkg_list_summary">Actualizar lista de aplicações que utilizam o Modo Leitura automaticamente</string>
+  <string name="screen_paper_mode_update_white_pkg_list_summary">Actualizar lista de aplicações que utilizam o Modo de Leitura automaticamente</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Actualizar automaticamente</string>
   <string name="screen_pinning_description">"Quando esta funcionalidade está ligada, pode utilizar a fixação no ecrã para manter o ecrã actual visível até o soltar.
 
@@ -3004,6 +3006,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_owner_info_settings">Info. do proprietário</string>
   <string name="search_page_layout_settings">Tamanho do texto</string>
   <string name="search_pointer_speed">Velocidade do ponteiro</string>
+  <string name="search_power_checker">Controlo de energia</string>
   <string name="search_power_hide_mode_title">Gerir utilização da bateria das aplicacões</string>
   <string name="search_power_mode">Definições de energia</string>
   <string name="search_power_optimize">Poupança de bateria</string>
@@ -3021,7 +3024,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_screen_effect">Cores e saturação;Cores e contraste</string>
   <string name="search_screen_key_long_press_timeout">Definir tempo de espera do botão</string>
   <string name="search_screen_on_proximity_sensor_title">Prevenir uso inadvertido no bolso</string>
-  <string name="search_screen_paper_mode">Modo Leitura</string>
+  <string name="search_screen_paper_mode">Modo de Leitura</string>
   <string name="search_screen_saver_settings">Protecção de ecrã</string>
   <string name="search_screen_timeout">Suspender;Bloqueio de ecrã</string>
   <string name="search_second_space">Segundo espaço</string>
@@ -3427,23 +3430,23 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="storage_detail_cached">Dados em cache</string>
   <string name="storage_detail_dialog_other">"Diversos incluem ficheiros guardados pelas aplicações, ficheiros transferidos da Internet ou do Bluetooth, ficheiros Android, etc. 
 
-Para ver todos os conteúdos deste ^1, toque em Explorar."</string>
+Para ver todos os conteúdos deste ^1, toque em Explorar"</string>
   <string name="storage_detail_dialog_user">"^1 pode ter fotos, música, filmes, aplicações ou outros dados guardados que estejam a utilizar ^2 de armazenamento. 
 
-Para ver detalhes, troque para ^1."</string>
+Para ver detalhes, troque para ^1"</string>
   <string name="storage_detail_explore">Explorar  ^1</string>
   <string name="storage_detail_images">Imagens</string>
   <string name="storage_detail_other">Outros</string>
   <string name="storage_detail_videos">Vídeos</string>
   <string name="storage_dialog_unmountable">"Este ^1 está danificado. 
 
-Para utilizar este ^1 tem de o configurar primeiro."</string>
+Para utilizar este ^1 tem de o configurar primeiro"</string>
   <string name="storage_dialog_unmounted">"O ^1 foi ejectado com sucesso, mas continua disponível. 
 
-Para utilizar este ^1 tem de o montar primeiro."</string>
+Para utilizar este ^1 tem de o montar primeiro"</string>
   <string name="storage_dialog_unsupported">"O dispositivo não suporta este ^1. 
 
-Para utilizar este ^1 com o dispositivo, tem de o configurar primeiro."</string>
+Para utilizar este ^1 com o dispositivo, tem de o configurar primeiro"</string>
   <string name="storage_external_title">Armazenamento portátil</string>
   <string name="storage_format">Formatar</string>
   <string name="storage_format_failure">Não foi possível formatar %1$s</string>
@@ -3456,7 +3459,7 @@ Em alternativa, pode optar por esquecer este armazenamento se o mesmo não estiv
 
 Se optar por esquecê-lo, todos os dados presentes no dispositivo são eliminados permanentemente. 
 
-Pode reinstalar as aplicações posteriormente, mas os dados armazenados neste dispositivo são eliminados."</string>
+Pode reinstalar as aplicações posteriormente, mas os dados armazenados neste dispositivo são eliminados"</string>
   <string name="storage_internal_format_details">"Após a formatação, pode utilizar este ^1 noutros dispositivos.  
 
 Todos os dados de ^1 são eliminados. Considere fazer uma cópia de segurança primeiro. 
@@ -3465,11 +3468,11 @@ Todos os dados de ^1 são eliminados. Considere fazer uma cópia de segurança p
 Mova os seus ficheiros multimédia para um armazenamento alternativo neste dispositivo ou transfira-os para um computador com um cabo USB. 
 
 "<b>"Fazer uma cópia de segurança das aplicações"</b>" 
-Todas as aplicações armazenadas neste ^1 são desinstaladas e os respectivos dados são eliminados. Para manter estas aplicações, mova-as para um armazenamento alternativo neste dispositivo."</string>
+Todas as aplicações armazenadas neste ^1 são desinstaladas e os respectivos dados são eliminados. Para manter estas aplicações, mova-as para um armazenamento alternativo neste dispositivo"</string>
   <string name="storage_internal_title">Armazenamento do dispositivo</string>
-  <string name="storage_internal_unmount_details"><b>"Quando ejectar este  ^1, , as aplicações armazenadas no mesmo deixam de funcionar e os ficheiros multimédia armazenados deixam de estar disponíveis até voltar a inseri-lo."</b>" 
+  <string name="storage_internal_unmount_details"><b>"Quando ejectar este  ^1, , as aplicações armazenadas no mesmo deixam de funcionar e os ficheiros multimédia armazenados deixam de estar disponíveis até voltar a inseri-lo"</b>" 
 
-Este ^1 is está formatado para funcionar apenas neste dispositivo. Não funciona em mais nenhum."</string>
+Este ^1 is está formatado para funcionar apenas neste dispositivo. Não funciona em mais nenhum"</string>
   <string name="storage_label">Armazenamento</string>
   <string name="storage_low_summary">Algumas funções do sistema, como a sincronização, poderão não funcionar correctamente. Tente obter espaço eliminando ou retirando ficheiros, como conteúdos multimédia ou aplicações</string>
   <string name="storage_low_title">O espaço de armazenamento está a chegar ao fim</string>
@@ -3529,30 +3532,30 @@ A transferência demora cerca de ^2 e liberta ^3 no armazenamento interno. Enqua
   <string name="storage_wizard_migrate_details">"Ao mover: 
 • Não remova o ^1. 
 • Algumas aplicações não funcionam correctamente. 
-Mantenha o dispositivo carregado."</string>
+Mantenha o dispositivo carregado"</string>
   <string name="storage_wizard_migrate_later">Mover mais tarde</string>
   <string name="storage_wizard_migrate_now">Mover agora</string>
   <string name="storage_wizard_migrate_progress_title">A mover dados…</string>
   <string name="storage_wizard_migrate_title">Mover dados p/ novo armazenamento</string>
   <string name="storage_wizard_move_confirm_body">"A transferência da aplicação ^1 e dos respectivos dados para ^2 demora apenas alguns minutos. Não é possível utilizar a aplicação até a acção terminar. 
 
-Não remova o ^2 no decorrer da mesma."</string>
+Não remova o ^2 no decorrer da mesma"</string>
   <string name="storage_wizard_move_confirm_title">Mover ^1</string>
   <string name="storage_wizard_move_progress_body">"Não remova o ^1 durante a transferência. 
 
-A aplicação ^2 neste dispositivo não está disponível até terminar a transferência."</string>
+A aplicação ^2 neste dispositivo não está disponível até terminar a transferência"</string>
   <string name="storage_wizard_move_progress_cancel">Cancelar transferência</string>
   <string name="storage_wizard_move_progress_title">A mover…</string>
   <string name="storage_wizard_ready_external_body">O seu ^1 está configurado para a utilização com fotos e outros conteúdos multimédia</string>
   <string name="storage_wizard_ready_internal_body">"O seu novo ^1 está a funcionar. 
 
-Para mover fotos, ficheiros e dados das aplicações para este dispositivo, aceda a Definições &gt; Armazenamento."</string>
+Para mover fotos, ficheiros e dados das aplicações para este dispositivo, aceda a Definições &gt; Armazenamento"</string>
   <string name="storage_wizard_ready_title">^1 está pronto</string>
   <string name="storage_wizard_slow_body">"Este ^1 parece estar lento. 
 
 Pode continuar, mas as aplicações movidas para esta localização podem falhar e as transferências de dados podem demorar muito tempo. 
 
-Para melhor desempenho, utilize um ^1 mais rápido."</string>
+Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="storageuse_settings_summary">Mostrar espaço ocupado pelas aplicações</string>
   <string name="storageuse_settings_title">Armazenamento utilizado</string>
   <string name="strict_mode">Modo restrito ligado</string>
@@ -3730,19 +3733,19 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="unlock_disable_frp_warning_content_password">As funcionalidades de protecção do dispositivo não funcionam sem a palavra-passe</string>
   <string name="unlock_disable_frp_warning_content_password_fingerprint">"As funcionalidades de protecção do dispositivo não funcionam sem a palavra-passe.
 
-As suas impressões digitais guardadas também são removidas deste dispositivo e não pode desbloquear o telemóvel, autorizar compras ou iniciar sessão em aplicações com elas."</string>
+As suas impressões digitais guardadas também são removidas deste dispositivo e não pode desbloquear o telemóvel, autorizar compras ou iniciar sessão em aplicações com elas"</string>
   <string name="unlock_disable_frp_warning_content_pattern">As funcionalidades de protecção do dispositivo não funcionam sem o padrão</string>
   <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"As funcionalidades de protecção do dispositivo não funcionam sem o padrão.
 
-As suas impressões digitais guardadas também são removidas deste dispositivo e não pode desbloquear o telemóvel, autorizar compras ou iniciar sessão em aplicações com elas."</string>
+As suas impressões digitais guardadas também são removidas deste dispositivo e não pode desbloquear o telemóvel, autorizar compras ou iniciar sessão em aplicações com elas"</string>
   <string name="unlock_disable_frp_warning_content_pin">As funcionalidades de protecção do dispositivo não funcionam sem o PIN</string>
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">"As funcionalidades de protecção do dispositivo não funcionam sem o PIN.
 
-As suas impressões digitais guardadas também são removidas deste dispositivo e não pode desbloquear o telemóvel, autorizar compras ou iniciar sessão em aplicações com elas."</string>
+As suas impressões digitais guardadas também são removidas deste dispositivo e não pode desbloquear o telemóvel, autorizar compras ou iniciar sessão em aplicações com elas"</string>
   <string name="unlock_disable_frp_warning_content_unknown">As funcionalidades de protecção do dispositivo não funcionam sem o bloqueio de ecrã</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"As funcionalidades de protecção do dispositivo não funcionam sem o bloqueio de ecrã.
 
-As suas impressões digitais guardadas também são removidas deste dispositivo e não pode desbloquear o telemóvel, autorizar compras ou iniciar sessão em aplicações com elas."</string>
+As suas impressões digitais guardadas também são removidas deste dispositivo e não pode desbloquear o telemóvel, autorizar compras ou iniciar sessão em aplicações com elas"</string>
   <string name="unlock_disable_frp_warning_ok">Sim, remover</string>
   <string name="unlock_disable_frp_warning_title">Remover a proteção do dispositivo?</string>
   <string name="unlock_disable_lock_pin_summary">Desligar PIN</string>
@@ -3859,10 +3862,10 @@ As suas impressões digitais guardadas também são removidas deste dispositivo 
 
 Ao adicionar um novo utilizador, essa pessoa tem de configurar o respectivo espaço.
 
-Qualquer utilizador pode actualizar aplicações para todos os outros utilizadores."</string>
+Qualquer utilizador pode actualizar aplicações para todos os outros utilizadores"</string>
   <string name="user_add_user_message_short">"Ao adicionar um novo utilizador, essa pessoa tem de configurar o respectivo espaço.
 
-Qualquer utilizador pode actualizar aplicações para todos os outros utilizadores."</string>
+Qualquer utilizador pode actualizar aplicações para todos os outros utilizadores"</string>
   <string name="user_add_user_or_profile_menu">Adicionar utilizador ou perfil</string>
   <string name="user_add_user_title">Adicionar novo utilizador</string>
   <string name="user_add_user_type_title">Adicionar</string>

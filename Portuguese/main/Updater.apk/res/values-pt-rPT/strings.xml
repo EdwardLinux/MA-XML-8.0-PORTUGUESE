@@ -38,8 +38,8 @@
   <string name="check_local_package_wipe_title">Formatar dados?</string>
   <string name="check_new_version">Verificar</string>
   <string name="check_update_policy">Definições</string>
-  <string name="check_update_when_wifi_available">Verificar actualizações por Wi-Fi</string>
-  <string name="check_update_when_wifi_available_sum">Utilizar apenas o Wi-Fi para verificar as actualizações</string>
+  <string name="check_update_when_wifi_available">Verificar actualizações apenas em Wi-Fi</string>
+  <string name="check_update_when_wifi_available_sum">Utilizar apenas Wi-Fi para verificar actualizações</string>
   <string name="clean_up_button">Limpar</string>
   <string name="comment_invalid">Avaliar esta actualização (toque nas estrelas)</string>
   <string name="comment_publish">Submeter</string>
@@ -169,7 +169,7 @@
   <string name="set_installfail_msg">Transferir esta actualização através da sua ligação de dados móveis vai aumentar excessivamente o consumo de dados</string>
   <string name="set_installfail_title">Tente transferir novamente a actualização</string>
   <string name="set_installfail_title_full">Não é possível actualizar</string>
-  <string name="set_network_msg">Para transferir uma actualização ligue uma rede Wi-Fi</string>
+  <string name="set_network_msg">Para transferir esta actualização ligue uma rede Wi-Fi</string>
   <string name="set_network_root_msg">Para obter acesso root ligue uma rede Wi-Fi</string>
   <string name="set_network_title">Ligar à rede</string>
   <string name="set_only_wifi">Utilizar apenas Wi-Fi</string>
@@ -183,8 +183,8 @@
   <string name="sina_share_fail_content_repeat">Não foi possível partilhar, o conteúdo já existe…</string>
   <string name="sina_share_pendding">A enviar…</string>
   <string name="sina_share_success">Enviado</string>
-  <string name="sina_token_expired_warning">Conta Weibo expirou: Por favor, ligue novamente</string>
-  <string name="sina_token_invalid_warning">Conta Weibo é inválida: Por favor, ligue novamente</string>
+  <string name="sina_token_expired_warning">Conta Weibo expirou. Por favor, ligue novamente</string>
+  <string name="sina_token_invalid_warning">Conta Weibo é inválida. Por favor, ligue novamente</string>
   <string name="sogou_uninstall_msg">Teclado Sogou (Edição Mi) deixou de ser compatível com MIUI7. Troque de teclado ou actualize para uma nova versão</string>
   <string name="sogou_uninstall_negative_button">Actualizar Sogou</string>
   <string name="sogou_uninstall_positive_button">Trocar teclados</string>
