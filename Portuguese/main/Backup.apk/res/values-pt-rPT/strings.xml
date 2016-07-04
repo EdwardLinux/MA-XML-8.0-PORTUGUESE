@@ -100,7 +100,7 @@
   <string name="err_router_disconnected">Verifique a sua ligação ao router e tente novamente</string>
   <string name="err_router_files_delete">Não foi possível eliminar os ficheiros de cópia no router</string>
   <string name="err_unknown">Erro desconhecido</string>
-  <string name="err_version_too_old">O ficheiro cópia é muito antigo</string>
+  <string name="err_version_too_old">O ficheiro da cópia é muito antigo</string>
   <string name="err_version_unsupported">A versão não é suportada</string>
   <string name="every_day">Todos os dias</string>
   <string name="exchange_account">Conta Exchange</string>
@@ -324,7 +324,7 @@ Tempo gasto: %s"</string>
   <string name="trans_wait_trans_data">"Ligado ao dispositivo antigo.
 A aguardar pela transferência…"</string>
   <string name="trans_waiting_ensurance">"Certifique-se que o dispositivo antigo está ligado
-e que as transferências estão activas"</string>
+e que o Mi Mover está activo"</string>
   <string name="trans_waiting_for_sender">A aguardar que o dispositivo antigo se ligue…</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" itens"</string>
