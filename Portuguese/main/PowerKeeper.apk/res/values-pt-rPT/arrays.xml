@@ -16,7 +16,7 @@
         <item>Aplicação a executar em segundo plano</item>
         <item>Telefone está a carregar</item>
         <item>Telefone não está a carregar</item>
-        <item>O telefone está em modo standby</item>
+        <item>O telefone está em modo de espera</item>
     </string-array>    
     <string-array name="action_name_translate">
         <item>Brilho máximo do ecrã</item>
@@ -72,7 +72,7 @@
         <item>Pesquisa Wi-Fi</item>
         <item>GPS</item>
         <item>CPU</item>
-        <item>Wake Up</item>
+        <item>Ligar</item>
     </string-array>
     <string-array name="power_checker_group_suffix">
         <item></item>

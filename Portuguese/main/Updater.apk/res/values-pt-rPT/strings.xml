@@ -183,9 +183,9 @@
   <string name="sina_share_fail_content_repeat">Não foi possível partilhar, o conteúdo já existe…</string>
   <string name="sina_share_pendding">A enviar…</string>
   <string name="sina_share_success">Enviado</string>
-  <string name="sina_token_expired_warning">Conta Weibo expirou. Por favor, ligue novamente</string>
-  <string name="sina_token_invalid_warning">Conta Weibo é inválida. Por favor, ligue novamente</string>
-  <string name="sogou_uninstall_msg">Teclado Sogou (Edição Mi) deixou de ser compatível com MIUI7. Troque de teclado ou actualize para uma nova versão</string>
+  <string name="sina_token_expired_warning">A conta Weibo expirou. Por favor, reactive-a</string>
+  <string name="sina_token_invalid_warning">A conta Weibo é inválida. Por favor, ligue novamente</string>
+  <string name="sogou_uninstall_msg">Teclado Sogou (Edição Mi) deixou de ser compatível com MIUI 8. Troque de teclado ou actualize para uma nova versão</string>
   <string name="sogou_uninstall_negative_button">Actualizar Sogou</string>
   <string name="sogou_uninstall_positive_button">Trocar teclados</string>
   <string name="sogou_uninstall_title">Teclados compatíveis</string>
