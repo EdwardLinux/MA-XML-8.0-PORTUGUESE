@@ -34,12 +34,12 @@
   <string name="confirm_restore_message">Restaurar as definições predefinidas da câmara?</string>
   <string name="confirm_restore_title">Restaurar definições predefinidas</string>
   <string name="dialog_ok">OK</string>
-  <string name="dual_camera_lens_covered_toast">A lentes está tapada</string>
+  <string name="dual_camera_lens_covered_toast">A lente está tapada</string>
   <string name="dual_camera_low_constract_toast">O contraste é demasiado baixo</string>
   <string name="dual_camera_lowlight_toast">A iluminação é muito baixa</string>
   <string name="dual_camera_too_close_toast">A câmara está demasiado perto do objecto</string>
   <string name="dual_camera_use_hint">O modo Estéreo ajuda-o a utilizar o efeito blur.
-O objecto não estar a mais do que dois metros</string>
+O objecto não pode estar a mais de dois metros</string>
   <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">Não foi possível iniciar a gravação de áudio</string>
   <string name="face_analyze_info">Idade: %2$s (%1$s)</string>
@@ -77,7 +77,7 @@ O objecto não estar a mais do que dois metros</string>
   <string name="pref_advance_settings">Definições adicionais</string>
   <string name="pref_audio_focus_entry_front">Frente</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
-  <string name="pref_audio_focus_entry_rear">Trás</string>
+  <string name="pref_audio_focus_entry_rear">Atrás</string>
   <string name="pref_audio_focus_title">Áudio da focagem</string>
   <string name="pref_burst_shoot_title">Disparo contínuo</string>
   <string name="pref_camcorder_settings">Vídeo</string>
@@ -144,7 +144,7 @@ O objecto não estar a mais do que dois metros</string>
   <string name="pref_camera_focusmode_entry_infinity">Infinito</string>
   <string name="pref_camera_focusmode_entry_macro">Macro</string>
   <string name="pref_camera_focusmode_entry_manual">Manual</string>
-  <string name="pref_camera_focusmode_entry_normal">Standard</string>
+  <string name="pref_camera_focusmode_entry_normal">Normal</string>
   <string name="pref_camera_focusmode_title">Modo de focagem</string>
   <string name="pref_camera_gradienter_title">Endireitar</string>
   <string name="pref_camera_hand_night_title">Noite</string>
@@ -210,7 +210,7 @@ O objecto não estar a mais do que dois metros</string>
   <string name="pref_camera_scenemode_entry_auto">Automático</string>
   <string name="pref_camera_scenemode_entry_backlight">Luz de fundo</string>
   <string name="pref_camera_scenemode_entry_beach">Praia</string>
-  <string name="pref_camera_scenemode_entry_fireworks">Fogos de artifício</string>
+  <string name="pref_camera_scenemode_entry_fireworks">Fogo de artifício</string>
   <string name="pref_camera_scenemode_entry_flowers">Flores</string>
   <string name="pref_camera_scenemode_entry_landscape">Paisagem</string>
   <string name="pref_camera_scenemode_entry_night">Noite</string>
@@ -313,18 +313,18 @@ O objecto não estar a mais do que dois metros</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">Intervalo de 30 segundos(900 vezes)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Intervalo de Lapso de Tempo</string>
   <string name="preparing_sd">A verificar armazenamento interno…</string>
-  <string name="record_back_pressed_hint">Toque Voltar novamente para terminar a gravação</string>
+  <string name="record_back_pressed_hint">Toque voltar novamente para terminar a gravação</string>
   <string name="search_settings">Definições da câmara;Qualidade;Qualidade de imagem;Localização de imagem;Localização de foto;Detecção de rosto;Sons da câmara</string>
   <string name="see_qrcode_detals">Ver detalhes QR</string>
   <string name="setting_top_text">Modos da Câmara</string>
   <string name="simple_mode_button_asd_flash">Desligar Flash</string>
   <string name="simple_mode_button_asd_hdr">Desligar HDR</string>
-  <string name="simple_mode_button_text_audio_capture">Desligar disparo por voz</string>
+  <string name="simple_mode_button_text_audio_capture">Desligar Disparo por Voz</string>
   <string name="simple_mode_button_text_color_effect">Desligar Filtros</string>
   <string name="simple_mode_button_text_delay_capture">Desligar Temporizador</string>
   <string name="simple_mode_button_text_face_beauty">Desligar Embelezar</string>
   <string name="simple_mode_button_text_fast_video">Desligar Câmara Lenta</string>
-  <string name="simple_mode_button_text_fisheye">Desligar Olho-De-Peixe</string>
+  <string name="simple_mode_button_text_fisheye">Desligar Olho-de-Peixe</string>
   <string name="simple_mode_button_text_gradienter">Desligar Endireitar</string>
   <string name="simple_mode_button_text_hand_night">Desligar Noite</string>
   <string name="simple_mode_button_text_magic_mirror">Desligar Espelho Mágico</string>
