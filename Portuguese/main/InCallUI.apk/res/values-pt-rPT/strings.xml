@@ -41,7 +41,7 @@
   <string name="call_record_wait_label">A aguardar</string>
   <string name="call_recording_deny_permission_msg">Não é possível gravar porque a permissão de gravação foi negada</string>
   <string name="call_recording_error_low_storage">Não há espaço suficiente no seu cartão SD</string>
-  <string name="call_recording_error_privacy">Não é possível gravar enquanto está no modo Convidado</string>
+  <string name="call_recording_error_privacy">Não é possível gravar enquanto está no Modo Convidado</string>
   <string name="call_recording_error_sd_access">Não é possível aceder ao cartão SD</string>
   <string name="call_recording_error_sd_unmounted">A gravação foi interrompida: cartão SD está desmontado</string>
   <string name="call_recording_error_start_failed">Gravador está a ser utilizado por outra aplicação</string>

@@ -9,7 +9,7 @@ Se escolher não utilizar anúncios personalizados, a quantidade de anúncios n�
   <string name="about_settings_summary">Ver informações legais, estado, versão de software</string>
   <string name="ac_enable_summary">Definir uma palavra-passe para aplicacões individualmente</string>
   <string name="ac_enable_title">Bloqueio de aplicacões</string>
-  <string name="ac_privacy_mode_sum">Exigir uma palavra-passe para desligar o modo Convidado</string>
+  <string name="ac_privacy_mode_sum">Exigir uma palavra-passe para desligar o Modo Convidado</string>
   <string name="ac_privacy_mode_title">Bloqueio de ecrã</string>
   <string name="ac_set_apps_title">Escolher aplicações a bloquear</string>
   <string name="accelerometer_summary_off">Trocar orientação automaticamente ao rodar o telefone</string>

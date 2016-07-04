@@ -146,5 +146,5 @@ Toque no botão + para criar uma pasta"</string>
     - Definir lembretes"</string>
   <string name="widget_content_loading">Aguarde…</string>
   <string name="widget_havenot_content">Toque para criar uma nota. Segure no widget para redimensionar</string>
-  <string name="widget_under_privacy_mode">Não é possível ver notas no modo Convidado</string>
+  <string name="widget_under_privacy_mode">Não é possível ver notas no Modo Convidado</string>
 </resources>
