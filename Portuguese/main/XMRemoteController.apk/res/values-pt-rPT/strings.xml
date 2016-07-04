@@ -218,7 +218,7 @@
   <string name="epg_edit_channel_number">频道号</string>
   <string name="epg_edit_channel_title">编辑频道</string>
   <string name="epg_episode_open">Mostrar tudo</string>
-  <string name="epg_fav_channels">Adicionar canal aos favoritos</string>
+  <string name="epg_fav_channels">Canais favoritos</string>
   <string name="epg_home_sliding_down">收起</string>
   <string name="epg_home_sliding_up">上划</string>
   <string name="epg_hot_channels">Canais</string>
@@ -292,7 +292,7 @@
   <string name="history_none">Ainda não viu nenhum vídeo</string>
   <string name="history_title">Histórico</string>
   <string name="home">Casa</string>
-  <string name="home_pad_ac_status">%1$d ℃ %2$s</string>
+  <string name="home_pad_ac_status">%1$d °C %2$s</string>
   <string name="home_zhuye">Casa</string>
   <string name="hot_apps">Popular</string>
   <string name="hot_mode">Calor</string>
@@ -793,9 +793,9 @@ Para activar a sua conta, siga o
   <string name="select_dvb_carrier">Escolher provedor de serviço</string>
   <string name="select_stb">Seleccionar a set-top box</string>
   <string name="service_info">Informação de serviço</string>
-  <string name="set_timeing_time_tip">将会在%1$s%2$s您的空调</string>
-  <string name="setting_airkan">ECRÃ SEM FIOS</string>
-  <string name="setting_common">GERAL</string>
+  <string name="set_timeing_time_tip">O seu AC vai %2$s em %1$s</string>
+  <string name="setting_airkan">Ecrã sem fios</string>
+  <string name="setting_common">Geral</string>
   <string name="setting_sharerc">Partilhado por pessoas</string>
   <string name="setting_sharerc_tips">Aceitar controlo remoto partilhado de uma pessoa próxima</string>
   <string name="setting_version">C.Remoto Mi versão %1$s</string>
@@ -881,7 +881,7 @@ Para activar a sua conta, siga o
   <string name="succeed_finish">Concluído</string>
   <string name="succeed_title">Emparelhado</string>
   <string name="suggest_use_wifi_rc">*O controlo remoto por Wi-Fi tem mais funções tais como pesquisar vídeos, instalar aplicações, etc.</string>
-  <string name="supported_by_kookong">Suporte técnico por Youku</string>
+  <string name="supported_by_kookong">Suporte técnico por Kookong</string>
   <string name="supporting_soon">Brevemente</string>
   <string name="swipe_loading">Aguarde…</string>
   <string name="switch_place">Escolher cidade</string>
