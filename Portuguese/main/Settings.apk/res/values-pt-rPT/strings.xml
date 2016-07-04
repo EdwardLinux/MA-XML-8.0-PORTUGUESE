@@ -1970,6 +1970,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="permission_mgr">Permissões</string>
   <string name="permissions_label">Permissões</string>
   <string name="personal_data_section_title">Dados pessoais</string>
+  <string name="personal_section_title">Personalização</string>
   <string name="phone_call_noise_suppression">Suprimir o ruído durante as chamadas</string>
   <string name="phone_info_label">Informações do telefone</string>
   <string name="phone_language">Idioma</string>

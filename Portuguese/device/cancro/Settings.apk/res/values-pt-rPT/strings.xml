@@ -2471,7 +2471,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="permit_write_settings">Permitir modificar as definições do sistema</string>
   <string name="personal_data_section_title">Dados pessoais</string>
   <string name="personal_device_admin_title">Pessoal</string>
-  <string name="personal_section_title">Pessoal</string>
+  <string name="personal_section_title">Personalização</string>
   <string name="phone_call_noise_suppression">Suprimir o ruído durante as chamadas</string>
   <string name="phone_info_label">Informações do telefone</string>
   <string name="phone_language">Idioma</string>
