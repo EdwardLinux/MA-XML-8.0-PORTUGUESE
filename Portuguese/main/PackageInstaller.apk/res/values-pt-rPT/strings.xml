@@ -109,9 +109,12 @@ Todos os dados existentes da aplicação serão guardados."</string>
   <string name="ok">OK</string>
   <string name="old_sdk_deny_warning">Esta aplicação foi concebida para uma versão mais antiga do Android. Negar permissão pode fazer com que deixe de funcionar como pretendido.</string>
   <string name="orb_search_action">Pesquisar acção</string>
-  <string name="other_permissions">Outras capacidades de aplicações</string>
+  <string name="other_permissions">Outras capacidades da aplicação</string>
   <string name="out_of_space_dlg_text">Não foi possível instalar %1$s. Liberte algum espaço e tente novamente.</string>
   <string name="out_of_space_dlg_title">Sem espaço</string>
+  <string name="perm_privacy_app_finish">OK</string>
+  <string name="perm_privacy_app_installed">Aplicação instalada</string>
+  <string name="perm_privacy_app_launch">Executar</string>
   <string name="permdesc_togglePermissions">Permite que o titular execute a UI para alternar permissões de aplicações. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permission_request_title">Pedido de permissão</string>
   <string name="permission_summary_enforced_by_policy">Imposta pela política</string>
