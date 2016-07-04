@@ -61,9 +61,9 @@
   <string name="cloud_backup_login">Iniciar sessão na sua Conta Mi</string>
   <string name="cloud_backup_window_title">Cópia na Nuvem Mi</string>
   <string name="cloud_home_title">Cópia de segurança online</string>
-  <string name="cloud_item_info_summary">" (Local : %1$s  | Nuvem : %2$s)"</string>
+  <string name="cloud_item_info_summary">" (Local : %1$s  | Nuvem Mi : %2$s)"</string>
   <string name="cloud_last_backup">"Última cópia em: "</string>
-  <string name="cloud_no_backup">Não existem cópias de segurança na Nuvem</string>
+  <string name="cloud_no_backup">Não existem cópias de segurança na Nuvem Mi</string>
   <string name="cloud_restore_guide">Para restaurar os dados do utilizador para %s, toque Restaurar</string>
   <string name="cloud_restore_title">Restaurar cópia de dados</string>
   <string name="cloud_restore_window_title">Restaurar cópia da Nuvem Mi</string>
@@ -100,7 +100,7 @@
   <string name="err_router_disconnected">Verifique a sua ligação ao router e tente novamente</string>
   <string name="err_router_files_delete">Não foi possível eliminar os ficheiros de cópia no router</string>
   <string name="err_unknown">Erro desconhecido</string>
-  <string name="err_version_too_old">O ficheiro Cópia é muito antigo</string>
+  <string name="err_version_too_old">O ficheiro cópia é muito antigo</string>
   <string name="err_version_unsupported">A versão não é suportada</string>
   <string name="every_day">Todos os dias</string>
   <string name="exchange_account">Conta Exchange</string>
@@ -112,10 +112,10 @@
   <string name="files_backup_info">Todos os ficheiros no cartão SD (incluindo fotos, músicas, vídeos, etc.)</string>
   <string name="findlost_contact">Restaurar contactos</string>
   <string name="findlost_contact_online">Restaurar contactos da Nuvem Mi</string>
-  <string name="guarded_mode_dialog_backup_message">Não são permitidas cópias de segurança no modo Convidado</string>
-  <string name="guarded_mode_dialog_title">Está em modo Convidado</string>
-  <string name="guarded_mode_dialog_transfer_message">Não é possível utilizar Mi Mover no modo Convidado</string>
-  <string name="import_from_xiaomi_account_hint1">"1.\u0009Transfira a aplicação Mi Talk e inicie a sessão.
+  <string name="guarded_mode_dialog_backup_message">Não são permitidas cópias de segurança no Modo Convidado</string>
+  <string name="guarded_mode_dialog_title">Está em Modo Convidado</string>
+  <string name="guarded_mode_dialog_transfer_message">Não é possível utilizar Mi Mover no Modo Convidado</string>
+  <string name="import_from_xiaomi_account_hint1">"1.\u0009Transfira a aplicação MiTalk e inicie a sessão.
 \u0009http://www.miliao.com
 
 2.\u0009Ir para definições MiTalk e seleccione ”Faça cópia dos seus contactos na Conta Mi”"</string>
@@ -139,16 +139,16 @@
   <string name="mms_title">Mensagens multimédia</string>
   <string name="multi_select_title">Seleccionado %1$s</string>
   <string name="multi_user_mode_backup_message">Não é possível utilizar Cópias no modo Multi-Utilizador. Desligue o modo Multi-Utilizador para continuar</string>
-  <string name="multi_user_mode_dialog_message">Não é possível utilizar Mi Mover no modo Multi-Utilizador. Desligue o modo Multi-Utilizador para continuar</string>
-  <string name="multi_user_mode_dialog_title">Está no modo Multi-Utilizador</string>
+  <string name="multi_user_mode_dialog_message">Não é possível utilizar Mi Mover no Modo Multi-Utilizador. Desligue o Modo Multi-Utilizador para continuar</string>
+  <string name="multi_user_mode_dialog_title">Está no Modo Multi-Utilizador</string>
   <string name="never">Nunca</string>
-  <string name="new_backup">Fazer Cópia de Segurança</string>
+  <string name="new_backup">Fazer cópia de segurança</string>
   <string name="no_encrypt_password">Sem palavra-passe</string>
   <string name="no_network">Não é possível ligação à rede</string>
   <string name="note_title">Notas</string>
   <string name="nothing_searched">Sem resultados</string>
   <string name="notif_backup_complete_title">Copiado com sucesso</string>
-  <string name="notif_backup_content">Copiar dados do utilizador</string>
+  <string name="notif_backup_content">A copiar dados do utilizador</string>
   <string name="notif_backup_title">Copiar dados</string>
   <string name="notif_restore_complete_title">Restaurado com sucesso</string>
   <string name="notif_restore_content">A restaurar dados</string>
@@ -178,7 +178,7 @@
   <string name="restore_progress">A restaurar…</string>
   <string name="restore_report">Detalhes do restauro</string>
   <string name="restore_telephony_hit">Restaurar vai reiniciar a aplicação Telefone</string>
-  <string name="retry">Tentar novamente</string>
+  <string name="retry">Repetir</string>
   <string name="reverse_all">Eliminar todos</string>
   <string name="router_backup_hint">Mantenha o seu dispositivo ligado</string>
   <string name="sc_bad_request">Pedido inválido</string>
@@ -266,7 +266,7 @@
   <string name="trans_main_tutor">Mover contactos, registo de chamadas, mensagens, disposição do ecrã, aplicações, definições, etc. para um novo dispositivo</string>
   <string name="trans_my_device">O meu dispositivo</string>
   <string name="trans_native_no_space">"Sem espaço suficiente neste dispositivo.
- Liberte pelo menos %s"</string>
+Liberte pelo menos %s"</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Método A</string>
   <string name="trans_operate_func_two">Método B</string>
@@ -291,10 +291,10 @@ Toque [Sou um destinatário] para criar um código QR"</string>
   <string name="trans_receiver">Sou um destinatário</string>
   <string name="trans_receiver_time_remained">"%s restantes. Mantenha o dispositivo carregado.
 Não desligue o Ponto de Acesso Wi-Fi. 
-Mantenha ambos os dispositivos perto um do outro."</string>
+Mantenha ambos os dispositivos perto um do outro"</string>
   <string name="trans_receiving_completed">Recebido com sucesso</string>
   <string name="trans_restoring">A restaurar…</string>
-  <string name="trans_restoring_no_items">A sincronizar items</string>
+  <string name="trans_restoring_no_items">A sincronizar itens</string>
   <string name="trans_retry">Repetir</string>
   <string name="trans_scan_invalid_qrcode">Código QR inválido</string>
   <string name="trans_scan_qr_code_tips">Digitalizar código QR no novo dispositivo</string>
@@ -312,7 +312,7 @@ Ficheiros iguais no novo dispositivo vão ser substituídos"</string>
 A aguardar que o dispositivo antigo se ligue…"</string>
   <string name="trans_sender_time_remained">"%s restantes. Mantenha o dispositivo carregado.
 Não desligue o Wi-Fi. 
-Mantenha ambos os dispositivos perto um do outro."</string>
+Mantenha ambos os dispositivos perto um do outro"</string>
   <string name="trans_sending_completed">Enviado com sucesso</string>
   <string name="trans_show_qr_code_label">Ligar dispositivo antigo</string>
   <string name="trans_show_qr_code_tips">Digitalizar código QR utilizando dispositivo antigo</string>
@@ -324,17 +324,17 @@ Tempo gasto: %s"</string>
   <string name="trans_wait_trans_data">"Ligado ao dispositivo antigo.
 A aguardar pela transferência…"</string>
   <string name="trans_waiting_ensurance">"Certifique-se que o dispositivo antigo está ligado
-e Transferências estão activas"</string>
+e que as transferências estão activas"</string>
   <string name="trans_waiting_for_sender">A aguardar que o dispositivo antigo se ligue…</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" itens"</string>
   <string name="unknown_hint">Desconhecido</string>
   <string name="user_notice_declaration_ignore">Não mostrar novamente</string>
-  <string name="user_notice_message">Algumas funcionalidades necessitam duma ligação à Internet para funcionar normalmente</string>
+  <string name="user_notice_message">Algumas funcionalidades necessitam de uma ligação à Internet para funcionar normalmente</string>
   <string name="user_notice_title">Atenção</string>
   <string name="wifi_title">Definições de Wi-Fi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_connect_download_manager_fail">Não foi possível ligar ao Gestor de Transferências. Verifique o estado do Gestor de Transferências na Gestão de Aplicações</string>
+  <string name="xiaomi_connect_download_manager_fail">Não foi possível ligar ao gestor de transferências. Verifique o estado do gestor de transferências na gestão de aplicações</string>
   <string name="xiaomi_external_storage_unavailable">Armazenamento indisponível. Verifique o cartão SD</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>

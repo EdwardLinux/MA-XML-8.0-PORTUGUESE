@@ -24,7 +24,7 @@
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">O acesso root está indisponível na versão Stable da MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"A concessão de acesso root a aplicações de terceiros pode causar instabilidades no sistema, perda de dados ou até mesmo danificar o seu hardware.
 
-Tem que instalar a versão Developer da MIUI para conceder acesso root."</string>
+Tem que instalar a versão Developer da MIUI para conceder acesso root"</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Transferir MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
   <string name="Dashboard_Perm_SU_Switch">Acesso root</string>
@@ -120,7 +120,7 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="HIPS_Perm_Location_CellLocation">obter localização aproximada utilizando da localização da antenas de telemóvel</string>
   <string name="HIPS_Perm_Location_Desc">obter localização exacta (baseada no GPS e na rede)</string>
   <string name="HIPS_Perm_Location_Hint">%1$s aplicações podem obter localização exacta (baseada no GPS e na rede)</string>
-  <string name="HIPS_Perm_Location_Monitor">rastrear a sua localização</string>
+  <string name="HIPS_Perm_Location_Monitor">monitorizar a sua localização</string>
   <string name="HIPS_Perm_Location_Source_Cellular">localização aproximada utilizando as antenas de telemóvel</string>
   <string name="HIPS_Perm_Location_Source_GPS">obter localização exacta utilizando o GPS</string>
   <string name="HIPS_Perm_Location_Source_Network">localização aproximada utilizando fontes baseadas em rede</string>
@@ -171,8 +171,8 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="HIPS_Perm_Read_SMS_Desc">ler as suas mensagens SMS</string>
   <string name="HIPS_Perm_Read_SMS_Hint">%1$s aplicações podem ler as suas mensagens SMS</string>
   <string name="HIPS_Perm_Recorder_Audio">aceder ao microfone para gravar áudio</string>
-  <string name="HIPS_Perm_Recorder_AudioVideo">aceder à câmara para tirar fotografias ou vídeos</string>
-  <string name="HIPS_Perm_Recorder_Camera">aceder à câmara para tirar fotografias</string>
+  <string name="HIPS_Perm_Recorder_AudioVideo">aceder à câmara para tirar fotos ou vídeos</string>
+  <string name="HIPS_Perm_Recorder_Camera">aceder à câmara para tirar fotos</string>
   <string name="HIPS_Perm_Recorder_Video">gravar áudio e vídeo</string>
   <string name="HIPS_Perm_Recorder_VoiceCall">gravar áudio das chamadas</string>
   <string name="HIPS_Perm_RejectAll">Negar tudo</string>
@@ -202,8 +202,8 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="HIPS_Perm_SystemAlert_Desc">mostrar notificações pop-up</string>
   <string name="HIPS_Perm_SystemAlert_Hint">%1$s aplicações podem mostrar notificações pop-up</string>
   <string name="HIPS_Perm_VideoRecorder">Aceder à câmara</string>
-  <string name="HIPS_Perm_VideoRecorder_Desc">aceder à câmara para tirar fotografias ou vídeos</string>
-  <string name="HIPS_Perm_VideoRecorder_Hint">%1$s aplicações podem aceder à câmara para tirar fotografias ou vídeos</string>
+  <string name="HIPS_Perm_VideoRecorder_Desc">aceder à câmara para tirar fotos ou vídeos</string>
+  <string name="HIPS_Perm_VideoRecorder_Hint">%1$s aplicações podem aceder à câmara para tirar fotos ou vídeos</string>
   <string name="HIPS_Perm_WIFINetwork">Utilizar rede Wi-Fi</string>
   <string name="HIPS_Perm_WIFINetwork_Desc">ligar à Internet utilizando o Wi-Fi</string>
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplicações podem ligar à Internet utilizando o Wi-Fi</string>
@@ -244,7 +244,7 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Conceder %1$s acesso root?</string>
   <string name="HIPS_SecurityPrompt_Reject">Negar (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_Once">Negar uma vez (%d)</string>
-  <string name="HIPS_SecurityPrompt_Remember">Memorizar preferências</string>
+  <string name="HIPS_SecurityPrompt_Remember">Memorizar preferência</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s está a tentar %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d permissões</string>
   <string name="Privacy_AppPerm_Count_Trust">%1$d permissões - <font color="#478800">Confiável</font></string>
