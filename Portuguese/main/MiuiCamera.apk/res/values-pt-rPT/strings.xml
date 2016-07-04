@@ -144,7 +144,7 @@ O objecto não pode estar a mais de dois metros</string>
   <string name="pref_camera_focusmode_entry_infinity">Infinito</string>
   <string name="pref_camera_focusmode_entry_macro">Macro</string>
   <string name="pref_camera_focusmode_entry_manual">Manual</string>
-  <string name="pref_camera_focusmode_entry_normal">Normal</string>
+  <string name="pref_camera_focusmode_entry_normal">Padrão</string>
   <string name="pref_camera_focusmode_title">Modo de focagem</string>
   <string name="pref_camera_gradienter_title">Endireitar</string>
   <string name="pref_camera_hand_night_title">Noite</string>
