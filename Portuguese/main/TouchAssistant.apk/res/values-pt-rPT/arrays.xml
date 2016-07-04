@@ -2,6 +2,6 @@
 <resources>
     <string-array name="motion_behavior_entries">
         <item>Deslizar</item>
-        <item>Clicar</item>
+        <item>Tocar</item>
     </string-array>
 </resources>

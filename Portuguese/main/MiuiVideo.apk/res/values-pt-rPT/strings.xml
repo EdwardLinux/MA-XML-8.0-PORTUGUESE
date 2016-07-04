@@ -159,6 +159,7 @@
   <string name="file_error">Erro de ficheiro</string>
   <string name="file_not_exist">O ficheiro não existe</string>
   <string name="filter">Filtrar</string>
+  <string name="finish_install">Instalado com sucesso</string>
   <string name="forecast">Previsão</string>
   <string name="forecast_empty_hint">Vazio</string>
   <string name="forecasts">EPG</string>

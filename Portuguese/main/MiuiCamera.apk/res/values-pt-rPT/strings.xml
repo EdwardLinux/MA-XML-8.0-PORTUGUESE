@@ -18,13 +18,13 @@
   <string name="camera_error_title">Erro da câmara</string>
   <string name="camera_label">Câmara</string>
   <string name="camera_mode_options">Modos</string>
-  <string name="camera_setting">Definições da câmara</string>
+  <string name="camera_setting">Câmara</string>
   <string name="camera_settings_label">Câmara</string>
   <string name="camera_snap_mode_title">Modo disparo rápido</string>
   <string name="camera_snap_mode_title_detail">Toque para ver detalhes</string>
   <string name="cannot_connect_camera_once">Não é possível ligar à câmara</string>
   <string name="cannot_connect_camera_twice">Ainda não é possível ligar à câmara. Tente reiniciar o dispositivo</string>
-  <string name="cannot_move_warning_message">Ao tirar a fotografia mantenha o dispositivo quieto</string>
+  <string name="cannot_move_warning_message">Ao tirar a foto mantenha o dispositivo quieto</string>
   <string name="confirm_location_alert">Guardar localização das fotos</string>
   <string name="confirm_location_message">Etiquetar as suas fotos e vídeos com as localizações de onde foram tiradas. Outras aplicações podem aceder a esta informação assim como às imagens guardadas</string>
   <string name="confirm_location_title">Guardar localização das fotos?</string>
@@ -34,11 +34,12 @@
   <string name="confirm_restore_message">Restaurar as definições predefinidas da câmara?</string>
   <string name="confirm_restore_title">Restaurar definições predefinidas</string>
   <string name="dialog_ok">OK</string>
-  <string name="dual_camera_lens_covered_toast">Lentes tapadas</string>
-  <string name="dual_camera_low_constract_toast">O baixo contraste pode afectar os efeitos de Câmara Dupla</string>
-  <string name="dual_camera_lowlight_toast">A fraca iluminação pode afectar os efeitos de Câmara Dupla</string>
-  <string name="dual_camera_too_close_toast">Demasiado perto do objecto para os efeitos de Câmara Dupla</string>
-  <string name="dual_camera_use_hint">O modo Câmara Dupla não pode disparar o efeito blur. A distância entre a câmara e o objecto deve ser menos que dois metros</string>
+  <string name="dual_camera_lens_covered_toast">A lentes está tapada</string>
+  <string name="dual_camera_low_constract_toast">O contraste é demasiado baixo</string>
+  <string name="dual_camera_lowlight_toast">A iluminação é muito baixa</string>
+  <string name="dual_camera_too_close_toast">A câmara está demasiado perto do objecto</string>
+  <string name="dual_camera_use_hint">O modo Estéreo ajuda-o a utilizar o efeito blur.
+O objecto não estar a mais do que dois metros</string>
   <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">Não foi possível iniciar a gravação de áudio</string>
   <string name="face_analyze_info">Idade: %2$s (%1$s)</string>

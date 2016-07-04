@@ -119,7 +119,7 @@
   <string name="mul">×</string>
   <string name="mulDesc">multiplicar</string>
   <string name="network_confirm_content">O conversor de moeda e o calculador taxas e hipoteca necessitam de utilizar a ligação à Internet para funcionar normalmente</string>
-  <string name="network_confirm_title">Necessário ligação à rede</string>
+  <string name="network_confirm_title">Ligação à rede necessária</string>
   <string name="percentage">%</string>
   <string name="pi">π</string>
   <string name="piDesc">pi</string>
@@ -361,9 +361,11 @@
   <string name="unit_year_format">Ano %s</string>
   <string name="unit_yuan">CNY</string>
   <string name="wf_word_figure">Caracteres financeiros</string>
+  <string name="word_figure_big_unit_fen">分</string>
+  <string name="word_figure_big_unit_jiao">角</string>
   <string name="word_figure_big_unit_wan">万</string>
   <string name="word_figure_big_unit_yi">亿</string>
-  <string name="word_figure_dot">点</string>
+  <string name="word_figure_big_unit_zhao">兆</string>
   <string name="word_figure_number_0">零</string>
   <string name="word_figure_number_1">壹</string>
   <string name="word_figure_number_2">贰</string>
@@ -377,4 +379,6 @@
   <string name="word_figure_unit_bai">佰</string>
   <string name="word_figure_unit_qian">仟</string>
   <string name="word_figure_unit_shi">拾</string>
+  <string name="word_figure_yuan">元</string>
+  <string name="word_figure_zheng">整</string>
 </resources>

@@ -447,7 +447,6 @@ Motivo: \"%s\""</string>
   <string name="favoritesFrequentContacted">Frequentemente contactado</string>
   <string name="favorites_list_empty">Sem favoritos</string>
   <string name="firewall_setting">Lista de bloqueio</string>
-  <string name="followed_yellowpage">Contas verificadas</string>
   <string name="force_touch_miprofile">Cartão de contacto</string>
   <string name="force_touch_new_contact">Novo contacto</string>
   <string name="foundTooManyContacts">Encontrados mais de %d</string>
@@ -661,13 +660,12 @@ Motivo: \"%s\""</string>
   <string name="miprofile_error_not_opened">Desligar cartões de contacto</string>
   <string name="miprofile_error_not_set">"O seu cartão de contacto ainda não foi sincronizado com o servidor"</string>
   <string name="miprofile_error_unknown">Erro desconhecido</string>
-  <string name="miprofile_find_miprofile_title">Adicionar perfil</string>
-  <string name="miprofile_find_profile_batch_add">Adicionar todos os perfis</string>
+  <string name="miprofile_find_miprofile_title">Adicionar para ver toda a informação</string>
+  <string name="miprofile_find_profile_batch_add">Adicionar tudo</string>
   <string name="miprofile_find_profile_batch_finish">Concluir</string>
   <string name="miprofile_find_profile_batch_request_failed">Não foi possível adicionar perfil</string>
   <string name="miprofile_find_profile_loading">A carregar…</string>
   <string name="miprofile_find_profile_no_recommend">Sem perfis recomendados</string>
-  <string name="miprofile_find_profile_subtitle">Adicionar para ver foto e mais informações</string>
   <string name="miprofile_finding_label">Localizar cartões de contacto</string>
   <string name="miprofile_name">O meu perfil</string>
   <string name="miprofile_nick_name_edit">Editar alcunha do cartão</string>

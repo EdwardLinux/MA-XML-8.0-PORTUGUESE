@@ -138,6 +138,7 @@
   <string name="miliao_account_login">Início de sessão no MiTalk</string>
   <string name="mms_title">Mensagens multimédia</string>
   <string name="multi_select_title">Seleccionado %1$s</string>
+  <string name="multi_user_mode_backup_message">Não é possível utilizar Cópias no modo Multi-Utilizador. Desligue o modo Multi-Utilizador para continuar</string>
   <string name="multi_user_mode_dialog_message">Não é possível utilizar Mi Mover no modo Multi-Utilizador. Desligue o modo Multi-Utilizador para continuar</string>
   <string name="multi_user_mode_dialog_title">Está no modo Multi-Utilizador</string>
   <string name="never">Nunca</string>
