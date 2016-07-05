@@ -11,13 +11,13 @@
   <string name="ac_enter_applock">Entrar no Bloqueio de aplicações</string>
   <string name="ac_firstUseApplock_subTitle">Utilizar Bloqueio de aplicações para proteger a sua privacidade</string>
   <string name="ac_firstUseApplock_title">Exigir padrão de desbloqueio para abrir as aplicações seleccionadas</string>
-  <string name="ac_summaryOff">Desligado. Não é necessário padrão de desbloqueio para abrir aplicações</string>
-  <string name="ac_summaryOn">Ligado. É necessário padrão de desbloqueio para abrir aplicações</string>
+  <string name="ac_summaryOff">Desligado. Não é necessário um padrão para abrir as aplicações</string>
+  <string name="ac_summaryOn">Ligado. É necessário um padrão para abrir as aplicações</string>
   <string name="access_control_need_password">"%s adicionado com sucesso
 "</string>
   <string name="access_control_need_to_unlock">"Digitalizar impressão digital
 ou desenhar padrão do Bloqueio de aplicações"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Desenhe o seu padrão do Bloqueio de aplicações</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Desenhar padrão do Bloqueio de aplicações</string>
   <string name="access_control_recording_intro_header">Desenhar padrão para adicionar Bloqueio de aplicações</string>
   <string name="access_control_reset_by_account">Iniciar sessão na sua Conta Mi para repor o padrão do Bloqueio de aplicações</string>
   <string name="activity_title_antispam">Lista de bloqueio</string>
@@ -62,14 +62,14 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="adjust_traffic_data">Definir utilização de dados</string>
   <string name="after_the_lock_screen">A aplicação está bloqueada juntamente com o ecrã. Pode alterar esta opção nas definições do Bloqueio de aplicações</string>
   <string name="antivirus_choose_engine">%s</string>
-  <string name="antivirus_choose_engine_dialog_title">Escolher definições do antivírus</string>
-  <string name="antivirus_choose_engine_disable_toast">Não é possível alterar as definições enquanto a verificação está em curso</string>
+  <string name="antivirus_choose_engine_dialog_title">Escolher definições de vírus</string>
+  <string name="antivirus_choose_engine_disable_toast">Não é possível alterar as definições enquanto a verificação estiver em curso</string>
   <string name="antivirus_choose_engine_settings">Configurações das definições de vírus</string>
   <string name="antivirus_choose_engine_title">Definições</string>
-  <string name="antivirus_more_engine_dialog_summary">Se utilizar duas definições de antivírus ao mesmo tempo a verificação poderá levar mais tempo</string>
+  <string name="antivirus_more_engine_dialog_summary">Se utilizar várias definições de vírus ao mesmo tempo a verificação poderá levar mais tempo</string>
   <string name="antivirus_more_engine_dialog_title">Atenção</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>
-  <string name="antivirus_none_engine_dialog_title">Definir um antivírus</string>
+  <string name="antivirus_none_engine_dialog_title">Escolher definições de vírus</string>
   <string name="antivirus_privacy_dialog_cloudscan">Enviar nomes e detalhes da aplicação</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Enviar e verficar nomes e detalhes da aplicação utilizando as definições de vírus online</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
@@ -238,7 +238,7 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="connect_internet_by_wifi">Wi-Fi</string>
   <string name="continue_install">Instalar</string>
   <string name="convenient_mode">Desbloquear todas as aplicações</string>
-  <string name="convenient_summary">Não necessita de palavra-passe após uma aplicação ter sido desbloqueada</string>
+  <string name="convenient_summary">Não exigir padrão após uma aplicação ter sido desbloqueada</string>
   <string name="correction_attention_dialog_message">A ajustar definições neste momento. Aguarde que o processo conclua e tente novamente</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Cancelar</string>
@@ -432,13 +432,13 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="hints_last_virus_scan_safe">Verificado à %d dias antes: Seguro</string>
   <string name="hints_last_virus_scan_today_risk">Verificado hoje: Suspeito</string>
   <string name="hints_last_virus_scan_today_safe">Verificado hoje: Seguro</string>
-  <string name="hints_last_virus_scan_today_virus">Verificado hoje: Malicioso</string>
-  <string name="hints_last_virus_scan_virus">Verificado à %d dias antes: Malicioso</string>
+  <string name="hints_last_virus_scan_today_virus">Verificado hoje: Em perigo</string>
+  <string name="hints_last_virus_scan_virus">Verificado à %d dias antes: Em perigo</string>
   <string name="hints_last_virus_scan_yesterday_risk">Verificado ontem: Suspeito</string>
   <string name="hints_last_virus_scan_yesterday_safe">Verificado ontem: Seguro</string>
-  <string name="hints_last_virus_scan_yesterday_virus">Verificado ontem: Malicioso</string>
+  <string name="hints_last_virus_scan_yesterday_virus">Verificado ontem: Em perigo</string>
   <string name="hints_loading_text">A carregar…</string>
-  <string name="hints_need_quick_clean">Localizar e eliminar ficheiros maliciosos</string>
+  <string name="hints_need_quick_clean">Localizar e eliminar ficheiros perigosos</string>
   <string name="hints_need_quick_scan">Verificação rápida recomendada</string>
   <string name="hints_need_regular_scan">Verificar o seu dispositivo regularmente</string>
   <string name="hints_power_percent_title">bateria</string>
@@ -521,16 +521,16 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirmar padrão</string>
   <string name="lockpattern_confirm_button_text">OK</string>
   <string name="lockpattern_continue_button_text">Seguinte</string>
-  <string name="lockpattern_need_to_confirm">Desenhe novamente o seu padrão para confirmar</string>
-  <string name="lockpattern_need_to_unlock">Confirme o seu padrão de desbloqueio</string>
+  <string name="lockpattern_need_to_confirm">Desenhar novamente o padrão para confirmar</string>
+  <string name="lockpattern_need_to_unlock">Confirmar o padrão de desbloqueio</string>
   <string name="lockpattern_need_to_unlock_wrong">Tente novamente</string>
-  <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de bloqueio foi desenhado com sucesso</string>
-  <string name="lockpattern_pattern_entered_header">Padrão de bloqueio adicionado</string>
-  <string name="lockpattern_recording_incorrect_too_short">O padrão tem de ser maior que %d pontos</string>
+  <string name="lockpattern_pattern_confirmed_header">Novo padrão de desbloqueio</string>
+  <string name="lockpattern_pattern_entered_header">Padrão adicionado</string>
+  <string name="lockpattern_recording_incorrect_too_short">Ligar pelo menos %d pontos</string>
   <string name="lockpattern_recording_inprogress">Levantar o dedo quando estiver concluído</string>
-  <string name="lockpattern_recording_intro_header">Desenhe um padrão de bloqueio a unir 4 ou mais pontos</string>
+  <string name="lockpattern_recording_intro_header">Ligar pelo menos 4 pontos para criar um padrão</string>
   <string name="lockpattern_retry_button_text">Desenhar novamente</string>
-  <string name="lockpattern_settings_help_how_to_record">Como desenhar um padrão de bloqueio</string>
+  <string name="lockpattern_settings_help_how_to_record">Desenhar um padrão</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Aguarde pelo menos %d segundos e tente novamente</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Demasiadas tentativas falhadas!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
@@ -632,7 +632,7 @@ Maior tráfego: %1$s%2$s | %3$s utilizados"</string>
   <string name="mi_service_framework">Framework de serviços Xiaomi</string>
   <string name="mi_service_traffic_detail">Detalhes da Framework</string>
   <string name="mian_page_primary_txt">Roaming</string>
-  <string name="modifypassword">Alterar padrão de desbloqueio</string>
+  <string name="modifypassword">Alterar padrão</string>
   <string name="monitor_requests_from_pc">Gerir a instalação de aplicações via USB</string>
   <string name="month_report_month_report_switch">Mostrar relatório mensal</string>
   <string name="network_assistant_upgraded_body">Toque para ver detalhes</string>
@@ -645,9 +645,9 @@ Maior tráfego: %1$s%2$s | %3$s utilizados"</string>
   <string name="network_diagnostics">Testar rede</string>
   <string name="network_mobile_exception_detail">"O seu dispositivo não consegue ligar à Internet:
 
- 1. Certifique-se de que não excedeu o limite de dados móveis do plano da sua operadora.
+ 1. Certifique-se de que não excedeu o limite de dados móveis do plano da sua operadora
 
- 2. Se acabou de carregar o saldo do seu telefone, reinicie o telefone e tente novamente.
+ 2. Se acabou de carregar o saldo do seu telefone, reinicie o telefone e tente novamente
 
  3. O sinal de rede da sua operadora pode ser fraco na sua localização actual"</string>
   <string name="network_operator_exception_summary">Não foi possível activar o cartão SIM. Verifique se o seu cartão SIM está inserido correctamente e que o seu plano móvel foi activado pela sua operadora</string>
@@ -726,7 +726,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="package_setted_error_notification_summary">Toque para ver detalhes de utilização de dados</string>
   <string name="package_setted_error_notification_titile">Não foi possível definir plano de dados</string>
   <string name="packages_subtitle">Pacotes incluídos</string>
-  <string name="passwordIncorrect">O nome de utilizador ou a palavra-passe estão incorrectos</string>
+  <string name="passwordIncorrect">Utilizador ou palavra-passe inválidos</string>
   <string name="path_antispam">Aplicações de sistema/Segurança/Lista de bloqueio</string>
   <string name="path_antivirus">Aplicações de sistema/Segurança/Antivírus</string>
   <string name="path_applicationlock">Aplicações de sistema/Segurança</string>
@@ -849,7 +849,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pref_category_title_lock_screen_memory_clean">Limpeza no ecrã de bloqueio</string>
   <string name="pref_category_title_module_settings">Definições das funcionalidades</string>
   <string name="pref_category_title_other">Definições adicionais</string>
-  <string name="pref_category_title_reference_settings">Definições de verificação</string>
+  <string name="pref_category_title_reference_settings">Definições adicionais</string>
   <string name="pref_category_title_securitycenter_settings">Geral</string>
   <string name="pref_category_title_virus_lib_auto_update">Actualizar definições automaticamente</string>
   <string name="pref_check_network_diagnostics">Testar ligação à Internet do seu dispositivo</string>
@@ -1130,7 +1130,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="summary_telecom_operator">Obter as suas estatísticas de utilização de dados mensais da sua operadora</string>
   <string name="summary_usb">Prevenir malware de ser transmitido via USB</string>
   <string name="summary_virus">Remover vírus para manter o seu dispositivo seguro</string>
-  <string name="summary_virus_cloudscan">Enviar nomes, os detalhes das aplicações e dados e verificar utilizando as definições de vírus online</string>
+  <string name="summary_virus_cloudscan">Enviar nomes, detalhes e dados das aplicações e verificar utilizando as definições de vírus online</string>
   <string name="summary_virus_update">Obter as definições de vírus mais recentes automaticamente</string>
   <string name="summary_xiaomi_roaming">0.01 euros por MB para tráfego internacional</string>
   <string name="system_app">Aplicações de sistema</string>
@@ -1146,7 +1146,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Resultado: Marca de operadora errada&lt;br/&gt;&lt;br/&gt;Definir marca: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Marca actual: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Concluído</string>
   <string name="tc_diagnostic_fragment_default">"Acerca dos diagnósticos
-1. O dispositivo vai ligar à rede da operadora, enviar uma mensagem gratuita e aguardar pela resposta da operadora. Pode levar até 5 minutos.
+1. O dispositivo vai ligar à rede da operadora, enviar uma mensagem gratuita e aguardar pela resposta da operadora. Pode levar até 5 minutos
 2. Pode sair desta página durante os diagnósticos porque vai continuar em segundo plano"</string>
   <string name="tc_diagnostic_location_error_notification_summary">Toque para ajustar localização</string>
   <string name="tc_diagnostic_location_error_notification_title">Localização errada</string>

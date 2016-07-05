@@ -306,7 +306,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="shortcut_dialog_content">Adicionar atalho no ecrã inicial para localizar fontes mais rapidamente</string>
   <string name="shortcut_dialog_create">Criar</string>
   <string name="shortcut_dialog_title">Criar atalho no ecrã inicial?</string>
-  <string name="show_more">Mostrar %s mais</string>
+  <string name="show_more">Mostrar mais %s</string>
   <string name="sniff_associate_text">Popular</string>
   <string name="sniff_bt_text">Ficheiro torrent</string>
   <string name="sniff_btn_text">Fonte</string>

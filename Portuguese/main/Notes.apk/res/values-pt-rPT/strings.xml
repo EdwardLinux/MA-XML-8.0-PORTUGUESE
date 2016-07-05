@@ -30,7 +30,7 @@
   <string name="dlg_unmark_privacy_message">A mostrar…</string>
   <string name="empty_folder_hint">"Sem pastas
 Toque no botão + para criar uma pasta"</string>
-  <string name="empty_note_mark_privacy_error">Não é possível marcar e ocultar uma nota vazia</string>
+  <string name="empty_note_mark_privacy_error">Não é possível ocultar uma nota vazia</string>
   <string name="enable_sync">Sincronizar</string>
   <string name="enable_sync_desc">Sincronizar as suas notas com a sua Conta Mi (%1$s)?</string>
   <string name="error_contact_not_exist">O contacto não existe</string>

@@ -187,6 +187,7 @@
   <string name="every_weekday">Dias úteis (Seg-Sex)</string>
   <string name="exist_calendar">Subscrito</string>
   <string name="festival_detail_title">Festival</string>
+  <string name="force_touch_title_add_new_event">Adicionar novo evento</string>
   <string name="fortune_birthday">生日</string>
   <string name="fortune_card_caiwei">财位：</string>
   <string name="fortune_card_set_bazi">设置生辰八字</string>
@@ -362,7 +363,6 @@
   <string name="setting_holiday">Feriados</string>
   <string name="setting_others">Adicional</string>
   <string name="setting_sms_import">Importar eventos de SMS</string>
-  <string name="setting_wifi_mode">Apenas sincronizar em Wi-Fi</string>
   <string name="settings_calendar">Calendário</string>
   <string name="show_day_view">Mostrar dia</string>
   <string name="show_newer_events">Toque para ver os eventos depois de %1$s</string>

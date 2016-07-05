@@ -3,7 +3,7 @@
     <string-array name="stat_volume_button_behaviors">
        <item>Não</item>
        <item>Adiar</item>
-       <item>Excluir</item>
+       <item>Eliminar</item>
     </string-array>
     <string-array name="alarm_in_furture">
        <item>O alarme toca em menos de 1 minuto</item>
@@ -30,14 +30,14 @@
        <item>Personalizar</item>
     </string-array>
     <string-array name="alarm_set">
-       <item>Alarme definido para daqui a menos de um minuto</item>
-       <item>Alarme definido para daqui a %1$s</item>
-       <item>Alarme definido para daqui a %2$s</item>
-       <item>Alarme definido para daqui a %1$s e %2$s</item>
-       <item>Alarme definido para daqui a %3$s</item>
-       <item>Alarme definido para daqui a %1$s e %3$s</item>
-       <item>Alarme definido para daqui a %2$s e %3$s</item>
-       <item>Alarme definido para daqui a %1$s, %2$s e %3$s</item>
+       <item>Alarme vai tocar daqui a menos de um minuto</item>
+       <item>Alarme vai tocar daqui a %1$s</item>
+       <item>Alarme vai tocar daqui a %2$s</item>
+       <item>Alarme vai tocar daqui a %1$s e %2$s</item>
+       <item>Alarme vai tocar daqui a %3$s</item>
+       <item>Alarme vai tocar daqui a %1$s e %3$s</item>
+       <item>Alarme vai tocar daqui a %2$s e %3$s</item>
+       <item>Alarme vai tocar daqui a %1$s, %2$s e %3$s</item>
     </string-array>
     <string-array name="auto_silence_entries">
        <item>Nunca</item>
