@@ -30,7 +30,7 @@
   <string name="dlg_unmark_privacy_message">A mostrar…</string>
   <string name="empty_folder_hint">"Sem pastas
 Toque no botão + para criar uma pasta"</string>
-  <string name="empty_note_mark_privacy_error">Não é possível marcar ocultar uma nota vazia</string>
+  <string name="empty_note_mark_privacy_error">Não é possível marcar e ocultar uma nota vazia</string>
   <string name="enable_sync">Sincronizar</string>
   <string name="enable_sync_desc">Sincronizar as suas notas com a sua Conta Mi (%1$s)?</string>
   <string name="error_contact_not_exist">O contacto não existe</string>
@@ -72,7 +72,7 @@ Toque no botão + para criar uma pasta"</string>
   <string name="notealert_enter">Abrir nota</string>
   <string name="notealert_ok">Rejeitar</string>
   <string name="notelist_menu_new">Adicionar nota</string>
-  <string name="notelist_string_info">...</string>
+  <string name="notelist_string_info">…</string>
   <string name="notify_alarm_title">Lembrete de nota</string>
   <string name="permdesc_accessNote">Aplicações maliciosas podem utilizar isto para aceder aos seus dados pessoais</string>
   <string name="permlab_accessNote">Aceder a notas</string>
@@ -99,8 +99,8 @@ Toque no botão + para criar uma pasta"</string>
   <string name="sina_share_fail_content_repeat">Não foi possível partilhar, conteúdo já existe…</string>
   <string name="sina_share_pendding">A enviar…</string>
   <string name="sina_share_success">Enviado</string>
-  <string name="sina_token_expired_warning">A conta Weibo expirou: Por favor volte a ligar</string>
-  <string name="sina_token_invalid_warning">A conta Weibo é inválida: Por favor volte a ligar</string>
+  <string name="sina_token_expired_warning">A conta Weibo expirou. Por favor, reactive-a</string>
+  <string name="sina_token_invalid_warning">A conta Weibo é inválida. Por favor, ligue novamente</string>
   <string name="snippet_image_stub">[Image]</string>
   <string name="snippet_image_template">[Imagem %1$s]</string>
   <string name="sns_action_send">Enviar</string>

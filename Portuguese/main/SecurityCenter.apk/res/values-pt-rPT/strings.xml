@@ -10,16 +10,16 @@
   <string name="ac_enable_title">Ligar Bloqueio de aplicações</string>
   <string name="ac_enter_applock">Entrar no Bloqueio de aplicações</string>
   <string name="ac_firstUseApplock_subTitle">Utilizar Bloqueio de aplicações para proteger a sua privacidade</string>
-  <string name="ac_firstUseApplock_title">Exigir palavra-passe para abrir as aplicações seleccionadas</string>
-  <string name="ac_summaryOff">Desligado. Não é necessário palavra-passe para abrir aplicações</string>
-  <string name="ac_summaryOn">Desligado. É necessário palavra-passe para abrir aplicações</string>
+  <string name="ac_firstUseApplock_title">Exigir padrão de desbloqueio para abrir as aplicações seleccionadas</string>
+  <string name="ac_summaryOff">Desligado. Não é necessário padrão de desbloqueio para abrir aplicações</string>
+  <string name="ac_summaryOn">Ligado. É necessário padrão de desbloqueio para abrir aplicações</string>
   <string name="access_control_need_password">"%s adicionado com sucesso
 "</string>
   <string name="access_control_need_to_unlock">"Digitalizar impressão digital
-ou introduzir palavra-passe do Bloqueio de aplicações"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Introduzir palavra-passe do Bloqueio de aplicações</string>
+ou desenhar padrão do Bloqueio de aplicações"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Desenhe o seu padrão do Bloqueio de aplicações</string>
   <string name="access_control_recording_intro_header">Desenhar padrão para adicionar Bloqueio de aplicações</string>
-  <string name="access_control_reset_by_account">Iniciar sessão na sua Conta Mi para repor a palavra-passe do Bloqueio de aplicações</string>
+  <string name="access_control_reset_by_account">Iniciar sessão na sua Conta Mi para repor o padrão do Bloqueio de aplicações</string>
   <string name="activity_title_antispam">Lista de bloqueio</string>
   <string name="activity_title_antivirus">Antivírus</string>
   <string name="activity_title_apps_manager">Aplicações</string>
@@ -47,7 +47,7 @@ ou introduzir palavra-passe do Bloqueio de aplicações"</string>
   <string name="activity_title_system">Sistema</string>
   <string name="activity_title_trash">Cache</string>
   <string name="activity_title_virus">Vírus</string>
-  <string name="activity_title_virus_detail">Detalhe do vírus</string>
+  <string name="activity_title_virus_detail">Detalhes do vírus</string>
   <string name="activity_title_virus_settings">Definições</string>
   <string name="add_miservice_dialog_content">%s necessita que adicione o serviço de Framework MIUI à lista de excepções. Pode receber notificações de aplicações MIUI embutidas e outras aplicações de terceiros</string>
   <string name="add_miservice_dialog_title">Serviço FrameWork MIUI</string>
@@ -60,16 +60,16 @@ ou introduzir palavra-passe do Bloqueio de aplicações"</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">Actualizado há 2 dias</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Actualizado ontem às %s</string>
   <string name="adjust_traffic_data">Definir utilização de dados</string>
-  <string name="after_the_lock_screen">A aplicação está bloqueada juntamente com o ecrã. Pode alterar isto nas definições do Bloqueio de aplicações</string>
+  <string name="after_the_lock_screen">A aplicação está bloqueada juntamente com o ecrã. Pode alterar esta opção nas definições do Bloqueio de aplicações</string>
   <string name="antivirus_choose_engine">%s</string>
-  <string name="antivirus_choose_engine_dialog_title">Escolher definições</string>
+  <string name="antivirus_choose_engine_dialog_title">Escolher definições do antivírus</string>
   <string name="antivirus_choose_engine_disable_toast">Não é possível alterar as definições enquanto a verificação está em curso</string>
   <string name="antivirus_choose_engine_settings">Configurações das definições de vírus</string>
   <string name="antivirus_choose_engine_title">Definições</string>
-  <string name="antivirus_more_engine_dialog_summary">Se utilizar vários conjuntos de definições para a verificação poderá levar mais tempo</string>
+  <string name="antivirus_more_engine_dialog_summary">Se utilizar duas definições de antivírus ao mesmo tempo a verificação poderá levar mais tempo</string>
   <string name="antivirus_more_engine_dialog_title">Atenção</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>
-  <string name="antivirus_none_engine_dialog_title">Escolher definições</string>
+  <string name="antivirus_none_engine_dialog_title">Definir um antivírus</string>
   <string name="antivirus_privacy_dialog_cloudscan">Enviar nomes e detalhes da aplicação</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Enviar e verficar nomes e detalhes da aplicação utilizando as definições de vírus online</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
@@ -238,7 +238,7 @@ ou introduzir palavra-passe do Bloqueio de aplicações"</string>
   <string name="connect_internet_by_wifi">Wi-Fi</string>
   <string name="continue_install">Instalar</string>
   <string name="convenient_mode">Desbloquear todas as aplicações</string>
-  <string name="convenient_summary">Não necessitar de palavra-passe após uma aplicação ter sido desbloqueada</string>
+  <string name="convenient_summary">Não necessita de palavra-passe após uma aplicação ter sido desbloqueada</string>
   <string name="correction_attention_dialog_message">A ajustar definições neste momento. Aguarde que o processo conclua e tente novamente</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Cancelar</string>
@@ -294,7 +294,7 @@ ou introduzir palavra-passe do Bloqueio de aplicações"</string>
   <string name="datausage_purchase_pkglist_servererror">Algo está errado com o servidor</string>
   <string name="datausage_purchase_result_failed">Não foi possível comprar dados. Verifique com a sua operadora para mais informações sobre o assunto</string>
   <string name="datausage_purchase_result_ok">"Acabou de comprar %s
-Para mais informações, verifique a mensagem que recebeu da sua operadora"</string>
+ Para mais informações, verifique a mensagem que recebeu da sua operadora"</string>
   <string name="datausage_purchase_time_in">" em "</string>
   <string name="datausage_purchase_title_confirm">Detalhes da compra</string>
   <string name="datausage_purchase_title_order">Comprar dados</string>
@@ -432,17 +432,17 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="hints_last_virus_scan_safe">Verificado à %d dias antes: Seguro</string>
   <string name="hints_last_virus_scan_today_risk">Verificado hoje: Suspeito</string>
   <string name="hints_last_virus_scan_today_safe">Verificado hoje: Seguro</string>
-  <string name="hints_last_virus_scan_today_virus">Verificado hoje: Perigoso</string>
-  <string name="hints_last_virus_scan_virus">Verificado à %d dias antes: Perigoso</string>
+  <string name="hints_last_virus_scan_today_virus">Verificado hoje: Malicioso</string>
+  <string name="hints_last_virus_scan_virus">Verificado à %d dias antes: Malicioso</string>
   <string name="hints_last_virus_scan_yesterday_risk">Verificado ontem: Suspeito</string>
   <string name="hints_last_virus_scan_yesterday_safe">Verificado ontem: Seguro</string>
-  <string name="hints_last_virus_scan_yesterday_virus">Verificado ontem: Perigoso</string>
+  <string name="hints_last_virus_scan_yesterday_virus">Verificado ontem: Malicioso</string>
   <string name="hints_loading_text">A carregar…</string>
-  <string name="hints_need_quick_clean">Localizar e eliminar ficheiros perigosos</string>
+  <string name="hints_need_quick_clean">Localizar e eliminar ficheiros maliciosos</string>
   <string name="hints_need_quick_scan">Verificação rápida recomendada</string>
   <string name="hints_need_regular_scan">Verificar o seu dispositivo regularmente</string>
   <string name="hints_power_percent_title">bateria</string>
-  <string name="hints_remember_choice">Memorizar preferências</string>
+  <string name="hints_remember_choice">Memorizar preferência</string>
   <string name="hints_risk_apk_list_item_summary">Risco (apk)</string>
   <string name="hints_risk_app_list_item_summary">Risco (aplicação)</string>
   <string name="hints_risk_descx_title">Descrição:</string>
@@ -521,16 +521,16 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="lockpassword_confirm_your_pattern_header">Confirmar padrão</string>
   <string name="lockpattern_confirm_button_text">OK</string>
   <string name="lockpattern_continue_button_text">Seguinte</string>
-  <string name="lockpattern_need_to_confirm">Desenhar o padrão novamente para confirmar</string>
-  <string name="lockpattern_need_to_unlock">Confirmar o padrão desenhado</string>
+  <string name="lockpattern_need_to_confirm">Desenhe novamente o seu padrão para confirmar</string>
+  <string name="lockpattern_need_to_unlock">Confirme o seu padrão de desbloqueio</string>
   <string name="lockpattern_need_to_unlock_wrong">Tente novamente</string>
-  <string name="lockpattern_pattern_confirmed_header">Novo padrão de desbloqueio</string>
-  <string name="lockpattern_pattern_entered_header">Padrão adicionado</string>
-  <string name="lockpattern_recording_incorrect_too_short">Ligar pelo menos %d pontos</string>
+  <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de bloqueio foi desenhado com sucesso</string>
+  <string name="lockpattern_pattern_entered_header">Padrão de bloqueio adicionado</string>
+  <string name="lockpattern_recording_incorrect_too_short">O padrão tem de ser maior que %d pontos</string>
   <string name="lockpattern_recording_inprogress">Levantar o dedo quando estiver concluído</string>
-  <string name="lockpattern_recording_intro_header">Ligar pelo menos 4 pontos para criar um padrão</string>
+  <string name="lockpattern_recording_intro_header">Desenhe um padrão de bloqueio a unir 4 ou mais pontos</string>
   <string name="lockpattern_retry_button_text">Desenhar novamente</string>
-  <string name="lockpattern_settings_help_how_to_record">Desenhar um padrão</string>
+  <string name="lockpattern_settings_help_how_to_record">Como desenhar um padrão de bloqueio</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Aguarde pelo menos %d segundos e tente novamente</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Demasiadas tentativas falhadas!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
@@ -601,7 +601,7 @@ Maior tráfego: %1$s%2$s | %3$s utilizados"</string>
   <string name="menu_item_about_title">Acerca de</string>
   <string name="menu_item_app_details">Detalhes</string>
   <string name="menu_item_app_permissions_control">Gestor de Permissões</string>
-  <string name="menu_item_control_app_permissions">Pedir a sua permissão antes que as aplicações possam ler os seus contactos, ver o registo de chamadas, alterar definições do sistema, ou aceder à câmara e outros recursos do dispositivo</string>
+  <string name="menu_item_control_app_permissions">Pedir a sua permissão antes de dar acesso às aplicações de lerem os seus contactos, verem os seus registos de chamadas, modificarem definições de sistema, acederem à câmara ou a outros recursos do dispositivo</string>
   <string name="menu_item_force_stop">Forçar paragem</string>
   <string name="menu_item_notification_antispam_text_avail">Lista de bloqueio</string>
   <string name="menu_item_notification_antispam_text_normal">Lista de bloqueio</string>
@@ -632,7 +632,7 @@ Maior tráfego: %1$s%2$s | %3$s utilizados"</string>
   <string name="mi_service_framework">Framework de serviços Xiaomi</string>
   <string name="mi_service_traffic_detail">Detalhes da Framework</string>
   <string name="mian_page_primary_txt">Roaming</string>
-  <string name="modifypassword">Alterar palavra-passe</string>
+  <string name="modifypassword">Alterar padrão de desbloqueio</string>
   <string name="monitor_requests_from_pc">Gerir a instalação de aplicações via USB</string>
   <string name="month_report_month_report_switch">Mostrar relatório mensal</string>
   <string name="network_assistant_upgraded_body">Toque para ver detalhes</string>
@@ -649,7 +649,7 @@ Maior tráfego: %1$s%2$s | %3$s utilizados"</string>
 
  2. Se acabou de carregar o saldo do seu telefone, reinicie o telefone e tente novamente.
 
- 3. O sinal de rede da sua operadora pode ser fraco na sua localização actual."</string>
+ 3. O sinal de rede da sua operadora pode ser fraco na sua localização actual"</string>
   <string name="network_operator_exception_summary">Não foi possível activar o cartão SIM. Verifique se o seu cartão SIM está inserido correctamente e que o seu plano móvel foi activado pela sua operadora</string>
   <string name="network_permission_exception_tips">Não é possível utilizar dados móveis para ligar à rede</string>
   <string name="network_roaming_exception_tips">Não é possível utilizar dados móveis em roaming para ligar à rede</string>
@@ -671,11 +671,11 @@ L"&lt;/b&gt;"er as instruções que vieram com o seu router e restaurar o seu ro
 T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um problema com a ligação, entre em contacto com o seu prestador de serviços de Internet</string>
   <string name="network_sim_exception_detail">"Pode existir um problema com o seu cartão SIM:
 
- 1. Certifique-se que a sua conta está normal na sua operadora. Tente usar um cartão SIM de um amigo e vericar se consegue ligar normalmente.
+ 1. Certifique-se que a sua conta está normal na sua operadora. Tente usar um cartão SIM de um amigo e vericar se consegue ligar normalmente
 
- 2. Se utilizar dois cartões SIM, tente mudar para o outro cartão e veja se consegue ligar normalmente.
+ 2. Se utilizar dois cartões SIM, tente mudar para o outro cartão e veja se consegue ligar normalmente
 
- 3. Verifique se o seu cartão SIM e a ranhura para cartão SIM do seu dispositivo não estão danificados. Confirme se o cartão SIM que está a utilizar está inserido correctamente na ranhura SIM do seu dispositivo."</string>
+ 3. Verifique se o seu cartão SIM e a ranhura para cartão SIM do seu dispositivo não estão danificados. Confirme se o cartão SIM que está a utilizar está inserido correctamente na ranhura SIM do seu dispositivo"</string>
   <string name="network_speed_for_apps_close">Forçar paragem</string>
   <string name="network_speed_for_apps_close_app_dlg_msg">Forçar paragem desta aplicação?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">Não é possível forçar a paragem de aplicações de sistema</string>
@@ -726,7 +726,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="package_setted_error_notification_summary">Toque para ver detalhes de utilização de dados</string>
   <string name="package_setted_error_notification_titile">Não foi possível definir plano de dados</string>
   <string name="packages_subtitle">Pacotes incluídos</string>
-  <string name="passwordIncorrect">Utilizador ou palavra-passe inválidos</string>
+  <string name="passwordIncorrect">O nome de utilizador ou a palavra-passe estão incorrectos</string>
   <string name="path_antispam">Aplicações de sistema/Segurança/Lista de bloqueio</string>
   <string name="path_antivirus">Aplicações de sistema/Segurança/Antivírus</string>
   <string name="path_applicationlock">Aplicações de sistema/Segurança</string>
@@ -738,7 +738,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="path_permcenter">Aplicações de sistema/Segurança/Permissões</string>
   <string name="path_powercenter">Aplicações de sistema/Segurança/Utilização de bateria</string>
   <string name="path_securitycenter">Aplicações de sistema/Segurança</string>
-  <string name="path_securitycenter_settings">Aplicações de sistema/Segurança</string>  
+  <string name="path_securitycenter_settings">Aplicações de sistema/Segurança</string>
   <string name="pay_charge">Comprar dados adicionais</string>
   <string name="pc_install_manager">Instalação via USB</string>
   <string name="pc_to_phone_install">Instalação bloqueada de %s via USB</string>
@@ -748,12 +748,12 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="permission_action_accept">Aceitar</string>
   <string name="permission_action_prompt">Notificar</string>
   <string name="permission_action_reject">Negar</string>
-  <string name="permission_close_permission_control_dialog_msg">Quando o gestor de permissões está inactivo, as aplicações não vão pedir a sua permissão para ler os seus contactos, ver o registo de chamadas, alterar definições do sistema, aceder à câmara ou a outros recursos do dispositivo</string>
+  <string name="permission_close_permission_control_dialog_msg">Quando o gestor de permissões está inactivo, as aplicações não vão pedir a sua permissão para lerem os seus contactos, verem os seus registos de chamadas, modificarem definições de sistema, acederem à câmara ou a outros recursos do dispositivo</string>
   <string name="permission_close_permission_control_dialog_title">Desligar?</string>
   <string name="permission_exception_summary">Algumas aplicações não têm permissão para ligar à Internet</string>
   <string name="permission_exception_title">Ver permissões de rede</string>
   <string name="permission_group_title_others">Outros</string>
-  <string name="permission_permission_control_closed_desc_dialog_msg">As aplicações não vão pedir a sua permissão para ler os seus contactos, ver o registo de chamadas, alterar definições do sistema, aceder à câmara ou a outros recursos do dispositivo. Pode activar esta função em - Definições de Permissões</string>
+  <string name="permission_permission_control_closed_desc_dialog_msg">As aplicações não vão pedir a sua permissão para lerem os seus contactos, verem os seus registos de chamadas, modificarem definições de sistema, acederem à câmara ou a outros recursos do dispositivo. Pode activar esta função em - Definições de Permissões</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Gestor de permissões</string>
   <string name="permission_send_sms_descx">Aplicações podem enviar mensagens SMS e MMS</string>
   <string name="permission_with_SMS_and_MMS">Permissões relacionadas com SMS e MMS</string>
@@ -766,7 +766,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pm_auto_start_by_system">Iniciar aplicações</string>
   <string name="pm_auto_start_by_system_event">Permitir que aplicações iniciem automaticamente</string>
   <string name="pm_auto_start_proc_is_running">Em execução</string>
-  <string name="pm_remember_choice">Memorizar esta escolha</string>
+  <string name="pm_remember_choice">Memorizar preferência</string>
   <string name="pm_root_success_notification_title">Acesso root activado</string>
   <string name="power_20s_shutdown">O dispositivo vai desligar em %d segundos</string>
   <string name="power_analysis_consume_title">Utilização de bateria</string>
@@ -774,7 +774,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">Analizar utilização de bateria</string>
   <string name="power_cell">Inactividade do telefone</string>
-  <string name="power_center_auto_shutdown">Definições de ligar/desligar automático</string>
+  <string name="power_center_auto_shutdown">Definições de ligar/desligar automaticamente</string>
   <string name="power_center_battery_full">Bateria completamente carregada</string>
   <string name="power_center_charge_time">%1$s até estar carregada</string>
   <string name="power_center_consume_rank">Utilização de bateria</string>
@@ -849,7 +849,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pref_category_title_lock_screen_memory_clean">Limpeza no ecrã de bloqueio</string>
   <string name="pref_category_title_module_settings">Definições das funcionalidades</string>
   <string name="pref_category_title_other">Definições adicionais</string>
-  <string name="pref_category_title_reference_settings">Definições adicionais</string>
+  <string name="pref_category_title_reference_settings">Definições de verificação</string>
   <string name="pref_category_title_securitycenter_settings">Geral</string>
   <string name="pref_category_title_virus_lib_auto_update">Actualizar definições automaticamente</string>
   <string name="pref_check_network_diagnostics">Testar ligação à Internet do seu dispositivo</string>
@@ -903,7 +903,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Adicionar aplicações com capacidade de poupança de dados às excepções automaticamente</string>
   <string name="pref_traffic_saving_compressed">Comprimido</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
-  <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Ligar a poupança de dados vai afectar a minha privacidade? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Não. Os seus dados serão mantidos em privado e não serão partilhados com terceiros. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; 2. Porque não está a poupança de dados a funcionar? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; A poupança de dados só funciona quando está a utilizar a rede da sua operadora para enviar ou receber conteúdos."</string>
+  <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Ligar a poupança de dados vai afectar a minha privacidade? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Não. Os seus dados serão mantidos em privado e não serão partilhados com terceiros. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; 2. Porque não está a poupança de dados a funcionar? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; A poupança de dados só funciona quando está a utilizar a rede da sua operadora para enviar ou receber conteúdos"</string>
   <string name="pref_traffic_saving_no_compress">Sem compressão</string>
   <string name="pref_traffic_saving_notify_switch">Mostrar na área de notificações</string>
   <string name="pref_traffic_saving_notify_switch_hint">Mostrar estatística de utilização de dados na área de notificações</string>
@@ -987,9 +987,9 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="result_wifi_header">Detectados riscos Wi-Fi</string>
   <string name="risk_list_header_title">%d aplicações suspeitas detectadas</string>
   <string name="roaming_allow_network_dialog_title">Permitir dados móveis em roaming?</string>
-  <string name="roaming_limit_dialog_message">Atingiu limite diário de dados em roaming</string>
+  <string name="roaming_limit_dialog_message">Atingiu o limite diário de dados em roaming</string>
   <string name="roaming_limit_network_notification_body">Toque para ver redes de dados disponíveis</string>
-  <string name="roaming_limit_notification_title">Atingiu limite diário de dados em roaming</string>
+  <string name="roaming_limit_notification_title">Atingiu o limite diário de dados em roaming</string>
   <string name="roaming_limit_warning_notification_body">Toque para ver utilização de dados</string>
   <string name="roaming_not_start_body">Toque para ver definições de dados em roaming</string>
   <string name="roaming_not_start_title">Roaming</string>
@@ -999,7 +999,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="root_apply_step_1">Conceder acesso root a %s?</string>
   <string name="root_apply_step_2">Ao conceder acesso root às aplicações pode causar instabilidade no dispositivo</string>
   <string name="root_apply_step_3">A segurança dos seus dados de utilizador (contas, palavras-passe e mensagens) podem ser comprometidos</string>
-  <string name="root_apply_step_4">Conceder às aplicações acesso root pelo seu próprio risco</string>
+  <string name="root_apply_step_4">Ao conceder acesso root às aplicações faça-o por sua conta e risco</string>
   <string name="root_apply_step_5">Conceder acesso root a %s?</string>
   <string name="root_apply_title">Aviso importante</string>
   <string name="safe_result_header_info_protecting">Protecção</string>
@@ -1130,12 +1130,12 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="summary_telecom_operator">Obter as suas estatísticas de utilização de dados mensais da sua operadora</string>
   <string name="summary_usb">Prevenir malware de ser transmitido via USB</string>
   <string name="summary_virus">Remover vírus para manter o seu dispositivo seguro</string>
-  <string name="summary_virus_cloudscan">Enviar nomes e detalhes das aplicações e dados e verificar utilizando as definições de vírus online</string>
+  <string name="summary_virus_cloudscan">Enviar nomes, os detalhes das aplicações e dados e verificar utilizando as definições de vírus online</string>
   <string name="summary_virus_update">Obter as definições de vírus mais recentes automaticamente</string>
   <string name="summary_xiaomi_roaming">0.01 euros por MB para tráfego internacional</string>
   <string name="system_app">Aplicações de sistema</string>
   <string name="system_application">Aplicações de sistema</string>
-  <string name="system_check_content">%1$d riscos</string>
+  <string name="system_check_content">%1$d risco(s)</string>
   <string name="system_check_content_none">Seguro</string>
   <string name="system_header_title">Limpar %1$d processos para libertar %2$s da memória</string>
   <string name="system_info_remind">Adicionar bloqueios às suas aplicações</string>
@@ -1147,7 +1147,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="tc_diagnostic_complete">Concluído</string>
   <string name="tc_diagnostic_fragment_default">"Acerca dos diagnósticos
 1. O dispositivo vai ligar à rede da operadora, enviar uma mensagem gratuita e aguardar pela resposta da operadora. Pode levar até 5 minutos.
-2. Pode sair desta página durante os diagnósticos porque vai continuar em segundo plano."</string>
+2. Pode sair desta página durante os diagnósticos porque vai continuar em segundo plano"</string>
   <string name="tc_diagnostic_location_error_notification_summary">Toque para ajustar localização</string>
   <string name="tc_diagnostic_location_error_notification_title">Localização errada</string>
   <string name="tc_diagnostic_notification_sumarry">Toque para ver resultados</string>
@@ -1187,7 +1187,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="tc_sms_report_get_sms_failure">Não foi possível obter o formato SMS de utilização de dados</string>
   <string name="tc_sms_report_get_sms_successs">Formato de utilização de dados SMS actualizado</string>
   <string name="tc_sms_report_get_sms_timeout">Pedido expirado</string>
-  <string name="tc_sms_report_get_success">Recebido o SMS com relatório da utilização de dados da operadora. Certifique-se de que é detalhado e envie para nós</string>
+  <string name="tc_sms_report_get_success">Recebida a SMS com o relatório da utilização de dados da sua operadora. Certifique-se de que é detalhado e envie para nós</string>
   <string name="tc_sms_report_get_success_notify_body">Certifique-se que o relatório é detalhado e envie-o para a MIUI</string>
   <string name="tc_sms_report_get_success_notify_title">Recebido o SMS com relatório da utilização de dados</string>
   <string name="tc_sms_report_geting_sms">A obter informação de SMS…</string>
@@ -1202,7 +1202,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="tc_sms_report_receive_num">Número do destinatário</string>
   <string name="tc_sms_report_send_num">Número de telefone da operadora #</string>
   <string name="tc_sms_report_summary">Ajude-nos a melhorar esta função através do envio de um relatório quando a sua informação de utilização de dados estiver incorrecta ou não actualizar</string>
-  <string name="tc_sms_report_tips_dialog_message">A utilização de dados usa uma SMS especialmente formatado para obter a sua mais recente utilização de dados da sua operadora. Se esta funcionalidade não está a funcionar normalmente, tente actualizar o formato SMS utilização de dados. O novo formato actualizado será enviado para os nossos servidores</string>
+  <string name="tc_sms_report_tips_dialog_message">A utilização de dados usa uma SMS especialmente formatada para obter a sua mais recente utilização de dados da sua operadora. Se esta funcionalidade não está a funcionar normalmente, tente actualizar o formato SMS utilização de dados. O novo formato actualizado será enviado para os nossos servidores</string>
   <string name="tc_sms_report_tips_dialog_title">Utilização de dados de SMS</string>
   <string name="tc_sms_report_title">Reportar erro da utilização de dados</string>
   <string name="tc_sms_report_toast_text">A obter informação…</string>
@@ -1227,7 +1227,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="title_cleaner_cloudscan">Enviar nome das pastas</string>
   <string name="title_cloud_account">Conta Mi</string>
   <string name="title_cloud_service">Nuvem Mi</string>
-  <string name="title_cloud_space_almost_full">Armazenamento da Nuvem Mi quase cheio, itens podem não sincronizar</string>
+  <string name="title_cloud_space_almost_full">Armazenamento da Nuvem Mi quase cheio. Itens podem não sincronizar</string>
   <string name="title_cloud_space_full">Armazenamento da Nuvem Mi cheio. Não é possível sincronizar fotos</string>
   <string name="title_cmcc_app_check">Verificação não está completa</string>
   <string name="title_data_flow">Definir um aviso de utilização de dados</string>
@@ -1306,7 +1306,7 @@ Passou dados extra"</string>
   <string name="traffic_limit_error_alert_body">Os seus dados restantes para este mês (%1$s) são maiores que o seu plano mensal (%2$s). Marcar dados extra como pacote de carregamento?</string>
   <string name="traffic_limit_error_alert_package">"
 
-Dados restantes incluem dados que foram passados do mês anterior."</string>
+Os dados restantes incluem dados que foram transferidos do mês anterior"</string>
   <string name="traffic_limit_error_alert_title">Lembrete %s de limite de dados </string>
   <string name="traffic_none">Nenhum</string>
   <string name="traffic_over_purchase_body">Toque para ver detalhes</string>

@@ -105,7 +105,7 @@
   <string name="deepclean_list_item_from_music">Música</string>
   <string name="deepclean_list_item_from_sdcard">Cartão SD</string>
   <string name="deepclean_similar_ignore">Ignorar</string>
-  <string name="deepclean_similar_summary_empty">Verificação concluída. Sem fotos para eliminar​</string>
+  <string name="deepclean_similar_summary_empty">Verificação concluída. Sem fotos para eliminar</string>
   <string name="deepclean_size_summary_less">Sem espaço suficiente</string>
   <string name="deepclean_size_summary_more">Espaço de armazenamento disponível suficiente</string>
   <string name="deepclean_size_summary_normal">Espaço de armazenamento disponível</string>
@@ -142,13 +142,13 @@
   <string name="empty_title_ad">Não foram encontrados ficheiros</string>
   <string name="empty_title_apk">Não foram encontrados pacotes</string>
   <string name="empty_title_garbage_cache">Nada para limpar</string>
-  <string name="empty_title_garbage_white_list">Prima e segure itens para os adicionar às excepções</string>
+  <string name="empty_title_garbage_white_list">Prima e segure nos itens para adicioná-los às excepções</string>
   <string name="empty_title_installed_apps">Vazio</string>
   <string name="empty_title_large_files">Vazio</string>
   <string name="empty_title_residual">Não foram encontrados resíduos</string>
   <string name="empty_title_video">Sem vídeos para eliminar​</string>
   <string name="flow_rank_title">Utilização de dados</string>
-  <string name="function_app_lock_title">%d aplicações contêm riscos de privacidade​</string>
+  <string name="function_app_lock_title">%d aplicações contêm riscos de privacidade</string>
   <string name="garbage_clean_detail">Detalhes</string>
   <string name="garbage_cleanup_detail">%1$d vezes, limpou %2$s</string>
   <string name="garbage_month">Limpou %s este mês</string>
@@ -225,7 +225,7 @@
   <string name="installing">A instalar</string>
   <string name="item_title_process_mode">Escolha uma acção</string>
   <string name="just_now">Agora mesmo</string>
-  <string name="label_image_list_none">Nenhum</string>
+  <string name="label_image_list_none">Nenhuma</string>
   <string name="label_preserve_the_best_image">Guardar as fotos mais nítidas</string>
   <string name="last_check_canceled">A verificação anterior foi cancelada</string>
   <string name="load_only_under_wlan">Carregar notícias quando ligado ao Wi-Fi</string>
@@ -236,7 +236,7 @@
   <string name="mainbtn_text_quick_cleanup_default">Limpar</string>
   <string name="memeory_check_content">%1$d aplicações, memória %2$s</string>
   <string name="month_day_format">MMM dd</string>
-  <string name="msg_cleanup_db_update_checking">A verificar por actualizações…</string>
+  <string name="msg_cleanup_db_update_checking">A verificar actualizações…</string>
   <string name="msg_cleanup_db_update_time_unknown">Última actualização desconhecida</string>
   <string name="msg_update_error_code_already_running">A actualizar…</string>
   <string name="msg_update_error_code_network_error">Não é possível ligar à rede</string>
@@ -338,7 +338,7 @@
   <string name="tips_of_auto_launch_manage">Prevenir aplicações raramente utilizadas de iniciar automaticamente</string>
   <string name="tips_of_cloud_service">Inicie sessão na sua Conta Mi para utilizar mais serviços Mi</string>
   <string name="tips_of_connect">Ligar à Internet para utilizar um conjunto completo de funcionalidades de segurança</string>
-  <string name="tips_of_garbage_cloud_scan">Encontrar lixo oculto com a verificação da Nuvem</string>
+  <string name="tips_of_garbage_cloud_scan">Encontrar lixo oculto com a verificação da Nuvem Mi</string>
   <string name="tips_of_garbage_data_set">Actualizar base de dados da Limpeza para encontrar mais lixo no seu dispositivo</string>
   <string name="tips_of_network_speed_set">Ver a velocidade da rede na barra de estado</string>
   <string name="tips_of_operators_set">Ajustar estatísticas de utilização de dados automaticamente</string>
@@ -353,9 +353,9 @@
   <string name="title_delete_large_file">Eliminar ficheiros grandes</string>
   <string name="title_of_app_manage">Aplicações</string>
   <string name="title_of_auto_launch_manage">Iniciar automaticamente</string>
-  <string name="title_of_cloud_service">Serviços de Nuvem</string>
-  <string name="title_of_garbage_cloud_scan">Verificação de nuvem</string>
-  <string name="title_of_garbage_data_set">Actualizações de base de dados de Limpeza</string>
+  <string name="title_of_cloud_service">Serviços da Nuvem Mi</string>
+  <string name="title_of_garbage_cloud_scan">Verificação da Nuvem Mi</string>
+  <string name="title_of_garbage_data_set">Actualizações da base de dados de Limpeza</string>
   <string name="title_of_network_speed_set">Mostrar a velocidade de rede na barra de estado</string>
   <string name="title_of_operators_set">Definições de operadora</string>
   <string name="title_of_package_set">Definições de plano de dados</string>
@@ -383,7 +383,7 @@
   <string name="toast_uninstall_success">Desinstalação concluída</string>
   <string name="total_clean">Total limpo: %s</string>
   <string name="total_clean_text">Limpar</string>
-  <string name="traffic_top">TOP 5 aplicações a consumir dados </string>
+  <string name="traffic_top">TOP 5 aplicações a consumir dados</string>
   <string name="unlike">Não obrigado</string>
   <string name="virus_scan">Verificar vírus</string>
   <string name="white_list_ad_header">Ficheiros de anúncios: %d</string>
