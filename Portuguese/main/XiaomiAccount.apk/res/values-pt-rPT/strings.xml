@@ -12,7 +12,7 @@
   <string name="account_bind_settings">Contas</string>
   <string name="account_binded_phone">Telefone %d</string>
   <string name="account_crop_user_avatar">Cortar foto</string>
-  <string name="account_empty_user_name">Introduzir o seu utilizador da Conta Mi</string>
+  <string name="account_empty_user_name">Introduzir o nome de utilizador da Conta Mi</string>
   <string name="account_error_all_space_user_name">O nome não pode conter apenas espaços</string>
   <string name="account_error_longer_user_name">O nome não pode exceder 20 caracteres</string>
   <string name="account_error_shorter_user_name">O nome tem de ter no mínimo 2 caracteres</string>
@@ -91,7 +91,7 @@
   <string name="data_keep_in_device">Manter neste dispositivo</string>
   <string name="data_wipe_from_device">Eliminar a partir deste dispositivo</string>
   <string name="delete_action">Eliminar</string>
-  <string name="delete_bank_card_failed">小米闪付删除银行卡失败，请重新再试</string>
+  <string name="delete_bank_card_failed">Erro ao remover pagamento da Carteira Mi. Por favor, tente novamente</string>
   <string name="delete_device_btn">Remover</string>
   <string name="delete_device_failed">Não foi possível remover dispositivo</string>
   <string name="delete_device_notice">Depois do dispositivo ser removido a sua sessão da Conta Mi vai ser terminada automaticamente. Não será possível utilizar este dispositivo para aceder a fotos, mensagens ou outros conteúdos armazenados na sua conta</string>
@@ -147,7 +147,7 @@
   <string name="my_device_title">Dispositivo actual</string>
   <string name="no_network_btn">Actualizar</string>
   <string name="no_network_title">Não é possível ligar à rede</string>
-  <string name="no_response_retry">Sem resposta por favor repita</string>
+  <string name="no_response_retry">Sem resposta. Por favor, repita</string>
   <string name="no_sim_card">Sem cartão SIM</string>
   <string name="nobind">Não associado</string>
   <string name="other_devices">Outros dispositivos</string>
@@ -163,7 +163,7 @@
   <string name="passport_area_code_title">Código do país</string>
   <string name="passport_auto_generate_pwd">Gerar palavra-passe segura</string>
   <string name="passport_back">Voltar</string>
-  <string name="passport_bad_authentication">Utilizador ou palavra-passe inválido</string>
+  <string name="passport_bad_authentication">Utilizador ou palavra-passe inválida</string>
   <string name="passport_btn_return">Voltar</string>
   <string name="passport_button_cancel">Cancelar</string>
   <string name="passport_change_account"><u>Alterar conta</u></string>
@@ -174,7 +174,7 @@
   <string name="passport_click_email_to_valid">"
 
 Para activar a sua conta siga o 
- link que enviámos para o seu email."</string>
+ link que enviámos para o seu email"</string>
   <string name="passport_completed">Terminar</string>
   <string name="passport_confirm">OK</string>
   <string name="passport_confirm_recycle_account">Sim</string>
@@ -182,7 +182,7 @@ Para activar a sua conta siga o
   <string name="passport_downlink_reg">Criar conta utilizando um número de telefone</string>
   <string name="passport_email">Endereço de email</string>
   <string name="passport_email_or_id_hint_text">Endereço de email ou ID da Conta Mi</string>
-  <string name="passport_email_reg_success_summary">%1$s foi adicionada à sua conta. Pode utilizá-la para iniciar sessão ou para repor a sua palavra-passe</string>
+  <string name="passport_email_reg_success_summary">%1$s foi adicionado à sua conta. Pode utilizá-lo para iniciar sessão ou para redefinir a sua palavra-passe</string>
   <string name="passport_error_device_id">Não foi possível obter o ID do dispositivo</string>
   <string name="passport_error_dup_email">O email introduzido já está associado a outra conta</string>
   <string name="passport_error_dup_phone">Este número de telefone já está associado a outra conta</string>
@@ -217,7 +217,7 @@ Para activar a sua conta siga o
   <string name="passport_getting_verify_code">A obter</string>
   <string name="passport_i_know">Eu sei</string>
   <string name="passport_identitfication_expired">Código de verificação expirado</string>
-  <string name="passport_imei_permission_denied_message">Estamos a pedir permissão para obter o IMEI do seu dispositivo. A Conta Mi utiliza o IMEI para identificar o dispositivo onde iniciou a sessão para ajudá-lo a manter a sua Conta Mi segura</string>
+  <string name="passport_imei_permission_denied_message">Estamos a pedir permissão para obter o IMEI do seu dispositivo. A Conta Mi utiliza o IMEI para identificar o dispositivo e onde este iniciou a sessão para ajudá-lo a manter a sua Conta Mi segura</string>
   <string name="passport_imei_permission_denied_title">Pedido de permissão de IMEI</string>
   <string name="passport_input_captcha_hint">Introduzir código</string>
   <string name="passport_input_password_for_login">Este número está associado a uma conta existente. Introduza a sua palavra-passe</string>
@@ -238,7 +238,7 @@ Para activar a sua conta siga o
   <string name="passport_login_title">Inicie sessão na sua Conta Mi</string>
   <string name="passport_login_using_other_ways"><u>Outros métodos de iniciar sessão</u></string>
   <string name="passport_login_with_email_or_id"><u>Iniciar sessão com endereço de email ou ID de Conta Mi</u></string>
-  <string name="passport_miui_provision_find_status_text">"Este telefone foi associado com a Conta Mi (%1$s). É necessário introduzir a palavra-passe para verificar o dispositivo.
+  <string name="passport_miui_provision_find_status_text">"Este telefone foi associado à Conta Mi (%1$s). É necessário introduzir a palavra-passe para verificar o dispositivo.
 (ID de desbloqueio:%2$s)"</string>
   <string name="passport_next">Seguinte</string>
   <string name="passport_notification_title">Erro ao iniciar sessão em %1$s</string>
@@ -261,7 +261,7 @@ Para activar a sua conta siga o
   <string name="passport_reg_prompt">Não tem uma Conta Mi? Crie uma gratuitamente</string>
   <string name="passport_reg_sms_send_prompt">Enviar código de verificação para %s</string>
   <string name="passport_reg_success">Conta criada</string>
-  <string name="passport_reg_success_summary">%1$s foi adicionada à sua conta. Pode utilizá-la para iniciar sessão ou para redefinir a sua palavra-passe</string>
+  <string name="passport_reg_success_summary">%1$s foi adicionado à sua conta. Pode utilizá-lo para iniciar sessão ou para redefinir a sua palavra-passe</string>
   <string name="passport_reg_type_email">Utilizar endereço de email</string>
   <string name="passport_reg_type_other_ways"><u>Utilizar o seu endereço de email ou um número alternativo</u></string>
   <string name="passport_reg_type_other_ways_title">Criar uma Conta Mi</string>
@@ -297,7 +297,7 @@ Para activar a sua conta siga o
   <string name="passport_sim_index_info">Cartão SIM %1$d - %2$s</string>
   <string name="passport_skip_login">Ignorar</string>
   <string name="passport_skip_register">Ignorar registo</string>
-  <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde em Definições</string>
+  <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde nas Definições</string>
   <string name="passport_skip_setup_account_title">Ignorar configuração</string>
   <string name="passport_title_reg">Criar uma conta</string>
   <string name="passport_trust_device">Confiar neste dispositivo</string>
@@ -327,7 +327,7 @@ Para activar a sua conta siga o
   <string name="photoPickerNotFoundText">Sem fotos disponíveis</string>
   <string name="qq">QQ</string>
   <string name="remove_account_notice">O que gostaria de fazer com as mensagens, contactos e outros dados que foram sincronizados a partir da sua Conta Mi?</string>
-  <string name="remove_device_success_notice">Se remover este dispositivo dos seus dispositivos confiáveis, será novamente necessário iniciar o processo de verificação quando iniciar sessão​</string>
+  <string name="remove_device_success_notice">Se remover este dispositivo dos seus dispositivos confiáveis, será novamente necessário iniciar o processo de verificação quando iniciar sessão</string>
   <string name="remove_trust_btn">Remover de dispositivos confiáveis</string>
   <string name="remove_trust_notice">Remover de dispositivos confiáveis e terminar sessão</string>
   <string name="removing_account">A terminar sessão…</string>
@@ -348,7 +348,7 @@ Para activar a sua conta siga o
   <string name="security_question_notice_message">Adicionar o seu telefone antes de definir as perguntas de segurança para poder repor as perguntas em caso de esquecimento</string>
   <string name="security_question_notice_title">Adicionar telefone</string>
   <string name="security_question_prompt">"Perguntas de segurança podem ser utilizados quando alterar ou repuser a sua palavra-passe.
-Certifique-se que memoriza as respostas a estas perguntas."</string>
+Certifique-se que memoriza as respostas a estas perguntas"</string>
   <string name="select_location_title">Seleccionar a sua localização</string>
   <string name="send_email_activate_message">Email de verificação enviado</string>
   <string name="service_error">Erro de serviço</string>
