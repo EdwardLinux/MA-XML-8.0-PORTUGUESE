@@ -43,9 +43,9 @@
   <string name="alert_reminder_expired">Expirado</string>
   <string name="alert_title">Notificações do calendário</string>
   <string name="anniversary_metric"/>
-  <string name="anniversary_term">aniversário</string>
+  <string name="anniversary_term">Aniversário</string>
   <string name="app_label">Calendário</string>
-  <string name="birthday_calendar_display_name">Lembretes de aniversário</string>
+  <string name="birthday_calendar_display_name">Aniversários</string>
   <string name="birthday_event_description">Hoje é o %4$s de %1$s!</string>
   <string name="birthday_event_description_a_week_ago">Uma semana atrás</string>
   <string name="birthday_event_description_a_week_later">Uma semana até</string>
@@ -56,7 +56,7 @@
   <string name="birthday_event_description_default">%4$s de %2$s %3$s de %1$s</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
-  <string name="birthday_event_description_special">%1$s é o %5$s de %2$s</string>
+  <string name="birthday_event_description_special">%1$s %5$s de %2$s</string>
   <string name="birthday_event_description_today">Hoje é</string>
   <string name="birthday_event_description_tomorrow">Amanhã é</string>
   <string name="birthday_event_description_yesterday">Ontem foi</string>
