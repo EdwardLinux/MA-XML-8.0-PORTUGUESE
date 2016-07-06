@@ -12,12 +12,12 @@
   <string name="activity_title_confirm_add_detail">Adicionar ao contacto</string>
   <string name="activity_title_contacts_filter">Contactos a mostrar</string>
   <string name="activity_title_settings">Definições</string>
-  <string name="addPeopleToGroup">Para adicionar alguns, edite o grupo</string>
+  <string name="addPeopleToGroup">Edite o grupo para adicionar pessoas</string>
   <string name="add_2sec_pause">Adicionar pausa de 2 segundos</string>
   <string name="add_account">Adicionar conta</string>
   <string name="add_blacklist">Bloquear</string>
   <string name="add_blacklist_dialog_message">Bloquear chamadas e mensagens deste número?</string>
-  <string name="add_blacklist_dialog_title">Bloquear este número de telefone?</string>
+  <string name="add_blacklist_dialog_title">Bloquear este número de telefone</string>
   <string name="add_connection_button">Adicionar ligação</string>
   <string name="add_contact_dlg_message_fmt">Adicionar \"%s\" a contactos?</string>
   <string name="add_display_photo_entry">Adicionar foto de perfil</string>
@@ -26,7 +26,7 @@
   <string name="add_new_account">Adicionar nova conta</string>
   <string name="add_new_entry_for_section">Adicionar novo</string>
   <string name="add_organization">Adicionar organização</string>
-  <string name="add_to_my_contacts">Adicionar aos Meus Contactos</string>
+  <string name="add_to_my_contacts">Adicionar aos meus contactos</string>
   <string name="add_wait">Adicionar em espera</string>
   <string name="add_xiaomi_account_dialog_btn">Utilizar Conta Mi</string>
   <string name="add_xiaomi_account_dialog_msg">Faça cópia dos seus contactos para a sua Conta Mi para aceder aos mesmos em qualquer lugar!</string>
@@ -35,7 +35,7 @@
   <string name="aggregation_suggestion_edit_dialog_title">Mesmo nome</string>
   <string name="aggregation_suggestion_join_dialog_message">Juntar o contacto actual ao contacto seleccionado?</string>
   <string name="all_list_empty">Sem contactos</string>
-  <string name="antispam_mark_my_contribution">A partilhar informações do marcardor</string>
+  <string name="antispam_mark_my_contribution">A partilhar informações do marcador</string>
   <string name="antispam_provider_format">Identificado por %s</string>
   <string name="attach_photo_dialog_title">Foto do contacto</string>
   <string name="audio_chat">Conversa de voz</string>
@@ -273,7 +273,7 @@
   <string name="default_ringtone">Toque predefinido</string>
   <string name="deleteConfirmation">Este contacto será eliminado</string>
   <string name="deleteConfirmationDetail">Eliminar \"%s\"?</string>
-  <string name="deleteConfirmation_title">Eliminar este contacto?</string>
+  <string name="deleteConfirmation_title">Eliminar contacto</string>
   <string name="delete_call_log_message">Limpar registo(s) de chamada(s)?</string>
   <string name="delete_call_log_selected_title">Limpar registos de chamadas seleccionados?</string>
   <string name="delete_call_log_title">Registos de chamadas</string>
@@ -577,7 +577,7 @@ Motivo: \"%s\""</string>
   <string name="lunar_calendar">Ano Novo lunar</string>
   <string name="lunar_leap">Intercalado</string>
   <string name="lunar_yue">Mês</string>
-  <string name="make_primary">Memorizar esta escolha?</string>
+  <string name="make_primary">Memorizar preferência</string>
   <string name="map_custom">Ver %s endereço</string>
   <string name="map_home">Ver endereço de casa</string>
   <string name="map_other">Ver endereço</string>
@@ -603,7 +603,7 @@ Motivo: \"%s\""</string>
   <string name="menu_clear_frequents">Limpar frequentes</string>
   <string name="menu_contacts_filter">Contactos para mostrar</string>
   <string name="menu_copy">Copiar</string>
-  <string name="menu_copyContact">Copiar para Meus Contactos</string>
+  <string name="menu_copyContact">Copiar para os meus contactos</string>
   <string name="menu_create_contact_shortcut">Colocar no ecrã inicial</string>
   <string name="menu_deleteContact">Eliminar contacto</string>
   <string name="menu_deleteGroup">Eliminar</string>
@@ -798,8 +798,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="noRecentContacts">Sem contactos recentes</string>
   <string name="no_account_prompt">"As pessoas trabalham melhor com uma conta Google.
 
-• Aceder a partir de qualquer navegador da Web.
-• Cópia dos contactos com segurança."</string>
+• Aceder a partir de qualquer navegador da web
+• Cópia dos contactos com segurança"</string>
   <string name="no_contact_details">Sem informações adicionais para este contacto</string>
   <string name="no_contact_in_other_phone">Não foram encontrados contactos</string>
   <string name="no_contacts_dialog_message">Podem estar contactos armazenados no seu cartão SIM. Tente importá-los do seu cartão SIM para o armazenamento interno do telefone e depois tente novamente</string>
@@ -929,7 +929,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="preference_phone">Telefone</string>
   <string name="preference_phone_more_title">Definições das chamadas</string>
   <string name="preference_remove_duplicate">Unir contactos duplicados</string>
-  <string name="preference_simple_mode_description">Mostrar fotos e outras informações de contacto em vista de lista</string>
+  <string name="preference_simple_mode_description">Mostrar fotos e outras informações na lista de contactos</string>
   <string name="preference_simple_mode_title">Mostrar fotos e informações</string>
   <string name="preference_smart_group_company_summary">Agrupar por empresa</string>
   <string name="preference_smart_group_company_title">Empresas</string>
@@ -1005,7 +1005,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="remove_blacklist_dialog_title">Desbloquear este número de telefone?</string>
   <string name="remove_duplicate">"A MIUI vai ajudá-lo a encontrar e a unir contactos duplicados.
 
- Para começar, toque no ícone Juntar na parte inferior do seu ecrã."</string>
+ Para começar, toque no ícone Juntar na parte inferior do seu ecrã"</string>
   <string name="restore_nickname">Restaurar</string>
   <string name="ret_sign">"
 "</string>
@@ -1183,7 +1183,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="unknown">Número privado</string>
   <string name="unknown_contact_name">Contacto desconhecido</string>
   <string name="upgrade_in_progress">A lista de contactos está a ser actualizada</string>
-  <string name="upgrade_out_of_memory">"Os contactos estão num processo de actualização.
+  <string name="upgrade_out_of_memory">"Os contactos estão em processo de actualização.
 
 O processo de actualização requer aproximadamente %s MB de armazenamento interno.
 
