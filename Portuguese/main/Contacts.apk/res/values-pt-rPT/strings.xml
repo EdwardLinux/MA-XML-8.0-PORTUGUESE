@@ -253,6 +253,7 @@
   <string name="contacts_unavailable_create_contact">Criar novo contacto</string>
   <string name="contacts_unavailable_import_contacts">Importar contactos de um ficheiro</string>
   <string name="convenient_service">Serviços</string>
+  <string name="copy_number">Copiar</string>
   <string name="copy_text">Copiar para área de transferência</string>
   <string name="createContactShortcutSuccessful">Widget do contacto adicionado ao ecrã principal</string>
   <string name="create_group_dialog_title">Criar novo grupo</string>
@@ -1149,8 +1150,10 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="strequentList">Favoritos</string>
   <string name="success_message_import_from_account">Contacto importado</string>
   <string name="summary_kind_title">Resumo</string>
-  <string name="t9_search_guide_pinyin">Introduzir números para pesquisar contactos</string>
-  <string name="t9_search_guide_zhuyin">Introduzir números para pesquisar contactos</string>
+  <string name="t9_search_guide_pinyin_title1">Pesquisa rápida de contactos</string>
+  <string name="t9_search_guide_pinyin_title2">Introduzir 2 e 7 para pesquisar por "<font fgcolor="">C</font>ristiano<font fgcolor="#ff28a763">R</font>onaldo</string>
+  <string name="t9_search_guide_zhuyin_title1">Pesquisa rápida de contactos</string>
+  <string name="t9_search_guide_zhuyin_title2">Introduzir 2 e 7 para pesquisar por "<font fgcolor="">A</font>mália<font fgcolor="">R</font>odrigues</string>
   <string name="take_new_photo">Tirar nova foto</string>
   <string name="take_photo">Tirar foto</string>
   <string name="titleJoinContactDataWith">Associar contactos</string>

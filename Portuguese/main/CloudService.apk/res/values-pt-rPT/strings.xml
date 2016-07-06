@@ -201,10 +201,14 @@ na sua Conta Mi para reactivar a Nuvem Mi."</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Ligação expirou. Tente novamente mais tarde</string>
   <string name="micloud_find_device_guide_micloud">Ligar sincronização com a Nuvem Mi</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Sincronizar contactos, fotos, notas, e mais com a Nuvem Mi</string>
-  <string name="micloud_find_device_guide_noti_content">Ligar</string>
-  <string name="micloud_find_device_guide_noti_title">Ligar Localizar Dispositivo para proteger os seus dados mesmo quando o seu dispositivo for perdido</string>
-  <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Ligar Localizar Dispositivo para proteger os seus dados WeChat</string>
-  <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Ligar Localizar Dispositivo para proteger os seus dados AliPay</string>
+  <string name="micloud_find_device_guide_noti_content">Protejer os seus dados quando o seu dispositivo estiver perdido</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Os seus dados QQ vão estar seguros mesmo se perder o seu dispositivo</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Os seus dados WeChat vão estar seguros mesmo se perder o seu dispositivo</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Os seus dados Alipay vão estar seguros mesmo se perder o seu dispositivo</string>
+  <string name="micloud_find_device_guide_noti_title">Ligar Localizar Dispositivo</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_qq">QQ recomenda que ligue Localizar Dispositivo</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat recomenda que ligue Localizar Dispositivo</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay recomenda que ligue Localizar Dispositivo</string>
   <string name="micloud_find_device_guide_progress">A ligar Localizar Dispositivo…</string>
   <string name="micloud_find_device_guide_title">"Iniciar sessão %s para localizar, bloquear
 ou formatar o seu dispositivo"</string>
