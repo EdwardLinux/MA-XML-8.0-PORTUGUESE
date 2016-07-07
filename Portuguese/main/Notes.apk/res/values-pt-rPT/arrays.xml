@@ -30,21 +30,6 @@
      <string-array name="welcome_notes_content">
         <item>"Bem-vindo às Notas
 "</item>
-        <item>"Toque para criar uma nota
-"</item>
-        <item>"Escolher templates
-"</item>
-        <item>"Criar pastas
-"</item>
-        <item>"Ocultar notas
-"</item>
-        <item>"E mais e melhores funcionalidades!
-  - Sincronizar com a Nuvem Mi
-  - Definir lembretes"</item>
-     </string-array>
-     <string-array name="welcome_notes_content">
-        <item>"Bem-vindo às Notas
-"</item>
         <item>"Criar uma nota
 Toque no + para criar uma nota."</item>
         <item>"Escolher templates
