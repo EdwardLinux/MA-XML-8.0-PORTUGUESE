@@ -45,7 +45,7 @@
  Tente novamente dentro de %d segundos."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que serão repostas as respectivas definições de fábrica</string>
   <string name="lockscreen_glogin_checking_password">A verificar…</string>
-  <string name="lockscreen_glogin_invalid_input">Utilizador ou palavra-passe inválidos</string>
+  <string name="lockscreen_glogin_invalid_input">Utilizador ou palavra-passe inválido</string>
   <string name="lockscreen_glogin_password_hint">Palavra-passe</string>
   <string name="lockscreen_glogin_submit_button">Iniciar sessão em</string>
   <string name="login_website_in_case_forget_password">Para repor a palavra-passe vá a www.mi.com/micloud</string>

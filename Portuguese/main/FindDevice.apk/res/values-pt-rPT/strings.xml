@@ -49,7 +49,7 @@ Se trocar de cartões SIM, outra SMS vai ser enviada automaticamente para reacti
   <string name="time_correction_success">Hora corrigida</string>
   <string name="unlock">Activar</string>
   <string name="unlock_access_denied">Acesso negado</string>
-  <string name="unlock_bad_authentication">Utilizador ou palavra-passe inválida</string>
+  <string name="unlock_bad_authentication">Utilizador ou palavra-passe inválido</string>
   <string name="unlock_error_abort">Cancelado pelo utilizador</string>
   <string name="unlock_error_device_id">Não é possível obter o ID do dispositivo</string>
   <string name="unlock_error_interrupted">Interrompido</string>
