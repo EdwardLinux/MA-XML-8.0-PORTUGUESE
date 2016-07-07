@@ -1472,7 +1472,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="manage_space_text">Gerir espaço</string>
   <string name="manage_trust_agents">Agentes fidedignos</string>
   <string name="manage_trust_agents_summary">Ver ou desaticvar agentes fidedignos</string>
-  <string name="manage_xiaomi_router">Definições do Router MI</string>
+  <string name="manage_xiaomi_router">Definições do Router Mi</string>
   <string name="manageapplications_settings_summary">Gerir e remover aplicações instaladas</string>
   <string name="manageapplications_settings_title">Gerir aplicações</string>
   <string name="manually_add_network">Adicionar rede</string>
@@ -3472,7 +3472,7 @@ Toque em "<b>Voltar</b> para ligar a uma rede Wi-Fi diferente</string>
   <string name="wifi_share">Partilhar Wi-Fi</string>
   <string name="wifi_share_action_turn_off">Parar a partilha de redes</string>
   <string name="wifi_share_action_turn_on">Partilhar Wi-Fi</string>
-  <string name="wifi_share_action_turn_on_summary">Inicie a sessão na sua conta MI para partilhar</string>
+  <string name="wifi_share_action_turn_on_summary">Inicie a sessão na sua Conta Mi para partilhar</string>
   <string name="wifi_share_add">Partilhar as minhas redes públicas</string>
   <string name="wifi_share_add_summary">"Quando partilha as suas redes públicas,
 pode utilizar também as redes de outros utilizadores"</string>
@@ -3528,8 +3528,9 @@ A configuração do telefone pode exigir a actividade de rede significativa"</st
   <string name="wifi_tether_configure_ssid_default">Ponto de Acesso Android</string>
   <string name="wifi_tether_configure_subtext">Ponto de Acesso Móvel: SSID %1$s</string>
   <string name="wifi_tether_enabled_subtext">Ponto de Acesso Móvel %1$s activo</string>
-  <string name="wifi_tether_failed_subtext">Erro de Ponto de Acesso Móvel</string>
+  <string name="wifi_tether_failed_subtext">Erro no Ponto de Acesso Móvel</string>
   <string name="wifi_tether_setting_title">Definições</string>
+  <string name="wifi_tether_settings_title">Ponto de Acesso Móvel</string>
   <string name="wifi_tether_starting">A ligar PA Móvel…</string>
   <string name="wifi_tether_stopping">A desligar PA Móvel…</string>
   <string name="wifi_type_approval"/>
