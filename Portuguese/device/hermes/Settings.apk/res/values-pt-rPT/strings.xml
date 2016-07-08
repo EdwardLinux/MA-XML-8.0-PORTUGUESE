@@ -2736,7 +2736,8 @@ Para mais informações contacte o seu administrador"</string>
   <string name="status_bar_settings_notification_led">LED de notificações</string>
   <string name="status_bar_settings_notification_priority">Prioridades</string>
   <string name="status_bar_settings_notification_priority_summary">Mostrar notificações no topo da lista</string>
-  <string name="status_bar_settings_notification_sound_vibrate">Som e vibração</string>
+  <string name="status_bar_settings_notification_sound">Som</string>
+  <string name="status_bar_settings_notification_vibrate">Vibração</string>
   <string name="status_bar_settings_show_carrier">Mostrar nome da operadora</string>
   <string name="status_bar_settings_show_carrier_summary">Nome da operadora vai continuar a ser mostrado no ecrã de bloqueio e nas notificações mesmo com esta função desligada</string>
   <string name="status_bar_settings_show_floating_notification">Notificações flutuantes</string>
