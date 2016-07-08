@@ -87,9 +87,9 @@
   <string name="power_config_cpu_mode_title">Modo da CPU</string>
   <string name="power_config_data_connect_summary">Permitir que as aplicações liguem à rede em segundo plano</string>
   <string name="power_config_data_connect_title">Ligação de dados</string>
-  <string name="power_config_disable_description">MIUI não vai restringir actividades em segundo plano</string>
+  <string name="power_config_disable_description">As actividades em segundo plano não vão ser restringidas</string>
   <string name="power_config_disable_title">Desligado</string>
-  <string name="power_config_enhance_description">MIUI vai restringir, quando possível, toda a actividade em segundo plano</string>
+  <string name="power_config_enhance_description">Todas as actividades em segundo plano vão ser restringidas</string>
   <string name="power_config_enhance_title">Ligado</string>
   <string name="power_config_event_delete">Eliminar</string>
   <string name="power_config_idle_notification_summary">Apenas mostrar a primeira notificação da aplicação</string>

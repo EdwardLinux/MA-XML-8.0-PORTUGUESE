@@ -675,7 +675,7 @@ Para activar a sua conta, siga o
   <string name="please_select_tv">Seleccionar TV</string>
   <string name="popup_installed_app_no_app">A obter aplicações da TV. Tente novamente mais tarde</string>
   <string name="popup_installed_app_title">Seleccionar a TV para abrir aplicações</string>
-  <string name="popup_select_device">Seleccionar controlo remoto para abrir o Wi-Fi</string>
+  <string name="popup_select_device">Seleccionar o controlo remoto para abrir o Wi-Fi</string>
   <string name="power">Ligar/Desligar</string>
   <string name="power_off">Desligado</string>
   <string name="power_on">Ligado</string>
