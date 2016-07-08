@@ -633,7 +633,7 @@ Aceda <b>google.com/accounts/recovery</b>"</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">"O cartão SIM foi desactivado permanentemente. 
  Contacte o seu fornecedor de serviços de rede Wi-Fi para obter outro cartão SIM"</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Cartão SIM inutilizável</string>
-  <string name="lockscreen_plugged_in">A carregar, %d%%</string>
+  <string name="lockscreen_plugged_in">A carregar %d%%</string>
   <string name="lockscreen_return_to_call">Voltar à chamada</string>
   <string name="lockscreen_screen_locked">Ecrã bloqueado</string>
   <string name="lockscreen_sim_error_message_short">Cartão inválido</string>

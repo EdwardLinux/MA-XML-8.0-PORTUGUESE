@@ -218,6 +218,6 @@ toque-a com a parte de trás do seu dispositivo."</string>
   <string name="xiaomi_update_dialog_message">"A introduzir versão %1$s
 Tamanho: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"A introduzir versão %1$s
-Tamanho atualização delta: %2$s"</string>
+Tamanho da actualização delta: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Actualização %1$s!</string>
 </resources>

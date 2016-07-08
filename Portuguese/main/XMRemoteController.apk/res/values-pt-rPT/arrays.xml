@@ -30,19 +30,19 @@
         <item>Aplicações</item>
     </string-array>
     <string-array name="epg_channel_tab">
-        <item>全部</item>
-        <item>收藏</item>
-        <item>央视</item>
-        <item>卫视</item>
-        <item>高清</item>
-        <item>最近</item>
+        <item>Todos</item>
+        <item>Favoritos</item>
+        <item>CCTV</item>
+        <item>TV</item>
+        <item>HD</item>
+        <item>Recentes</item>
     </string-array>
     <string-array name="epg_channel_tab_actionbar">
-        <item>全部频道</item>
-        <item>收藏频道</item>
-        <item>央视频道</item>
-        <item>卫视频道</item>
-        <item>高清频道</item>
-        <item>最近观看</item>
+        <item>Todos os canais</item>
+        <item>Canais favoritos</item>
+        <item>Canais CCTV</item>
+        <item>Canais por satélite</item>
+        <item>Canais HD</item>
+        <item>Visualizações recentementes</item>
     </string-array>
 </resources>

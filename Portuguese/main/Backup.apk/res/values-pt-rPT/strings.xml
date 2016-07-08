@@ -340,9 +340,9 @@ e que o Mi Mover está activo"</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
-  <string name="xiaomi_update_dialog_message">"A introduzir a versão %1$s
+  <string name="xiaomi_update_dialog_message">"A introduzir versão %1$s
 Tamanho: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"A introduzir a versão %1$s
-Tamanho da actualização Delta: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"A introduzir versão %1$s
+Tamanho da actualização delta: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Actualização disponível</string>
 </resources>
