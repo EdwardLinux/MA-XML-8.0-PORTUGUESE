@@ -456,7 +456,7 @@ aguarde um momento depois da acção"</string>
   <string name="milink_device_offline">Desligados</string>
   <string name="milink_device_online">Ligados</string>
   <string name="milink_device_rc_saved">O controlo remoto foi guardado</string>
-  <string name="milink_nowifi">Não ligado ao Wi-Fi</string>
+  <string name="milink_nowifi">Não está ligado ao Wi-Fi</string>
   <string name="milink_screenshot_done">Captura de ecrã efectuada com sucesso</string>
   <string name="milink_screenshot_pic">Capturas de ecrã</string>
   <string name="milink_view_screenshot">Guardado para o álbum do telefone</string>
@@ -675,7 +675,7 @@ Para activar a sua conta, siga o
   <string name="please_select_tv">Seleccionar TV</string>
   <string name="popup_installed_app_no_app">A obter aplicações da TV. Tente novamente mais tarde</string>
   <string name="popup_installed_app_title">Seleccionar a TV para abrir aplicações</string>
-  <string name="popup_select_device">Seleccionar o controlo remoto para abrir o Wi-Fi</string>
+  <string name="popup_select_device">Seleccionar controlo remoto para abrir o Wi-Fi</string>
   <string name="power">Ligar/Desligar</string>
   <string name="power_off">Desligado</string>
   <string name="power_on">Ligado</string>
@@ -691,7 +691,7 @@ Para activar a sua conta, siga o
   <string name="program_booking_date_filter_day_1">Amanhã</string>
   <string name="program_booking_date_filter_day_2">Adquirido</string>
   <string name="program_booking_date_filter_friday">Seg. a Sex</string>
-  <string name="program_booking_date_filter_monday">2º feira</string>
+  <string name="program_booking_date_filter_monday">Segunda-feira</string>
   <string name="program_booking_date_filter_next">A</string>
   <string name="program_booking_date_filter_saturday">Sexta semana</string>
   <string name="program_booking_date_filter_sunday">Domingo</string>
