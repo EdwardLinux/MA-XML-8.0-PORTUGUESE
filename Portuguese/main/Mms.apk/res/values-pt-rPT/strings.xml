@@ -7,7 +7,7 @@
   <string name="add_attachment">Adicionar anexos</string>
   <string name="add_contact">Contacto</string>
   <string name="add_festival">Respostas rápidas</string>
-  <string name="add_music">Adicionar música</string>
+  <string name="add_music">Adicionar músicas</string>
   <string name="add_nickname">Alcunha</string>
   <string name="add_nickname_title">Editar alcunha</string>
   <string name="add_number_to_sender">Adicionar número a %s</string>
@@ -80,7 +80,7 @@
   <string name="confirm_delete_locked_message">Eliminar esta mensagem bloqueada?</string>
   <string name="confirm_delete_message">Eliminar esta mensagem?</string>
   <string name="confirm_dialog_locked_title">Eliminar mensagem bloqueada?</string>
-  <string name="confirm_dialog_title">Eliminar?</string>
+  <string name="confirm_dialog_title">Eliminar conversas</string>
   <string name="confirm_dlg__msg">Aviso CMCC: CMCC pós-serviço gratuito não serão fornecidas, se cancelar o serviço. Tem certeza que deseja cancelar</string>
   <string name="confirm_dlg_title">Gestão de dispositivos</string>
   <string name="confirm_export_dialog_description">As conversas anteriores com este contacto não serão mais ocultadas</string>
@@ -96,7 +96,7 @@
   <string name="confirm_send_mms">Um dos seus destinatários inclui um endereço de email. Esta mensagem será enviada como uma mensagem MMS, o que pode resultar em custos adicionais na sua operadora</string>
   <string name="context_menu_add_calendar">Adicionar ao calendário</string>
   <string name="context_menu_add_contact">Adicionar a contactos</string>
-  <string name="context_menu_add_to_browser_favorite">Adicionar aos marcardos do Navegador</string>
+  <string name="context_menu_add_to_browser_favorite">Adicionar aos marcadores do Navegador</string>
   <string name="context_menu_browse_web">Pesquisar</string>
   <string name="context_menu_call">Ligar</string>
   <string name="context_menu_contact">Contacto:%1$s</string>
@@ -154,7 +154,7 @@
   <string name="enter_edit_mode">Editar mensagens</string>
   <string name="error_code_label">"Código de erro: "</string>
   <string name="error_state">Estado inconsistente</string>
-  <string name="error_state_text">O estado da rede e destinatários está inconsistente. Por favor envie um relatório de erros para http://go/droidanizer</string>
+  <string name="error_state_text">O estado da rede e destinatários está inconsistente. Por favor, envie um relatório de erros para http://go/droidanizer</string>
   <string name="error_timed_msg">Hora inválida</string>
   <string name="ex_type_mx">Mensagens Mi</string>
   <string name="ex_type_sms">SMS/MMS</string>
@@ -165,15 +165,15 @@
   <string name="exporting_progress_private_message">Exportar mensagens…</string>
   <string name="failed_to_add_media">Não pode adicionar %1$s à sua mensagem</string>
   <string name="failed_to_resize_image">Imagem não redimensionada</string>
-  <string name="fake_cell_alert_hint">Parece que a mensagem foi enviada de um número de telefone diferente do que está a ser mostrado. Tenha cuidado com SMS que contém pedidos financeiros</string>
-  <string name="fake_cell_checking_hint">A verificar a segurança…</string>
-  <string name="fake_cell_detection_entry">Detecção de estação base falsa</string>
+  <string name="fake_cell_alert_hint">Parece que a mensagem foi enviada de um número de telefone diferente do que está a ser mostrado. Tenha cuidado com as SMS que contêm pedidos de informações financeiras</string>
+  <string name="fake_cell_checking_hint">A verificar segurança…</string>
+  <string name="fake_cell_detection_entry">Detecção de mensagem falsa</string>
   <string name="fake_cell_safe_hint">Esta mensagem é segura</string>
   <string name="fake_cell_timeout_hint">Não foi possível verificar segurança</string>
   <string name="fdn_check_failure">Só pode enviar mensagens para os números de marcação fixa</string>
   <string name="festival">Respostas rápidas</string>
   <string name="festival_continue">Continuar</string>
-  <string name="festival_networking_desc">Esta função tem de ligar à Internet para funcionar normalmente</string>
+  <string name="festival_networking_desc">Esta função necessita de uma ligação à Internet para funcionar normalmente</string>
   <string name="festival_networking_title">Notícia</string>
   <string name="festival_never_remind">Não mostrar novamente</string>
   <string name="festival_sms_category_count_format">%s</string>
@@ -318,14 +318,14 @@
   <string name="mx_current_status">Definições</string>
   <string name="mx_dspt">Enviar mensagens para outros dispositivos MIUI gratuitamente quando ligado ao Wi-Fi</string>
   <string name="mx_dspt_listview">Enviar mensagens para outros dispositivos MIUI gratuitamente</string>
-  <string name="mx_dspt_provision">Mensagens Mi permite enviar mensagens grátis para outros utilizadores MIUI. Será cobrado um SMS de activação do serviço</string>
+  <string name="mx_dspt_provision">Mensagens Mi permitem enviar SMS gratuitas para outros utilizadores MIUI. Será cobrada uma SMS pela activação deste serviço</string>
   <string name="mx_dspt_provision_ex">Envie mensagens e faça chamadas para outros utilizadores MIUI gratuitamente. VoIP é fornecido pelo Weihui. Ver Política de Privacidade de Weihui</string>
   <string name="mx_dspt_provision_ex2">Política de Privacidade</string>
   <string name="mx_enable">Mensagens Mi</string>
   <string name="mx_enable_ex">Mensagens e Voz Mi</string>
   <string name="mx_enable_popup_msg">Mensagens Mi permite enviar mensagens grátis para outros dispositivos MIUI</string>
   <string name="mx_filter_message_from_stranger">Bloquear Mensagens Mi de números desconhecidos</string>
-  <string name="mx_filter_message_from_stranger_dialog_desc">"Ainda vai conseguir receber mensagens SMS de números desconhecidos. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Mensagens &gt; Definições."</string>
+  <string name="mx_filter_message_from_stranger_dialog_desc">Ainda vai conseguir receber SMS de números desconhecidos. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Mensagens &gt; Definições</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Bloquear Mensagens Mi de números desconhecidos</string>
   <string name="mx_filter_message_from_stranger_summary">Ainda vai conseguir receber mensagens SMS de números desconhecidos</string>
   <string name="mx_msg">Mensagens Mi</string>
@@ -336,7 +336,7 @@
   <string name="mx_online">Activado</string>
   <string name="mx_reactivate">Reactivar mensagem Mi</string>
   <string name="mx_recommend_msg">Toque para activar as Mensagens Mi</string>
-  <string name="mx_type_guide">As Mensagens Mi permitem que possa enviar mensagens para outros utilizadores MIUI gratuitamente</string>
+  <string name="mx_type_guide">Mensagens Mi permitem enviar SMS gratuitas para outros utilizadores MIUI</string>
   <string name="need_download">A sincronizar…</string>
   <string name="networking_allow_continue">OK</string>
   <string name="networking_allow_desc">Mensagens inteligentes permitem que envie mensagens de texto e voz gratuitas, reconhecer números desconhecidos, filtrar spam, etc. Ao utilizar este serviço está a concordar com %1$s e %2$s da Xiaomi. É necessário ligação às páginas amarelas e à Internet para utilizar este serviço</string>
@@ -359,7 +359,7 @@
   <string name="notification_multiple_title">Novas mensagens</string>
   <string name="number_add_hint">Inserir número de telefone</string>
   <string name="open_url_with_web">Abrir este endereço no Navegador?</string>
-  <string name="over_max_mms_size">O MMS é grande demais</string>
+  <string name="over_max_mms_size">A MMS é demasiado grande</string>
   <string name="overwrite_edited_content">O conteúdo que editou será substituído</string>
   <string name="phrase_confirm_delete_message">A resposta vai ser eliminada</string>
   <string name="phrase_empty">Não há respostas</string>
@@ -386,11 +386,11 @@
   <string name="pref_sms_theme_title">Mostrar</string>
   <string name="pref_summary_allow_si_sl_push">Permitir mensagens WAP (SI/SL)</string>
   <string name="pref_summary_delete_limit">%1$s mensagens por conversa</string>
-  <string name="pref_summary_delivery_reports">Mostrar relatório de entrega para mensagens enviadas</string>
+  <string name="pref_summary_delivery_reports">Mostrar relatório de entrega das mensagens enviadas</string>
   <string name="pref_summary_hide_festival">Ocultar língua chinesa apenas quando o sistema está definido para uma linguagem não chinesa</string>
   <string name="pref_summary_manage_sim_messages">Gerir as mensagens do cartão SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Transferir fotos e vídeos automaticamente nas mensagens</string>
-  <string name="pref_summary_mms_read_reports">Mostrar notificação na vista de conversa quando o receptor transferir o conteúdo da MMS</string>
+  <string name="pref_summary_mms_read_reports">Mostrar notificação lista de conversas quando o receptor transferir o conteúdo da MMS</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Transferir fotos e vídeos automaticamente nas mensagens quando o roaming estiver activo</string>
   <string name="pref_summary_notification_body_enabled">Mostrar mensagens no ecrã de bloqueio e área de notificações</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Não pode pré-visualizar mensagens em Modo Convidado</string>
@@ -514,7 +514,7 @@
   <string name="send_message_dlg_check_hint">Não mostrar novamente</string>
   <string name="send_message_dlg_mgs">Aviso CMCC: Tem de registar o seu dispositivo com a plataforma de gestão de dispositivos para fornecer o pós-serviço grátis (Pós-serviço é uma plataforma por CMCC que pode gerir os dispositivos e terminais. É fornecido um serviço de ajustes remotos e aplicações de actualização). Para efeitos de registo e inscrição será enviada uma mensagem gratuita sobre a informação do seu dispositivo. A mensagem será enviada apenas uma vez (não enviar de Hong Kong, Macau, Taiwan e roaming internacional). Seleccione OK para aceitar o registo e usar o serviço. Seleccione Cancelar para desistir e nenhum serviço será fornecido a partir CMCC</string>
   <string name="send_message_dlg_title">Gestão de Dispositivos</string>
-  <string name="send_message_notification_msg">Toque para ver os detalhes pedidos</string>
+  <string name="send_message_notification_msg">Toque para ver os detalhes solicitados</string>
   <string name="send_message_notification_tickerText">Pedido permissão de gestão dispositivo</string>
   <string name="send_message_notification_title">Permissão requerida</string>
   <string name="send_signature_confirm_dialog_message">Não foi encontrado nenhum corpo da mensagem. Enviar apenas a assinatura?</string>
@@ -533,7 +533,7 @@
   <string name="show_sender">Mostrar informação do remetente</string>
   <string name="sim_card1">Cartão SIM 1</string>
   <string name="sim_card2">Cartão SIM 2</string>
-  <string name="sim_card_cloud">%s (Mensagem pela Nuvem)</string>
+  <string name="sim_card_cloud">%s (Mensagem pela Nuvem Mi)</string>
   <string name="sim_copy_to_phone_memory">Copiar para a memória do telefone</string>
   <string name="sim_delete">Eliminar</string>
   <string name="sim_empty">Não tem mensagens no cartão SIM</string>
@@ -573,12 +573,12 @@
   <string name="stick">Fixar</string>
   <string name="stick_conversation">Fixar a conversa actual</string>
   <string name="sticked_conversation">Já fixou a conversa actual</string>
-  <string name="storage_dialog_attachments">Anexos Mms:</string>
+  <string name="storage_dialog_attachments">Anexos MMS:</string>
   <string name="storage_dialog_available_space">Espaço disponível:</string>
   <string name="storage_dialog_database">Base de dados:</string>
-  <string name="storage_dialog_mms">Mms: %d</string>
-  <string name="storage_dialog_mms_size">Tamanho Mms:</string>
-  <string name="storage_dialog_sms">Sms: %d</string>
+  <string name="storage_dialog_mms">MMS: %d</string>
+  <string name="storage_dialog_mms_size">Tamanho MMS:</string>
+  <string name="storage_dialog_sms">SMS: %d</string>
   <string name="storage_limits_activity">Limites de armazenamento</string>
   <string name="storage_limits_message">Limitar o número de mensagens por conversa?</string>
   <string name="storage_limits_setting">Definir limites</string>
@@ -617,14 +617,14 @@
   <string name="type_vcard">vCard</string>
   <string name="type_video">vídeo</string>
   <string name="undelivered_msg_dialog_body">"Não foi possível enviar esta mensagem.
-Tentativas efectuadas: %s."</string>
+Tentativas efectuadas: %s"</string>
   <string name="undelivered_msg_dialog_title">Mensagem não entregue</string>
   <string name="undelivered_sms_dialog_body">Não foi possível enviar esta mensagem</string>
   <string name="unknown_num">Número desconhecido</string>
   <string name="unknown_sender">Remetente desconhecido</string>
-  <string name="unstick">Desafixar</string>
-  <string name="unstick_conversation">Desafixar da conversa actual</string>
-  <string name="unsticked_conversation">Já desafixou a conversa actual</string>
+  <string name="unstick">Soltar</string>
+  <string name="unstick_conversation">Soltar da conversa actual</string>
+  <string name="unsticked_conversation">Já soltou a conversa actual</string>
   <string name="unsupported_media_format">Formato %1$s não suportado</string>
   <string name="url_fraud_dangerous_alert">"O website que está a tentar visitar pode ser perigoso. Pode danificar o seu dispositivo. Visitar na mesma? 
 %s"</string>
@@ -635,11 +635,11 @@ Tentativas efectuadas: %s."</string>
   <string name="url_fraud_visit"><u>Visitar na mesma</u></string>
   <string name="url_result_safe">Este URL é seguro</string>
   <string name="url_scanning">A verificar URL…</string>
-  <string name="user_agreement1">Leia os termos aplicáveis cuidadosamente antes de instalar software adicional ou usar este produto.</string>
+  <string name="user_agreement1">Leia os termos aplicáveis cuidadosamente antes de instalar software adicional ou usar este produto</string>
   <string name="user_agreement2">Termos do Serviço</string>
   <string name="user_agreement3">" e "</string>
   <string name="user_agreement4">Política de Privacidade</string>
-  <string name="user_agreement5">Ao tocar OK, Concorda com os termos descritos nestes documentos.</string>
+  <string name="user_agreement5">Ao tocar OK, Concorda com os termos descritos nestes documentos</string>
   <string name="view">Ver</string>
   <string name="view_bookmark">Ver mensagem original</string>
   <string name="view_hms_attachment_fail">Não é possível transferir a imagem</string>

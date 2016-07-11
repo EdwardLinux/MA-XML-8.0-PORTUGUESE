@@ -53,7 +53,7 @@
   <string name="artist_name">Artista</string>
   <string name="artist_search_title">Artista</string>
   <string name="artist_view">Artista</string>
-  <string name="atmd_music">Final</string>
+  <string name="atmd_music">Ultimate</string>
   <string name="audio_picker_title">Escolher uma música</string>
   <string name="auth_activity_title">Conta Xunlei</string>
   <string name="auto_download_in_wifi">Transferir as músicas favoritas por Wi-Fi</string>
@@ -137,8 +137,8 @@
   <string name="dialog_button_login">Iniciar e sincronizar músicas</string>
   <string name="dialog_button_scan_tracks">Pesquisar músicas neste dispositivo</string>
   <string name="dialog_cannot_resume">Transferência interrompida. Não pode ser transferida</string>
-  <string name="dialog_confirm_delete_checkbox_message">Eliminar ficheiro(s) do dispositivo</string>
-  <string name="dialog_confirm_delete_downloads_message">Eliminar %d transferências?</string>
+  <string name="dialog_confirm_delete_checkbox_message">Eliminar ficheiro(s) do dispositivo?</string>
+  <string name="dialog_confirm_delete_downloads_message">Eliminar %d transferência(s)?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Eliminar esta(s) transferência(s)?</string>
   <string name="dialog_failed_body">Quer voltar a transferir o ficheiro mais tarde ou eliminá-lo das transferências pendentes?</string>
   <string name="dialog_file_already_exists">Não é possível transferir. O ficheiro de destino já existe</string>
@@ -345,8 +345,8 @@
   <string name="latest_song">Reproduzir histórico (%d)</string>
   <string name="like">Gosto</string>
   <string name="list_detail_title">Detalhes</string>
-  <string name="list_item_play_all_tracks">Reproduzir tudo</string>
   <string name="list_item_play_FM_radio">Reproduzir Rádio FM</string>
+  <string name="list_item_play_all_tracks">Reproduzir tudo</string>
   <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="loading_hint">Aguarde…</string>
   <string name="local_music">Dispositivo</string>
@@ -411,7 +411,7 @@
   <string name="more_online_song">Mais</string>
   <string name="more_online_suggest">Mais</string>
   <string name="more_settings">Definições avançadas</string>
-  <string name="more_settings_summary">Temporizador, filtrar ficheiros de áudio, etc.</string>
+  <string name="more_settings_summary">Temporizador, filtrar ficheiros de áudio, etc</string>
   <string name="multichoice">Seleccionar</string>
   <string name="music_browser_label">Música</string>
   <string name="music_filter">Filtrar ficheiros de áudio</string>
@@ -670,10 +670,10 @@
   <string name="tab_europa_america">Ocidentais</string>
   <string name="tab_folder">Pastas</string>
   <string name="tab_japanese_korean">J-Pop/K-Pop</string>
-  <string name="tab_local_folder_list">Pasta</string>
+  <string name="tab_local_folder_list">Pastas</string>
   <string name="tab_local_track_list">Músicas</string>
   <string name="tab_track">Músicas</string>
-  <string name="tab_track_list">Música</string>
+  <string name="tab_track_list">Músicas</string>
   <string name="take_effect_afater_restart">Reiniciar a aplicação Música para que esta configuração tenha efeito</string>
   <string name="ticket_summary">Comprar bilhetes para espectáculos, concertos e outros eventos</string>
   <string name="ticket_title">Mostrar bilhetes</string>
@@ -737,7 +737,7 @@
   <string name="upgrade_waringing">Só pode ouvir músicas que tenha armazenadas</string>
   <string name="valid_period">Válido: %s</string>
   <string name="version_info">Versão</string>
-  <string name="vip_auto_renew_message">A sua subscrição de Música vai ser renovada automaticamente hoje. Certifique-se que tem Créditos Mi suficientes na sua conta para concluir o pagamento</string>
+  <string name="vip_auto_renew_message">A sua subscrição de Música vai ser renovada hoje automaticamente. Certifique-se que tem Créditos Mi suficientes na sua conta para concluir o pagamento</string>
   <string name="vip_auto_renew_notification_message">Adicionar Créditos Mi para renovar a sua subscrição de Música</string>
   <string name="vip_auto_renew_notification_title">Pagamento de subscrição</string>
   <string name="vip_auto_renew_title">Renovação de subscrição</string>

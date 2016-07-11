@@ -39,13 +39,13 @@
   <string name="notify_disabled_net_by_app">Ligação à Internet restringida pela aplicação Segurança</string>
   <string name="notify_only_wifi_download">A aguardar por Wi-Fi</string>
   <string name="paused_waiting_for_network">A aguardar pela rede</string>
-  <string name="permdesc_accessAllDownloads">Permite à aplicação mostrar e modificar todas as transferências iniciadas por qualquer aplicação no sistema.</string>
-  <string name="permdesc_downloadCacheNonPurgeable">Permite à aplicação transferir ficheiros para a cache de transferências. Esta acção não poderá ser eliminada automaticamente quando o gestor de transferências precisar de mais espaço.</string>
-  <string name="permdesc_downloadCompletedIntent">Permite que a aplicação envie notificações sobre transferências concluídas. As aplicações maliciosas podem utilizar isto para confundir outras aplicações que fazem transferências de ficheiros.</string>
-  <string name="permdesc_downloadManager">Permitir que as aplicações acedam ao gestor de transferências e usem-no para transferir ficheiros. As aplicações maliciosas podem utilizar isto para interromper as transferências e aceder a informações privadas.</string>
-  <string name="permdesc_downloadManagerAdvanced">Permite à aplicação aceder às funções avançadas do gestor de transferências. Aplicações maliciosas podem utilizar isto para interromper as transferências e aceder a informações privadas.</string>
-  <string name="permdesc_downloadWithoutNotification">Permite à aplicação transferir ficheiros através do gestor de transferências sem qualquer aviso prévio de notificação mostrada ao utilizador.</string>
-  <string name="permdesc_seeAllExternal">Permite à aplicação ver todas as transferências no cartão SD, independentemente da aplicação transferida.</string>
+  <string name="permdesc_accessAllDownloads">Permite à aplicação mostrar e modificar todas as transferências iniciadas por qualquer aplicação no sistema</string>
+  <string name="permdesc_downloadCacheNonPurgeable">Permite à aplicação transferir ficheiros para a cache de transferências. Esta acção não poderá ser eliminada automaticamente quando o gestor de transferências precisar de mais espaço</string>
+  <string name="permdesc_downloadCompletedIntent">Permite que a aplicação envie notificações sobre transferências concluídas. As aplicações maliciosas podem utilizar isto para confundir outras aplicações que fazem transferências de ficheiros</string>
+  <string name="permdesc_downloadManager">Permitir que as aplicações acedam ao gestor de transferências e usem-no para transferir ficheiros. As aplicações maliciosas podem utilizar isto para interromper as transferências e aceder a informações privadas</string>
+  <string name="permdesc_downloadManagerAdvanced">Permite à aplicação aceder às funções avançadas do gestor de transferências. Aplicações maliciosas podem utilizar isto para interromper as transferências e aceder a informações privadas</string>
+  <string name="permdesc_downloadWithoutNotification">Permite à aplicação transferir ficheiros através do gestor de transferências sem qualquer aviso prévio de notificação mostrada ao utilizador</string>
+  <string name="permdesc_seeAllExternal">Permite à aplicação ver todas as transferências no cartão SD, independentemente da aplicação transferida</string>
   <string name="permlab_accessAllDownloads">aceder a todas as transferências do sistema</string>
   <string name="permlab_downloadCacheNonPurgeable">reservar espaço na cache de transferências</string>
   <string name="permlab_downloadCompletedIntent">enviar notificações de transferência</string>
@@ -67,13 +67,13 @@
   <string name="warning_tip_content">Não existe ligação ao Wi-Fi. Se utilizar a sua ligação de dados móveis para terminar esta transferência vai aumentar o consumo de dados móveis. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
   <string name="warning_tip_ok">Pausa</string>
   <string name="warning_tip_title">Aviso de utilização de dados</string>
-  <string name="wifi_recommended_body" formatted="false">"A partir desta %s a transferência vai originar um consumo excessivo de dados móveis, podem surgir despesas adicionais cobradas pela sua operadora, mas depende sempre do plano de dados movéis subscrito. 
+  <string name="wifi_recommended_body" formatted="false">"A partir desta %s a transferência vai originar um consumo excessivo de dados móveis, podem surgir despesas adicionais cobradas pela sua operadora, mas depende sempre do plano de dados móveis subscrito. 
 
-Toque em %s para iniciar esta transferência da próxima vez que obter uma ligação à rede Wi-Fi."</string>
+Toque em %s para iniciar esta transferência da próxima vez que estiver ligado a uma rede Wi-Fi"</string>
   <string name="wifi_recommended_title">Aguardar para transferir mais tarde?</string>
   <string name="wifi_required_body" formatted="false">"Deverá utilizar o Wi-Fi para concluir esta %s transferência. 
 
-Toque em %s para iniciar esta transferência da próxima vez que estiver ligado a uma rede Wi-Fi."</string>
+Toque em %s para iniciar esta transferência da próxima vez que estiver ligado a uma rede Wi-Fi"</string>
   <string name="wifi_required_title">Transferência demasiado grande para o operador de rede</string>
   <string name="xl_speedup_experience_notify_context">A velocidade das transferências será optimizada se for membro Xunlei</string>
   <string name="xl_speedup_experience_notify_title">Membro Xunlei</string>

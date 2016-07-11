@@ -47,7 +47,7 @@
   <string name="action_menu_useful_page">Adicionar utilidades</string>
   <string name="action_menu_useful_page_added">Utilidade adicionada</string>
   <string name="actionbar_share">Partilhar</string>
-  <string name="actionbar_web_search">Pesquisa Web</string>
+  <string name="actionbar_web_search">Pesquisa web</string>
   <string name="adblock_notification">%d anúncios bloqueados</string>
   <string name="adblock_rules_restore">Desbloquear</string>
   <string name="adblock_websites_settings_empyt_hint">Não bloqueou nenhum site</string>
@@ -207,7 +207,7 @@ janela privada ​"</string>
   <string name="delete_download">Eliminar</string>
   <string name="dialog_cannot_resume">Transferência foi interrompida</string>
   <string name="dialog_confirm_delete_checkbox_message">Eliminar ficheiro(s) do dispositivo?</string>
-  <string name="dialog_confirm_delete_downloads_message">Eliminar %d transferências?</string>
+  <string name="dialog_confirm_delete_downloads_message">Eliminar %d transferência(s)?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Eliminar esta(s) transferência(s)?</string>
   <string name="dialog_failed_body">Quer voltar a transferir o ficheiro mais tarde ou eliminá-lo das transferências pendentes?</string>
   <string name="dialog_file_already_exists">Já transferiu este ficheiro</string>
@@ -245,7 +245,7 @@ janela privada ​"</string>
   <string name="download_no_application_title">Não foi possível localizar ficheiro. Moveu-o ou eliminou-o?</string>
   <string name="download_no_sdcard_dlg_msg">É necessário um cartão SD para transferir %s</string>
   <string name="download_no_sdcard_dlg_title">Sem cartão SD</string>
-  <string name="download_pending">A iniciar transferência…</string>
+  <string name="download_pending">Transferência pendente</string>
   <string name="download_phone_tip">Telefone</string>
   <string name="download_router_tip">Transferir com o Mi Router</string>
   <string name="download_sdcard_busy_dlg_msg">O cartão SD está ocupado. Para permitir transferências desligue o armazenamento USB nas notificações</string>
@@ -743,7 +743,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="video_download_empty">Sem vídeos</string>
   <string name="video_download_error">Erro</string>
   <string name="video_download_error_http_gone">Não foi possível encontrar ficheiro</string>
-  <string name="video_download_exists">Transferência já existe</string>
+  <string name="video_download_exists">A transferência já existe</string>
   <string name="video_download_fail">Erro</string>
   <string name="video_download_failed">Não foi possível transferir</string>
   <string name="video_download_pause">Em pausa</string>
