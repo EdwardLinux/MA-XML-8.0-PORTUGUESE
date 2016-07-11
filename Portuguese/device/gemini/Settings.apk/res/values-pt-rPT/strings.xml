@@ -2337,6 +2337,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_edge_handgrip">Definições/Controlos do limite</string>
   <string name="path_equalizer">Definições/Som e vibração/Definições de áudio/Equalizador</string>
   <string name="path_font_settings">Definições/Tipo de letra do sistema</string>
+  <string name="path_gesture_wakeup_title">Definições/Ecrã/Duplo toque no ecrã para ligar</string>
   <string name="path_gps_settings">Definições/Definições adicionais/Privacidade/Localização</string>
   <string name="path_handy_mode_settings">Definições/Definições adicionais/Modo Uma Mão</string>
   <string name="path_home_key">Definições/Definições adicionais/Botões/Início</string>
@@ -2673,6 +2674,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="radioInfo_unknown">desconhecido</string>
   <string name="radio_controls_summary">Gerir Wi-Fi, Bluetooth, Modo Avião, Redes móveis e VPNs</string>
   <string name="radio_controls_title">Mais</string>
+  <string name="radio_info_asdiv_switch_label">Estado ASDiv:</string>
   <string name="radio_info_band_mode_label">Seleccionar a banda do rádio</string>
   <string name="radio_info_call_redirect_label">Reencaminhamento da chamada:</string>
   <string name="radio_info_call_status_label">Estado da chamada:</string>
@@ -2973,6 +2975,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_empty">Sem resultados</string>
   <string name="search_equalizer">Equalizador</string>
   <string name="search_font">Tipo de letra do sistema</string>
+  <string name="search_gesture_wakeup_title">Duplo toque no ecrã para ligar</string>
   <string name="search_gps">GPS;Acesso à localização</string>
   <string name="search_handy_mode">Modo Uma Mão</string>
   <string name="search_hint">Definições de pesquisa</string>

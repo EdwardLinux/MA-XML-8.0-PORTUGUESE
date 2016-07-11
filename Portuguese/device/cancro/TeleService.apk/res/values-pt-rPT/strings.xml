@@ -6,7 +6,9 @@
   <string name="active_phone_sim_absent">Inserir cartão SIM agora</string>
   <string name="add">Adicionar</string>
   <string name="addSimEntries">Adicionar contacto do cartão SIM</string>
+  <string name="add_by_input">Adicionar por entrada</string>
   <string name="add_fdn_contact">Adicionar número de marcação fixa</string>
+  <string name="add_from_contacts">Adicionar dos contactos</string>
   <string name="add_sip_account">Adicionar conta</string>
   <string name="add_vm_number_str">Adicionar número</string>
   <string name="adding_fdn_contact">A adicionar número de marcação fixa…</string>
@@ -832,6 +834,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="please_connect_network_message">Ligue-se à rede</string>
   <string name="please_connect_network_title">Sem rede</string>
   <string name="please_login_mi_accout">Iniciar sessão</string>
+  <string name="please_enter_phone_number">Introduzir número de telefone</string>
   <string name="port_title">Número da porta</string>
   <string name="preference_auto_ip_summary_disable">Desactivado</string>
   <string name="preference_category_ringtone">Toque e vibração</string>

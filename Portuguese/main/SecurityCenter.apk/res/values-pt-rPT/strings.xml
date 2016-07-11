@@ -222,6 +222,10 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_button">Cancelar</string>
   <string name="celcius_symbol">℃</string>
+  <string name="charging_text_battery_full_time">Última carga</string>
+  <string name="charging_text_battery_nearly_full">Quase carregada</string>
+  <string name="charging_text_battery_perfect">Totalmente carregada</string>
+  <string name="charging_text_time_calculating">Calcular tempo de carregamento…</string>
   <string name="chat_number">10 horas</string>
   <string name="chat_uint">" horas"</string>
   <string name="check_network_state">Testar rede</string>

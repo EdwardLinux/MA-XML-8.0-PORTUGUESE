@@ -246,6 +246,11 @@ Utilize apenas o carregador fornecido"</string>
   <string name="screen_pinning_negative">Não obrigado</string>
   <string name="screen_pinning_positive">Entendi</string>
   <string name="screen_pinning_title">Ecrã está fixado</string>
+  <string name="screenshot_delete">Eliminar</string>
+  <string name="screenshot_delete_dlg_msg">Tem a certeza que quer eliminar esta captura de ecrã?</string>
+  <string name="screenshot_delete_dlg_title">Eliminar</string>
+  <string name="screenshot_dlg_cancel">Cancelar</string>
+  <string name="screenshot_dlg_delete_button">Eliminar</string>
   <string name="screenshot_edit">Editar</string>
   <string name="screenshot_failed_text">Não é possível tirar captura de ecrã devido ao espaço limitado de armazenamento ou não é permitido pela aplicação ou organização</string>
   <string name="screenshot_long_screenshot">Estender</string>

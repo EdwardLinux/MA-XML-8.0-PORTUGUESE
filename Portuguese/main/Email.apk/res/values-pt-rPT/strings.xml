@@ -357,7 +357,7 @@
   <string name="email_feedback_uri"/>
   <string name="email_netease">Email NetEase</string>
   <string name="email_qq">Email QQ</string>
-  <string name="email_setting">Definições de Email</string>
+  <string name="email_setting">Email</string>
   <string name="email_setting_keywords">Contas;Adicionar conta;contas de email;adicionar conta de email;confirmar antes de enviar;eliminar confirmação;confirmar antes de enviar;confirmação de envio;eliminar fluxo de mensagens;eliminar redireccionamento;vista de conversa;conversas de email;poupança de bateria;bateria do email;enviar comentários;enviar registos</string>
   <string name="email_sina">Email Sina</string>
   <string name="empty_account_tip">Não foi possível encontrar a conta</string>
