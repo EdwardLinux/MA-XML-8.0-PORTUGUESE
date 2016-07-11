@@ -40,7 +40,7 @@
   <string name="complete_time">Concluído:</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete_downloads_message">%d transferências vão ser eliminadas</string>
-  <string name="confirm_delete_the_download_item_message">Eliminar estas transferências?</string>
+  <string name="confirm_delete_the_download_item_message">Eliminar esta(s) transferência(s)?</string>
   <string name="continue_download">Continuar</string>
   <string name="copy">Copiar</string>
   <string name="copy_info">Copiado para a área de transferência. Pode partilhar com os amigos!</string>

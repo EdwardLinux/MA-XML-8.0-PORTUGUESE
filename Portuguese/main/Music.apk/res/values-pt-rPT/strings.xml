@@ -99,7 +99,7 @@
   <string name="cloud_space_full">Armazenamento na Nuvem Mi cheio</string>
   <string name="cloud_space_full_message">Sem espaço na sua Nuvem Mi para adicionar mais músicas. Para obter mais espaço actualize a sua Conta Mi</string>
   <string name="confirm_delete_downloads_message">%d transferências vão ser eliminadas</string>
-  <string name="confirm_delete_the_download_item_message">Eliminar estas transferências?</string>
+  <string name="confirm_delete_the_download_item_message">Eliminar esta(s) transferência(s)?</string>
   <string name="confirm_download">Transferir</string>
   <string name="confirm_to_renew">Renovar</string>
   <string name="cp_info_first">O serviço de streaming é oferecido por Ultimate Inc.</string>
