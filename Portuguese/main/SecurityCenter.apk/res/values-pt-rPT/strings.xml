@@ -331,7 +331,7 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="diagnostic_attention_dialog_message">O diagnóstico para %1$s está em curso. Aguarde até estar concluído e tente novamente</string>
   <string name="dialog_app_roaming_message">%1$s não pode utilizar dados móveis em roaming. Apenas as aplicações adicionadas nas excepções podem utilizar dados móveis</string>
   <string name="dialog_app_roaming_title">O roaming não está activado para %1$s</string>
-  <string name="dialog_msg_auto_start_declare">Algumas aplicações de segurança podem indicar incorrectamente que a MIUI as impediu de iniciar. Para verificar as permissões que foram concedidas às aplicações individuais, vá para Definições &gt; Aplicações</string>
+  <string name="dialog_msg_auto_start_declare">Algumas aplicações podem indicar incorrectamente que foram impedidas de iniciar. Para verificar as permissões que foram concedidas a cada aplicação individualmente, vá a Definições &gt; Aplicações</string>
   <string name="dialog_msg_stop_paysafety_scan">Parar a verificação de segurança dos pagamentos?</string>
   <string name="dialog_msg_stop_virus_scan">Parar a verificação de vírus antes que termine?</string>
   <string name="dialog_roaming_apps_sorted_title">Ordenar por</string>

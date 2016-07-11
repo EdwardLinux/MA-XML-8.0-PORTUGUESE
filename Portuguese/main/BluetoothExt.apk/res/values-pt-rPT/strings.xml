@@ -9,7 +9,7 @@
   <string name="bluetooth_remember_choice">Permirtir sempre</string>
   <string name="bluetooth_sap_acceptance_dialog_text">%1$s gostaria de aceder ao SIM. Conceder acesso a %2$s?</string>
   <string name="bluetooth_sap_request">Pedido SAP</string>
-  <string name="defaultname">Kit para carro</string>
+  <string name="defaultname">Kit mãos livres</string>
   <string name="dun_acceptance_timeout_message">O tempo para aceitar a ligação com %1$s expirou</string>
   <string name="dun_notif_message">Toque para ligar a \"%1$s\"</string>
   <string name="dun_notif_ticker">Pedido DUN Bluetooth</string>
