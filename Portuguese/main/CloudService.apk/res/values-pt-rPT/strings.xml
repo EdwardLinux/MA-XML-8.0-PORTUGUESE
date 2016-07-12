@@ -257,7 +257,7 @@ Toque nas definições de sincronização para ver mais opções"</string>
   <string name="micloud_main_sync_exception">Erro de sincronização</string>
   <string name="micloud_main_sync_init">A obter informação</string>
   <string name="micloud_main_sync_now">Sincronizar agora</string>
-  <string name="micloud_main_sync_on">Sincronização ligada</string>
+  <string name="micloud_main_sync_on">Ligar sincronização</string>
   <string name="micloud_main_sync_on_wifi">A aguardar por Wi-Fi</string>
   <string name="micloud_main_sync_pause">Sincronização em pausa</string>
   <string name="micloud_main_sync_pending">A aguardar para sincronizar</string>

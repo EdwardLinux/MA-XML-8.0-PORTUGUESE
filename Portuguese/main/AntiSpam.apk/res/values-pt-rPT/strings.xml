@@ -251,7 +251,7 @@
   <string name="st_antispam_mode_only_whitelist_sum">Permitir apenas chamadas e mensagens de números na lista de excepções</string>
   <string name="st_antispam_mode_smart">Números reportados</string>
   <string name="st_antispam_mode_smart_sum">Bloquear números que adicionou manualmente e números que têm sido reportados por outros utilizadores</string>
-  <string name="st_antispam_notification_sum">Mostrar uma notificação quando uma chamada ou mensagem são bloqueadas</string>
+  <string name="st_antispam_notification_sum">Mostrar uma notificação quando uma chamada ou mensagem é bloqueada</string>
   <string name="st_antispam_title_anoy_incoming">Chamadas de desconhecidos</string>
   <string name="st_antispam_title_anoy_sms">Mensagens de desconhecidos</string>
   <string name="st_antispam_title_contact_incoming">Chamadas de contactos</string>

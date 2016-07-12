@@ -573,7 +573,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="quicklinks_most_visited_subtitle">Mostrar sites mais visitados numa nova página</string>
   <string name="quicklinks_most_visited_title">Adicionar sites visitados recentemente à página inicial</string>
   <string name="readmode_already_add_to_bookshelf">Adicionado à biblioteca</string>
-  <string name="readmode_battery">Bateria </string>
+  <string name="readmode_battery">Bateria</string>
   <string name="readmode_login">Iniciar a sessão</string>
   <string name="readmode_login_message">Tem que iniciar a sessão para ler mais</string>
   <string name="readmode_page_load_error">Não é possível carregar a página</string>
@@ -608,7 +608,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="save_dialog_title">Gravar</string>
   <string name="save_file_already_exist_alert_message">O ficheiro já existe, deseja substituí-lo?</string>
   <string name="save_file_already_exist_alert_title">Substituir ficheiro?</string>
-  <string name="save_form_data_confirm_message">Desligar esta funcionalidade pode afectar a utilização</string>
+  <string name="save_form_data_confirm_message">Desligar esta funcionalidade pode afectar utilização</string>
   <string name="save_image_failed">Não foi possível guardar imagem</string>
   <string name="save_image_success">Imagem guardada</string>
   <string name="save_page_capture_tip">Abrir notificação para ver captura de ecrã</string>
@@ -779,7 +779,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="voice_title_listening">A ouvir…</string>
   <string name="voice_title_please">Comece a falar…</string>
   <string name="voice_title_speech_again">Não consigo percebê-lo</string>
-  <string name="weather_location_confirm_message">Desligar esta funcionalidade pode afectar a utilização</string>
+  <string name="weather_location_confirm_message">Desligar esta funcionalidade pode afectar utilização</string>
   <string name="webpage_bookmark_title">Marcadores</string>
   <string name="webpage_history_title">Histórico</string>
   <string name="webpage_title">Marcadores e Histórico</string>
