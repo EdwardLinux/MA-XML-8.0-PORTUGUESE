@@ -65,12 +65,12 @@
         <item>Muito alta</item>
     </string-array>
     <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-        <item>이것은 한국어 음성 합성의 예입니다.</item>
+        <item>This is an example of speech synthesis in English</item>
+        <item>Voici un échantillon de synthèse vocale en français</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch</item>
+        <item>Questo è un esempio di sintesi vocale in italiano</item>
+        <item>Este es un ejemplo de síntesis de voz en español</item>
+        <item>이것은 한국어 음성 합성의 예입니다</item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>
@@ -527,7 +527,7 @@
     <string-array name="msd_pc_system_install_finish_summary">
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
         <item>@string/msd_pc_system_install_finish_summary_vista</item>
-        <item>Armazenamento em massa USB é ligado automaticamente quando ligado a um computador.</item>
+        <item>Armazenamento em massa USB é ligado automaticamente quando ligado a um computador</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
