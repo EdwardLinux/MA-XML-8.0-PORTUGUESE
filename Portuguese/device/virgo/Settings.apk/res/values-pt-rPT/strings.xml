@@ -2178,7 +2178,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="notification_settings_apps_title">Notificações das aplicações</string>
   <string name="notification_sound_dialog_title">Toque de notificação predefinido</string>
   <string name="notification_sound_title">Toque de notificação predefinido</string>
-  <string name="notification_volume_option_title">Volume de notificações</string>
+  <string name="notification_volume_option_title">Volume das notificações</string>
   <string name="notification_volume_title">Notificação</string>
   <string name="notifications_disabled">Bloquear</string>
   <string name="notifications_enabled">Normal</string>
