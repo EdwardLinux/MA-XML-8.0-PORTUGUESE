@@ -1280,6 +1280,14 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="keyboard_layout_picker_title">Disposição de teclado</string>
   <string name="keyboard_settings_category">Teclado e métodos de entrada</string>
   <string name="keyboard_settings_title">Teclado Android</string>
+  <string name="keyguard_left_function_chooser_hint_text">Atalho à esquerda alterado para %s</string>
+  <string name="keyguard_left_function_chooser_title">Aplicações</string>
+  <string name="keyguard_left_function_title">Esquerda</string>
+  <string name="keyguard_right_function_chooser_hint_text">Atalho à direita alterado para %s</string>
+  <string name="keyguard_right_function_chooser_title">Aplicações</string>
+  <string name="keyguard_right_function_title">Direita</string>
+  <string name="keyguard_shortcut_summary">Definir atalhos para 2 aplicações no ecrã de bloqueio</string>
+  <string name="keyguard_shortcut_title">Atalhos do ecrã de bloqueio</string>
   <string name="language_keyboard_settings_title">Idioma e entrada</string>
   <string name="language_picker_title">Idioma</string>
   <string name="language_settings">Idioma e entrada</string>

@@ -185,6 +185,7 @@
   <string name="file_title">Nome:</string>
   <string name="file_width_height">Tamanho:</string>
   <string name="flatshow_page_no">%1$d</string>
+  <string name="force_touch_new_message_title">Nova mensagem</string>
   <string name="forward_from">Reenviar de:</string>
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Carregar mensagens de %1$s para %2$s?</string>
@@ -348,7 +349,7 @@
   <string name="nickname_placeholder">Alcunha</string>
   <string name="no">Cancelar</string>
   <string name="no_block_button_msg">Desbloquear este número</string>
-  <string name="no_conversations">Sem mensagens</string>
+  <string name="no_conversations">Sem conversas</string>
   <string name="no_subject">(Sem assunto)</string>
   <string name="no_subject_view">(Sem assunto)</string>
   <string name="non_english_subject_limit">Limite de 13 caracteres</string>

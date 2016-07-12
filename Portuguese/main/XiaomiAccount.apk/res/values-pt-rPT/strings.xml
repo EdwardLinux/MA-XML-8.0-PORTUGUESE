@@ -91,7 +91,6 @@
   <string name="data_keep_in_device">Manter neste dispositivo</string>
   <string name="data_wipe_from_device">Eliminar a partir deste dispositivo</string>
   <string name="delete_action">Eliminar</string>
-  <string name="delete_bank_card_failed">Erro ao remover pagamento da Carteira Mi. Por favor, tente novamente</string>
   <string name="delete_device_btn">Remover</string>
   <string name="delete_device_failed">Não foi possível remover dispositivo</string>
   <string name="delete_device_notice">Depois do dispositivo ser removido a sua sessão da Conta Mi vai ser terminada automaticamente. Não será possível utilizar este dispositivo para aceder a fotos, mensagens ou outros conteúdos armazenados na sua conta</string>

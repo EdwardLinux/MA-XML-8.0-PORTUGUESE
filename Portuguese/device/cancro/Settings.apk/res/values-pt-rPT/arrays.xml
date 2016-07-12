@@ -507,9 +507,9 @@
         <item>Móvel preferencial</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
-        <item>Desligada</item>
+        <item>Desligado</item>
         <item>Leve</item>
-        <item>Média</item>
+        <item>Médio</item>
         <item>Forte</item>        
     </string-array>
     <string-array name="media_feedback_level_entries">

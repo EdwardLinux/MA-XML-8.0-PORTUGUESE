@@ -12,6 +12,8 @@
   <string name="cit_accelermeter_sensor_check_summary">"Mova o dispositivo rapidamente numa direcção. Os valores das coordenadas de X，Y，Z serão mostrados em baixo. (quando o telefone está em movimento: o X representa esquerda/direita, o Y representa frente/trás e o Z acima/abaixo).
 Antes de calibrar o dispositivo, coloque-o numa superfície plana"</string>
   <string name="cit_accelermeter_sensor_check_title">Acelerómetro</string>
+  <string name="cit_apk_signature_failed">Assinatura do APK FALHOU</string>
+  <string name="cit_apk_signature_passed">Assinatura do APK PASSOU</string>
   <string name="cit_aud_spkcal">Calibrar</string>
   <string name="cit_audio_cali_done">Calibração concluída!</string>
   <string name="cit_audio_cali_failed">A calibração falhou. Por favor, repita!</string>
@@ -68,6 +70,8 @@ Segure no telefone como se estivesse a atender uma chamada, fale para o microfon
   <string name="cit_bluetooth_scanning_bluetooth_done">Concluído. Não foi encontrado nenhum dispositivo Bluetooth</string>
   <string name="cit_bluetooth_scanning_bluetooth_error">Ocorreu um erro ao pesquisar dispositivos Bluetooth</string>
   <string name="cit_bluetooth_scanning_opening_bluetooth">A abrir o dispositivo Bluetooth…</string>
+  <string name="cit_build_finger_failed">Impressão digital FALHOU</string>
+  <string name="cit_build_finger_passed">Impressão digital PASSOU</string>
   <string name="cit_button_light_off">Luzes dos botões desligadas</string>
   <string name="cit_button_light_on">Luzes dos botões ligadas</string>
   <string name="cit_calibration_fail">Calibração falhou</string>
@@ -108,6 +112,7 @@ Segure no telefone como se estivesse a atender uma chamada, fale para o microfon
 3.Toque no ícone Verificar. O sistema vai guardar a fotografia automaticamente.
 4.A fotografia que tirou será exibida em baixo. Toque em Eliminar para concluir o teste"</string>
   <string name="cit_front_camera_check_title">Câmara frontal</string>
+  <string name="cit_get_signature_failed">Obter assinatura FALHOU</string>
   <string name="cit_gps_check_summary">A informação correspondente ao GPS deverá ser exibida em baixo</string>
   <string name="cit_gps_check_title">GPS</string>
   <string name="cit_gps_disabled">"O GPS não foi iniciado
@@ -188,6 +193,8 @@ Toque no ecrã para iniciar o GPS…"</string>
   <string name="cit_proximity_sensor_check_summary">"Tape o sensor de proximidade com a mão (o sensor está localizado no topo do dispositivo, perto do altifalante). Depois retire a mão. O valor deve aumentar de 0.0 quando afastar a mão do dispositivo.
 Durante a calibração, verifique que não está nada entre o sensor e a sua mão (p.e. película protectora do ecrã ou luvas)"</string>
   <string name="cit_proximity_sensor_check_title">Sensor de proximidade</string>
+  <string name="cit_recovery_signature_failed">Assinatura do modo restauro FALHOU</string>
+  <string name="cit_recovery_signature_passed">Assinatura do modo restauro PASSOU</string>
   <string name="cit_reset_check_summary">Este teste vai reiniciar o dispositivo. Todos os dados dos testes anteriores serão eliminados</string>
   <string name="cit_reset_check_title">Teste de reinicialização</string>
   <string name="cit_reset_test">Testar</string>
@@ -204,6 +211,7 @@ Depois de inserir o ficheiro \"music.mp3\" no cartão SD, toque no ecrã para o 
   <string name="cit_sd_plugout_check_title">Cartão SD (remoção)</string>
   <string name="cit_sd_unmount">Desmontar cartão SD</string>
   <string name="cit_sd_unmount_sucess">Cartão SD desmontado</string>
+  <string name="cit_signature_check_label">Verificação de assinatura:</string>
   <string name="cit_sim_check_summary">Confirme em baixo que a informação e o estado do cartão SIM estão correctas</string>
   <string name="cit_sim_check_title">Cartão SIM</string>
   <string name="cit_sim_error_unknown">Desconhecido</string>
