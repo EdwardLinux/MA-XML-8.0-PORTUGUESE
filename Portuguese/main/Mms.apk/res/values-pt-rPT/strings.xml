@@ -84,7 +84,7 @@
   <string name="confirm_dlg__msg">Aviso CMCC: CMCC pós-serviço gratuito não serão fornecidas, se cancelar o serviço. Tem certeza que deseja cancelar</string>
   <string name="confirm_dlg_title">Gestão de dispositivos</string>
   <string name="confirm_export_dialog_description">As conversas anteriores com este contacto não serão mais ocultadas</string>
-  <string name="confirm_export_dialog_title">Eliminar de contactos privados</string>
+  <string name="confirm_export_dialog_title">Eliminar dos contactos privados</string>
   <string name="confirm_no_block_positive">Desbloquear</string>
   <string name="confirm_no_block_title">Desbloquear este número e restaurar todas as mensagens enviadas por este número?</string>
   <string name="confirm_rate_limit">Um grande número de mensagens multimédia está a ser enviado</string>
@@ -431,7 +431,7 @@
   <string name="pref_title_wake_up_screen">Despertar o ecrã</string>
   <string name="preferences_title">Definições</string>
   <string name="prepare_send">A preparar para enviar…</string>
-  <string name="press_recording">Premir e segurar o ícone do Micro para gravar</string>
+  <string name="press_recording">Manter premido o ícone do Micro para gravar</string>
   <string name="preview">Visualizar</string>
   <string name="preview_slideshow">Pré-visualizar</string>
   <string name="priority_high">Alta</string>
