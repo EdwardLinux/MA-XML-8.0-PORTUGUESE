@@ -2495,7 +2495,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_camera">Câmara</string>
   <string name="power_cell">Inactividade do telefone</string>
-  <string name="power_center">Utilização</string>
+  <string name="power_center">Gestão da bateria</string>
   <string name="power_charge_remaining">%1$s para carregar</string>
   <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s até ficar completa</string>
