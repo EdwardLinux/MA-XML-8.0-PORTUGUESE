@@ -110,7 +110,7 @@
   <string name="brand_title_other">Outros</string>
   <string name="broadcast">Rádio</string>
   <string name="bullet_hint">Mostrar esta mensagem no ecrã</string>
-  <string name="bulletin">Mensagens</string>
+  <string name="bulletin">Comentários no ecrã</string>
   <string name="by">"Fornecido por "</string>
   <string name="by_position">Por localização</string>
   <string name="camera_shoot">Disparo</string>
@@ -278,7 +278,7 @@
   <string name="gesture_pad_vol_tips">Utilizar o volume do telefone para ajustar o volume no dispositivo ligado</string>
   <string name="get_backup_failed">Erro no restauro. Tente novamente</string>
   <string name="get_backup_succeed">Restauro concluído. Restaurados %1$d de %2$d. Restaurar %3$d</string>
-  <string name="get_data_fail_tips">Erro ao obter os dados</string>
+  <string name="get_data_fail_tips">Não foi possível obter dados</string>
   <string name="get_info_failed">Não foi possível obter informação</string>
   <string name="get_location_fail_tip">Não foi possível definir localização. Escolha uma cidade</string>
   <string name="guid_one">· Ligar à mesma rede Wi-Fi que o dispositivo de destino</string>
