@@ -46,10 +46,12 @@ Para limpar o histórico do Navegador, utilize as definições do Navegador"</st
   <string name="menu_help">Ajuda</string>
   <string name="menu_settings">Definições de pesquisa</string>
   <string name="network_unavailable">Não foi possível ligar à Internet</string>
-  <string name="recent_apps">Aplicações recomendadas</string>
+  <string name="recent_apps">Aplicações recentes</string>
   <string name="recently_shortcut_label">Atalhos recentes</string>
   <string name="remove_from_history">Quer eliminar este item do histórico de pesquisas?</string>
   <string name="remove_from_history_failed">Não foi possível remover o item do histórico de pesquisas</string>
+  <string name="search_apps">Pesquisar aplicações</string>
+  <string name="search_apps_url">market://search?q=%s&amp;ref=migs</string>
   <string name="search_group_fold">Ocultar</string>
   <string name="search_group_unfold">Mais</string>
   <string name="search_history">Histórico</string>
@@ -58,7 +60,9 @@ Para limpar o histórico do Navegador, utilize as definições do Navegador"</st
   <string name="search_settings">Definições de pesquisa</string>
   <string name="search_sources">Itens pesquisáveis</string>
   <string name="search_sources_summary">Escolher o que pesquisar no telefone</string>
-  <string name="search_suggestion">Dicas</string>
+  <string name="search_suggestion">Sugestões</string>
+  <string name="search_videos">Pesquisar vídeos</string>
+  <string name="search_videos_url">https://www.youtube.com/results?search_query=%s</string>
   <string name="search_widget">Pesquisar</string>
   <string name="send_secret_code">Enviar código</string>
   <string name="show_more">Mostrar mais</string>

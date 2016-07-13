@@ -383,6 +383,7 @@
   <string name="subscribe_description_card_more_launch">Expandir</string>
   <string name="subscribe_detail_title">Detalhes da subscrição</string>
   <string name="subscribe_ed">Subscrito</string>
+  <string name="swipe_up_guide_hint_text">Descer para ver mais</string>
   <string name="sync_notice_cancel_toast_message">Calendário local não será sincronizado com a Nuvem Mi</string>
   <string name="sync_notice_message">Sincronizar o seu calendário com Conta Mi?</string>
   <string name="sync_notice_ok">Permitir</string>

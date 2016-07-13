@@ -25,6 +25,7 @@
   <string name="incorrect_pukcode_remaining_attempts">Código PUK errado %d tentativas restantes</string>
   <string name="input_password_after_boot_msg">Para desbloquear o dispositivo, introduza a sua palavra-passe</string>
   <string name="input_password_hint_text">Introduzir palavra-passe</string>
+  <string name="input_pattern_hint_text">Desenhar o seu padrão</string>
   <string name="input_pin_code">PIN</string>
   <string name="input_puk_code">Introduzir PUK</string>
   <string name="invalid_confirm_pin_hint">Os PINs não correspondem</string>

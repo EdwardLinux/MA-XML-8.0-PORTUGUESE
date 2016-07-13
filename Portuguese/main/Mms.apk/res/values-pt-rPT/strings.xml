@@ -340,8 +340,9 @@
   <string name="mx_type_guide">Mensagens Mi permitem enviar SMS gratuitas para outros utilizadores MIUI</string>
   <string name="need_download">A sincronizar…</string>
   <string name="networking_allow_continue">OK</string>
-  <string name="networking_allow_desc">Mensagens inteligentes permitem que envie mensagens de texto e voz gratuitas, reconhecer números desconhecidos, filtrar spam, etc. Ao utilizar este serviço está a concordar com %1$s e %2$s da Xiaomi. É necessário ligação às páginas amarelas e à Internet para utilizar este serviço</string>
+  <string name="networking_allow_desc">Mensagens inteligentes permitem enviar mensagens de texto e voz gratuitas, reconhecer números desconhecidos, filtrar spam, etc. Ao utilizar este serviço está a concordar com %1$s e %2$s da Xiaomi. É necessário ligação às Páginas Amarelas e à Internet para utilizar este serviço</string>
   <string name="networking_allow_title">Atenção</string>
+  <string name="networking_allow_desc_without_mx">Mensagens inteligentes reconhecer números desconhecidos, filtar spam, etc. Ao utilizar este serviço, está a concordar com %1$s e %2$s da Xiaomi. É necessário ligação às Páginas Amarelas e à Internet para utilizar este serviço</string>
   <string name="new_message">Nova mensagem</string>
   <string name="new_message_arrived">Tem uma mensagem nova</string>
   <string name="new_phrase">Adicionar resposta</string>

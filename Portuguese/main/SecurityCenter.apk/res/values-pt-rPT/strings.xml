@@ -484,7 +484,6 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="item_virus_lib">Actualizar as definições de vírus automaticamente</string>
   <string name="keywords_antispam">Lista de bloqueio;Bloquear;Lista negra;Lista de bloqueio inteligente;Fraudes;Vendas;Agentes</string>
   <string name="keywords_antivirus">Vírus;Riscos;Antivírus;Verificação</string>
-  <string name="keywords_applicationlock">Palavra-passe;Privacidade;Bloqueio de aplicações;Acesso;Protecção</string>
   <string name="keywords_cleanmaster">Lixo;Limpar;Velocidade;Armazenamento;Cache</string>
   <string name="keywords_monthreport">Relatório;Relatório mensal;Relatório anual;Relatório de segurança</string>
   <string name="keywords_networkassistant_1">Dados;Tráfego</string>
@@ -733,7 +732,6 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="passwordIncorrect">Utilizador ou palavra-passe inválido</string>
   <string name="path_antispam">Aplicações de sistema/Segurança/Lista de bloqueio</string>
   <string name="path_antivirus">Aplicações de sistema/Segurança/Antivírus</string>
-  <string name="path_applicationlock">Aplicações de sistema/Segurança</string>
   <string name="path_cleanmaster">Aplicações de sistema/Segurança/Limpeza</string>
   <string name="path_monthreport">Aplicações de sistema/Segurança</string>
   <string name="path_networkassistant_1">Aplicações de sistema/Segurança/Utilização de dados</string>
@@ -967,7 +965,6 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="replace_dns">Substituir DNS automaticamente</string>
   <string name="resource_antispam">Lista de bloqueio</string>
   <string name="resource_antivirus">Antivírus</string>
-  <string name="resource_applicationlock">Bloqueio de aplicações</string>
   <string name="resource_cleanmaster">Limpeza</string>
   <string name="resource_monthreport">Relatório de segurança</string>
   <string name="resource_networkassistant_1">Utilização de dados</string>
