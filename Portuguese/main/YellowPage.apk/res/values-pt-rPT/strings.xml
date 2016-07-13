@@ -9,7 +9,7 @@
   <string name="account_title">Perfil</string>
   <string name="account_type_name">Conta Mi</string>
   <string name="account_updating_device">A actualizar…</string>
-  <string name="account_updating_device_failed">Não é possível inicar a sessão</string>
+  <string name="account_updating_device_failed">Não é possível iniciar sessão</string>
   <string name="account_verify_password">Já está a utilizar este serviço noutro dispositivo. Por motivos de segurança, a sua Conta Mi necessita de ser verificada neste dispositivo</string>
   <string name="account_yellowpage_favorite">Favoritos</string>
   <string name="account_yellowpage_followed">Contas verificadas</string>
@@ -365,10 +365,10 @@ Verifique o seu número de rastreio"</string>
 Total: EUR %3$s"</string>
   <string name="recharge_user_confirm_title">Confirmar carregamento</string>
   <string name="refresh">Actualizar</string>
-  <string name="remember_preference">Memorizar preferências</string>
+  <string name="remember_preference">Memorizar preferência</string>
   <string name="remind_another_time">Não mostrar novamente</string>
   <string name="remind_user_confirm">OK</string>
-  <string name="remind_user_suspect_number_message">Tenha cuidado: Deve verificar sempre primeiro a identidade do autor da chamada de telefone ou vídeo antes de partilhar a sua informação pessoal</string>
+  <string name="remind_user_suspect_number_message">Aviso: Deve verificar sempre primeiro a identidade do autor da chamada ou vídeo antes de partilhar a sua informação pessoal</string>
   <string name="remind_user_suspect_number_title">Números suspeitos</string>
   <string name="rmb">EUR</string>
   <string name="scan">Verificar</string>
@@ -384,13 +384,13 @@ Total: EUR %3$s"</string>
   <string name="sina_share_fail_content_repeat">Não foi possível partilhar, o conteúdo já existe…</string>
   <string name="sina_share_pendding">A enviar…</string>
   <string name="sina_share_success">Enviado</string>
-  <string name="sina_token_expired_warning">A conta Weibo está expirada: Por favor reactive-a</string>
-  <string name="sina_token_invalid_warning">A conta Weibo é inválida: Por favor reactive-a</string>
+  <string name="sina_token_expired_warning">A conta Weibo expirou. Por favor, reactive-a</string>
+  <string name="sina_token_invalid_warning">A conta Weibo é inválida. Por favor, ligue novamente</string>
   <string name="smart_antispam">Identificar números desconhecidos</string>
   <string name="title_activity_di_di_web">DiDi</string>
   <string name="toast_finish_delete_call_log">Registo de chamadas eliminado</string>
   <string name="toast_text_copied">Texto copiado</string>
-  <string name="try_again">Tentar novamente</string>
+  <string name="try_again">Tente novamente</string>
   <string name="turn_off_hint_title">Não identificar números desconhecidos?</string>
   <string name="turn_off_phone_event_hint">Não vai poder ver informações de marcadores para números de telefone desconhecidos</string>
   <string name="turn_off_smart_antispam_hint">Não vai poder ver informações de marcadores para chamadas recebidas de números de telefone desconhecidos</string>
@@ -406,7 +406,7 @@ Total: EUR %3$s"</string>
   <string name="upload_and_verify_fraud_num_on">Partilhar informações de chamadas não desejadas</string>
   <string name="uploads_disabled">O envio de ficheiros está desactivo</string>
   <string name="user_agreement2">" Termos de Serviço"</string>
-  <string name="user_agreement4">Privacidade e Política</string>
+  <string name="user_agreement4">Política de Privacidade</string>
   <string name="user_notice_identify_summary_format">O seu telefone vai utilizar a base de dados da MIUI para bloquear chamadas indesejadas quando estiver ligado ao Wi-Fi. Ao utilizar este serviço concorda com a nossa %1$s e %2$s</string>
   <string name="user_notice_identify_summary_format_cta">O seu telefone vai utilizar a base de dados da MIUI para bloquear chamadas indesejadas quando estiver ligado ao Wi-FI. Ao utilizar este serviço concorda com a nossa %1$s e %2$s</string>
   <string name="user_notice_title">Atenção</string>

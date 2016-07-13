@@ -112,8 +112,8 @@
   <string name="international_details_uv_index_title">Indíce UV</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
   <string name="international_details_wind_title">Vento</string>
-  <string name="locate_fail_detail_err">"Não é possível localizar dispositivo
-Toque no ecrã para adicionar adicionar ou repor cidade"</string>
+  <string name="locate_fail_detail_err">"Não é possível localizar dispositivo.
+Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="location_management">Localização</string>
   <string name="location_tag">Localizar</string>
   <string name="menu_add_city">Editar localizações</string>

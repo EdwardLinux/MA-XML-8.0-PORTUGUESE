@@ -624,7 +624,7 @@ Tentativas efectuadas: %s"</string>
   <string name="unknown_num">Número desconhecido</string>
   <string name="unknown_sender">Remetente desconhecido</string>
   <string name="unstick">Soltar</string>
-  <string name="unstick_conversation">Soltar da conversa actual</string>
+  <string name="unstick_conversation">Soltar a conversa actual</string>
   <string name="unsticked_conversation">Já soltou a conversa actual</string>
   <string name="unsupported_media_format">Formato %1$s não suportado</string>
   <string name="url_fraud_dangerous_alert">"O website que está a tentar visitar pode ser perigoso. Pode danificar o seu dispositivo. Visitar na mesma? 

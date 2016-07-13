@@ -15,15 +15,15 @@
   <string name="awarded_package_was_redeemed">Resgatado</string>
   <string name="awards">Prémios</string>
   <string name="browse">Ver</string>
-  <string name="buff_enable">[ enable ]</string>
+  <string name="buff_enable">[ ligado ]</string>
   <string name="copy_and_use">Resgatar</string>
   <string name="cube_ptr_hours_ago"> horas atrás</string>
   <string name="cube_ptr_last_update">última actualização: </string>
   <string name="cube_ptr_minutes_ago"> minutos atrás</string>
   <string name="cube_ptr_pull_down">Descer</string>
   <string name="cube_ptr_pull_down_to_refresh">Descer para actualizar</string>
-  <string name="cube_ptr_refresh_complete">Actualizado.</string>
-  <string name="cube_ptr_refreshing">A actualizar...</string>
+  <string name="cube_ptr_refresh_complete">Actualizado</string>
+  <string name="cube_ptr_refreshing">A actualizar…</string>
   <string name="cube_ptr_release_to_refresh">Lançar para actualizar</string>
   <string name="cube_ptr_seconds_ago"> segundos atrás</string>
   <string name="daily_task">Desafios diários</string>
@@ -48,8 +48,8 @@
   <string name="hello">Olá</string>
   <string name="hours">%dh</string>
   <string name="in_progress">A pedir…</string>
-  <string name="invalid_json">Alguma coisa correu mal</string>
-  <string name="level">Level</string>
+  <string name="invalid_json">Linha inválida</string>
+  <string name="level">Nível</string>
   <string name="level_detail">Limite de desafios diários: %d</string>
   <string name="level_exp_value" formatted="false">Pontos: %d/%d</string>
   <string name="level_info_format" formatted="false">"Nível %d %d/%d
@@ -66,7 +66,7 @@
   <string name="miuishare_account_need_activate">Partilha Weibo necessita que a sua conta Weibo esteja ligada à sua conta Xiaomi. Deseja activar a sua conta?</string>
   <string name="miuishare_account_need_login">Partilha Weibo necessita que a sua conta Weibo esteja ligada à sua conta Xiaomi. Deseja iniciar sessão para partilhar?</string>
   <string name="miuishare_app_name">Partilha Miui</string>
-  <string name="miuishare_no_network">Não é possível ligar à rede.</string>
+  <string name="miuishare_no_network">Não é possível ligar à rede</string>
   <string name="miuishare_publish">Enviar</string>
   <string name="miuishare_share_done">Partilhado com sucesso</string>
   <string name="miuishare_share_editor_title">Partilhar</string>
@@ -99,7 +99,7 @@
   <string name="share_button">Partilhar</string>
   <string name="start_activity_error">"Não foi possível iniciar a aplicação: %s"</string>
   <string name="take_awarded_package">Resgatar</string>
-  <string name="take_awarded_package_failed">Não foi possível resgatar o prémio. Aguarde alguns minutos e tente novamente.</string>
+  <string name="take_awarded_package_failed">Não foi possível resgatar o prémio. Aguarde alguns minutos e tente novamente</string>
   <string name="task">Desafios</string>
   <string name="task_begin">Em curso…</string>
   <string name="task_completed">Concluído</string>
