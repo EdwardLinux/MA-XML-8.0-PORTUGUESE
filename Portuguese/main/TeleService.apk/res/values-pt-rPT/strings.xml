@@ -573,7 +573,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="lable_all_out_except">Chamadas internacionais efectuadas excepto para casa PLMN</string>
   <string name="lable_all_outgoing">Todas as chamadas efectuadas</string>
   <string name="lable_all_outgoing_international">Chamadas internacionais efectuadas</string>
-  <string name="lable_call_barring">Barramento de chamada</string>
+  <string name="lable_call_barring">Barramento de chamadas</string>
   <string name="lable_disable">Desligado</string>
   <string name="lable_enable">Ligado</string>
   <string name="lable_incoming_calls_except">Chamadas recebidas em roaming</string>

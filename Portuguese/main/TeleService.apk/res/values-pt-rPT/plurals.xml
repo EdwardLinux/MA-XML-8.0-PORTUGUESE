@@ -13,7 +13,7 @@
         <item quantity="one">A acção seleccionada não está disponível no modo de chamada de emergência. O telefone fica neste modo durante %s minuto. Pretende sair agora?</item>
     </plurals>
 	<plurals name="call_recording_notification_complete">
-        <item quantity="other">%d chamadas gravadas.</item>
-        <item quantity="one">1 chamada gravada.</item>
+        <item quantity="other">%d chamadas gravadas</item>
+        <item quantity="one">1 chamada gravada</item>
     </plurals>
 </resources>
