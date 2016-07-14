@@ -22,7 +22,7 @@
   <string name="bookmark_list_title">Favoritos</string>
   <string name="cannot_send_message">"Não é possível enviar a mensagem"</string>
   <string name="check_network">Definições de rede</string>
-  <string name="compressing">Imagem é demasiado grande. A comprimir…</string>
+  <string name="compressing">A imagem é demasiado grande. A comprimir…</string>
   <string name="confirm_delete_all_conversations">Eliminar todas as conversas?</string>
   <string name="confirm_delete_conversation">Eliminar esta conversa inteira?</string>
   <string name="confirm_delete_group_message">Eliminar as mensagens de grupo?</string>
@@ -66,7 +66,7 @@
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Foi atingido o limite máximo da mensagem</string>
   <string name="failed_to_add_media">Não pode adicionar %1$s à sua mensagem</string>
-  <string name="failed_to_resize_image">Imagem não redimensionada</string>
+  <string name="failed_to_resize_image">Não foi possível redimensionar imagem</string>
   <string name="feedback_description_hint">Escreva aqui o seu comentário</string>
   <string name="feedback_submit">Enviar</string>
   <string name="festival_networking_desc">Esta função necessita de uma ligação à Internet para funcionar normalmente</string>
@@ -120,8 +120,8 @@
   <string name="mx_dspt">Enviar mensagens pela Nuvem Mi entre dispositivos MIUI gratuitamente</string>
   <string name="mx_enable">Mensagens Mi</string>
   <string name="mx_msg">Mensagens Mi</string>
-  <string name="mx_on_sim_1">Mensagens Mi com o cartão SIM 1</string>
-  <string name="mx_on_sim_2">Mensagens Mi com o cartão SIM 2</string>
+  <string name="mx_on_sim_1">Mensagens Mi SIM 1</string>
+  <string name="mx_on_sim_2">Mensagens Mi SIM 2</string>
   <string name="mx_recommend_msg">Toque para activar as Mensagens Mi</string>
   <string name="need_download">A sincronizar…</string>
   <string name="network_error">Erro de rede</string>
@@ -154,7 +154,7 @@
   <string name="pref_sms_theme_title">Mostrar</string>
   <string name="pref_summary_allow_si_sl_push">Permitir que mensagens carreguem conteúdos de websites</string>
   <string name="pref_summary_delivery_reports">Pedir relatório de entrega para cada mensagem que enviar</string>
-  <string name="pref_summary_hide_festival">Ocultar idioma chinês apenas quando o sistema estiver definido para um idioma diferente</string>
+  <string name="pref_summary_hide_festival">Ocultar língua chinesa apenas quando o sistema está definido para um idioma diferente</string>
   <string name="pref_summary_manage_sim_messages">Gerir as mensagens do cartão SIM</string>
   <string name="pref_summary_mx_feedback">Enviar erros e comentários</string>
   <string name="pref_summary_notification_body_enabled">Mostrar mensagens no ecrã de bloqueio e área de notificações</string>
@@ -211,7 +211,7 @@
   <string name="sim_delete">Eliminar</string>
   <string name="sim_empty">Sem mensagens no cartão SIM</string>
   <string name="snippet_audio">[audio]</string>
-  <string name="snippet_picture">[picture]</string>
+  <string name="snippet_picture">[image]</string>
   <string name="sp_mark_as_read_title">Marcar tudo como lido</string>
   <string name="stick">Fixar</string>
   <string name="sticked_conversation">Já fixou a conversa actual</string>
