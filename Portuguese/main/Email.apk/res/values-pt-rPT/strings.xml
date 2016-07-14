@@ -817,7 +817,7 @@
   <string name="send_feed_back">Enviar comentários</string>
   <string name="send_feed_back_keywords">Enviar comentários</string>
   <string name="sender_whitelist_cleared">As imagens não serão mostradas automaticamente</string>
-  <string name="senders_elided">.</string>
+  <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
   <string name="sending">A enviar…</string>
   <string name="sending_message">A enviar a mensagem…</string>
