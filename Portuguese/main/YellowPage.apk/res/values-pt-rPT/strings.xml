@@ -85,7 +85,7 @@
   <string name="express_addressee_info">Informações do destinatário</string>
   <string name="express_addressee_name">Nome do destinatário</string>
   <string name="express_addressee_region">Local do destinatário</string>
-  <string name="express_banner_header">%1$s / Número de registo</string>
+  <string name="express_banner_header">%1$s / Número de pesquisa</string>
   <string name="express_cancel_order">Cancelar</string>
   <string name="express_company_list_empty">Sem empresas</string>
   <string name="express_company_phone_prefix">"Contacto: "</string>
@@ -104,7 +104,7 @@
   <string name="express_field_empty">Vazio</string>
   <string name="express_go_back">Voltar</string>
   <string name="express_info_divider">" / "</string>
-  <string name="express_inqiury_select_logistics">Serviço de entrega</string>
+  <string name="express_inqiury_select_logistics">Serviço de expedição</string>
   <string name="express_inquiry">Pesquisa</string>
   <string name="express_inquiry_and_send">A pesquisar e enviar</string>
   <string name="express_inquiry_button_text">Pesquisar</string>
@@ -114,20 +114,20 @@
   <string name="express_inquiry_delete_warning_multiple">Eliminar %d entradas?</string>
   <string name="express_inquiry_delete_warning_single">Eliminar esta entrada?</string>
   <string name="express_inquiry_delivered">Entregue</string>
-  <string name="express_inquiry_edit_logistics">Serviço de entrega</string>
+  <string name="express_inquiry_edit_logistics">Serviço de expedição</string>
   <string name="express_inquiry_history">Histórico</string>
   <string name="express_inquiry_history_remark">Comentários</string>
   <string name="express_inquiry_history_remark_hint">Histórico dos comentários</string>
   <string name="express_inquiry_internal_failure">"Ocorreu  um erro.
 Verifique o número de pesquisa"</string>
-  <string name="express_inquiry_logistics">Seleccionar um serviço de entrega</string>
-  <string name="express_inquiry_logistics_prefix">Serviço de entrega: %s</string>
+  <string name="express_inquiry_logistics">Seleccionar um serviço de expedição</string>
+  <string name="express_inquiry_logistics_prefix">Serviço de expedição: %s</string>
   <string name="express_inquiry_logistics_select_others_indication">Outro</string>
   <string name="express_inquiry_no_history">Sem histórico</string>
   <string name="express_inquiry_no_result">Sem resultados</string>
-  <string name="express_inquiry_number_empty">Introduzir o seu número de registo</string>
+  <string name="express_inquiry_number_empty">Introduzir o seu número de pesquisa</string>
   <string name="express_inquiry_number_invalid">"Número inválido.
-Verifique o seu número de registo"</string>
+Verifique o seu número de pesquisa"</string>
   <string name="express_inquiry_provider_info">Produzido por</string>
   <string name="express_inquiry_serial_number_indication">Número de registo</string>
   <string name="express_inquiry_serial_number_prefix">Número: %s</string>
@@ -188,7 +188,7 @@ Verifique o seu número de registo"</string>
   <string name="express_show_all_inquiry_history">Mostrar todo o histórico</string>
   <string name="express_submit_order">Submeter</string>
   <string name="express_track_order">Pesquisar</string>
-  <string name="express_tracking_number">Número de encomenda</string>
+  <string name="express_tracking_number">Número de pesquisa</string>
   <string name="express_urge_order">Insistir</string>
   <string name="express_view_order">Ver encomendas</string>
   <string name="express_view_status">Pesquisar</string>
