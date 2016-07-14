@@ -391,7 +391,7 @@
   <string name="pref_summary_delete_limit">%1$s mensagens por conversa</string>
   <string name="pref_summary_delivery_reports">Mostrar relatório de entrega das mensagens enviadas</string>
   <string name="pref_summary_delivery_ringtone">Tocar som de notificação para as mensagens enviadas</string>
-  <string name="pref_summary_hide_festival">Ocultar língua chinesa apenas quando o sistema está definido para uma linguagem não chinesa</string>
+  <string name="pref_summary_hide_festival">Ocultar idioma chinês apenas quando o sistema estiver definido para um idioma diferente</string>
   <string name="pref_summary_manage_sim_messages">Gerir as mensagens do cartão SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Transferir fotos e vídeos automaticamente nas mensagens</string>
   <string name="pref_summary_mms_read_reports">Mostrar notificação na lista de conversas quando o receptor transferir o conteúdo da MMS</string>

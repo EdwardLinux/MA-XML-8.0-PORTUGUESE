@@ -154,7 +154,7 @@
   <string name="pref_sms_theme_title">Mostrar</string>
   <string name="pref_summary_allow_si_sl_push">Permitir que mensagens carreguem conteúdos de websites</string>
   <string name="pref_summary_delivery_reports">Pedir relatório de entrega para cada mensagem que enviar</string>
-  <string name="pref_summary_hide_festival">Ocultar língua chinesa apenas quando o sistema está definido para um idioma diferente</string>
+  <string name="pref_summary_hide_festival">Ocultar idioma chinês apenas quando o sistema estiver definido para um idioma diferente</string>
   <string name="pref_summary_manage_sim_messages">Gerir as mensagens do cartão SIM</string>
   <string name="pref_summary_mx_feedback">Enviar erros e comentários</string>
   <string name="pref_summary_notification_body_enabled">Mostrar mensagens no ecrã de bloqueio e área de notificações</string>
