@@ -139,7 +139,7 @@ O objecto não pode estar a mais de dois metros</string>
   <string name="pref_camera_focusmode_entry_normal">Padrão</string>
   <string name="pref_camera_focusmode_title">Modo de focagem</string>
   <string name="pref_camera_gradienter_title">Endireitar</string>
-  <string name="pref_camera_hand_night_title">Noite</string>
+  <string name="pref_camera_hand_night_title">Nocturno</string>
   <string name="pref_camera_hdr_entry_off">Deslig.</string>
   <string name="pref_camera_hfr_entry_off">Deslig.</string>
   <string name="pref_camera_histogram_entry_disable">Desligar</string>
@@ -205,7 +205,7 @@ O objecto não pode estar a mais de dois metros</string>
   <string name="pref_camera_scenemode_entry_fireworks">Fogo de artifício</string>
   <string name="pref_camera_scenemode_entry_flowers">Flores</string>
   <string name="pref_camera_scenemode_entry_landscape">Paisagem</string>
-  <string name="pref_camera_scenemode_entry_night">Noite</string>
+  <string name="pref_camera_scenemode_entry_night">Nocturno</string>
   <string name="pref_camera_scenemode_entry_night_portrait">Retrato nocturno</string>
   <string name="pref_camera_scenemode_entry_off">Desligado</string>
   <string name="pref_camera_scenemode_entry_portrait">Retrato</string>
@@ -315,7 +315,7 @@ O objecto não pode estar a mais de dois metros</string>
   <string name="simple_mode_button_text_fast_video">Desligar Câmara Lenta</string>
   <string name="simple_mode_button_text_fisheye">Desligar Olho-de-Peixe</string>
   <string name="simple_mode_button_text_gradienter">Desligar Endireitar</string>
-  <string name="simple_mode_button_text_hand_night">Desligar Noite</string>
+  <string name="simple_mode_button_text_hand_night">Desligar Nocturno</string>
   <string name="simple_mode_button_text_magic_mirror">Desligar Espelho Mágico</string>
   <string name="simple_mode_button_text_manual">Desligar Manual</string>
   <string name="simple_mode_button_text_panorama">Desligar Panorama</string>

@@ -42,6 +42,7 @@
   <string name="answer_state_setting_summary">Opções adicionais das chamadas recebidas</string>
   <string name="answer_state_setting_title">Definições das chamadas recebidas</string>
   <string name="antispam_notification_title">Número desconhecido</string>
+  <string name="antispam_setting">Lista de bloqueio</string>
   <string name="apn_settings">Pontos de acesso (APN)</string>
   <string name="area_code_preference_be_set_summary">Localização actual: %s</string>
   <string name="area_code_preference_summary">Marcar automaticamente o código de área</string>
@@ -126,6 +127,7 @@
   <string name="callFailed_unobtainable_number">Número inválido</string>
   <string name="callFailed_userBusy">Linha ocupada</string>
   <string name="callUnanswered_forwarded">Chamada não atendida e reencaminhada</string>
+  <string name="call_advanced_setting_title">Definições avançadas</string>
   <string name="call_barring">Barramento de chamadas</string>
   <string name="call_barring_incoming">Barramento de chamadas recebidas</string>
   <string name="call_barring_outgoing">Barramento de chamadas efectuadas</string>
@@ -144,8 +146,8 @@
   <string name="call_record_auto_whitelist_no_item">Adicionar um número tocando no botão (+)</string>
   <string name="call_record_auto_whitelist_summary">%d números</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 número</string>
-  <string name="call_record_off_summary">Gravação de chamadas está desligada</string>
-  <string name="call_record_on_summary">As chamadas vão ser gravadas automaticamente</string>
+  <string name="call_record_off_summary">Desligada</string>
+  <string name="call_record_on_summary">Ligada</string>
   <string name="call_record_setting">Definições de gravação de chamada</string>
   <string name="call_record_whitelist_custom">Números seleccionados</string>
   <string name="call_recording_notification_message">Toque para ouvir</string>
@@ -859,6 +861,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preference_data_usage_summary">Definir o seu plano de dados para controlar a utilização de dados móveis</string>
   <string name="preference_data_usage_title">Definir plano de dados</string>
   <string name="preference_dial_pad_touch_tone_default">Predefinido</string>
+  <string name="preference_dial_pad_touch_tone_off">Desligado</string>
   <string name="preference_dial_pad_touch_tone_piano">Teclas de piano</string>
   <string name="preference_dial_pad_touch_tone_title">Tons de toque do teclado de marcação</string>
   <string name="preference_telocation_summary_countrycode_off">não marcar automaticamente o código do país</string>
