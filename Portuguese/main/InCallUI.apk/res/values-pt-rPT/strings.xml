@@ -23,7 +23,7 @@
   <string name="callFailed_noSignal">Sem sinal</string>
   <string name="callFailed_number_unreachable">Número inacessível</string>
   <string name="callFailed_outOfService">Fora de serviço</string>
-  <string name="callFailed_out_of_network">Chamada sem rede disponível</string>
+  <string name="callFailed_out_of_network">Chamada de fora da rede</string>
   <string name="callFailed_powerOff">Rádio desligado</string>
   <string name="callFailed_server_error">Erro do servidor. Tente novamente mais tarde</string>
   <string name="callFailed_server_unreachable">Servidor inacessível</string>
@@ -113,9 +113,9 @@
   <string name="inCallLabel">InCallUI</string>
   <string name="incall_call_type_label_sip">Chamadas pela Internet</string>
   <string name="incall_error_supp_service_conference">Não é possível pôr chamadas em conferência</string>
-  <string name="incall_error_supp_service_hangup">Não é possível desligar chamadas</string>
-  <string name="incall_error_supp_service_reject">Não é possível rejeitar chamadas</string>
-  <string name="incall_error_supp_service_separate">Não é possível separar chamadas</string>
+  <string name="incall_error_supp_service_hangup">Não é possível desligar chamada</string>
+  <string name="incall_error_supp_service_reject">Não é possível rejeitar chamada</string>
+  <string name="incall_error_supp_service_separate">Não é possível separar chamada</string>
   <string name="incall_error_supp_service_switch">Não é possível trocar chamadas</string>
   <string name="incall_error_supp_service_transfer">Não é possível transferir chamadas</string>
   <string name="incall_error_supp_service_unknown">Serviço não suportado</string>
@@ -129,7 +129,7 @@
   <string name="incoming_circle_text_reject_p">Deslizar para cima</string>
   <string name="ivr_menu_dialing_msg">A reencaminhar…</string>
   <string name="ivr_menu_dialing_msg_no_mute">Ir para o serviço seleccionado…[correcção automática de erros está activada]</string>
-  <string name="ivr_menu_list_sub_menu_count_format">Toque %s</string>
+  <string name="ivr_menu_list_sub_menu_count_format">Prima %s</string>
   <string name="ivr_menu_list_title">Menu de voz</string>
   <string name="jeejen_answer_call_text">Atender chamada</string>
   <string name="jeejen_end_call_text">Terminar chamada</string>
@@ -165,7 +165,7 @@
   <string name="not_activate_sim_card_content_title">Número de telefone não verificado</string>
   <string name="not_activate_sim_card_content_with_operator">Verificar SIM %1$s (%2$s) para efectuar chamadas utilizando pacotes de recarregamento. Ainda pode efectuar chamadas normais que vão ser taxadas pela sua operadora</string>
   <string name="not_support_message">Não é possível ligar para este número. A alterar para chamadas normais que podem ser taxadas pela sua operadora</string>
-  <string name="not_support_title">Número não suportado</string>
+  <string name="not_support_title">Este número não é suportado</string>
   <string name="notification_action_accept">Aceitar</string>
   <string name="notification_action_answer_video">Vídeo</string>
   <string name="notification_action_answer_voice">Voz</string>
@@ -211,7 +211,7 @@
   <string name="respond_via_sms_custom_message">Escreva o que quiser…</string>
   <string name="select_audio_dialog_title">Seleccione o modo de atendimento</string>
   <string name="select_one_sim_title">Apenas pode utilizar o SIM %1$d</string>
-  <string name="select_sim_hint">Não é possível utilizar SIM %2$d, enquanto SIM %1$d estiver em utilização"</string>
+  <string name="select_sim_hint">Não é possível utilizar SIM %2$d, enquanto SIM %1$d estiver em utilização</string>
   <string name="select_voice_call_sim">Escolher cartão SIM</string>
   <string name="separate_from_conference">Separar chamada</string>
   <string name="suspect_info">Verificar sempre a identidade do contacto por telefone ou vídeo antes de responder a quaisquer mensagens que envolva suas informações pessoais</string>
