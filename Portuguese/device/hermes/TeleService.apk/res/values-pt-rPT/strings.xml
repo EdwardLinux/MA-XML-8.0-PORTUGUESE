@@ -148,7 +148,7 @@
   <string name="call_record_auto_whitelist_summary_for_one">1 número</string>
   <string name="call_record_off_summary">Desligada</string>
   <string name="call_record_on_summary">Ligada</string>
-  <string name="call_record_setting">Definições de gravação de chamadas</string>
+  <string name="call_record_setting">Gravação de chamadas</string>
   <string name="call_record_whitelist_custom">Números seleccionados</string>
   <string name="call_recording_notification_message">Toque para ouvir</string>
   <string name="call_recording_notification_message_low_storage">O cartão SD está cheio</string>
@@ -157,7 +157,7 @@
   <string name="call_recording_notification_title">Chamada gravada</string>
   <string name="call_recording_notification_title_error">Não foi possível gravar a chamada</string>
   <string name="call_recording_notification_toggle_title">Notificação de gravação de chamada</string>
-  <string name="call_recording_setting">Gravar chamada</string>
+  <string name="call_recording_setting">Gravação de chamadas</string>
   <string name="call_remove_exception_numbers_confirm">%d números vão ser eliminados</string>
   <string name="call_settings">Definições de chamadas</string>
   <string name="call_settings_category">Chamadas</string>
@@ -377,7 +377,7 @@
   <string name="enable_in_progress">A definir o PIN…</string>
   <string name="enable_pin">Activar/desactivar o PIN do cartão SIM</string>
   <string name="enable_pin_ok">PIN definido</string>
-  <string name="enable_proximity_summary">Desligar o ecrã automaticamente durante as chamadas</string>
+  <string name="enable_proximity_summary">Desligar o ecrã durante as chamadas</string>
   <string name="enable_proximity_title">Sensor de proximidade</string>
   <string name="enable_sim_pin">Definir PIN do SIM</string>
   <string name="enable_video_calling_dialog_close">Fechar</string>
