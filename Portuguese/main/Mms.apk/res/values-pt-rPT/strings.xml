@@ -69,7 +69,7 @@
   <string name="cloud_state_disabled">Sincronização com a Nuvem Mi está desligada</string>
   <string name="cloud_state_sync_finished">Sincronizado com a Nuvem Mi</string>
   <string name="cloud_state_syncing">A sincronizar com a Nuvem Mi…</string>
-  <string name="compressing">Imagem muito grande. A comprimir…</string>
+  <string name="compressing">A imagem é demasiado grande. A comprimir…</string>
   <string name="confirm">Confirmar</string>
   <string name="confirm_add_blacklist_dialog_dspt">Deseja adicionar este número à sua lista de bloqueio?</string>
   <string name="confirm_delete_SIM_message">Eliminar esta mensagem do cartão SIM?</string>
@@ -164,7 +164,7 @@
   <string name="expire_on">Expira: %s</string>
   <string name="exporting_progress_private_message">Exportar mensagens…</string>
   <string name="failed_to_add_media">Não pode adicionar %1$s à sua mensagem</string>
-  <string name="failed_to_resize_image">Imagem não redimensionada</string>
+  <string name="failed_to_resize_image">Não foi possível redimensionar imagem</string>
   <string name="fake_cell_alert_hint">Parece que a mensagem foi enviada de um número de telefone diferente do que está a ser mostrado. Tenha cuidado com as SMS que contêm pedidos de informações financeiras</string>
   <string name="fake_cell_checking_hint">A verificar segurança…</string>
   <string name="fake_cell_detection_entry">Detecção de mensagem falsa</string>
@@ -311,7 +311,7 @@
   <string name="mx_auto_resend_sms">Enviar como texto</string>
   <string name="mx_auto_resend_sms_summary">Enviar mensagens como SMS pela ligação de dados móveis, quando não estiver ligado ao Wi-Fi. Serão aplicados os encargos normais da utilização de dados</string>
   <string name="mx_b2c_message_desc">Notificações de rede</string>
-  <string name="mx_b2c_message_resend_not_online">Não é possível reenviar mensagem. Mensagens Mi está offline</string>
+  <string name="mx_b2c_message_resend_not_online">Não é possível reenviar mensagem. Mensagens Mi estão desactivadas</string>
   <string name="mx_b2c_message_server">Servidor</string>
   <string name="mx_btn_enable">Activado</string>
   <string name="mx_btn_enable_now">Activar</string>
@@ -330,13 +330,13 @@
   <string name="mx_filter_message_from_stranger_dialog_title">Bloquear Mensagens Mi de números desconhecidos</string>
   <string name="mx_filter_message_from_stranger_summary">Ainda vai conseguir receber mensagens SMS de números desconhecidos</string>
   <string name="mx_msg">Mensagens Mi</string>
-  <string name="mx_msg_pageview_setting_title">Definições de Mensagens Mi</string>
-  <string name="mx_offline">Offline</string>
+  <string name="mx_msg_pageview_setting_title">Definições das Mensagens Mi</string>
+  <string name="mx_offline">Desactivadas</string>
   <string name="mx_on_sim_1">Mensagens Mi com o cartão SIM 1</string>
   <string name="mx_on_sim_2">Mensagens Mi com o cartão SIM 2</string>
-  <string name="mx_online">Activado</string>
-  <string name="mx_reactivate">Reactivar mensagem Mi</string>
-  <string name="mx_recommend_msg">Toque para activar as Mensagens Mi</string>
+  <string name="mx_online">Activadas</string>
+  <string name="mx_reactivate">Reactivar Mensagens Mi</string>
+  <string name="mx_recommend_msg">Toque para activar Mensagens Mi</string>
   <string name="mx_type_guide">Mensagens Mi permitem enviar SMS gratuitas para outros utilizadores MIUI</string>
   <string name="need_download">A sincronizar…</string>
   <string name="networking_allow_continue">OK</string>
@@ -391,7 +391,7 @@
   <string name="pref_summary_delete_limit">%1$s mensagens por conversa</string>
   <string name="pref_summary_delivery_reports">Mostrar relatório de entrega das mensagens enviadas</string>
   <string name="pref_summary_delivery_ringtone">Tocar som de notificação para as mensagens enviadas</string>
-  <string name="pref_summary_hide_festival">Ocultar idioma chinês apenas quando o sistema estiver definido para um idioma diferente</string>
+  <string name="pref_summary_hide_festival">Ocultar língua chinesa apenas quando o sistema está definido para um idioma diferente</string>
   <string name="pref_summary_manage_sim_messages">Gerir as mensagens do cartão SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Transferir fotos e vídeos automaticamente nas mensagens</string>
   <string name="pref_summary_mms_read_reports">Mostrar notificação na lista de conversas quando o receptor transferir o conteúdo da MMS</string>
@@ -399,7 +399,7 @@
   <string name="pref_summary_notification_body_enabled">Mostrar mensagens no ecrã de bloqueio e área de notificações</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Não pode pré-visualizar mensagens em Modo Convidado</string>
   <string name="pref_summary_off_system_mms_priority">Utilizar aplicações de terceiros para enviar e receber MMS</string>
-  <string name="pref_summary_on_system_mms_priority">Utilizar a aplicação Mensagens MIUI como predefinida para enviar e receber MMS</string>
+  <string name="pref_summary_on_system_mms_priority">Utilizar a aplicação Mensagens Mi como predefinida para enviar e receber MMS</string>
   <string name="pref_summary_send_delivery_reports">Enviar mensagem de confirmação de entrega ao remetente quando recebe uma mensagem multimédia</string>
   <string name="pref_summary_show_recent_contacts">Mostrar contactos recentes ao redigir uma nova mensagem</string>
   <string name="pref_summary_wake_up_screen">Ligar ecrã quando é recebida uma nova mensagem</string>
@@ -558,7 +558,7 @@
   <string name="sms_report_failed">Erro ao enviar relatório</string>
   <string name="sms_report_success">Relatório enviado</string>
   <string name="snippet_audio">[audio]</string>
-  <string name="snippet_picture">[picture]</string>
+  <string name="snippet_picture">[image]</string>
   <string name="sp_category_all">Todas as mensagens de serviço</string>
   <string name="sp_category_bank">Banco de serviço de mensagens</string>
   <string name="sp_category_title_prefix">%s</string>
