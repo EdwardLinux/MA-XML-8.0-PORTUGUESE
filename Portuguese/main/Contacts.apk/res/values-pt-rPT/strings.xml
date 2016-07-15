@@ -743,7 +743,7 @@ Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", 
 "</b></font></li>"
 "</string>
   <string name="noContactsHelpTextForCreateShortcut">Não tem contactos para mostrar</string>
-  <string name="noContactsHelpTextWithSync">"Não tem nenhum contacto para mostrar (Se acabou de adicionar uma conta, poderá levar alguns minutos para sincronizar os contactos.)
+  <string name="noContactsHelpTextWithSync">"Não tem nenhum contacto para mostrar (Se acabou de adicionar uma conta, poderá demorar alguns minutos para sincronizar os contactos)
 
 Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", depois seleccione:
  
@@ -756,7 +756,7 @@ Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", 
 "<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contactos do seu cartão SIM ou cartão SD
 "</b></font></li>"
 "</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Não tem nenhum contacto para mostrar (Se acabou de adicionar uma conta, poderá levar alguns minutos para sincronizar os contactos.)"</string>
+  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Não tem contactos para mostrar (Se acabou de adicionar uma conta, poderá demorar alguns minutos para sincronizar os contactos)"</string>
   <string name="noContactsNoSimHelpText">"Não tem nenhum contacto para mostrar.
 
 Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", em seguida, toque:
@@ -768,7 +768,7 @@ Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", 
 "<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contactos do seu cartão SD
 "</b></font></li>"
 "</string>
-  <string name="noContactsNoSimHelpTextWithSync">"Não tem contactos para mostrar. (Se acabou de adicionar uma conta, pode demorar alguns minutos para sincronizar contactos.)
+  <string name="noContactsNoSimHelpTextWithSync">"Não tem contactos para mostrar. (Se acabou de adicionar uma conta, poderá demorar alguns minutos para sincronizar os contactos)
 
 Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", em seguida, toque:
  
@@ -1073,7 +1073,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="shortcutDialContact">"Marcação directa "</string>
   <string name="shortcutMessageContact">Mensagem directa</string>
   <string name="showAllContactsJoinItem">Mostrar todos os contactos</string>
-  <string name="simContacts_airplaneMode">Para importar contactos do cartão SIM desligue o Modo Avião</string>
+  <string name="simContacts_airplaneMode">Desligue o Modo Avião para importar contactos do cartão SIM</string>
   <string name="simContacts_empty">Sem contactos no cartão SIM</string>
   <string name="simContacts_emptyLoading">A carregar contactos do cartão SIM…</string>
   <string name="simContacts_title">Contactos do Cartão SIM</string>
