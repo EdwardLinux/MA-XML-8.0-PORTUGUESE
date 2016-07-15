@@ -37,7 +37,7 @@
   <string name="copy_text">Copiar texto</string>
   <string name="copy_text_success">Texto copiado</string>
   <string name="crop_cancel_description">Cancelar</string>
-  <string name="crop_done_description">Descartar</string>
+  <string name="crop_done_description">Rejeitar</string>
   <string name="dialog_report">Reportar</string>
   <string name="document_color_picture">Cor</string>
   <string name="document_color_picture_tip">A converter para a cor…</string>
