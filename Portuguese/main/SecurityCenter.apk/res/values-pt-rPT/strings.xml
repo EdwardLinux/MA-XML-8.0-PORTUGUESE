@@ -222,7 +222,7 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_button">Cancelar</string>
   <string name="celcius_symbol">℃</string>
-  <string name="charging_text_battery_full_time">Última carga</string>
+  <string name="charging_text_battery_full_time">"Última carga "</string>
   <string name="charging_text_battery_nearly_full">Quase carregada</string>
   <string name="charging_text_battery_perfect">Totalmente carregada</string>
   <string name="charging_text_time_calculating">A calcular tempo de carregamento…</string>
@@ -777,7 +777,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="power_btn_analyze">Analizar utilização de bateria</string>
   <string name="power_cell">Inactividade do telefone</string>
   <string name="power_center_auto_shutdown">Ligar/desligar automaticamente</string>
-  <string name="power_center_battery_full">Bateria completamente carregada</string>
+  <string name="power_center_battery_full">"Bateria totalmente carregada "</string>
   <string name="power_center_charge_time">%1$s até estar carregada</string>
   <string name="power_center_consume_rank">Utilização de bateria</string>
   <string name="power_center_consume_time">%1$s restantes</string>
