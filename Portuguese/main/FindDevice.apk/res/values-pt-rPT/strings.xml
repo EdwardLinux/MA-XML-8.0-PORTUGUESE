@@ -64,10 +64,10 @@ Se trocar de cartões SIM, outra SMS vai ser enviada automaticamente para reacti
 Certifique-se que inseriu um cartão SIM válido e que o seu dispositivo está ligado a uma rede Wi-Fi
 
 Esqueceu a palavra-passe?
-Vá a account.xiaomi.com para redefinir a sua palavra-passe
+Vá a id.mi.com para redefinir a sua palavra-passe
 
 Outros motivos
-Inicie sessão em account.xiaomi.com e tente desbloquear o seu dispositivo a partir de lá"</string>
+Inicie sessão em i.mi.com e tente desbloquear o seu dispositivo a partir de lá"</string>
   <string name="unlock_help_title">Ajuda a desbloquear:</string>
   <string name="unlock_wrong_captcha">O código que introduziu está incorrecto</string>
   <string name="unlocking">A activar…</string>
