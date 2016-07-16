@@ -4,9 +4,9 @@
   <string name="adding_or_updating_account">A actualizar conta…</string>
   <string name="app_name">Localizar Dispositivo</string>
   <string name="captcha">Captcha</string>
-  <string name="change_find_device_status_failed">Não foi possível desbloquear. %s.</string>
-  <string name="default_lock_msg_words">Este dispositivo está associado com uma Conta Mi existente. Por razões de segurança, tem de introduzir a sua palavra-passe para verificar o dispositivo</string>
-  <string name="default_lock_msg_words_with_phone">Olá! Eu perdi o meu telefone. Por favor pode-me contactar? Obrigado!</string>
+  <string name="change_find_device_status_failed">Não foi possível desbloquear. %s</string>
+  <string name="default_lock_msg_words">Este dispositivo está associado a uma Conta Mi existente. Por razões de segurança, tem de introduzir a sua palavra-passe para verificar o dispositivo</string>
+  <string name="default_lock_msg_words_with_phone">Olá! Eu perdi o meu telefone. Por favor, pode-me contactar? Obrigado!</string>
   <string name="device_locked">Este dispositivo está bloqueado</string>
   <string name="device_lost">Este dispositivo está perdido</string>
   <string name="disable_find_device_error">Não foi possível desligar Localizar Dispositivo. %1$s</string>
@@ -26,7 +26,7 @@
   <string name="find_device_notice_p1">Vá a</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"para localizar, bloquear ou restaurar o seu telefone.
-Se trocar de cartões SIM, outra SMS vai ser enviada automaticamente para reactivar esta funcionalidade."</string>
+Se trocar de cartões SIM, outra SMS vai ser enviada automaticamente para reactivar esta funcionalidade"</string>
   <string name="find_device_stop_noise">Toque OK para silenciar</string>
   <string name="find_device_storage_corrupted">Armazenamento de Localizar Dispositivo corrompido. O seu dispositivo está inseguro</string>
   <string name="find_device_success_title">Localizar Dispositivo</string>
@@ -42,7 +42,7 @@ Se trocar de cartões SIM, outra SMS vai ser enviada automaticamente para reacti
   <string name="passport_vcode_prompt_long">Introduzir código de verificação</string>
   <string name="passport_verify">Verificar</string>
   <string name="password">Palavra-passe</string>
-  <string name="phone_locked">Este dispositivo pode estar associado com a sua Conta Mi (%s) existente. Inicie sessão para activar este dispositivo</string>
+  <string name="phone_locked">Este dispositivo pode estar associado à sua Conta Mi (%s). Inicie sessão para activar este dispositivo</string>
   <string name="stop_on_empty_captcha">Captcha não pode estar em branco</string>
   <string name="stop_on_empty_password">Palavra-passe não pode estar em branco</string>
   <string name="time_correction_failure">Não é possível corrigir hora (%s)</string>
@@ -58,19 +58,19 @@ Se trocar de cartões SIM, outra SMS vai ser enviada automaticamente para reacti
   <string name="unlock_error_server">Erro de servidor</string>
   <string name="unlock_error_ssl_hand_shake">Não foi possível ligar ao servidor. Tente definir a data e hora manualmente</string>
   <string name="unlock_error_unknown">Não é possível iniciar sessão</string>
-  <string name="unlock_error_user_name">Utilizador inválido</string>
-  <string name="unlock_error_wrong_vcode">O código introduzido é inválido</string>
+  <string name="unlock_error_user_name">O nome de utilizador que introduziu é inválido</string>
+  <string name="unlock_error_wrong_vcode">O código que introduziu é inválido</string>
   <string name="unlock_help">"Mantenha-se ligado à rede
 Certifique-se que inseriu um cartão SIM válido e que o seu dispositivo está ligado a uma rede Wi-Fi
 
 Esqueceu a palavra-passe?
-Vá a id.mi.com para redefinir a sua palavra-passe
+Vá a account.xiaomi.com para redefinir a sua palavra-passe
 
 Outros motivos
-Inicie sessão em i.mi.com e tente desbloquear o seu dispositivo a partir de lá"</string>
+Inicie sessão em account.xiaomi.com e tente desbloquear o seu dispositivo a partir de lá"</string>
   <string name="unlock_help_title">Ajuda a desbloquear:</string>
-  <string name="unlock_wrong_captcha">O código que introduziu está incorrecto.</string>
+  <string name="unlock_wrong_captcha">O código que introduziu está incorrecto</string>
   <string name="unlocking">A activar…</string>
   <string name="verifing_account">A verificar palavra-passe…</string>
-  <string name="verify_password_failed">Não foi possível verificar a Conta Mi. %s.</string>
+  <string name="verify_password_failed">Não foi possível verificar a Conta Mi (%s)</string>
 </resources>
