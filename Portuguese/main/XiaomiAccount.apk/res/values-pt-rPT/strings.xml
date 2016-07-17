@@ -147,7 +147,7 @@
   <string name="no_network_btn">Actualizar</string>
   <string name="no_network_title">Não é possível ligar à rede</string>
   <string name="no_response_retry">Sem resposta. Por favor, repita</string>
-  <string name="no_sim_card">Sem cartão SIM</string>
+  <string name="no_sim_card">Inserir cartão SIM</string>
   <string name="nobind">Não associado</string>
   <string name="other_devices">Outros dispositivos</string>
   <string name="passport_access_denied">Acesso negado</string>
