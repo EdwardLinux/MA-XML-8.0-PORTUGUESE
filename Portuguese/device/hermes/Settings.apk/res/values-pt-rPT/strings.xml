@@ -600,7 +600,7 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="category_personal">Pessoal</string>
   <string name="category_work">Trabalho</string>
   <string name="cdma_security_settings_summary">Definir a minha localização, desbloqueio de ecrã, credencial de bloqueio do armazenamento</string>
-  <string name="cell_broadcast_settings">Definições de difusão móvel</string>
+  <string name="cell_broadcast_settings">Transmissões de emergência</string>
   <string name="cell_broadcast_settings_summary">Seleccione o tipo de alertas de emergência a mostrar</string>
   <string name="change_password">Alterar bloqueio de ecrã</string>
   <string name="change_security_lock">Experimente outras formas de desbloqueio</string>
@@ -2263,13 +2263,13 @@ Não vai perder quaisquer dados das aplicações"</string>
   <string name="ringtone_title">Toque do telefone</string>
   <string name="ringtone_uniform_setting_title">Definições do segundo cartão</string>
   <string name="roaming">Dados em roaming</string>
-  <string name="roaming_disable">Utilizar dados móveis em roaming</string>
-  <string name="roaming_enable">Utilizar dados móveis em roaming</string>
+  <string name="roaming_disable">Desligar dados móveis em roaming</string>
+  <string name="roaming_enable">Ligar dados móveis em roaming</string>
   <string name="roaming_reenable_message">A ligação de dados foi perdida porque saiu do alcance da sua rede e o roaming de dados estava desligado</string>
   <string name="roaming_reenable_title">Permitir ligação de dados em roaming?</string>
   <string name="roaming_turn_it_on_button">Ligar</string>
-  <string name="roaming_warning">Quando permite roaming de dados, poderá acarretar custos significativos!</string>
-  <string name="roaming_warning_multiuser">"Quando permite dados em roaming, poderá acarretar custos significativos de roaming!
+  <string name="roaming_warning">Quando permite roaming de dados, podem surgir custos significativos!</string>
+  <string name="roaming_warning_multiuser">"Quando permite dados em roaming, podem surgir custos significativos de roaming!
 
 Estas definições vão afectar todos os  utilizadores deste telefone"</string>
   <string name="rssi_label">RSSI:</string>
