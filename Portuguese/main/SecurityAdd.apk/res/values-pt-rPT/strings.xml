@@ -14,7 +14,7 @@
   <string name="month_report_disconnect_tip">Não foi possível ligar à rede</string>
   <string name="month_report_follow_service_negative">Não obrigado</string>
   <string name="month_report_follow_service_positive">Seguir</string>
-  <string name="month_report_follow_service_summary">Mantenha se actualizado com notícias e informações de segurança ao seguir a conta oficial da aplicação Segurança MIUI</string>
+  <string name="month_report_follow_service_summary">Mantenha-se actualizado com notícias e informações de segurança ao seguir a conta oficial da aplicação Segurança MIUI</string>
   <string name="month_report_follow_service_title">Actualizações de segurança</string>
   <string name="month_report_history_activity_label">Reportar histórico</string>
   <string name="month_report_network_dialog_description">Permitir que esta aplicação ligue à Internet para obter a informação do relatório?</string>
@@ -23,7 +23,7 @@
   <string name="month_report_result_share">Partilhar</string>
   <string name="month_report_share_img_fail">Não foi possível partilhar</string>
   <string name="month_report_share_loading">Aguarde…</string>
-  <string name="month_report_warning_dialog_description">Para ver o relatório mensal, ligue esta funcionalidade na definições da aplicação Segurança</string>
+  <string name="month_report_warning_dialog_description">Para ver o relatório mensal, ligue esta funcionalidade nas definições da aplicação Segurança</string>
   <string name="month_report_warning_dialog_positive">Ligar</string>
   <string name="month_report_warning_dialog_title">Relatório de segurança mensal</string>
   <string name="network_not_available">"Não é possível ligar à rede"</string>
