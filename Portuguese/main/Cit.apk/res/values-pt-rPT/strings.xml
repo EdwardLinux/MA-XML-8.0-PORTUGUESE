@@ -360,9 +360,9 @@ Vire o telefone, fale para microfone superior. Deverá ouvir a sua voz no altifa
   <string name="remove_headset_and_starttest">Remova os auriculares e prima Iniciar para testar</string>
   <string name="speak_from_mic">Fale para o microfone</string>
   <string name="start">Iniciar</string>
-  <string name="testagain">Pode premir o botão INÍCIO para testar novamente</string>
+  <string name="testagain">Pode premir o botão Início para testar novamente</string>
   <string name="testing">A executar AutoTeste…</string>
   <string name="tp_color">Cor TP:</string>
   <string name="tp_version">Versão TP:</string>
-  <string name="waiting">A aguardar por 4s</string>
+  <string name="waiting">A aguardar 4s</string>
 </resources>
