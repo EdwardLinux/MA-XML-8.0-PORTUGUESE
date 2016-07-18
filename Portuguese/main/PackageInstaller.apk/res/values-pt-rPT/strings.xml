@@ -124,7 +124,7 @@ Todos os dados existentes da aplicação serão guardados"</string>
   <string name="permission_request_title">Pedido de permissão</string>
   <string name="permission_summary_enforced_by_policy">Imposta pela política</string>
   <string name="permission_title">Permissões de %1$s</string>
-  <string name="permission_warning_template">Permitir que o %1$s %2$s?</string>
+  <string name="permission_warning_template">Permitir que %1$s possa %2$s?</string>
   <string name="permlab_togglePermissions">alternar permissões</string>
   <string name="privacyPerms">Privacidade</string>
   <string name="safe_relative">Segurança</string>
