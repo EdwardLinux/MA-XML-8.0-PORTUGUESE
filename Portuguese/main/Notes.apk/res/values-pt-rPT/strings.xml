@@ -8,7 +8,7 @@
   <string name="alert_message_delete">Eliminar %1$s?</string>
   <string name="alert_message_delete_note">Eliminar esta nota?</string>
   <string name="alert_message_edit_anyway">Se editar esta nota, alguns dos seus conteúdos podem ser perdidos</string>
-  <string name="alert_title_delete">Eliminar nota?</string>
+  <string name="alert_title_delete">Eliminar nota</string>
   <string name="alert_title_edit_anyway">Esta nota contém conteúdo não suportado</string>
   <string name="all_terms">%1$s e %2$s</string>
   <string name="app_name">Notas</string>
