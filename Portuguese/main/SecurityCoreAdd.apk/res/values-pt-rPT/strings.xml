@@ -132,7 +132,7 @@ Pode também transferi-las separadamente"</string>
   <string name="please_diff_finger_print">Certifique-se que utiliza diferentes impressões digitais para o primeiro e segundo espaço./nCaso contrário, pode não conseguir entrar no segundo espaço através do ecrã de bloqueio</string>
   <string name="privacyContactsSummary">Mostrar itens privados no segundo espaço</string>
   <string name="privacyContactsTitle">Mensagens privadas e contactos</string>
-  <string name="private_sms_show_sub_title">Os dados das mensagens vão ser partilhados entre os dois espaços​</string>
+  <string name="private_sms_show_sub_title">Os dados das mensagens vão ser partilhados entre os dois espaços</string>
   <string name="private_sms_show_title">As mensagens privadas são mostradas no segundo espaço</string>
   <string name="private_space_setting">Gerir</string>
   <string name="public_app">Ambos os espaços</string>
