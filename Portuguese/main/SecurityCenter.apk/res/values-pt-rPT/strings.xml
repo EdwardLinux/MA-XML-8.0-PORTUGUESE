@@ -628,7 +628,6 @@ Maior tráfego: %1$s%2$s | %3$s utilizados"</string>
   <string name="menu_text_networkassistants">Utilização de dados</string>
   <string name="menu_text_networkassistants_danger">%s excedidos</string>
   <string name="menu_text_networkassistants_remain">%s restantes</string>
-  <string name="menu_text_power_manager">Bateria</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Bateria %s</string>
   <string name="mi_service_app_detail">Detalhes de utilização de dados</string>
@@ -971,7 +970,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="resource_networkassistant_2">Calibrar plano de dados</string>
   <string name="resource_networkassistant_4">Testar rede</string>
   <string name="resource_permcenter">Permissões</string>
-  <string name="resource_powercenter">Utilização de bateria</string>
+  <string name="resource_powercenter">Bateria</string>
   <string name="resource_securitycenter">Segurança</string>
   <string name="resource_securitycenter_settings">Segurança</string>
   <string name="restrictbackground_conflict_saving_msg">Não é possível utilizar a poupança de dados quando os dados em segundo plano estão restringidos. Desligar a poupança de dados e restringir dados em segundo plano?</string>
