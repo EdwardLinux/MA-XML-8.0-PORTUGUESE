@@ -135,7 +135,7 @@
   <string name="callrecordview_menu_show_title">Ecrã de registo de chamadas</string>
   <string name="callrecordview_menu_voip">VoIP</string>
   <string name="calls_voip_prompt">VoIP</string>
-  <string name="cancel_confirmation_dialog_message">Rejeitar as suas alterações?</string>
+  <string name="cancel_confirmation_dialog_message">Rejeitar alterações?</string>
   <string name="cancel_confirmation_dialog_title">Cancelar</string>
   <string name="cancel_export_confirmation_message">Cancelar a exportação de %s?</string>
   <string name="cancel_import_confirmation_message">Cancelar a importação de %s?</string>
@@ -262,7 +262,7 @@
   <string name="create_voip_shortcut_success">Atalho criado</string>
   <string name="customLabelPickerTitle">Nome de etiqueta personalizado</string>
   <string name="custom_list_filter">Definir vista personalizada</string>
-  <string name="custom_nickname_hint">Introduzir a alcunha</string>
+  <string name="custom_nickname_hint">Introduzir alcunha</string>
   <string name="data_already_used">Dados já utilizados</string>
   <string name="data_charge">Carregamento de dados</string>
   <string name="data_left">Dados restantes</string>
@@ -671,9 +671,9 @@ Motivo: \"%s\""</string>
   <string name="miprofile_name">O meu perfil</string>
   <string name="miprofile_nick_name_edit">Editar alcunha do cartão</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Introduzir alcunha</string>
-  <string name="miprofile_nick_name_edit_dialog_message">Alcunha vai ser mostrada no registo de chamadas e informação de perfil</string>
+  <string name="miprofile_nick_name_edit_dialog_message">A alcunha vai ser mostrada no registo de chamadas e informação de perfil</string>
   <string name="miprofile_nick_name_edit_dialog_title">Editar alcunha</string>
-  <string name="miprofile_notice_text">"Toque para ver a foto de perfil do contacto"</string>
+  <string name="miprofile_notice_text">Toque para ver a foto de perfil do contacto</string>
   <string name="miprofile_request_agenda_date">Esta pessoa quer trocar cartões de contacto [%1$s]</string>
   <string name="miprofile_request_agenda_today">Esta pessoa quer trocar cartões de contacto [Hoje %1$s]</string>
   <string name="miprofile_request_agenda_yesterday">Esta pessoa quer trocar cartões de contacto [Ontem %1$s]</string>
@@ -724,7 +724,7 @@ Motivo: \"%s\""</string>
   <string name="next_birthday">Próximo aniversário: %s</string>
   <string name="nfc_vcard_file_name">Contacto recebido através de NFC</string>
   <string name="nicknameLabelsGroup">Alcunha</string>
-  <string name="nickname_editor_title">Editar a alcunha</string>
+  <string name="nickname_editor_title">Editar alcunha</string>
   <string name="nickname_picker_name_column">Nome de contacto</string>
   <string name="nickname_picker_nickname_column">Título</string>
   <string name="noAccounts">Para criar grupos necessita de uma conta</string>
@@ -743,7 +743,7 @@ Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", 
 "</b></font></li>"
 "</string>
   <string name="noContactsHelpTextForCreateShortcut">Não tem contactos para mostrar</string>
-  <string name="noContactsHelpTextWithSync">"Não tem nenhum contacto para mostrar (Se acabou de adicionar uma conta, poderá demorar alguns minutos para sincronizar os contactos)
+  <string name="noContactsHelpTextWithSync">"Não tem contactos para mostrar (Se acabou de adicionar uma conta, poderá demorar alguns minutos para sincronizar os contactos)
 
 Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", depois seleccione:
  

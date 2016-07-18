@@ -58,7 +58,7 @@
   <string name="cannot_get_details">Não é possível obter detalhes</string>
   <string name="cannot_resend_audio">Não foi possível enviar a gravação</string>
   <string name="cannot_send_message">É impossível enviar a mensagem</string>
-  <string name="cannot_send_message_reason">A sua mensagem não tem destinatários válidos</string>
+  <string name="cannot_send_message_reason">A mensagem não tem destinatários válidos</string>
   <string name="card_insert_to_contact">Importar contacto</string>
   <string name="change_duration_activity">Alterar duração</string>
   <string name="check_all">Seleccionar todas</string>
@@ -130,7 +130,7 @@
   <string name="disable_notifications_dialog_message">Parar notificações de mensagens de texto duplicadas a partir aplicação de mensagens predefinida?</string>
   <string name="discard">Rejeitar</string>
   <string name="discard_message">Rejeitar</string>
-  <string name="discard_message_reason">A sua mensagem será rejeitada porque não tem um destinatário válido</string>
+  <string name="discard_message_reason">A mensagem vai ser rejeitada porque não tem um destinatário válido</string>
   <string name="discard_slideshow">Rejeitar apresentação de diapositivos</string>
   <string name="dl_failure_notification">Não foi possível transferir a mensagem %1$s de %2$s</string>
   <string name="done">Concluído</string>
