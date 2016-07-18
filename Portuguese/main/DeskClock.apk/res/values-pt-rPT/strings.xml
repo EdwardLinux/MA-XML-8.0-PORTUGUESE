@@ -116,9 +116,9 @@
   <string name="timer_got_it">OK</string>
   <string name="timer_item_duration_display">%1$d min. %2$d seg.</string>
   <string name="timer_item_label_hint">Nome do temporizador</string>
-  <string name="timer_item_picker_hour">Hora</string>
-  <string name="timer_item_picker_minute">Min</string>
-  <string name="timer_item_picker_second">Seg</string>
+  <string name="timer_item_picker_hour">H</string>
+  <string name="timer_item_picker_minute">M</string>
+  <string name="timer_item_picker_second">S</string>
   <string name="timer_new_item">Adicionar temporizador</string>
   <string name="timer_notify_text">Suspender ou desactivar temporizador</string>
   <string name="timer_start_alarm">Acabou o tempo!</string>

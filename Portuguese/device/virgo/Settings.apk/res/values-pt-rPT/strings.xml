@@ -1376,7 +1376,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="force_rtl_layout_all_locales_summary">Força da direcção RTL da disposição do ecrã de para todos os locais</string>
   <string name="force_stop">Forçar paragem</string>
   <string name="force_stop_dlg_text">Se forçar a paragem desta aplicação, ela pode funcionar mal</string>
-  <string name="force_stop_dlg_title">Forçar paragem?</string>
+  <string name="force_stop_dlg_title">Forçar paragem</string>
   <string name="force_touch">3D Touch</string>
   <string name="force_touch_demo">Demonstração</string>
   <string name="force_touch_enable">Activar 3D Touch</string>
