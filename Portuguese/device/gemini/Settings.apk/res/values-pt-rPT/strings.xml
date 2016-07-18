@@ -735,7 +735,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="category_personal">Pessoal</string>
   <string name="category_work">Trabalho</string>
   <string name="cdma_security_settings_summary">Definir a minha localização, desbloqueio de ecrã, credencial de bloqueio do armazenamento</string>
-  <string name="cell_broadcast_settings">Transmissões de emergência</string>
+  <string name="cell_broadcast_settings">Transmissões Móveis</string>
   <string name="cellular_data_summary">Permitir utilizar dados através rede móvel</string>
   <string name="cellular_data_title">Dados de rede móvel</string>
   <string name="change">Alterar</string>
@@ -1341,6 +1341,8 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="fingerprint_last_delete_message">Não poderá utilizar as impressões digitais para desbloquear o telemóvel, autorizar compras ou iniciar sessão em aplicações com elas</string>
   <string name="fingerprint_last_delete_title">Remover todas as impressões digitais?</string>
   <string name="fingerprint_list_title">Impressão digital</string>
+  <string name="fingerprint_lock_first">Desbloquear o primeiro espaço</string>
+  <string name="fingerprint_lock_second">Desbloquear o segundo espaço</string>
   <string name="fingerprint_manage_category_title">Gerir impressões digitais</string>
   <string name="fingerprint_not_recognized">Não reconhecido</string>
   <string name="fingerprint_removal_failed">Não foi possível remover impressão digital. Tente novamente mais tarde</string>

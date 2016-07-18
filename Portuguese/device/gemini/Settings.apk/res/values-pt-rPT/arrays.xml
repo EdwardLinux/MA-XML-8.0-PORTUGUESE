@@ -507,9 +507,9 @@
         <item>Móvel preferencial</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
-        <item>Desligada</item>
+        <item>Desligado</item>
         <item>Leve</item>
-        <item>Média</item>
+        <item>Médio</item>
         <item>Forte</item>        
     </string-array>
     <string-array name="media_feedback_level_entries">
@@ -740,6 +740,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Modo Criança</item>
         <item>Explorador</item>
         <item>Bloqueio de aplicações</item>
+        <item>Segundo espaço</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Todos os dias</item>

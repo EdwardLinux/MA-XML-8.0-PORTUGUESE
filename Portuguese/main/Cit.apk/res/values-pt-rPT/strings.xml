@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="SDCard">Cartão SD</string>
+  <string name="SD_INTERNAL_SDCard_mounted">Detectar cartão SD</string>
+  <string name="SD_INTERNAL_SDCard_unmounted">Cartão SD indisponível</string>
+  <string name="SD_SDCard_available_szie">Tamanho disponível</string>
+  <string name="SD_SDCard_mounted">Detectar cartão SD</string>
+  <string name="SD_SDCard_total_size">Tamanho total</string>
+  <string name="SD_SDCard_unmounted">Cartão SD indisponível</string>
+  <string name="button_ok">OK</string>
   <string name="camerainfo">Informações da câmara</string>
   <string name="cit_OTG_plugin_check_summary">Quando um dispositivo OTG está ligado, o texto \"Dispositivo USB OTG detectado\" deverá ser mostrado abaixo</string>
   <string name="cit_OTG_plugin_check_title">OTG (detecção)</string>
@@ -342,7 +350,17 @@ Vire o telefone, fale para o microfone frontal. Deverá ouvir a sua voz no altif
 Vire o telefone, fale para microfone superior. Deverá ouvir a sua voz no altifalante"</string>
   <string name="cit_x5_audio_lb_top_to_speaker_title">Teste de funcionamento do microfone superior</string>
   <string name="cit_yellow_torch_on">Ligar luz de LED amarela</string>
+  <string name="error_app_internal">Erro na aplicação</string>
+  <string name="error_app_unsupported">Formato não suportado</string>
+  <string name="error_sdcard_access">Não é possível aceder ao cartão SD</string>
   <string name="lcminfo">Informações LCM</string>
+  <string name="mic1_spk_loop">Microfone</string>
+  <string name="mic1test">MIC1</string>
+  <string name="micphone_test">Micro e colunas</string>
+  <string name="remove_headset_and_starttest">Remova os auriculares e prima Iniciar para testar</string>
+  <string name="speak_from_mic">Fale para o microfone</string>
+  <string name="start">Iniciar</string>
+  <string name="testagain">Pode premir o botão INÍCIO para testar novamente</string>
   <string name="testing">A executar AutoTeste…</string>
   <string name="tp_color">Cor TP:</string>
   <string name="tp_version">Versão TP:</string>
