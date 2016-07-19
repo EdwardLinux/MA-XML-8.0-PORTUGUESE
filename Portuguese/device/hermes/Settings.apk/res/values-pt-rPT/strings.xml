@@ -6,7 +6,7 @@ Identificador de anúncios é um ID único e permanente do seu dispositivo. Os f
 Se escolher não utilizar anúncios personalizados, a quantidade de anúncios não vai ser reduzida mas os anúncios úteis para si vão ser reduzidos drásticamente"</string>
   <string name="about_settings">Acerca do telefone</string>
   <string name="about_settings_summary">Ver informações legais, estado, versão de software</string>
-  <string name="ac_enable_summary">Desenhar um padrão de desbloqueio para abrir as aplicações</string>
+  <string name="ac_enable_summary">Vai ser necessário um padrão de desbloqueio para abrir as aplicações</string>
   <string name="ac_enable_title">Bloqueio de aplicações</string>
   <string name="ac_privacy_mode_sum">Exigir uma palavra-passe para desligar o Modo Convidado</string>
   <string name="ac_privacy_mode_title">Bloqueio de ecrã</string>
@@ -18,10 +18,10 @@ Se escolher não utilizar anúncios personalizados, a quantidade de anúncios n�
   <string name="access_control_app_entry_single">Abrir aplicação</string>
   <string name="access_control_need_password">"Aplicação %s foi protegida
 "</string>
-  <string name="access_control_need_to_unlock">Desenhe o seu padrão de desbloqueio</string>
+  <string name="access_control_need_to_unlock">Padrão de desbloqueio</string>
   <string name="access_control_no_back_footer">Toque [icon] para sair</string>
   <string name="access_control_password_title">Bloqueio de ecrã</string>
-  <string name="access_control_recording_intro_header">Desenhe um padrão de bloqueio</string>
+  <string name="access_control_recording_intro_header">Desenhar um padrão de desbloqueio</string>
   <string name="access_control_reset_by_account">Iniciar a sessão na sua Conta Mi para redefinir palavra-passe</string>
   <string name="accessibility_captioning_title">Legendas</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Esta funcionalidade é experimental e pode afectar o desempenho</string>
@@ -524,8 +524,8 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="bluetooth_visibility_timeout">Visibilidade expirou</string>
   <string name="bootloader">Modo Fastboot</string>
   <string name="bootloader_apply_step_1">Ligar o modo Fastboot?</string>
-  <string name="bootloader_apply_step_2">Quando o seu dispositivo estiver no modo Fastboot e ligado ao computador,</string>
-  <string name="bootloader_apply_step_3">Os dados (p.e., palavras-passe, mensagens) no dispositivo podem ser acedidos sem a sua permissão</string>
+  <string name="bootloader_apply_step_2">Quando o seu dispositivo estiver no modo Fastboot e ligado ao computador</string>
+  <string name="bootloader_apply_step_3">os dados (p.e., palavras-passe, mensagens) no dispositivo podem ser acedidos sem a sua permissão</string>
   <string name="bootloader_apply_step_4">Pode levar à perda de dados ou a danos irreparáveis no hardware</string>
   <string name="bootloader_apply_step_5">Certifique-se que sabe utilizar o modo Fastboot antes de o ligar</string>
   <string name="bootloader_apply_title">Aviso importante</string>
@@ -600,7 +600,7 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="category_personal">Pessoal</string>
   <string name="category_work">Trabalho</string>
   <string name="cdma_security_settings_summary">Definir a minha localização, desbloqueio de ecrã, credencial de bloqueio do armazenamento</string>
-  <string name="cell_broadcast_settings">Transmissões de emergência</string>
+  <string name="cell_broadcast_settings">Transmissões móveis</string>
   <string name="cell_broadcast_settings_summary">Seleccione o tipo de alertas de emergência a mostrar</string>
   <string name="change_password">Alterar bloqueio de ecrã</string>
   <string name="change_security_lock">Experimente outras formas de desbloqueio</string>
@@ -611,8 +611,8 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="checking_for_updates">A verificar actualizações…</string>
   <string name="children_mode_enable_title">Modo Criança</string>
   <string name="children_mode_set_apps_title">Aplicações acessíveis</string>
-  <string name="children_mode_tips_off">Após ligar o Modo Criança, toque no botão início para voltar ao ecrã inicial</string>
-  <string name="children_mode_tips_on">Após desligar o Modo Criança, toque no botão início para voltar ao ecrã inicial</string>
+  <string name="children_mode_tips_off">Após ligar o Modo Criança, toque no botão Início para voltar ao ecrã inicial</string>
+  <string name="children_mode_tips_on">Após desligar o Modo Criança, toque no botão Início para voltar ao ecrã inicial</string>
   <string name="children_mode_title">Modo Criança</string>
   <string name="choose_smartcover_type">Escolher tipo de capa</string>
   <string name="choose_timezone">Escolher fuso horário</string>
@@ -621,7 +621,7 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="clear_activities_summary">Utilizar esta aplicação para algumas operações predefinidas</string>
   <string name="clear_adb_keys">Renovar as autorizações de depuração USB</string>
   <string name="clear_cache_btn_text">Limpar cache</string>
-  <string name="clear_data_dlg_text">Todos os dados desta aplicação serão eliminados definitivamente. Inclui todos os ficheiros, definições, contas e bases de dados. Continuar?</string>
+  <string name="clear_data_dlg_text">Todos os dados desta aplicação serão eliminados definitivamente. Isto inclui todos os ficheiros, definições, contas, bases de dados, etc. Continuar?</string>
   <string name="clear_data_dlg_title">Eliminar dados da aplicação</string>
   <string name="clear_data_failed">Não foi possível limpar dados da aplicação</string>
   <string name="clear_failed_dlg_text">Erro ao limpar os dados da aplicação</string>
@@ -687,16 +687,16 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="credentials_unlock"/>
   <string name="credentials_unlock_hint">Insira a palavra-passe do armazenamento de credenciais</string>
   <string name="credentials_wrong_password">Palavra-passe incorrecta</string>
-  <string name="crypt_keeper_button_text">Encriptar dispositivo</string>
+  <string name="crypt_keeper_button_text">Encriptar telefone</string>
   <string name="crypt_keeper_confirm_title">Encriptar?</string>
   <string name="crypt_keeper_cooldown">Tente novamente dentro de ^1 segundos</string>
-  <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas e dados, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar um restauro de dados de fábrica, apagando todos os seus dados.
+  <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, dados, aplicações transferidas, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar um restauro de dados de fábrica, eliminando todos os seus dados.
 
 Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter o telefone a carregar até que a encriptação esteja terminada. Se interromper o processo de encriptação, perderá alguns ou todos os seus dados"</string>
   <string name="crypt_keeper_dialog_need_password_message">Deve definir um código PIN ou uma palavra-passe para o ecrã de bloqueio antes de iniciar a encriptação</string>
   <string name="crypt_keeper_dialog_need_password_title">Ecrã de bloqueio sem código PIN ou palavra-passe</string>
   <string name="crypt_keeper_encrypt_summary">Solicitar um código PIN numérico ou uma palavra-passe para desencriptar o telefone cada vez que o ligar</string>
-  <string name="crypt_keeper_encrypt_title">Encriptar dispositivo</string>
+  <string name="crypt_keeper_encrypt_title">Encriptar telefone</string>
   <string name="crypt_keeper_encrypted_summary">Encriptado</string>
   <string name="crypt_keeper_enter_password">Introduza a sua palavra-passe</string>
   <string name="crypt_keeper_failed_summary">"A encriptação foi interrompida e não pôde terminar. Como resultado, os dados no telefone já não estão acessíveis.
@@ -1038,7 +1038,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="enforce_read_external_confirm_title">Proteger o armazenamento USB?</string>
   <string name="enforce_read_external_summary">Aplicações devem pedir permissão para ler o armazenamento USB</string>
   <string name="enforce_read_external_title">Proteger armazenamento USB</string>
-  <string name="enter_password">Introduza a palavra-passe actual para desencriptar o dispositivo após reiniciar</string>
+  <string name="enter_password">Introduza a palavra-passe actual para desencriptar o telefone após reiniciar</string>
   <string name="equalizer">Equalizador</string>
   <string name="erase_application">Eliminar aplicações</string>
   <string name="erase_application_description">Eliminar as aplicações transferidas</string>
@@ -1076,11 +1076,11 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="filter_apps_running">Em execução</string>
   <string name="filter_apps_third_party">Transferidas</string>
   <string name="filter_dlg_title">Escolher opções do filtro</string>
-  <string name="fingerprint_and_password_entrance_title">Ecrã de bloqueio e impressão digital</string>
-  <string name="fingerprint_identify_msg">A ler impressão digital…</string>
-  <string name="fingerprint_identify_try_again_msg">Não foi possível ler impressão digital. Tente novamente</string>
+  <string name="fingerprint_and_password_entrance_title">Bloqueio de ecrã e impressão digital</string>
+  <string name="fingerprint_identificating_msg">A ler impressão digital…</string>
   <string name="fingerprint_identify_input_password_msg">Introduzir palavra-passe</string>
-  <string name="fingerprint_list_title">Impressão</string>
+  <string name="fingerprint_identify_try_again_msg">Não foi possível ler impressão digital. Tente novamente</string>
+  <string name="fingerprint_list_title">Impressão digital</string>
   <string name="finish_application">Forçar paragem</string>
   <string name="finish_button_label">Terminar</string>
   <string name="firmware_version">Versão Android</string>
@@ -1396,6 +1396,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lock_screen_secure_after_timeout_title">Palavra-passe exigida</string>
   <string name="lock_screen_unlock_show">Ignorar ecrã de bloqueio</string>
   <string name="lock_screen_unlock_show_summary">Ir directamente para o ecrã inicial</string>
+  <string name="lock_secure_after_timeout_click_me_to_change_text">Toque para alterar</string>
   <string name="lock_settings">Ecrã de bloqueio e segurança</string>
   <string name="lock_settings_common_title">Definições de bloqueio</string>
   <string name="lock_settings_picker_settings">Definir bloqueio de ecrã</string>
@@ -1408,13 +1409,15 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lockpassword_choose_for_second_user">Definir palavra-passe do Segundo espaço</string>
   <string name="lockpassword_choose_lock_generic_header">Selecção de desbloqueio</string>
   <string name="lockpassword_choose_your_password_header">Definir palavra-passe</string>
-  <string name="lockpassword_choose_your_pattern_header">Desenhe o seu padrão</string>
+  <string name="lockpassword_choose_your_pattern_header">Definir padrão</string>
   <string name="lockpassword_choose_your_pin_header">Definir PIN</string>
   <string name="lockpassword_confirm_passwords_dont_match">As palavras-passe não correspondem</string>
   <string name="lockpassword_confirm_pins_dont_match">Os PINs não correspondem</string>
   <string name="lockpassword_confirm_your_password_header">Confirmar palavra-passe</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirmar padrão</string>
   <string name="lockpassword_confirm_your_pin_header">Confirmar PIN</string>
+  <string name="lockpassword_confirm_your_private_password_header">Confirmar a sua palavra-passe</string>
+  <string name="lockpassword_confirm_your_private_pattern_header">Confirmar o seu padrão</string>
   <string name="lockpassword_continue_label">Continuar</string>
   <string name="lockpassword_illegal_character">Palavra-passe contém um caracter inválido</string>
   <string name="lockpassword_ok_label">OK</string>
@@ -1452,15 +1455,15 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lockpattern_recording_intro_header">Ligar pelo menos 4 pontos para criar um padrão</string>
   <string name="lockpattern_recording_intro_header_second_space">Desenhar padrão de desbloqueio para o Segundo espaço</string>
   <string name="lockpattern_restart_button_text">Redesenhar</string>
-  <string name="lockpattern_retry_button_text">Desenhar novamente</string>
+  <string name="lockpattern_retry_button_text">Tentar novamente</string>
   <string name="lockpattern_settings_change_lock_pattern">Alterar padrão de desbloqueio</string>
   <string name="lockpattern_settings_choose_lock_pattern">Definir padrão de desbloqueio</string>
-  <string name="lockpattern_settings_enable_power_button_instantly_locks">Botão Ligar/Desligar bloqueia o ecrã</string>
+  <string name="lockpattern_settings_enable_power_button_instantly_locks">Botão ligar/desligar bloqueia o ecrã</string>
   <string name="lockpattern_settings_enable_summary">Deve desenhar um padrão para desbloquear o ecrã</string>
   <string name="lockpattern_settings_enable_tactile_feedback_title">Vibrar ao tocar</string>
   <string name="lockpattern_settings_enable_title">Necessário padrão</string>
   <string name="lockpattern_settings_enable_visible_pattern_title">Ver padrão de desbloqueio</string>
-  <string name="lockpattern_settings_help_how_to_record">Desenhar um padrão</string>
+  <string name="lockpattern_settings_help_how_to_record">Como desenhar um padrão de desbloqueio</string>
   <string name="lockpattern_settings_title">Padrão de desbloqueio</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Aguarde pelo menos %d segundos e tente novamente</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Demasiadas tentativas incorrectas!</string>
@@ -1660,7 +1663,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_headset_mode_volume">Controlo do volume</string>
   <string name="music_headset_no_contected">Não foram detectados auriculares</string>
   <string name="music_headset_settings">Auriculares e efeitos de áudio</string>
-  <string name="music_hifi_summary">Reduzir o ruído e a distorção e aumentar a qualidade de áudio</string>
+  <string name="music_hifi_summary">Reduzir o ruído e distorção e aumentar a qualidade de áudio</string>
   <string name="music_hifi_title">Áudio Hi-Fi</string>
   <string name="music_hifi_volume">Volume Hi-Fi</string>
   <string name="music_mi_effect_summary">Activar o melhoramento de som Mi quando utilizar auriculares</string>
@@ -2093,10 +2096,10 @@ Seleccione o seu sistema operativo:"</string>
   <string name="privacy_settings">Cópia e restauro</string>
   <string name="privacy_settings_title">Cópia e restauro</string>
   <string name="private_gallery_need_to_unlock">Palavra-passe exigida</string>
-  <string name="private_gallery_recording_intro_header">Desenhe o seu padrão de desbloqueio</string>
+  <string name="private_gallery_recording_intro_header">Desenhe um padrão de desbloqueio</string>
   <string name="private_gallery_reset_by_account">Para redefinir a palavra-passe, inicie sessão na sua Conta Mi</string>
   <string name="private_sms_need_to_unlock">Palavra-passe exigida</string>
-  <string name="private_sms_recording_intro_header">Desenhe um padrão de bloqueio</string>
+  <string name="private_sms_recording_intro_header">Desenhe um padrão de desbloqueio</string>
   <string name="private_sms_reset_by_account">Para redefinir a palavra-passe, inicie a sessão na sua Conta Mi</string>
   <string name="process_kernel_label">Sistema Android</string>
   <string name="process_mediaserver_label">Servidor de multimédia</string>
@@ -2560,7 +2563,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone"</string>
   <string name="security_enable_widgets_disabled_summary">Desactivado pelo administrador</string>
   <string name="security_enable_widgets_title">Activar widgets</string>
   <string name="security_keyguard_category_name">Ecrã de bloqueio</string>
-  <string name="security_password_category_name">Definições de segurança</string>
+  <string name="security_password_category_name">Tipo de segurança</string>
   <string name="security_passwords_title">Desbloqueio de ecrã</string>
   <string name="security_patch">Nível do patch de segurança do Android</string>
   <string name="security_privacy_settings_title">Privacidade</string>
@@ -2690,8 +2693,8 @@ Tentativas restantes :"</string>
   <string name="sms_change_default_no_previous_dialog_text">Utilizar %s como aplicação de SMS?</string>
   <string name="sms_delivered_sound_dialog_title">Escolher toque de mensagem entregue</string>
   <string name="sms_delivered_sound_title">Mensagem entregue</string>
-  <string name="sms_over_ims_off">Desligar SMS sobre IMS</string>
-  <string name="sms_over_ims_on">Ligar SMS sobre IMS</string>
+  <string name="sms_over_ims_off">Desactivar SMS sobre IMS</string>
+  <string name="sms_over_ims_on">Activar SMS sobre IMS</string>
   <string name="sms_received_sound_dialog_title">Escolher toque de mensagem recebida</string>
   <string name="sms_received_sound_title">Mensagem recebida</string>
   <string name="sort_order_alpha">Ordenar por nome</string>
@@ -2912,7 +2915,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="tts_default_synth_summary">Definir o mecanismo de síntese de fala a ser utilizado para texto falado</string>
   <string name="tts_default_synth_title">Mecanismo predefinido</string>
   <string name="tts_engine_error">O mecanismo seleccionado não pode ser executado</string>
-  <string name="tts_engine_error_config">Configurar</string>
+  <string name="tts_engine_error_config">Definir</string>
   <string name="tts_engine_error_reselect">Escolher outro mecanismo</string>
   <string name="tts_engine_name_is_disabled_summary">%s está inactivo</string>
   <string name="tts_engine_name_is_enabled_summary">%s está activo</string>
@@ -3019,7 +3022,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="usb_media_format_button_text">Formatar armazenamento USB</string>
   <string name="usb_media_format_desc">Eliminar todos os dados do armazenamento USB? Vai perder <b>todos</b> os dados guardados no armazenamento!</string>
   <string name="usb_media_format_final_desc">"Formatar o armazenamento USB e eliminar todos os ficheiros? Não pode reverter esta acção!"</string>
-  <string name="usb_media_format_gesture_explanation">É necessário desenhar o seu padrão de desbloqueio para confirmar a opção de formatar o armazenamento USB</string>
+  <string name="usb_media_format_gesture_explanation">É necessário desenhar o padrão de desbloqueio para confirmar a opção de formatar o armazenamento USB</string>
   <string name="usb_media_format_summary">Eliminar todos os dados no armazenamento USB</string>
   <string name="usb_media_format_title">Formatar armazenamento USB</string>
   <string name="usb_mount">Montar armazenamento USB</string>
@@ -3172,7 +3175,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="voice_input_output_settings_title">Definições de entrada e saída de voz</string>
   <string name="voice_input_settings">Definições de entrada de texto por voz</string>
   <string name="voice_input_settings_title">Entrada de texto por voz</string>
-  <string name="voice_interaction_security_warning">Este serviço de entrada de texto por voz poderá efectuar monitorização de voz permanente e controlar aplicações activadas por voz em seu nome. É proveniente da aplicação %s. Permitir a utilização deste serviço?</string>
+  <string name="voice_interaction_security_warning">Este serviço de entrada de texto por voz poderá efectuar a monitorização de voz permanente e controlar aplicações activadas por voz em seu nome. É proveniente da aplicação %s. Permitir a utilização deste serviço?</string>
   <string name="voice_interactor_preference_summary">Palavra de activação e interacção completas</string>
   <string name="voice_recognizer_preference_summary">Serviço simples de voz para texto</string>
   <string name="voice_search_settings_title">Pesquisa por voz</string>
@@ -3332,7 +3335,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="wifi_eap_sim_simcard">Escolher SIM</string>
   <string name="wifi_eap_user_cert">Certificado do utilizador</string>
   <string name="wifi_empty_list_user_restricted">Não tem permissões para mudar esta rede</string>
-  <string name="wifi_empty_list_wifi_off">Para ver as redes disponíveis ligue o Wi-Fi</string>
+  <string name="wifi_empty_list_wifi_off">Activar o Wi-Fi para ver as redes disponíveis</string>
   <string name="wifi_empty_list_wifi_on">A localizar redes Wi-Fi…</string>
   <string name="wifi_enable">Wi-Fi</string>
   <string name="wifi_enable_watchdog_service_summary">Evitar ligações fracas</string>
