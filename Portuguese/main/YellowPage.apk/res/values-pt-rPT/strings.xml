@@ -233,12 +233,17 @@ Verifique o seu número de pesquisa"</string>
   <string name="locating_fail">Não foi possível encontrar a sua localização</string>
   <string name="login_before_use">Tem de iniciar sessão primeiro</string>
   <string name="login_ok">Iniciar sessão</string>
+  <string name="mark_number_check_choose_others">Escolher outros</string>
+  <string name="mark_number_check_dialog_title">Marcar número</string>
+  <string name="mark_number_check_most_choice">(Escolha dos utilizadores)</string>
   <string name="mark_number_custom_mark_deleted">Marcador removido</string>
   <string name="mark_number_dialog_maintitle">Marcar este número</string>
   <string name="mark_number_dialog_subtitle">%1$s (marcado por %2$d pessoas)</string>
   <string name="mark_number_feedback">Marcar</string>
   <string name="mark_number_feedback_hint">Introduzir comentários</string>
   <string name="mark_number_feedback_invalid_hint">Introduzir o seu comentário</string>
+  <string name="mark_number_feedback_not_number">Não é um número %s</string>
+  <string name="mark_number_feedback_personal_number">É um número pessoal</string>
   <string name="mark_number_feedback_success">Comentário enviado com sucesso</string>
   <string name="mark_number_marked_maintitle">Alterar marcador</string>
   <string name="mark_number_marked_subtitle">%s (marcador actual)</string>

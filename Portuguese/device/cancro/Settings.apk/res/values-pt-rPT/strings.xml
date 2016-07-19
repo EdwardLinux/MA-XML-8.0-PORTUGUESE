@@ -2464,10 +2464,13 @@ Seleccione o seu sistema operativo:"</string>
   <string name="permission_detail_info">Detalhes</string>
   <string name="permission_detail_info_summary">Segurança: %1$d | Privacidade: %2$d | Outras: %3$d</string>
   <string name="permission_manage">Gestor de permissões</string>
+  <string name="permission_manage_global_build_title">Outras permissões</string>
   <string name="permission_manage_summary">Pedir a sua permissão antes de dar acesso às aplicações de lerem os seus contactos, verem os seus registos de chamadas, modificarem definições de sistema, acederem à câmara ou a outros recursos do dispositivo</string>
   <string name="permission_manage_title">%s permissões</string>
   <string name="permission_manager">Permissões</string>
   <string name="permission_mgr">Permissões</string>
+  <string name="permission_settings_summary">Gerir permissões relacionadas com localização, armazenamento, telefone, mensagens e contactos</string>
+  <string name="permission_settings_title">Permissões da aplicacão</string>
   <string name="permissions_label">Permissões</string>
   <string name="permit_draw_overlay">Permitir a sobreposição a outras aplicações</string>
   <string name="permit_usage_access">Permitir acesso de utilização</string>

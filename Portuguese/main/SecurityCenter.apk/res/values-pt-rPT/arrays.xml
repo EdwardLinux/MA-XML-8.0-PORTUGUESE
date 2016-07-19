@@ -58,7 +58,6 @@
     <string-array name="traffic_type">
         <item>"Utilização dados móveis "</item>
         <item>"Utilização Wi-Fi "</item>
-        <item>"Dados poupados "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Utilização dados móveis "</item>
@@ -67,8 +66,6 @@
     <string-array name="traffic_sort_type">
         <item>"Utilização dados móveis "</item>
         <item>"Utilização Wi-Fi "</item>
-        <item>"Dados poupados "</item>
-        <item>Plano de dados Mi</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Obter automaticamente</item>
@@ -81,12 +78,6 @@
     <string-array name="roaming_apps_sorted_type">
         <item>Mais utilizadas</item>
         <item>Nome</item>
-    </string-array>
-    <string-array name="traffic_saving_compress_level_string_array">
-        <item>Nenhum</item>
-        <item>Baixo</item>
-        <item>Médio</item>
-        <item>Alto</item>
     </string-array>
     <string-array name="roaming_network_type">
         <item>Sempre</item>

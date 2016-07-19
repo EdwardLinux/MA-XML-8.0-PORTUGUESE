@@ -145,6 +145,9 @@ Pode também transferi-las separadamente"</string>
   <string name="restore_show_toast">Não está a mostrar mensagens privadas</string>
   <string name="retain_src_file">Manter ficheiros</string>
   <string name="retain_src_photo">Manter fotos</string>
+  <string name="scanner_fingerprint">A analizar impressão digital…</string>
+  <string name="scanner_fingerprint_enter_second">"Digitalizar impressão digital do segundo espaço
+ para ir para o segundo espaço através do ecrã de bloqueio"</string>
   <string name="scanner_fingerprint_error_tips_desc">Não foram encontradas correspondências. Adicionar uma impressão digital ao segundo espaço?</string>
   <string name="scanner_fingerprint_error_tips_title">Não foram encontradas correspondências</string>
   <string name="scanner_fingerprint_tips_desc">Seleccionar uma impressão digital existente para entrar no segundo espaço. Não vai poder utilizá-la no primeiro espaço</string>
