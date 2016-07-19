@@ -676,8 +676,18 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="credentials_unlock_hint">Insira a palavra-passe do armazenamento de credenciais</string>
   <string name="credentials_wrong_password">Palavra-passe incorrecta</string>
   <string name="crypt_keeper_button_text">Encriptar telefone</string>
+  <string name="crypt_keeper_conditions">A encriptação demora uma hora ou mais. Tem de iniciar com a bateria carregada e manter o telefone ligado ao carregador durante o processo. Se interromper o processo, vai perder todos os seus dados</string>
+  <string name="crypt_keeper_conditions_title">Acerca da encriptação do telefone</string>
   <string name="crypt_keeper_confirm_title">Encriptar?</string>
+  <string name="crypt_keeper_content">Pode encriptar as suas contas, definições, aplicações e os seus dados, multimédia e outros ficheiros</string>
+  <string name="crypt_keeper_content_title">Encriptar telefone</string>
   <string name="crypt_keeper_cooldown">Tente novamente dentro de ^1 segundos</string>
+  <string name="crypt_keeper_data_corrupt_summary">"A palavra-passe introduzida está correcta mas, infelizmente, os dados estão corrompidos. 
+
+Para continuar a utilizar o telefone, é necessário efectuar uma reposição de fábrica. Quando configurar o telefone após a reposição, terá a oportunidade de restaurar quaisquer dados da cópia de segurança da sua Conta Google"</string>
+  <string name="crypt_keeper_data_corrupt_title">Desencriptação sem sucesso</string>
+  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu telefone, assumindo que configurou um bloqueio de ecrã, vai ser necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. O único outro modo de desencriptar é fazer uma reposição dos dados de fábrica, apagando todos os seus dados</string>
+  <string name="crypt_keeper_decrypt_methods_title">Desencriptar o seu telefone</string>
   <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, dados, aplicações transferidas, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar um restauro de dados de fábrica, eliminando todos os seus dados.
 
 Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter o telefone a carregar até que a encriptação esteja terminada. Se interromper o processo de encriptação, perderá alguns ou todos os seus dados"</string>
@@ -692,9 +702,11 @@ Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter
 Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. Quando configurar o telefone após o restauro, terá oportunidade de restaurar os dados através da sua conta do Google"</string>
   <string name="crypt_keeper_failed_title">Encriptação sem sucesso</string>
   <string name="crypt_keeper_final_desc">A operação de encriptação é irreversível e, se a interromper, perderá dados. A encriptação demora uma hora ou mais, durante a qual o telefone reiniciará várias vezes</string>
+  <string name="crypt_keeper_force_power_cycle">Para desbloquear o telefone, desligue-o e volte a ligá-lo</string>
   <string name="crypt_keeper_low_charge_text">Carregue a bateria e tente novamente</string>
   <string name="crypt_keeper_settings_title">Encriptação</string>
   <string name="crypt_keeper_setup_description">Aguarde enquanto o telefone está a ser encriptado. ^1% concluído</string>
+  <string name="crypt_keeper_setup_time_remaining">Aguarde enquanto o telefone está a ser encriptado. Tempo restante: ^1</string>
   <string name="crypt_keeper_setup_title">Encriptação</string>
   <string name="crypt_keeper_switch_input_method">Trocar método de introdução</string>
   <string name="crypt_keeper_unplugged_text">Ligue o carregador e tente novamente</string>
@@ -2106,6 +2118,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="provider_label">Carregar subscrições</string>
   <string name="provision_next">Seguinte</string>
   <string name="provision_page_layout_confirm_message">O seu dispositivo tem que reiniciar para aplicar estas alterações. Leva cerca de 1 minuto</string>
+  <string name="provision_skip">Ignorar</string>
   <string name="proxy_action_text">Concluído</string>
   <string name="proxy_clear_text">Limpar</string>
   <string name="proxy_defaultView_text">Restaurar predefinições</string>
@@ -2984,7 +2997,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="untitled_apn">Sem título</string>
   <string name="update_progress_for_updates">A actualizar (%s)</string>
   <string name="upload_debug_log_summary">Ajude a melhorar a MIUI enviando dados de utilização anónimos</string>
-  <string name="upload_debug_log_title">Programa de experiência de utilizador</string>
+  <string name="upload_debug_log_title">Programa de experiência do utilizador</string>
   <string name="usage_access_title">Aplicações com acesso de utilização</string>
   <string name="usage_log">Estatísticas de utilização das aplicações</string>
   <string name="usage_name_percent">%1$s - %2$s%%</string>
@@ -3223,7 +3236,9 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="vpn_save_login">Guardar informações da conta</string>
   <string name="vpn_search_domains">Domínios de pesquisa DNS</string>
   <string name="vpn_server">Endereço do servidor</string>
+  <string name="vpn_settings_not_available">As definições de VPN não estão disponíveis para este utilizador</string>
   <string name="vpn_settings_password">Adicionar palavra-passe da VPN</string>
+  <string name="vpn_settings_summary">Proteger as definições VPN com a palavra-passe do ecrã de bloqueio</string>
   <string name="vpn_settings_title">VPN</string>
   <string name="vpn_show_options">Mostrar opções avançadas</string>
   <string name="vpn_title">VPN</string>
