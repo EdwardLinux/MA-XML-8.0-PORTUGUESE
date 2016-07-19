@@ -2274,7 +2274,7 @@ Não vai perder quaisquer dados das aplicações"</string>
   <string name="roaming_warning">Quando permite roaming de dados, podem surgir custos significativos!</string>
   <string name="roaming_warning_multiuser">"Quando permite dados em roaming, podem surgir custos significativos de roaming!
 
-Estas definições vão afectar todos os  utilizadores deste telefone"</string>
+Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="rssi_label">RSSI:</string>
   <string name="running_process_item_removed_user_label">Utilizador removido</string>
   <string name="running_process_item_user_label">Utilizador: %1$s</string>
