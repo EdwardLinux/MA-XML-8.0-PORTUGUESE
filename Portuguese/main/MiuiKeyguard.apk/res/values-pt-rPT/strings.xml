@@ -15,7 +15,7 @@
   <string name="experimental_validate_username">Nome de utilizador</string>
   <string name="experimental_validate_warning">Obrigado por ajudar a tornar MIUI melhor!</string>
   <string name="find_device_turn_off_flight_mode">Desligar Modo Avião</string>
-  <string name="fingerprint_lockout_msg">Aguarde um minuto e tente desbloquear com a sua impressão digital novamente</string>
+  <string name="fingerprint_lockout_msg">Aguarde um minuto e tente novamente desbloquear com a sua impressão digital</string>
   <string name="fingerprint_not_identified_msg">Para desbloquear o seu dispositivo introduza a sua palavra-passe</string>
   <string name="fingerprint_not_identified_title">Introduzir palavra-passe</string>
   <string name="fingerprint_try_again_text">Tente novamente</string>
@@ -30,9 +30,9 @@
   <string name="input_pin_code">PIN</string>
   <string name="input_puk_code">Introduzir PUK</string>
   <string name="invalid_confirm_pin_hint">Os PINs não correspondem</string>
-  <string name="invalid_sim_pin_hint">PIN deve conter 4 a 8 números</string>
-  <string name="invalid_sim_puk_hint">PUK deve ser pelo menos 8 números ou mais</string>
-  <string name="keyguard_torch_cover_text">Para manter a lanterna ligada segure o botão de Ligar/Desligar</string>
+  <string name="invalid_sim_pin_hint">O PIN deve conter 4 a 8 números</string>
+  <string name="invalid_sim_puk_hint">O PUK deve ter 8 ou mais números</string>
+  <string name="keyguard_torch_cover_text">Para deixar a lanterna ligada mantenha premido o botão Ligar/Desligar</string>
   <string name="left_action_default_hint_text">C.Remoto Mi</string>
   <string name="lock_screen_date">"EEEE, d 'de' MMMM"</string>
   <string name="lock_screen_date_12">"EEEE, d 'de' MMMM"</string>
@@ -44,7 +44,7 @@
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, as definições de origem do telefone serão repostas e todos os dados do utilizador serão eliminados</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone com as suas credenciais de início de sessão do Google.
 
- Tente novamente dentro de %d segundos."</string>
+Tente novamente dentro de %d segundos"</string>
   <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que serão repostas as respectivas definições de fábrica</string>
   <string name="lockscreen_glogin_checking_password">A verificar…</string>
   <string name="lockscreen_glogin_invalid_input">Utilizador ou palavra-passe inválido</string>

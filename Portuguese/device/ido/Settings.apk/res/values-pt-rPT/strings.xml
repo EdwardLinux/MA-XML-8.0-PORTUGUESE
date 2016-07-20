@@ -1420,7 +1420,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lock_sounds_enable_title">Som de bloqueio de ecrã</string>
   <string name="lockpassword_cancel_label">Cancelar</string>
   <string name="lockpassword_choose_for_second_user">Definir palavra-passe do Segundo espaço</string>
-  <string name="lockpassword_choose_lock_generic_header">Selecção de desbloqueio</string>
+  <string name="lockpassword_choose_lock_generic_header">Escolher bloqueio de ecrã</string>
   <string name="lockpassword_choose_your_password_header">Definir palavra-passe</string>
   <string name="lockpassword_choose_your_pattern_header">Definir padrão</string>
   <string name="lockpassword_choose_your_pin_header">Definir PIN</string>
@@ -1467,7 +1467,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lockpattern_recording_intro_footer">Premir menu para obter ajuda</string>
   <string name="lockpattern_recording_intro_header">Ligar pelo menos 4 pontos para criar um padrão</string>
   <string name="lockpattern_recording_intro_header_second_space">Desenhar padrão de desbloqueio para o Segundo espaço</string>
-  <string name="lockpattern_restart_button_text">Redesenhar</string>
+  <string name="lockpattern_restart_button_text">Desenhar novamente</string>
   <string name="lockpattern_retry_button_text">Tentar novamente</string>
   <string name="lockpattern_settings_change_lock_pattern">Alterar padrão de desbloqueio</string>
   <string name="lockpattern_settings_choose_lock_pattern">Definir padrão de desbloqueio</string>
