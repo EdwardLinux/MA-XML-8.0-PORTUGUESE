@@ -274,7 +274,7 @@
   <string name="deleteConfirmation">Este contacto será eliminado</string>
   <string name="deleteConfirmationDetail">Eliminar \"%s\"?</string>
   <string name="deleteConfirmation_title">Eliminar contacto</string>
-  <string name="delete_call_log_message">Limpar registo(s) de chamada(s)?</string>
+  <string name="delete_call_log_message">Limpar registo de chamadas?</string>
   <string name="delete_call_log_selected_title">Limpar registos de chamadas seleccionados?</string>
   <string name="delete_call_log_title">Registos de chamadas</string>
   <string name="delete_contact_calllog_title">Limpar registo de chamadas?</string>

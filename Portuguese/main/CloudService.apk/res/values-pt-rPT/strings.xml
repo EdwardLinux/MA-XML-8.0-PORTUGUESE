@@ -38,7 +38,7 @@ Para obter mais espaço de armazenamento visite mi.com/micloud</string>
 Última cópia: %2$s"</string>
   <string name="cloud_back_up_open_info_no_backuptime">Fazer cópia quando ligado ao Wi-Fi uma vez a cada %1$s</string>
   <string name="cloud_back_up_remove_success">Cópia de segurança eliminada</string>
-  <string name="cloud_back_up_summary">Copiar quando ligado ao Wi-Fi</string>
+  <string name="cloud_back_up_summary">Copiar quando estiver ligado ao Wi-Fi</string>
   <string name="cloud_back_up_title">Cópia de dispositivo</string>
   <string name="cloud_backup_dialog_title">Fazer cópia de segurança com a Nuvem Mi</string>
   <string name="cloud_find_device">Localizar Dispositivo</string>
@@ -429,7 +429,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="sync_dspt_entrance_provision"> Sincronizar as suas fotos, contactos, registos de chamadas e mensagens por todos os seus dispositivos. Aceda aos dados que sincroniza de qualquer navegador em %s</string>
   <string name="sync_dspt_entrance_provision_2">Saber mais</string>
   <string name="sync_dspt_entrance_provision_confirm_close">Não utilizar</string>
-  <string name="sync_dspt_entrance_provision_confirm_content">As aplicações MIUI integradas necessitam da Nuvem Mi para fazer cópias de segurança das suas fotos, contactos, notas, etc</string>
+  <string name="sync_dspt_entrance_provision_confirm_content">As aplicações MIUI integradas necessitam da Nuvem Mi para fazer cópias de segurança das suas fotos, contactos, notas, etc.</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Utilizar Nuvem Mi</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Não utilizar Nuvem Mi?"</string>
   <string name="sync_dspt_entrance_provision_skip"><u>Ignorar este passo</u></string>

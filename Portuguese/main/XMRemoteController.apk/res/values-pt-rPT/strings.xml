@@ -425,8 +425,8 @@ Solte quando %1$s responder"</string>
   <string name="match_tip_pause">O botão pausa funciona?</string>
   <string name="match_tip_play">O botão reproduzir funciona?</string>
   <string name="match_tip_power">O dispositivo liga/desliga?</string>
-  <string name="match_tip_power_off">O dispositivio está desligado?</string>
-  <string name="match_tip_power_on">O dispositivio está ligado?</string>
+  <string name="match_tip_power_off">O dispositivo desligou?</string>
+  <string name="match_tip_power_on">O dispositivo ligou?</string>
   <string name="match_tip_rew">O botão rebobinar funciona?</string>
   <string name="match_tip_stop">O botão parar funciona?</string>
   <string name="match_tip_tvav">A fonte de entrada altera?</string>
@@ -490,7 +490,7 @@ aguarde um momento depois da acção"</string>
   <string name="no_introduction">Sem descrição</string>
   <string name="no_ir_other_support">Ainda pode utilizar o seu dispositivo para controlar a sua Mi TV ou Mi Box através de Wi-Fi</string>
   <string name="no_ir_support">Sem dispositivos IR encontrados</string>
-  <string name="no_network">"· Está ligado à Internet"</string>
+  <string name="no_network">" · Não foi possível ligar à rede"</string>
   <string name="no_program">Sem conteúdo aqui</string>
   <string name="no_qq">Instalar QQ primeiro</string>
   <string name="no_save_brand_service">Adicionar este controlo remoto novamente</string>
