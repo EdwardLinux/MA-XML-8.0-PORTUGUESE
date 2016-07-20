@@ -123,7 +123,7 @@
   <string name="notification_load_title_alpha">Inicie sessão na sua Conta Mi</string>
   <string name="notification_load_title_dev">Inicie sessão na sua Conta Mi</string>
   <string name="notification_reboot_btn">Reiniciar</string>
-  <string name="notification_reboot_seccess_des">Tocar para partilhar informação da actualização</string>
+  <string name="notification_reboot_seccess_des">Tocar para ver a informação da actualização</string>
   <string name="notification_reboot_seccess_title">Dispositivo actualizado</string>
   <string name="notification_reboot_summary_hm">Tocar para reiniciar o dispositivo</string>
   <string name="notification_reboot_title">Reiniciar para aplicar a actualização</string>

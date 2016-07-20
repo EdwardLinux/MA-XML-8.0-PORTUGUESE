@@ -488,7 +488,7 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="keywords_permcenter">Início automático;Permissões;Root;Localização;Aceder aos contactos</string>
   <string name="keywords_powercenter">Poupar bateria;Aquecimento;Ligar;Desligar;Bateria;Descarregar</string>
   <string name="keywords_securitycenter">Segurança;Verificar;Verificar</string>
-  <string name="keywords_securitycenter_settings">Utilização de bateria;Permissões;Lista de bloqueio;Utilização de dados;Calibrar plano de dados;Testar rede;Bloqueio de aplicações;Poupar bateria;Aquecimento;Ligar;Desligar;Bateria;Descarregar;Início automático;Permissões;Root;Localização;Aceder aos contactos;Bloquear;Lista negra;Lista de bloqueio inteligente;Fraudes;Vendas;Agentes;Dados;Tráfego;Calibrar;Poupar;Ligação;Internet;Testar;Palavra-passe;Privacidade;Bloqueio de aplicações;Acesso;Protecção</string>
+  <string name="keywords_securitycenter_settings">Utilização de bateria;Permissões;Lista de bloqueio;Utilização de dados;Calibrar plano de dados;Testar rede;Bloqueio de aplicações;Poupar bateria;Poupança de bateria;Aquecimento;Ligar;Desligar;Bateria;Descarregar;Início automático;Permissões;Root;Localização;Aceder aos contactos;Bloquear;Lista negra;Lista de bloqueio inteligente;Fraudes;Vendas;Agentes;Dados;Tráfego;Calibrar;Poupar;Ligação;Internet;Testar;Palavra-passe;Privacidade;Bloqueio de aplicações;Acesso;Protecção</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">KB/s</string>
   <string name="last_check_canceled">Verificação anterior foi cancelada</string>

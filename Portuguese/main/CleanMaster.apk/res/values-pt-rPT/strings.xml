@@ -29,6 +29,9 @@
   <string name="apk_status_install">Instalado</string>
   <string name="apk_status_installed_old">Versão antiga</string>
   <string name="apk_status_uninstalled">Não instalado</string>
+  <string name="app_install_tips_go_to">Executar agora</string>
+  <string name="app_install_tips_install_success">%1$s instalado com sucesso</string>
+  <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
   <string name="apps_sort_type_item_size">Tamanho</string>
   <string name="apps_sort_type_item_time">Frequentemente utilizado</string>
   <string name="apps_sort_type_title">Ordenar</string>
@@ -37,6 +40,8 @@
   <string name="auto_clean_switch_on">Ligado</string>
   <string name="auto_cleaner_open">Ligar</string>
   <string name="back">Voltar</string>
+  <string name="browser_scan_history_desc">Histórico do navegador</string>
+  <string name="browser_search_history_desc">Itens pesquisados</string>
   <string name="btn_text_done">Concluído</string>
   <string name="btn_text_quick_cleanup">Limpar</string>
   <string name="btn_text_quick_scan">Verificar</string>
@@ -74,6 +79,7 @@
   <string name="cache_title_empty_folder2">Pastas vazias</string>
   <string name="cache_title_system_cache">Cache do sistema</string>
   <string name="cached_garbage">Cache</string>
+  <string name="call_log">Registos de chamadas</string>
   <string name="cancel">Cancelar</string>
   <string name="clean_content_all">Tudo</string>
   <string name="clean_content_one">1 item</string>
@@ -83,6 +89,8 @@
   <string name="clear_bigfiles">Eliminar ficheiros grandes, fotos duplicadas ou outros itens desnecessários</string>
   <string name="clear_immediately">Limpar agora</string>
   <string name="clear_safe_notify">Barra de notificação de segurança</string>
+  <string name="clip_board_history_desc">Conteúdos copiados/movidos</string>
+  <string name="clipboard">Área de transferências</string>
   <string name="close">Fechar</string>
   <string name="confirm_auto_cleaner">OK</string>
   <string name="conn_of_function_safe">Ligação de rede para segurança</string>
@@ -105,7 +113,7 @@
   <string name="deepclean_list_item_from_music">Música</string>
   <string name="deepclean_list_item_from_sdcard">Cartão SD</string>
   <string name="deepclean_similar_ignore">Ignorar</string>
-  <string name="deepclean_similar_summary_empty">Verificação concluída. Sem fotos para eliminar</string>
+  <string name="deepclean_similar_summary_empty">Verificação concluída. Sem fotos para eliminar​</string>
   <string name="deepclean_size_summary_less">Sem espaço suficiente</string>
   <string name="deepclean_size_summary_more">Espaço de armazenamento disponível suficiente</string>
   <string name="deepclean_size_summary_normal">Espaço de armazenamento disponível</string>
@@ -142,13 +150,13 @@
   <string name="empty_title_ad">Não foram encontrados ficheiros</string>
   <string name="empty_title_apk">Não foram encontrados pacotes</string>
   <string name="empty_title_garbage_cache">Nada para limpar</string>
-  <string name="empty_title_garbage_white_list">Prima e segure nos itens para adicioná-los às excepções</string>
+  <string name="empty_title_garbage_white_list">Prima e segure itens para os adicionar às excepções</string>
   <string name="empty_title_installed_apps">Vazio</string>
   <string name="empty_title_large_files">Vazio</string>
   <string name="empty_title_residual">Não foram encontrados resíduos</string>
   <string name="empty_title_video">Sem vídeos para eliminar​</string>
   <string name="flow_rank_title">Utilização de dados</string>
-  <string name="function_app_lock_title">%d aplicações contêm riscos de privacidade</string>
+  <string name="function_app_lock_title">%d aplicações contêm riscos de privacidade​</string>
   <string name="garbage_clean_detail">Detalhes</string>
   <string name="garbage_cleanup_detail">%1$d vezes, limpou %2$s</string>
   <string name="garbage_month">Limpou %s este mês</string>
@@ -157,7 +165,6 @@
   <string name="grabage_rank_title">Limpo hoje</string>
   <string name="harass_detail">Bloqueadas %1$d SMS e %2$d chamadas</string>
   <string name="header_optimizer">Ao usar esta funcionalidade está a concordar com %s</string>
-  <string name="hint_bar_select_image">%d seleccionados</string>
   <string name="hint_clean_select_similar_image">A eliminar duplicados…</string>
   <string name="hints_ad_header_left">Ficheiros de anúncios</string>
   <string name="hints_apk_header_left">Pacotes</string>
@@ -209,6 +216,7 @@
   <string name="hints_quick_prepare">A preparar…</string>
   <string name="hints_quick_scanning">A verificar…</string>
   <string name="hints_residual_header_left">Residuais</string>
+  <string name="hints_scan_has_finish">Limpeza concluída</string>
   <string name="hints_scanfinish">Sem lixo</string>
   <string name="hints_storage_clean_size">Libertou %s de armazenamento interno</string>
   <string name="hints_storage_free">Livre</string>
@@ -224,8 +232,10 @@
   <string name="installed">Instalado</string>
   <string name="installing">A instalar</string>
   <string name="item_title_process_mode">Escolha uma acção</string>
+  <string name="junk_tag_RF_EmptyFolders">Pastas vazias</string>
+  <string name="junk_tag_RF_ImageThumbnails">Miniaturas da galeria</string>
   <string name="just_now">Agora mesmo</string>
-  <string name="label_image_list_none">Nenhuma</string>
+  <string name="label_image_list_none">Nenhum</string>
   <string name="label_preserve_the_best_image">Guardar as fotos mais nítidas</string>
   <string name="last_check_canceled">A verificação anterior foi cancelada</string>
   <string name="load_only_under_wlan">Carregar notícias quando ligado ao Wi-Fi</string>
@@ -236,7 +246,7 @@
   <string name="mainbtn_text_quick_cleanup_default">Limpar</string>
   <string name="memeory_check_content">%1$d aplicações, memória %2$s</string>
   <string name="month_day_format">MMM dd</string>
-  <string name="msg_cleanup_db_update_checking">A verificar actualizações…</string>
+  <string name="msg_cleanup_db_update_checking">A verificar por actualizações…</string>
   <string name="msg_cleanup_db_update_time_unknown">Última actualização desconhecida</string>
   <string name="msg_update_error_code_already_running">A actualizar…</string>
   <string name="msg_update_error_code_network_error">Não é possível ligar à rede</string>
@@ -262,6 +272,7 @@
   <string name="open_browser">Abrir no navegador</string>
   <string name="optimizecenter_data_support_cm">Produzido por Clean Master</string>
   <string name="optimizecenter_data_support_tc">Produzido por Tencent</string>
+  <string name="phone_search">Pesquisa Google</string>
   <string name="positive_confirm">OK</string>
   <string name="pref_category_title_auto_clean_settings">Limpar automaticamente</string>
   <string name="pref_category_title_auto_update_cleanup_db">Definições adicionais</string>
@@ -299,6 +310,7 @@
   <string name="privacy_app_desc_message">Conta, palavras-passe e mensagens</string>
   <string name="privacy_app_desc_search">Conta, palavras-passe e histórico de pesquisa</string>
   <string name="privacy_app_desc_setting">Conta, palavras-passe e definições</string>
+  <string name="privacy_appdata_chrome_history_des">Websites visitados</string>
   <string name="privacy_browser_desc">Itens pesquisados</string>
   <string name="privacy_cache_desc">Conta, palavra-passe, histórico, definições e mais</string>
   <string name="privacy_cache_empty">Sem dados pessoais</string>
@@ -316,6 +328,7 @@
   <string name="safety_rank">À frente de %d%% utilizadores MIUI em Termos de Segurança</string>
   <string name="sc_allow_network_dialog_button">Permitir</string>
   <string name="sc_allow_network_dialog_message">Permitir que esta aplicação se ligue à Internet para obter actualizações?</string>
+  <string name="search_history">Pesquisar histórico</string>
   <string name="see_more">Mais</string>
   <string name="set_immediately">Definir</string>
   <string name="seton_immediately">Ligar</string>
@@ -324,7 +337,9 @@
   <string name="similar_image_empty">Não foram encontradas duplicadas</string>
   <string name="similar_image_scaning">A verificar…</string>
   <string name="similar_image_title">Fotos</string>
+  <string name="sms">SMS/MMS</string>
   <string name="sponsored">Patrocinado</string>
+  <string name="start_downloading_app">Iniciar transferência：%1$s</string>
   <string name="start_install">Instalar agora</string>
   <string name="summary_auto_cleaner">Limpar o sistema automaticamente a cada 3 dias?</string>
   <string name="summary_delete_apk">Eliminar APKs seleccionados?</string>
@@ -338,7 +353,7 @@
   <string name="tips_of_auto_launch_manage">Prevenir aplicações raramente utilizadas de iniciar automaticamente</string>
   <string name="tips_of_cloud_service">Inicie sessão na sua Conta Mi para utilizar mais serviços Mi</string>
   <string name="tips_of_connect">Ligar à Internet para utilizar um conjunto completo de funcionalidades de segurança</string>
-  <string name="tips_of_garbage_cloud_scan">Encontrar lixo oculto com a verificação da Nuvem Mi</string>
+  <string name="tips_of_garbage_cloud_scan">Encontrar lixo oculto com a verificação da Nuvem</string>
   <string name="tips_of_garbage_data_set">Actualizar base de dados da Limpeza para encontrar mais lixo no seu dispositivo</string>
   <string name="tips_of_network_speed_set">Ver a velocidade da rede na barra de estado</string>
   <string name="tips_of_operators_set">Ajustar estatísticas de utilização de dados automaticamente</string>
@@ -353,9 +368,9 @@
   <string name="title_delete_large_file">Eliminar ficheiros grandes</string>
   <string name="title_of_app_manage">Aplicações</string>
   <string name="title_of_auto_launch_manage">Iniciar automaticamente</string>
-  <string name="title_of_cloud_service">Serviços da Nuvem Mi</string>
-  <string name="title_of_garbage_cloud_scan">Verificação da Nuvem Mi</string>
-  <string name="title_of_garbage_data_set">Actualizações da base de dados de Limpeza</string>
+  <string name="title_of_cloud_service">Serviços de Nuvem</string>
+  <string name="title_of_garbage_cloud_scan">Verificação de nuvem</string>
+  <string name="title_of_garbage_data_set">Actualizações de base de dados de Limpeza</string>
   <string name="title_of_network_speed_set">Mostrar a velocidade de rede na barra de estado</string>
   <string name="title_of_operators_set">Definições de operadora</string>
   <string name="title_of_package_set">Definições de plano de dados</string>
@@ -383,7 +398,7 @@
   <string name="toast_uninstall_success">Desinstalação concluída</string>
   <string name="total_clean">Total limpo: %s</string>
   <string name="total_clean_text">Limpar</string>
-  <string name="traffic_top">TOP 5 aplicações a consumir dados</string>
+  <string name="traffic_top">TOP 5 aplicações a consumir dados </string>
   <string name="unlike">Não obrigado</string>
   <string name="virus_scan">Verificar vírus</string>
   <string name="white_list_ad_header">Ficheiros de anúncios: %d</string>

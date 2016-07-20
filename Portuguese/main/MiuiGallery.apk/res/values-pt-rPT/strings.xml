@@ -189,7 +189,7 @@
   <string name="crop_tooltip">Arrastar marcadores para cortar</string>
   <string name="crossprocess">Processo cruzado</string>
   <string name="custom_select_title_deselect_all">Desmarcar tudo</string>
-  <string name="custom_select_title_quickly_share">Partilha rápida</string>
+  <string name="custom_select_title_quickly_share">Partilhar</string>
   <string name="custom_select_title_select_all">Seleccionar tudo</string>
   <string name="custom_select_title_select_item">Seleccionar itens</string>
   <string name="debugging_tip">Gerar dados de depuração</string>

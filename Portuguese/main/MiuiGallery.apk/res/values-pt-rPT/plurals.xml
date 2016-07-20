@@ -137,7 +137,7 @@
         <item quantity="one">%d item seleccionado</item>
     </plurals>
     <plurals name="fast_share_auto_render_failed">
-        <item quantity="other">Erro na renderização de %1$d fotos</item>
-        <item quantity="one">Erro na renderização de 1 foto</item>
+        <item quantity="other">%1$d fotos ignoradas devido a erros na renderização</item>
+        <item quantity="one">1 foto ignorada devido a erros na renderização</item>
     </plurals>
 </resources>

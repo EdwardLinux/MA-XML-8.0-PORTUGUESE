@@ -129,7 +129,8 @@ Pode também transferi-las separadamente"</string>
   <string name="otherSettings">Outras definições</string>
   <string name="passWordGuardSummary">Ir para o segundo espaço através do ecrã de bloqueio utilizando uma palavra-passe</string>
   <string name="passwordProtect">Palavra-passe</string>
-  <string name="please_diff_finger_print">Certifique-se que utiliza diferentes impressões digitais para o primeiro e segundo espaço./nCaso contrário, pode não conseguir entrar no segundo espaço através do ecrã de bloqueio</string>
+  <string name="please_diff_finger_print">"Certifique-se que utiliza diferentes impressões digitais para o primeiro e segundo espaço.
+Caso contrário, pode não conseguir entrar no segundo espaço através do ecrã de bloqueio"</string>
   <string name="privacyContactsSummary">Mostrar itens privados no segundo espaço</string>
   <string name="privacyContactsTitle">Mensagens privadas e contactos</string>
   <string name="private_sms_show_sub_title">Os dados das mensagens vão ser partilhados entre os dois espaços</string>

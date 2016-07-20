@@ -112,7 +112,7 @@
   <string name="international_details_uv_index_title">Indíce UV</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
   <string name="international_details_wind_title">Vento</string>
-  <string name="locate_fail_detail_err">"Não é possível localizar dispositivo.
+  <string name="locate_fail_detail_err">"Não é possível localizar dispositivo
 Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="location_management">Localização</string>
   <string name="location_tag">Localizar</string>
@@ -126,7 +126,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="no_network_btn">Tente novamente</string>
   <string name="open">Abrir</string>
   <string name="open_browser">Abrir no navegador</string>
-  <string name="pressure_connect">%1$s MB</string>
+  <string name="pressure_connect">%1$s mb</string>
   <string name="realtime_aqi_title">Indíce de qualidade do ar</string>
   <string name="realtime_humidity_title">Humidade relativa</string>
   <string name="realtime_wind_default_title">Vento</string>
@@ -162,9 +162,9 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="traffic_control_tomorrow_numbers">Amanhã: %1$s</string>
   <string name="traffic_controls">Controlos de tráfego</string>
   <string name="twc_logo_title"/>
-  <string name="unit">Unidade</string>
-  <string name="unit_temperature">Unidade da temperatura</string>
-  <string name="unit_wind">Unidade da força do vento</string>
+  <string name="unit">Unidades</string>
+  <string name="unit_temperature">Temperatura</string>
+  <string name="unit_wind">Força do vento</string>
   <string name="video_dialog_no_play"/>
   <string name="video_dialog_play"/>
   <string name="video_dialog_subtitle"/>

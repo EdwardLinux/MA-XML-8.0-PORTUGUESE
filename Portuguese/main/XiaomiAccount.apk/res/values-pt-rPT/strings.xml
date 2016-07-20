@@ -214,7 +214,7 @@ Para activar a sua conta siga o
   <string name="passport_get_back_pwd">Recuperar palavra-passe da conta</string>
   <string name="passport_get_verify_code">Obter código</string>
   <string name="passport_getting_verify_code">A obter</string>
-  <string name="passport_i_know">Eu sei</string>
+  <string name="passport_i_know">Percebi</string>
   <string name="passport_identitfication_expired">Código de verificação expirado</string>
   <string name="passport_imei_permission_denied_message">Estamos a pedir permissão para obter o IMEI do seu dispositivo. A Conta Mi utiliza o IMEI para identificar o dispositivo onde iniciou a sessão para ajudá-lo a manter a sua Conta Mi segura</string>
   <string name="passport_imei_permission_denied_title">Pedido de permissão de IMEI</string>
@@ -289,7 +289,7 @@ Para activar a sua conta siga o
   <string name="passport_restart">Começar de novo</string>
   <string name="passport_restart_register_prompt">É necessário outra mensagem de verificação para criar a sua conta</string>
   <string name="passport_restart_register_title">Criar uma Conta Mi</string>
-  <string name="passport_retry">Repetir</string>
+  <string name="passport_retry">Tentar novamente</string>
   <string name="passport_select_reg_ways_title">Outros métodos de registo</string>
   <string name="passport_send_too_many_code">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente</string>
   <string name="passport_setting">A configurar…</string>

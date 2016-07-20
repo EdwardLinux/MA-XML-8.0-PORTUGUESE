@@ -112,7 +112,6 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="add_fingerprint_done_title">Feito!</string>
   <string name="add_fingerprint_failed_retry_text">Não foi possível adicionar impressão digita. Tente novamente</string>
   <string name="add_fingerprint_finished_button_text">OK</string>
-  <string name="add_fingerprint_instruction_dialog_msg">Para adicionar a sua impressão digital, coloque o seu dedo no sensor e retire após sentir uma vibração</string>
   <string name="add_fingerprint_instruction_msg">Desbloquear o dispositivo ou verificar pagamentos com a sua impressão digital</string>
   <string name="add_fingerprint_instruction_title">Adicionar a sua impressão digital</string>
   <string name="add_fingerprint_put_finger_edge_msg">Mova o seu dedo levemente e coloque-o no sensor novamente para adicionar todas as diferentes partes da sua impressão digital</string>
@@ -1438,7 +1437,8 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="global_change_warning">Esta definição vai afectar todos os utilizadores do telefone</string>
   <string name="global_font_change_title">Alterar tamanho do tipo de letra</string>
   <string name="global_locale_change_title">Alterar idioma</string>
-  <string name="google_backup_section_title">Cópia do Google e restauro</string>
+  <string name="google_backup_enable">Ligar cópias</string>
+  <string name="google_backup_section_title">Cópia e restauro do Google</string>
   <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
   <string name="handy_mode">Modo Uma Mão</string>
   <string name="handy_mode_enter_ask">Perguntar antes de entrar no Modo Uma Mão</string>
@@ -1781,11 +1781,11 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="lock_sounds_enable_title">Som de bloqueio de ecrã</string>
   <string name="lockpassword_cancel_label">Cancelar</string>
   <string name="lockpassword_choose_for_second_user">Definir palavra-passe do segundo espaço</string>
-  <string name="lockpassword_choose_lock_generic_header">Selecção de desbloqueio</string>
-  <string name="lockpassword_choose_your_password_header">Escolher palavra-passe</string>
+  <string name="lockpassword_choose_lock_generic_header">Escolher bloqueio de ecrã</string>
+  <string name="lockpassword_choose_your_password_header">Definir palavra-passe</string>
   <string name="lockpassword_choose_your_password_second_space">"Definir palavra-passe 
  para o segundo espaço"</string>
-  <string name="lockpassword_choose_your_pattern_header">Escolher padrão</string>
+  <string name="lockpassword_choose_your_pattern_header">Definir padrão</string>
   <string name="lockpassword_choose_your_pin_header">Definir PIN</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"Definir PIN 
  para o segundo espaço"</string>
@@ -1838,7 +1838,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="lockpattern_recording_intro_footer">Premir Menu para obter ajuda</string>
   <string name="lockpattern_recording_intro_header">Desenhar um padrão de desbloqueio</string>
   <string name="lockpattern_recording_intro_header_second_space">Desenhar um padrão de desbloqueio para o segundo espaço</string>
-  <string name="lockpattern_restart_button_text">Redesenhar</string>
+  <string name="lockpattern_restart_button_text">Desenhar novamente</string>
   <string name="lockpattern_retry_button_text">Tentar novamente</string>
   <string name="lockpattern_settings_change_lock_pattern">Alterar padrão de desbloqueio</string>
   <string name="lockpattern_settings_choose_lock_pattern">Definir padrão de desbloqueio</string>
