@@ -529,7 +529,7 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="lockpattern_recording_inprogress">Levantar o dedo quando estiver concluído</string>
   <string name="lockpattern_recording_intro_header">Ligar pelo menos 4 pontos para criar um padrão</string>
   <string name="lockpattern_retry_button_text">Desenhar novamente</string>
-  <string name="lockpattern_settings_help_how_to_record">Desenhar um padrão</string>
+  <string name="lockpattern_settings_help_how_to_record">Como desenhar um padrão</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Aguarde pelo menos %d segundos e tente novamente</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Demasiadas tentativas falhadas!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
@@ -1020,9 +1020,9 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="select_pattern">Seleccionar padrão</string>
   <string name="setting_traffic_pkg">Definir pacote de dados</string>
   <string name="settings">Definições de utilização de dados</string>
-  <string name="settings_battery_consume_abnormal_summary">Receber notificações quando a bateria está a descarregar rápidamente</string>
+  <string name="settings_battery_consume_abnormal_summary">Receber notificações quando a bateria estiver a descarregar rapidamente</string>
   <string name="settings_battery_consume_abnormal_title">Notificações de descarregamento de bateria</string>
-  <string name="settings_battery_over_heat_summary">Receber notificações quando o dispositivo aquece mais do que o normal</string>
+  <string name="settings_battery_over_heat_summary">Receber notificações quando o dispositivo aquecer mais do que o normal</string>
   <string name="settings_battery_over_heat_title">Notificações de aquecimento</string>
   <string name="settings_category_other">Outras definições</string>
   <string name="settings_category_overheat">Aquecimento</string>
