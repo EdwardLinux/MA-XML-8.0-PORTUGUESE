@@ -38,7 +38,7 @@ Para obter mais espaço de armazenamento visite mi.com/micloud</string>
 Última cópia: %2$s"</string>
   <string name="cloud_back_up_open_info_no_backuptime">Fazer cópia quando ligado ao Wi-Fi uma vez a cada %1$s</string>
   <string name="cloud_back_up_remove_success">Cópia de segurança eliminada</string>
-  <string name="cloud_back_up_summary">Copiar quando se ligar ao Wi-Fi</string>
+  <string name="cloud_back_up_summary">Copiar quando ligado ao Wi-Fi</string>
   <string name="cloud_back_up_title">Cópia de dispositivo</string>
   <string name="cloud_backup_dialog_title">Fazer cópia de segurança com a Nuvem Mi</string>
   <string name="cloud_find_device">Localizar Dispositivo</string>
