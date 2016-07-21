@@ -206,7 +206,7 @@ janela privada ​"</string>
   <string name="delete_bookmark_warning">Eliminar marcador \"%s\"?</string>
   <string name="delete_download">Eliminar</string>
   <string name="dialog_cannot_resume">Transferência foi interrompida</string>
-  <string name="dialog_confirm_delete_checkbox_message">Eliminar ficheiro(s) do dispositivo?</string>
+  <string name="dialog_confirm_delete_checkbox_message">Eliminar ficheiro(s) do dispositivo</string>
   <string name="dialog_confirm_delete_downloads_message">Eliminar %d transferência(s)?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Eliminar esta(s) transferência(s)?</string>
   <string name="dialog_failed_body">Quer voltar a transferir o ficheiro mais tarde ou eliminá-lo das transferências pendentes?</string>

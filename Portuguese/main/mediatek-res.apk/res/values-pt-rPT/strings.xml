@@ -9,8 +9,8 @@
   <string name="Puk2Mmi">Desbloquear PIN2</string>
   <string name="PukMmi">Desbloquear PIN</string>
   <string name="RejectCauseTitle">Motivo da rejeição de rede</string>
-  <string name="RestrictedChangedTitle_SIM1">Acesso restrito do SIM1 mudou</string>
-  <string name="RestrictedChangedTitle_SIM2">Acesso restrito do SIM2 mudou</string>
+  <string name="RestrictedChangedTitle_SIM1">Acesso restrito do SIM 1 mudou</string>
+  <string name="RestrictedChangedTitle_SIM2">Acesso restrito do SIM 2 mudou</string>
   <string name="VideoView_error_text_bad_file">Ficheiro corrompido. Este vídeo não pode ser reproduzido</string>
   <string name="VideoView_error_text_cannot_connect_to_server">Não é possível ligar ao servidor</string>
   <string name="VideoView_error_text_drm_not_supported">Ficheiro protegido com DRM. Este vídeo não pode ser reproduzido</string>
@@ -247,7 +247,7 @@ Tente novamente em %d segundos"</string>
   <string name="usb_autorun_cdrom_notification_title">Ligado a um CD-ROM de execução automática</string>
   <string name="usb_charging_notification_title">Apenas carregamento por USB</string>
   <string name="usb_storage_ready_title">Armazenamento externo USB preparado</string>
-  <string name="usb_ums_notification_title">Ligado como Armazenamento USB</string>
+  <string name="usb_ums_notification_title">Ligado como armazenamento USB</string>
   <string name="usbint_notification_title">Internet USB activa</string>
   <string name="virtual_sim_on">SIM virtual ligado</string>
   <string name="virtual_sim_on_slot1">SIM 1 virtual activado</string>
@@ -274,7 +274,7 @@ Tente novamente em %d segundos"</string>
   <string name="wap_push_setting_noti_title">Aceitar serviço de auto-envio?</string>
   <string name="wifi_display_bt_hdmi_off_wfd_on">As ligações Bluetooth e HDMI serão desligadas quando activar a função de visualização sem fios. Deseja continuar?</string>
   <string name="wifi_display_change_resolution_reminder">A alteração da resolução irá voltar a ligar a visualização sem fios automaticamente</string>
-  <string name="wifi_display_connection_is_not_steady">A ligação actual de visualização sem fios não está estável</string>
+  <string name="wifi_display_connection_is_not_steady">A ligação actual de visualização sem fios está instável</string>
   <string name="wifi_display_disconnect_then_reconnect">Visualização sem fios desligada. Deseja voltar a ligar?</string>
   <string name="wifi_display_disconnected">Visualização sem fios desligada</string>
   <string name="wifi_display_do_not_remind_again">Não mostrar novamente</string>
