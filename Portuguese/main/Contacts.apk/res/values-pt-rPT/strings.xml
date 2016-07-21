@@ -214,8 +214,8 @@
   <string name="contact_detail_miprofile_request_subtitle">Actualizar informação deste contacto automaticamente</string>
   <string name="contact_detail_miprofile_request_success_toast">Pedido enviado</string>
   <string name="contact_detail_miprofile_save">Toque para obter cartão de contacto</string>
-  <string name="contact_detail_miprofile_save_fail_toast">"Não foi possível obter o cartão de contacto"</string>
-  <string name="contact_detail_miprofile_save_success_toast">Cartão de contacto recebido</string>
+  <string name="contact_detail_miprofile_save_fail_toast">Não foi possível obter o cartão de contacto</string>
+  <string name="contact_detail_miprofile_save_success_toast">A receber cartão de contacto</string>
   <string name="contact_detail_miprofile_settings_header">Definições adicionais</string>
   <string name="contact_detail_miprofile_subtitle">Cartões já trocados</string>
   <string name="contact_detail_profile_switch_fail_network_toast">"Não foi possível ligar à rede"</string>
@@ -451,6 +451,7 @@ Motivo: \"%s\""</string>
   <string name="force_touch_miprofile">Cartão de contacto</string>
   <string name="force_touch_new_contact">Novo contacto</string>
   <string name="foundTooManyContacts">Encontrados mais de %d</string>
+  <string name="fraud_more_indemnity">Mais indemnizações</string>
   <string name="frequentList">Frequentes</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Nome</string>
@@ -1156,6 +1157,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="t9_search_guide_zhuyin_title2">Introduzir 5 e 6 para pesquisar por &lt;font fgcolor=""&gt;J&lt;/font&gt;oão &lt;font fgcolor=""&gt;M&lt;/font&gt;outinho</string>
   <string name="take_new_photo">Tirar nova foto</string>
   <string name="take_photo">Tirar foto</string>
+  <string name="telecom_fraud_insurance">Seguro contra fraudes telefónicas</string>
+  <string name="telecom_fraud_insurance_description">Dez mil RMB cobertos | Personalizado para Xiaomis | 9.9RMB por ano</string>
   <string name="titleJoinContactDataWith">Associar contactos</string>
   <string name="title_other_devices">Outros dispositivos disponíveis</string>
   <string name="title_paired_devices">Dispositivos emparelhados</string>
