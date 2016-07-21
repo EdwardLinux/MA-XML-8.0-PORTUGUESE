@@ -34,8 +34,6 @@
   <string name="choose_bootup_mode">Seleccionar cartão SIM</string>
   <string name="choose_gprs_mode">Seleccionar ligação de dados</string>
   <string name="close">Fechar aplicação</string>
-  <string name="color_picker_select">-&gt;</string>
-  <string name="config_mm_package_name">com.aspire.mm</string>
   <string name="contact_widget_loading">A carregar…</string>
   <string name="criticallowmessage">O armazenamento do telefone está cheio. Elimine os ficheiros desnecessários, caso contrário a aplicação poderá terminar de forma inesperada</string>
   <string name="criticallowtitle">Sem espaço</string>
@@ -44,9 +42,6 @@
   <string name="cu_3gnet_name">Serviço NET 3G</string>
   <string name="cu_3gwap_name">Serviço WAP 3G</string>
   <string name="data_conn_only">Apenas ligação de dados</string>
-  <string name="day_concat">", "</string>
-  <string name="day_month_year_wday" formatted="false">%s %s %s, %s</string>
-  <string name="day_year_month_wday" formatted="false">%s %s %s, %s</string>
   <string name="default_label">Alarme</string>
   <string name="default_sim_setting_prompt">As definições predefinidas são:</string>
   <string name="default_wallpaper_name">Predefinido</string>
@@ -175,8 +170,6 @@ Tente novamente em %d segundos"</string>
   <string name="minimize">Minimizar aplicação</string>
   <string name="missed_call">%d Chamada não atendida</string>
   <string name="missed_calls">%d Chamadas não atendidas</string>
-  <string name="month_day_year_wday" formatted="false">%s %s, %s, %s</string>
-  <string name="month_year_day_wday" formatted="false">%s %s %s, %s</string>
   <string name="msensor_toast_text">Interferências no compasso. Movimente o telefone em forma de um 8 para recalibrar a bússola</string>
   <string name="music_library">Biblioteca</string>
   <string name="music_no_artist">Nome de artista desconhecido</string>
@@ -194,22 +187,6 @@ Tente novamente em %d segundos"</string>
   <string name="nq_sms_filter_title">Filtro de SMS</string>
   <string name="nq_sms_filter_yes">Sim</string>
   <string name="one_retry_left">1 tentativa restante</string>
-  <string name="oper_long_46000">CMCC</string>
-  <string name="oper_long_46001">CU</string>
-  <string name="oper_long_46003">China Telecom</string>
-  <string name="oper_long_46601">Far EasTone</string>
-  <string name="oper_long_46692">Chunghwa Telecom</string>
-  <string name="oper_long_46697">Taiwan Mobile</string>
-  <string name="oper_long_99998">Android1</string>
-  <string name="oper_long_99999">Android</string>
-  <string name="oper_short_46000">CMCC</string>
-  <string name="oper_short_46001">CU-GSM</string>
-  <string name="oper_short_46003">China Telecom</string>
-  <string name="oper_short_46601">FET</string>
-  <string name="oper_short_46692">Chunghwa</string>
-  <string name="oper_short_46697">TWN</string>
-  <string name="oper_short_99997">AD1</string>
-  <string name="oper_short_99999">AD</string>
   <string name="permdesc_receiveCbSms">Permite que a aplicação receba e processe alertas de SMS. As aplicações maliciosas podem monitorizar mensagens ou eliminá-las sem as mostrar primeiro</string>
   <string name="permdesc_receiveDmRegisterSms">Permite que a aplicação receba e processe alertas de SMS. Nenhuma aplicação, excepto a aplicação de alertas deverá utilizar esta funcionalidade</string>
   <string name="permlab_receiveCbSms">Receber SMS CB</string>
@@ -291,19 +268,10 @@ Tente novamente em %d segundos"</string>
   <string name="voiceunlock_multiple_failures">Foi excedido o máximo de tentativas de desbloqueio por voz</string>
   <string name="volume_fm">Volume FM</string>
   <string name="volume_matv">Volume da TV móvel</string>
-  <string name="wap_browser_component">com.myriad.android.kunbrowser.BrowserActivity</string>
-  <string name="wap_browser_keyword">s.139.com</string>
-  <string name="wap_browser_pakcage">com.myriad.android.kunbrowser</string>
   <string name="wap_browser_url_flag">Procurar URL</string>
   <string name="wap_push_setting_noti_text">Toque para seleccionar</string>
   <string name="wap_push_setting_noti_ticker">Aceitar serviço de auto-envio?</string>
   <string name="wap_push_setting_noti_title">Aceitar serviço de auto-envio?</string>
-  <string name="wday_day_month_year" formatted="false">%s, %s %s %s</string>
-  <string name="wday_day_year_month" formatted="false">%s, %s %s %s</string>
-  <string name="wday_month_day_year" formatted="false">%s, %s %s, %s</string>
-  <string name="wday_month_year_day" formatted="false">%s, %s %s %s</string>
-  <string name="wday_year_day_month" formatted="false">%s, %s %s %s</string>
-  <string name="wday_year_month_day" formatted="false">%s, %s %s %s</string>
   <string name="wifi_display_bt_hdmi_off_wfd_on">As ligações Bluetooth e HDMI serão desligadas quando activar a função de visualização sem fios. Deseja continuar?</string>
   <string name="wifi_display_change_resolution_reminder">A alteração da resolução irá voltar a ligar a visualização sem fios automaticamente</string>
   <string name="wifi_display_connection_is_not_steady">A ligação actual de visualização sem fios não está estável</string>
@@ -322,6 +290,4 @@ Tente novamente em %d segundos"</string>
   <string name="wifi_tether_configure_ssid_default_for_cmcc">MTK Athens15</string>
   <string name="wifi_wps_failed_overlap">Foi detectada outra sessão de WPS. Por favor, tente novamente mais tarde</string>
   <string name="wikiPediaName">Wikipédia</string>
-  <string name="year_day_month_wday" formatted="false">%s %s %s, %s</string>
-  <string name="year_month_day_wday" formatted="false">%s %s %s, %s</string>
 </resources>
