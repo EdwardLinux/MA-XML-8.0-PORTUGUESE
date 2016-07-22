@@ -36,7 +36,7 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="activity_title_perm_manager">Permissões</string>
   <string name="activity_title_permission_manager">Permissões</string>
   <string name="activity_title_permissions_manager">Permissões</string>
-  <string name="activity_title_power_manager">Utilização de bateria</string>
+  <string name="activity_title_power_manager">Bateria</string>
   <string name="activity_title_risk">Riscos</string>
   <string name="activity_title_risk_detail">Detalhes do risco</string>
   <string name="activity_title_root_acquired">Permitir acesso root</string>
@@ -488,7 +488,7 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="keywords_permcenter">Início automático;Permissões;Root;Localização;Aceder aos contactos</string>
   <string name="keywords_powercenter">Poupar bateria;Aquecimento;Ligar;Desligar;Bateria;Descarregar</string>
   <string name="keywords_securitycenter">Segurança;Verificar;Verificar</string>
-  <string name="keywords_securitycenter_settings">Utilização de bateria;Permissões;Lista de bloqueio;Utilização de dados;Calibrar plano de dados;Testar rede;Bloqueio de aplicações;Poupar bateria;Poupança de bateria;Aquecimento;Ligar;Desligar;Bateria;Descarregar;Início automático;Permissões;Root;Localização;Aceder aos contactos;Bloquear;Lista negra;Lista de bloqueio inteligente;Fraudes;Vendas;Agentes;Dados;Tráfego;Calibrar;Poupar;Ligação;Internet;Testar;Palavra-passe;Privacidade;Bloqueio de aplicações;Acesso;Protecção</string>
+  <string name="keywords_securitycenter_settings">Bateria;Permissões;Lista de bloqueio;Utilização de dados;Calibrar plano de dados;Testar rede;Bloqueio de aplicações;Poupar bateria;Poupança de bateria;Aquecimento;Ligar;Desligar;Bateria;Descarregar;Início automático;Permissões;Root;Localização;Aceder aos contactos;Bloquear;Lista negra;Lista de bloqueio inteligente;Fraudes;Vendas;Agentes;Dados;Tráfego;Calibrar;Poupar;Ligação;Internet;Testar;Palavra-passe;Privacidade;Bloqueio de aplicações;Acesso;Protecção</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">KB/s</string>
   <string name="last_check_canceled">Verificação anterior foi cancelada</string>
@@ -730,7 +730,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="path_networkassistant_2">Aplicações de sistema/Segurança/Utilização de dados</string>
   <string name="path_networkassistant_4">Aplicações de sistema/Segurança/Utilização de dados/Testar rede</string>
   <string name="path_permcenter">Aplicações de sistema/Segurança/Permissões</string>
-  <string name="path_powercenter">Aplicações de sistema/Segurança/Utilização de bateria</string>
+  <string name="path_powercenter">Aplicações de sistema/Segurança/Bateria</string>
   <string name="path_securitycenter">Aplicações de sistema/Segurança</string>
   <string name="path_securitycenter_settings">Aplicações de sistema/Segurança</string>
   <string name="pay_charge">Comprar dados adicionais</string>
@@ -781,7 +781,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="power_center_state_on">Ligado</string>
   <string name="power_center_time_to_boot">Hora de ligar</string>
   <string name="power_center_time_to_shutdown">Hora de desligar</string>
-  <string name="power_center_title">Bateria</string>
+  <string name="power_center_title">Gestão da bateria</string>
   <string name="power_chooser_sleep_summary">Desactivar todas as funções de rede (chamadas, mensagens, Wi-Fi e serviços de dados) excepto para o despertador</string>
   <string name="power_consume_other">Outro</string>
   <string name="power_consume_rank_hardware">Hardware</string>
