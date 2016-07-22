@@ -85,8 +85,8 @@
         <item quantity="one">%d aplicação não tem acesso root</item>
     </plurals>
     <plurals name="summary_app_update">
-        <item quantity="other">Actualizações disponíveis para %d aplicações.</item>
-        <item quantity="one">Actualização disponível para %d aplicação.</item>
+        <item quantity="other">Actualizações disponíveis para %d aplicações</item>
+        <item quantity="one">Actualização disponível para %d aplicação</item>
     </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d aplicações contêm riscos de privacidade</item>

@@ -246,7 +246,7 @@
   <string name="mainbtn_text_quick_cleanup_default">Limpar</string>
   <string name="memeory_check_content">%1$d aplicações, memória %2$s</string>
   <string name="month_day_format">MMM dd</string>
-  <string name="msg_cleanup_db_update_checking">A verificar por actualizações…</string>
+  <string name="msg_cleanup_db_update_checking">A verificar actualizações…</string>
   <string name="msg_cleanup_db_update_time_unknown">Última actualização desconhecida</string>
   <string name="msg_update_error_code_already_running">A actualizar…</string>
   <string name="msg_update_error_code_network_error">Não é possível ligar à rede</string>
@@ -370,7 +370,7 @@
   <string name="title_of_auto_launch_manage">Iniciar automaticamente</string>
   <string name="title_of_cloud_service">Serviços de Nuvem</string>
   <string name="title_of_garbage_cloud_scan">Verificação de nuvem</string>
-  <string name="title_of_garbage_data_set">Actualizações de base de dados de Limpeza</string>
+  <string name="title_of_garbage_data_set">Actualizações da base de dados de Limpeza</string>
   <string name="title_of_network_speed_set">Mostrar a velocidade de rede na barra de estado</string>
   <string name="title_of_operators_set">Definições de operadora</string>
   <string name="title_of_package_set">Definições de plano de dados</string>

@@ -1557,6 +1557,7 @@ Ouvir níveis elevados de volume durante longos períodos poderá ser prejudicia
   <string name="sync_undo_deletes">Anular as eliminações</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Toque para configurar</string>
+  <string name="tethered_notification_message_for_hotspot">%1$d ligado(s) %2$d bloqueado(s)</string>
   <string name="tethered_notification_multi_device_message">%1$s dispositivos ligados</string>
   <string name="tethered_notification_no_device_message">Sem dispositivos ligados</string>
   <string name="tethered_notification_one_device_message">%1$s dispositivo ligado</string>

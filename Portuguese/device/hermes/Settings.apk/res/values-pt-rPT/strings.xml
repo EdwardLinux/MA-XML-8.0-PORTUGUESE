@@ -1422,12 +1422,22 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lockpassword_choose_for_second_user">Definir palavra-passe do Segundo espaço</string>
   <string name="lockpassword_choose_lock_generic_header">Escolher bloqueio de ecrã</string>
   <string name="lockpassword_choose_your_password_header">Definir palavra-passe</string>
+  <string name="lockpassword_choose_your_password_second_space">"Definir palavra-passe 
+ para o segundo espaço"</string>
   <string name="lockpassword_choose_your_pattern_header">Definir padrão</string>
   <string name="lockpassword_choose_your_pin_header">Definir PIN</string>
+  <string name="lockpassword_choose_your_pin_header_second_space">"Definir PIN 
+ para o segundo espaço"</string>
+  <string name="lockpassword_confirm_for_second_user">Confirmar a sua palavra-passe do segundo espaço</string>
   <string name="lockpassword_confirm_passwords_dont_match">As palavras-passe não correspondem</string>
   <string name="lockpassword_confirm_pins_dont_match">Os PINs não correspondem</string>
+  <string name="lockpassword_confirm_your_lock_password_header">Confirmar a sua palavra-passe</string>
+  <string name="lockpassword_confirm_your_lock_pattern_header">Confirmar o seu padrão</string>
+  <string name="lockpassword_confirm_your_password_generic">Introduza a palavra-passe do dispositivo para continuar</string>
   <string name="lockpassword_confirm_your_password_header">Confirmar palavra-passe</string>
+  <string name="lockpassword_confirm_your_pattern_generic">Utilize o padrão do dispositivo para continuar</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirmar padrão</string>
+  <string name="lockpassword_confirm_your_pin_generic">Introduza o PIN do dispositivo para continuar</string>
   <string name="lockpassword_confirm_your_pin_header">Confirmar PIN</string>
   <string name="lockpassword_confirm_your_private_password_header">Confirmar a sua palavra-passe</string>
   <string name="lockpassword_confirm_your_private_pattern_header">Confirmar o seu padrão</string>

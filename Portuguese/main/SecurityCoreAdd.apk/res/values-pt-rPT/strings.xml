@@ -22,7 +22,7 @@ esta funcionalidade vai ser adicionada automaticamente ao segundo espaço"</stri
   <string name="closeSecondSpace">Eliminar segundo espaço</string>
   <string name="closeSecondSpaceSummary">Eliminar segundo espaço e os seus dados</string>
   <string name="closeSuccess">Desligado</string>
-  <string name="close_second_space_success">Eliminar segundo espaço</string>
+  <string name="close_second_space_success">Segundo espaço eliminado</string>
   <string name="closed">Desligado</string>
   <string name="complete_setting">Concluir</string>
   <string name="complete_setting_sub_title">Pode voltar mais tarde para ajustar as definições</string>
@@ -192,7 +192,7 @@ Caso contrário, pode não conseguir entrar no segundo espaço através do ecrã
   <string name="start_new_fingerprint">Adicionar uma nova impressão digital</string>
   <string name="start_new_fingerprint_tips">"Utilizar a impressão digital do segundo espaço
 para ir para o segundo espaço através do ecrã de bloqueio"</string>
-  <string name="start_setting_guide_desc_title">Existem algumas coisas para configurar</string>
+  <string name="start_setting_guide_desc_title">Existem algumas definições para configurar</string>
   <string name="summary_switch_apps_settings">Seleccionar aplicações utilizadas no segundo espaço</string>
   <string name="sure_to_use">Confirmar</string>
   <string name="switchDataSummary">Mover itens entre espaços</string>
