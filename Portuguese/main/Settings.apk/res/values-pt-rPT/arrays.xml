@@ -638,7 +638,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Imediatamente</item>
-		<item>30 segundos</item>
+        <item>30 segundos</item>
         <item>1 minuto</item>
         <item>2 minutos</item>
         <item>5 minutos</item>
@@ -659,8 +659,8 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Bloqueio de ecrã</item>
         <item>Modo Criança</item>
         <item>Explorador</item>
-		<item>Bloqueio de aplicações</item>
-		<item>Segundo espaço</item>
+        <item>Bloqueio de aplicações</item>
+        <item>Segundo espaço</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Todos os dias</item>

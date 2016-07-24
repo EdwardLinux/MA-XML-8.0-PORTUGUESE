@@ -76,11 +76,11 @@ Inicie sessão em account.xiaomi.com e toque Reactivar"</string>
   <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Padrão incorrecto. Tem mais %d tentativas&lt;/font&gt;</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
-  <string name="lockpattern_pattern_confirmed_header">Novo padrão de desbloqueio</string>
+  <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio</string>
   <string name="lockpattern_pattern_entered_header">Padrão adicionado</string>
-  <string name="lockpattern_recording_incorrect_too_short">Ligar pelo menos %d pontos</string>
-  <string name="lockpattern_recording_inprogress">Levantar o dedo quando estiver concluído</string>
-  <string name="lockpattern_recording_intro_header">Ligar pelo menos 4 pontos para criar um padrão</string>
+  <string name="lockpattern_recording_incorrect_too_short">Ligue pelo menos %d pontos. Tente novamente</string>
+  <string name="lockpattern_recording_inprogress">Levante o dedo quando terminar</string>
+  <string name="lockpattern_recording_intro_header">Desenhar um padrão de desbloqueio</string>
   <string name="lockpattern_redraw_button_text">Redesenhar</string>
   <string name="lockpattern_retry_text">Reiniciar padrão</string>
   <string name="lockpattern_settings_help_how_to_record">Como desenhar um padrão</string>

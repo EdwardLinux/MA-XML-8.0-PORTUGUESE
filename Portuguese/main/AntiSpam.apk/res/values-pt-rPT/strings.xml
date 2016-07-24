@@ -205,8 +205,8 @@
   <string name="quiet">Não incomodar</string>
   <string name="quiet_group">Não incomodar</string>
   <string name="quiet_important_interruptions_mode">Permitir apenas excepções</string>
-  <string name="quiet_mode">Silenciar todos os distúrbios</string>
-  <string name="quiet_off_mode">Permitir sempre distúrbios</string>
+  <string name="quiet_mode">Silenciar tudo</string>
+  <string name="quiet_off_mode">Desligado</string>
   <string name="read_all_sms">Ler tudo</string>
   <string name="repeated_marked_number_summary">Não bloquear uma segunda chamada do mesmo número reportado em 3 minutos</string>
   <string name="repeated_marked_number_title">Não bloquear chamadas repetidas de números reportados</string>
@@ -230,8 +230,8 @@
   <string name="st_antispam_bw_adress_add">Adicionar localizações</string>
   <string name="st_antispam_bw_choose_modes">Adicionar à lista</string>
   <string name="st_antispam_bw_head_add">Adicionar prefixo</string>
-  <string name="st_antispam_bw_man_add">Adicionar número de telefone</string>
-  <string name="st_antispam_bw_pick_add">Adicionar contactos</string>
+  <string name="st_antispam_bw_man_add">Adicionar manualmente</string>
+  <string name="st_antispam_bw_pick_add">Adicionar dos contactos</string>
   <string name="st_antispam_delete">Eliminar</string>
   <string name="st_antispam_des_anti">Bloquear</string>
   <string name="st_antispam_des_permit">Permitir</string>

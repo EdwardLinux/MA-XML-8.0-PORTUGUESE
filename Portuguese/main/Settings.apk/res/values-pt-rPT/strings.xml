@@ -2,7 +2,7 @@
 <resources>
   <string name="about_settings">Acerca do telefone</string>
   <string name="about_settings_summary">Ver informações legais, estado, versão de software</string>
-  <string name="ac_enable_summary">Vai ser necessário um padrão de desbloqueio para abrir as aplicações</string>
+  <string name="ac_enable_summary">Definir uma palavra-passe para as aplicações individualmente</string>
   <string name="ac_enable_title">Bloqueio de aplicações</string>
   <string name="ac_privacy_mode_sum">Solicitar uma palavra-passe para desligar o Modo Convidado</string>
   <string name="ac_privacy_mode_title">Bloqueio de ecrã</string>
@@ -43,13 +43,13 @@ Se o dispositivo tiver vários utilizadores, ao utilizar este atalho no ecrã de
   <string name="accessibility_no_services_installed">Sem serviços instalados</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Botão ligar/desligar termina chamada</string>
   <string name="accessibility_screen_magnification_enable">Gestos de ampliação</string>
-  <string name="accessibility_screen_magnification_summary">"Quando esta funcionalidade está ligada, pode aumentar e diminuir zoom por triplo toque no ecrã.
+  <string name="accessibility_screen_magnification_summary">"Quando esta funcionalidade está ligada, pode aumentar e diminuir zoom por triplo toque no ecrã
 
 Quando ampliado, pode:
-"<ul><li>"Mover: Arraste dois ou mais dedos pelo ecrã.
+"<ul><li>"Mover: Arraste dois ou mais dedos pelo ecrã
 "<li>Ajustar o nível do zoom: Junte ou afaste dois ou mais dedos</li></li></ul>"
 
-Também pode aumentar temporariamente o que estiver sobre o seu dedo com um triplo toque e segurar. Neste modo, pode mover o dedo ampliando para Explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
+Também pode aumentar temporariamente o que estiver sobre o seu dedo com um triplo toque e segurar. Neste modo, pode mover o dedo ampliando para explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior
 
 Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra de navegação e no teclado"</string>
   <string name="accessibility_screen_magnification_title">Ampliação de gestos</string>
@@ -169,12 +169,12 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="apn_type">Tipo APN</string>
   <string name="apn_user">Utilizador</string>
   <string name="app_backup">Cópia</string>
-  <string name="app_disable_dlg_text">Se desactivar uma aplicação de sistema, pode fazer com que outras aplicações deixem de funcionar normalmente</string>
+  <string name="app_disable_dlg_text">Ao desactivar uma aplicação de sistema, pode fazer com que outras aplicações deixem de funcionar normalmente</string>
   <string name="app_disable_dlg_title">Desactivar aplicação do sistema?</string>
   <string name="app_disable_notifications_dlg_text">Se desligar as notificações para esta aplicação poderá perder alertas e actualizações importantes</string>
   <string name="app_disable_notifications_dlg_title">Desligar notificações?</string>
   <string name="app_factory_reset">Desinstalar actualizações</string>
-  <string name="app_factory_reset_dlg_text">Todas as actualizações desta aplicação vão ser desinstaladas</string>
+  <string name="app_factory_reset_dlg_text">Todas as actualizações desta aplicação serão desinstaladas</string>
   <string name="app_factory_reset_dlg_title">Desinstalar actualizações?</string>
   <string name="app_floating_window_dlg_disable">Desligar definições de janela flutuante de %1$s requer que a aplicação reinicie</string>
   <string name="app_floating_window_dlg_enable">Ligar definições de janela flutuante de %1$s requer que a aplicação reinicie</string>
@@ -193,7 +193,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="app_process_limit_title">Limite de processos em segundo plano</string>
   <string name="app_restrictions_custom_label">Definir restrições da aplicação</string>
   <string name="app_sees_restricted_accounts">Esta aplicação pode aceder às suas contas</string>
-  <string name="app_special_disable_dlg_text">Se desactivar esta aplicação, outras aplicações podem não funcionar como pretendido. Os dados associados a esta aplicação serão eliminados</string>
+  <string name="app_special_disable_dlg_text">Ao desactivar uma aplicação de sistema, pode fazer com que outras aplicações deixem de funcionar normalmente. Os dados associados a esta aplicação serão eliminados</string>
   <string name="app_special_disable_dlg_title">Eliminar dados e desactivar aplicação?</string>
   <string name="app_switch_key">Recentes</string>
   <string name="application_forbid_auto_startup">Parar %s de iniciar em segundo plano</string>
@@ -448,7 +448,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="bluetooth_pairing_decline">Cancelar</string>
   <string name="bluetooth_pairing_device_down_error_message">Não é possível comunicar com %1$s</string>
   <string name="bluetooth_pairing_error_message">Não foi possível emparelhar com %1$s</string>
-  <string name="bluetooth_pairing_key_msg">Código de emparelhamento</string>
+  <string name="bluetooth_pairing_key_msg">Código de emparelhamento Bluetooth</string>
   <string name="bluetooth_pairing_pin_error_message">Não foi possível emparelhar com %1$s. O tempo limite expirou ou o PIN ou a palavra-chave estão incorrectos</string>
   <string name="bluetooth_pairing_rejected_error_message">Emparelhamento rejeitado por %1$s</string>
   <string name="bluetooth_pairing_request">Pedido de emparelhamento Bluetooth</string>
@@ -530,8 +530,8 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="bt_hci_snoop_log_summary">Capturar todos os pacotes Bluetooth HCI num ficheiro</string>
   <string name="bt_trace_log">Pesquisa do registo do Bluetooth</string>
   <string name="bt_trace_log_summary">Pesquisa do registo do Bluetooth</string>
-  <string name="bugreport_in_power">Menu dos relatórios de erros de energia</string>
-  <string name="bugreport_in_power_summary">Incluir opção no menu de energia para criar um relatório de erros</string>
+  <string name="bugreport_in_power">Atalho do relatório de erros</string>
+  <string name="bugreport_in_power_summary">Mostrar um botão no menu de energia para criar um relatório de erros</string>
   <string name="build_number">Número de compilação</string>
   <string name="builtin_keyboard_settings_summary">Definições de teclado físico</string>
   <string name="builtin_keyboard_settings_title">Teclado físico</string>
@@ -658,7 +658,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="credential_storage_type_software">Apenas software</string>
   <string name="credentials_configure_lock_screen_hint">Tem que definir um PIN para o bloqueio de ecrã ou uma palavra-passe antes de efectuar o armazenamento de credenciais</string>
   <string name="credentials_enabled">O armazenamento de credenciais está activado</string>
-  <string name="credentials_erased">O armazenamento de credenciais está eliminado</string>
+  <string name="credentials_erased">O armazenamento de credenciais foi eliminado</string>
   <string name="credentials_install">Instalar do armazenamento</string>
   <string name="credentials_install_gesture_explanation">Tem que desenhar o seu padrão de desbloqueio para confirmar a instalação de credencial</string>
   <string name="credentials_install_gesture_prompt">Desenhar o seu padrão de desbloqueio</string>
@@ -738,15 +738,15 @@ Poderá encontrar controlos de utilização de dados mais adequados nas definiç
   <string name="data_usage_auto_sync_off_dialog_title">Desligar sincronização automática?</string>
   <string name="data_usage_auto_sync_on_dialog">"Qualquer alteração que efectue nas contas a partir da web será copiada automaticamente para o telefone.
 
-Algumas contas podem copiar também automaticamente as alterações feitas no telefone para a web. Uma conta Google funciona desta forma.
+Algumas contas também podem copiar automaticamente para a web qualquer alteração que efectue no telefone. É assim que funciona uma Conta Google.
 
-Para escolher qual o tipo de informações a sincronizar dentro de cada conta, vá a definições &gt; contas"</string>
+Para escolher qual o tipo de informações a sincronizar dentro de cada conta, vá a Definições &gt; Contas"</string>
   <string name="data_usage_auto_sync_on_dialog_title">Ligar sincronização automática?</string>
   <string name="data_usage_change_cycle">Alterar ciclo…</string>
   <string name="data_usage_cycle">Ciclo de utilização de dados</string>
   <string name="data_usage_cycle_editor_positive">Definir</string>
   <string name="data_usage_cycle_editor_subtitle">Data de cada mês:</string>
-  <string name="data_usage_cycle_editor_title">Repor data de ciclo de utilização</string>
+  <string name="data_usage_cycle_editor_title">Data de reposição do ciclo de utilização</string>
   <string name="data_usage_disable_3g_limit">Definir limite de dados 2G/3G</string>
   <string name="data_usage_disable_4g_limit">Definir limite de dados 4G</string>
   <string name="data_usage_disable_mobile">Desactivar dados móveis?</string>
@@ -779,10 +779,10 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="data_usage_metered_wifi_disabled">Para seleccionar um ponto de acesso ligue o Wi-Fi</string>
   <string name="data_usage_pick_cycle_day">Dia do mês para repor o ciclo de utilização de dados:</string>
   <string name="data_usage_received_sent">%1$s recebido, %2$s enviado</string>
-  <string name="data_usage_restrict_background">"Se restringir os dados móveis em segundo plano, algumas aplicações e serviços deixam de funcionar, excepto com uma ligação à rede Wi-Fi"</string>
-  <string name="data_usage_restrict_background_multiuser">"Se restringir os dados móveis em segundo plano, algumas aplicações e serviços deixam de funcionar, excepto com uma ligação à rede Wi-Fi.
+  <string name="data_usage_restrict_background">Se restringir os dados móveis em segundo plano, algumas aplicações e serviços deixam de funcionar, excepto com uma ligação à rede Wi-Fi</string>
+  <string name="data_usage_restrict_background_multiuser">Se restringir os dados móveis em segundo plano, algumas aplicações e serviços deixam de funcionar, excepto com uma ligação à rede Wi-Fi.
 
-Esta definição afecta todos os utilizadores deste telefone"</string>
+Esta definição afecta todos os utilizadores deste telefone</string>
   <string name="data_usage_restrict_background_title">Restringir dados em segundo plano?</string>
   <string name="data_usage_restrict_denied_dialog">Restringir dados em segundo plano apenas é possível quando já tiver definido um limite de dados móveis</string>
   <string name="data_usage_summary_title">Utilização de dados</string>
@@ -800,7 +800,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="data_usage_uninstalled_apps">Aplicações removidas</string>
   <string name="data_usage_uninstalled_apps_users">Aplicações e utilizadores removidos</string>
   <string name="data_usage_warning_editor_title">Definir aviso de utilização de dados</string>
-  <string name="date_and_time">Definições de data e hora</string>
+  <string name="date_and_time">Data e hora</string>
   <string name="date_and_time_settings_summary">Definir a data, hora, fuso horário e formatos</string>
   <string name="date_and_time_settings_title">Data e hora</string>
   <string name="date_and_time_settings_title_setup_wizard">Definir data e hora</string>
@@ -951,12 +951,12 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="dndm_vip_call_summary_custom">%d</string>
   <string name="dndm_vip_call_summary_none">Toque para configurar</string>
   <string name="dndm_vip_list_contact">Todos os contactos</string>
-  <string name="dndm_vip_list_custom">Excepções</string>
+  <string name="dndm_vip_list_custom">Personalizado</string>
   <string name="dndm_vip_list_custom_group">Excepções</string>
   <string name="dndm_vip_list_group">Lista de excepções</string>
-  <string name="dndm_wristband">Activar com Banda Mi</string>
-  <string name="dndm_wristband_detailed">"Ligar Não incomodar se a Banda Mi detectar que está a dormir uma hora antes da hora de início marcada"</string>
-  <string name="dndm_wristband_detailed2">"Desligar Não incomodar se a Banda Mi detectar que está acordado uma hora antes da hora de fim marcada"</string>
+  <string name="dndm_wristband">Activar com Mi Band</string>
+  <string name="dndm_wristband_detailed">"Ligar Não incomodar se a Mi Band detectar que está a dormir uma hora antes da hora de início marcada"</string>
+  <string name="dndm_wristband_detailed2">"Desligar Não incomodar se a Mi Band detectar que está acordado uma hora antes da hora de fim marcada"</string>
   <string name="do_not_disturb_mode">Não incomodar</string>
   <string name="dock_audio_settings_title">Áudio</string>
   <string name="dock_audio_summary_car">Definições da estação de ancoragem para carro</string>
@@ -1065,7 +1065,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="external_data_size_label">Dados no armazenamento USB</string>
   <string name="factory_reset_summary">Formatar todos os dados do armazenamento interno do seu telefone</string>
   <string name="failed_to_check_find_device_status_content">Não foi possível verificar o estado de Localizar Dispositivo. Aguarde alguns minutos e tente novamente</string>
-  <string name="failed_to_check_find_device_status_title">Não foi possível verificar o estado</string>
+  <string name="failed_to_check_find_device_status_title">Não foi possível verificar estado</string>
   <string name="failed_to_open_app_settings_toast">Erro ao abrir definições para %1$s</string>
   <string name="failed_to_shut_down_find_device_content">Não foi possível desligar Localizar Dispositivo. Aguarde alguns minutos e tente novamente</string>
   <string name="failed_to_shut_down_find_device_title">Não foi possível desligar</string>
@@ -1084,6 +1084,8 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="fingerprint_identify_msg">A ler impressão digital…</string>
   <string name="fingerprint_identify_try_again_msg">Não foi possível ler impressão digital. Tente novamente</string>
   <string name="fingerprint_list_title">Impressão digital</string>
+  <string name="fingerprint_lock_first">Desbloquear o primeiro espaço</string>
+  <string name="fingerprint_lock_second">Desbloquear o segundo espaço</string>
   <string name="finish_application">Forçar paragem</string>
   <string name="finish_button_label">Terminar</string>
   <string name="firmware_version">Versão Android</string>
@@ -1112,7 +1114,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="force_rtl_layout_all_locales">Forçar direcção do RTL</string>
   <string name="force_rtl_layout_all_locales_summary">Força da direcção RTL da disposição do ecrã de para todos os locais</string>
   <string name="force_stop">Forçar paragem</string>
-  <string name="force_stop_dlg_text">Se forçar a paragem desta aplicação esta poderá funcionar mal. Continuar?</string>
+  <string name="force_stop_dlg_text">Se forçar a paragem desta aplicação, esta poderá funcionar mal. Continuar?</string>
   <string name="force_stop_dlg_title">Forçar paragem</string>
   <string name="forget_password_button_text"><u>Recuperar acesso?</u></string>
   <string name="forget_wifi_message">O seu telefone vai deixar de ligar a esta rede automaticamente</string>
@@ -1122,7 +1124,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="free_wifi_connect">Ligar</string>
   <string name="free_wifi_connect_dialog_summary">%1$s é fornecido por %2$s</string>
   <string name="free_wifi_connect_dialog_title">Wi-Fi disponível</string>
-  <string name="free_wifi_connect_fail">Não foi possível ligar à rede. Verifique a sua ligação de dados e tente novamente</string>
+  <string name="free_wifi_connect_fail">Não é possível ligar à rede. Verifique a sua ligação de dados e tente novamente</string>
   <string name="free_wifi_connect_fail2">Não é possível iniciar sessão. Aguarde alguns minutos e tente novamente</string>
   <string name="free_wifi_connect_summary">Toque para ligar a %1$s</string>
   <string name="free_wifi_connect_title">Wi-Fi disponível</string>
@@ -1164,7 +1166,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="handy_mode">Modo Uma Mão</string>
   <string name="handy_mode_enter_ask">Perguntar antes de entrar no Modo Uma Mão</string>
   <string name="handy_mode_size">Tamanho do ecrã</string>
-  <string name="handy_mode_tips">Deslize para a esquerda ou para a direita desde o botão Início, para arrastar a imagem para um dos lados</string>
+  <string name="handy_mode_tips">Deslize para a esquerda ou para a direita desde o botão Início para arrastar a imagem para um dos lados</string>
   <string name="haptic_feedback_enable_title">Vibrar ao tocar</string>
   <string name="haptic_feedback_level">Vibração</string>
   <string name="hardkeyboard_category">Definições de teclado físico</string>
@@ -1320,7 +1322,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="link_speed_label">Velocidade do link:</string>
   <string name="local_auto_backup_off">Desligado</string>
   <string name="local_auto_backup_on">Ligado</string>
-  <string name="local_auto_backup_section_title">Cópia de segurança automática</string>
+  <string name="local_auto_backup_section_title">Cópia automática</string>
   <string name="local_backup_password_summary_change">Toque para alterar ou remover a palavra-passe para as cópias de segurança completas do ecrã principal</string>
   <string name="local_backup_password_summary_none">Cópias de segurança completas do ecrã principal não estão actualmente protegidas</string>
   <string name="local_backup_password_title">Palavra-passe da cópia de segurança do ecrã principal</string>
@@ -1328,7 +1330,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="local_backup_password_toast_success">Nova palavra-passe da cópia de segurança definida</string>
   <string name="local_backup_password_toast_validation_failure">Erro na definição da palavra-passe da cópia de segurança</string>
   <string name="local_backup_section_summary">Definições da cópia do sistema, contas e aplicações</string>
-  <string name="local_backup_section_title">Cópia local</string>
+  <string name="local_backup_section_title">Cópias locais</string>
   <string name="locale_default">Predefinido</string>
   <string name="locale_settings">Locale</string>
   <string name="location_access_off">Desligado</string>
@@ -1346,7 +1348,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="location_agps_params_settings_title">Definições AGPS</string>
   <string name="location_agps_pref_apn_title">APN preferido</string>
   <string name="location_agps_pref_network_title">Rede preferida</string>
-  <string name="location_agps_pref_reset_type_title">Redefinir o tipo preferido</string>
+  <string name="location_agps_pref_reset_type_title">Tipo de reposição preferida</string>
   <string name="location_agps_pref_si_title">Modo preferido</string>
   <string name="location_agps_register_network_type">Acesso ao tipo de rede</string>
   <string name="location_agps_register_network_type_dialog_title">Escolher rede</string>
@@ -1354,7 +1356,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="location_agps_reset_type">Redefenir tipos</string>
   <string name="location_agps_reset_type_choose_dialog_title">Redefinir tipos</string>
   <string name="location_agps_reset_type_summary">Escolha o tipo de restauro preferido</string>
-  <string name="location_agps_roaming_help">Escolher todas as redes, pode aumentar o consumo de dados em roaming. Poderá ter custos adicionais se exceder o limite subscrito no seu plano de dados</string>
+  <string name="location_agps_roaming_help">Escolher todas as redes pode aumentar o consumo de dados em roaming. Poderá ter custos adicionais se exceder o limite subscrito no seu plano de dados</string>
   <string name="location_agps_si_mode">Modo AGPS SI</string>
   <string name="location_agps_si_mode_dialog_title">Método AGPS</string>
   <string name="location_agps_si_mode_summary">Escolher método preferido AGPS</string>
@@ -1401,7 +1403,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lock_setup">Configuração concluída</string>
   <string name="lock_sounds_enable_title">Som de bloqueio de ecrã</string>
   <string name="lockpassword_cancel_label">Cancelar</string>
-  <string name="lockpassword_choose_for_second_user">Definir palavra-passe do Segundo espaço</string>
+  <string name="lockpassword_choose_for_second_user">Definir palavra-passe do segundo espaço</string>
   <string name="lockpassword_choose_lock_generic_header">Escolher bloqueio de ecrã</string>
   <string name="lockpassword_choose_your_password_header">Definir palavra-passe</string>
   <string name="lockpassword_choose_your_password_second_space">"Definir palavra-passe 
@@ -1450,15 +1452,15 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong">Tente novamente</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
-  <string name="lockpattern_pattern_confirmed_header">Novo padrão de desbloqueio</string>
+  <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio</string>
   <string name="lockpattern_pattern_entered_header">Padrão adicionado</string>
-  <string name="lockpattern_pattern_same_with_owner">Deve ser diferente da palavra-passe do Primeiro espaço</string>
-  <string name="lockpattern_pattern_same_with_security_space">Deve ser diferente da palavra-passe do Segundo espaço</string>
-  <string name="lockpattern_recording_incorrect_too_short">Ligar pelo menos %d pontos</string>
-  <string name="lockpattern_recording_inprogress">Levantar o dedo quando estiver concluído</string>
+  <string name="lockpattern_pattern_same_with_owner">Deve ser diferente da palavra-passe do primeiro espaço</string>
+  <string name="lockpattern_pattern_same_with_security_space">Deve ser diferente da palavra-passe do segundo espaço</string>
+  <string name="lockpattern_recording_incorrect_too_short">Ligue pelo menos %d pontos. Tente novamente</string>
+  <string name="lockpattern_recording_inprogress">Levante o dedo quando terminar</string>
   <string name="lockpattern_recording_intro_footer">Premir menu para obter ajuda</string>
-  <string name="lockpattern_recording_intro_header">Ligar pelo menos 4 pontos para criar um padrão</string>
-  <string name="lockpattern_recording_intro_header_second_space">Desenhar padrão de desbloqueio para o Segundo espaço</string>
+  <string name="lockpattern_recording_intro_header">Desenhar um padrão de desbloqueio</string>
+  <string name="lockpattern_recording_intro_header_second_space">Desenhar um padrão de desbloqueio para o segundo espaço</string>
   <string name="lockpattern_restart_button_text">Desenhar novamente</string>
   <string name="lockpattern_retry_button_text">Tentar novamente</string>
   <string name="lockpattern_settings_change_lock_pattern">Alterar padrão de desbloqueio</string>
@@ -1524,8 +1526,8 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>armazenament
   <string name="master_clear_personal_data_application">Eliminar toda a sua informação pessoal e aplicações transferidas? Não pode reverter esta acção!</string>
   <string name="master_clear_personal_data_sdcard">Eliminar a sua informação pessoal? Não pode reverter esta acção!</string>
   <string name="master_clear_summary">Formatar todos os dados do telefone</string>
-  <string name="master_clear_title">Restaurar definições de fábrica</string>
-  <string name="max_fingerprint_number_reached">"Não é possível adicionar mais do que 5 impressões digitais. Para adicionar uma nova impressão digital, elimine primeiro uma impressão digital existente"</string>
+  <string name="master_clear_title">Repor definições de fábrica</string>
+  <string name="max_fingerprint_number_reached">Não é possível adicionar mais do que 5 impressões digitais. Para adicionar uma nova impressão digital, elimine primeiro uma impressão digital existente</string>
   <string name="media_button">Botão multimédia</string>
   <string name="media_category">Multimédia</string>
   <string name="media_feedback_enable_title">Vibrar com o ritmo</string>
@@ -1726,7 +1728,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="notification_breathing_light_color_title">Cor do LED das notificações</string>
   <string name="notification_breathing_light_freq_title">Frequência da luz do LED das notificações</string>
   <string name="notification_listener_security_warning_summary">%1$s vai poder ler todas as notificações escritas pelo sistema ou outra aplicação instalada, que pode incluir informação pessoal como nomes de contactos e texto de mensagens enviados para si. Pode dispensar estas notificações ou tocar nos botões de acção dentro deles</string>
-  <string name="notification_listener_security_warning_title">Activar %1$s?</string>
+  <string name="notification_listener_security_warning_title">Permitir o acesso a notificações de %1$s?</string>
   <string name="notification_pulse_title">LED de notificações</string>
   <string name="notification_sound_dialog_title">Toque de notificação predefinido</string>
   <string name="notification_sound_title">Toque de notificação predefinido</string>
@@ -1736,21 +1738,21 @@ Seleccione o seu sistema operativo:"</string>
   <string name="nsd_quick_toggle_title">Descobrir serviços de rede</string>
   <string name="oem_radio_info_label">Informações/Definições específicas de OEM</string>
   <string name="oldman_mode_confirm_title">Reiniciar agora?</string>
-  <string name="oldman_mode_confirm_will_normal_mode_text">O dispositivo vai reiniciar para sair do Modo Leve</string>
+  <string name="oldman_mode_confirm_will_normal_mode_text">O seu dispositivo vai reiniciar para sair do Modo Leve</string>
   <string name="oldman_mode_confirm_will_oldman_mode_text">O dispositivo vai reiniciar para entrar no Modo Leve</string>
   <string name="oldman_mode_enabled_name">Modo Leve</string>
   <string name="oldman_mode_entry_name">Modo Leve</string>
   <string name="oldman_mode_entry_title">Modo Leve</string>
   <string name="oldman_mode_settings_caption">Definições do Modo Leve</string>
   <string name="oldman_mode_summary">Utilizar menus simplificados</string>
-  <string name="oldman_mode_summary_cta">Modo Leve necessita de uma ligação à Internet, ler os seus contactos, mensagens e obter a localização para funcionar normalmente</string>
+  <string name="oldman_mode_summary_cta">Modo Leve necessita de uma ligação à Internet, ler os seus contactos, mensagens e localização para funcionar normalmente</string>
   <string name="onekey_migrate">Mi Mover</string>
   <string name="online_resource_entry">Recursos online</string>
   <string name="only_one_home_message">Estas definições ficam ocultas até que instale outro launcher</string>
   <string name="only_when_charging">Apenas quando estiver a carregar</string>
   <string name="onscreen_keyboard_settings_summary">Definições de teclado</string>
   <string name="open_miui_optimization_title">Ligar optimização MIUI</string>
-  <string name="open_miui_optimization_warning_message">O dispositivo vai reiniciar para aplicar esta alteração</string>
+  <string name="open_miui_optimization_warning_message">O seu dispositivo vai reiniciar para aplicar esta alteração</string>
   <string name="open_wifi_connect_summary">Toque para ver detalhes</string>
   <string name="open_wifi_connect_title">Ligar a %1$s</string>
   <string name="optimization_cancel">Cancelar</string>
@@ -1835,7 +1837,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_app_invisible">Definições/Definições adicionais/Funcionalidades Beta/Aplicações invisíveis</string>
   <string name="path_app_permission">Definições/Permissões</string>
   <string name="path_app_switch_key">Definições/Definições adicionais/Botões/Recentes</string>
-  <string name="path_application_lock">Definições/Bloqueio de aplicacões</string>
+  <string name="path_application_lock">Definições/Bloqueio de aplicações</string>
   <string name="path_applications_settings">Definições/Aplicações instaladas</string>
   <string name="path_back_key">Definições/Definições adicionais/Botões/Voltar</string>
   <string name="path_battery_indicator_settings">Definições/Bateria e desempenho/Indicador de bateria</string>
@@ -1864,7 +1866,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_dndm_open">Definições/Não incomodar/Activar Não incomodar</string>
   <string name="path_dndm_repeated_call_setting_title">Definições/Não incomodar/Chamadas repetidas</string>
   <string name="path_dndm_vip_call_setting_title">Definições/Não incomodar/Excepções</string>
-  <string name="path_dndm_wristband">Definições/Não incomodar/Activar com a Banda Mi</string>
+  <string name="path_dndm_wristband">Definições/Não incomodar/Activar com a Mi Band</string>
   <string name="path_do_not_disturb_settings">Definições/Não incomodar</string>
   <string name="path_dtmf_tone_enable_title">Definições/Som e vibração/Tons de marcação</string>
   <string name="path_edge_handgrip">Definições/Controlos do limite</string>
@@ -1895,7 +1897,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_network_settings">Definições/Definições de rede móvel</string>
   <string name="path_networks_title">Definições/Definições de rede móvel/Redes móveis</string>
   <string name="path_nfc_se_route_title">Definições/Mais/Posição do elemento de segurança</string>
-  <string name="path_notification_app_list_settings">Definições/Notificações e barra de estado/Notificações das aplicacões</string>
+  <string name="path_notification_app_list_settings">Definições/Notificações e barra de estado/Notificações das aplicações</string>
   <string name="path_notification_sound">Definições/Som e vibração/Toque de notificação predefinido</string>
   <string name="path_notification_sound_title">Definições/Som e vibração/Toque de notificação predefinido</string>
   <string name="path_ntts_settings_title">Definições/Definições adicionais/Acessibilidade/Saída de texto para voz</string>
@@ -1924,7 +1926,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_screen_saver_settings">Definições/Ecrã/Protecção de ecrã</string>
   <string name="path_screen_timeout_settings">Definições/Ecrã de bloqueio e segurança/Suspender</string>
   <string name="path_second_space">Definições/Segundo espaço</string>
-  <string name="path_security_encryption_title">Definições/Definições adicionais/Privacidade/Encriptar dispositivo</string>
+  <string name="path_security_encryption_title">Definições/Definições adicionais/Privacidade/Encriptar telefone</string>
   <string name="path_security_passwords_title">Definições/Ecrã de bloqueio e segurança/Bloqueio de ecrã</string>
   <string name="path_security_settings">Definições/Definições adicionais/Privacidade</string>
   <string name="path_slot_status_title">Definições/Acerca do telefone/Informações do IMEI</string>
@@ -2050,7 +2052,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="preferred_app_settings_default">Predefinida</string>
   <string name="preferred_app_settings_reset">Repor predefinições</string>
   <string name="preferred_app_settings_reset_button">Repor</string>
-  <string name="preferred_app_settings_reset_message">Todas as aplicações serão repostas para as predefinições de fábrica</string>
+  <string name="preferred_app_settings_reset_message">Todas as aplicações serão repostas para as definições de fábrica</string>
   <string name="preferred_application_title">Preferidas %s</string>
   <string name="preferred_application_warning_message">Substituir %1$s predefinido pode aumentar o consumo de bateria, reduzir a velocidade e pode colocar em risco o conteúdo do telefone. Utilize %2$s em vez disso</string>
   <string name="preferred_application_warning_replace">Substituir</string>
@@ -2164,8 +2166,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="quiet">Não incomodar</string>
   <string name="quiet_group">Não incomodar</string>
   <string name="quiet_important_interruptions_mode">Permitir apenas excepções</string>
-  <string name="quiet_mode">Silenciar todos os distúrbios</string>
-  <string name="quiet_off_mode">Permitir sempre distúrbios</string>
+  <string name="quiet_mode">Silenciar tudo</string>
+  <string name="quiet_off_mode">Desligado</string>
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">Ligado</string>
   <string name="radioInfo_data_connecting">A ligar</string>
@@ -2238,9 +2240,9 @@ Seleccione o seu sistema operativo:"</string>
   <string name="remove_device_admin">Desactivar</string>
   <string name="remove_from_frequently_fragment">Remover %s das definições comuns?</string>
   <string name="repeat">Repetir</string>
-  <string name="reset_app_preferences">Redefinir preferências da aplicação</string>
-  <string name="reset_app_preferences_button">Redefinir aplicações</string>
-  <string name="reset_app_preferences_desc">"Isto vai redefinir todas as preferências para:
+  <string name="reset_app_preferences">Repor preferências das aplicações</string>
+  <string name="reset_app_preferences_button">Repor aplicações</string>
+  <string name="reset_app_preferences_desc">"Isto vai repor todas as preferências para:
 
  "<li>Aplicações desactivadas</li>"
  "<li>Notificações de aplicação desactivadas</li>"
@@ -2249,7 +2251,7 @@ Seleccione o seu sistema operativo:"</string>
  "<li>Quaisquer restrições de permissão</li>"
 
 Não vai perder quaisquer dados das aplicações"</string>
-  <string name="reset_app_preferences_title">Redefinir preferências da aplicação?</string>
+  <string name="reset_app_preferences_title">Repor preferências das aplicações?</string>
   <string name="reset_legacy_password_settings_preface_text">Tem que redefinir a sua palavra-passe no ecrã de bloqueio</string>
   <string name="resolver_settings_label">Ordenar</string>
   <string name="resource_ringtone_volume_mute">O toque do telefone está silenciado</string>
@@ -2363,7 +2365,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="sd_ejecting_summary">Desmontagem em curso…</string>
   <string name="sd_ejecting_title">A desmontar</string>
   <string name="sd_format">Formatar armazenamento USB</string>
-  <string name="sd_format_summary">Eliminar todos os dados no dispositivo de armazenamento USB, como música e fotos</string>
+  <string name="sd_format_summary">Eliminar todos os dados do armazenamento USB interno, como música e fotos</string>
   <string name="sd_insert_summary">Insira um armazenamento USB para montar</string>
   <string name="sd_memory">Armazenamento USB</string>
   <string name="sd_mount">Montar armazenamento USB</string>
@@ -2432,7 +2434,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="search_dndm_open">Não incomodar</string>
   <string name="search_dndm_repeated_call_setting_title">Chamadas repetidas</string>
   <string name="search_dndm_vip_call_setting_title">VIP;Excepções</string>
-  <string name="search_dndm_wristband">Activar com a Banda Mi</string>
+  <string name="search_dndm_wristband">Activar com a Mi Band</string>
   <string name="search_do_not_disturb">Não incomodar;VIP;Definir hora;Excepções;Chamadas repetidas</string>
   <string name="search_dtmf_tone_enable_title">Tons de marcação</string>
   <string name="search_edge_handgrip">Controlos do limite</string>
@@ -2467,7 +2469,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="search_network">Redes móveis de trabalho;Dados móveis;Roaming;Receber MMS;Pontos de acesso(APN);Tipo de rede preferida;Redes móveis</string>
   <string name="search_networks_title">Redes móveis</string>
   <string name="search_nfc_se_route_title">Posição do elemento de segurança</string>
-  <string name="search_notification_app_list_settings">Notificações das aplicacões</string>
+  <string name="search_notification_app_list_settings">Notificações das aplicações</string>
   <string name="search_notification_sound_title">Toque de notificação predefinido</string>
   <string name="search_ntts_settings_title">Saída de texto para voz;TTS</string>
   <string name="search_oldman_mode">Modo Leve;Modo Leve</string>
@@ -2497,7 +2499,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="search_screen_saver_settings">Protecção de ecrã</string>
   <string name="search_screen_timeout">Suspender;Bloqueio de ecrã</string>
   <string name="search_second_space">Segundo espaço</string>
-  <string name="search_security_encryption_title">Encriptar dispositivo</string>
+  <string name="search_security_encryption_title">Encriptar telefone</string>
   <string name="search_security_passwords_title">Bloqueio de ecrã</string>
   <string name="search_security_settings">Definições de privacidade</string>
   <string name="search_settings">Pesquisar</string>
@@ -2507,7 +2509,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="search_sms_received">Mensagem recebida</string>
   <string name="search_sound_effects_enable_title">Sons de toque</string>
   <string name="search_sound_settings">Som e vibração;Volumes;Modo silêncio;Alarmes;Música;Vibração;Toque do telefone;Toque do telefone predefinido;Mensagem recebida;Mensagem entregue;Sons de toque;Som de bloqueio de ecrã;Definições de áudio;Suprimir ruído</string>
-  <string name="search_status_bar">Notificações e barra de estado;Notificações das aplicacões;Posição dos atalhos;Mostrar velocidade da ligação;Mostrar nome da operadora;Mostrar notificação de captura de ecrã;Mostrar no ecrã de bloqueio</string>
+  <string name="search_status_bar">Notificações e barra de estado;Notificações das aplicações;Posição dos atalhos;Mostrar velocidade da ligação;Mostrar nome da operadora;Mostrar notificação de captura de ecrã;Mostrar no ecrã de bloqueio</string>
   <string name="search_status_bar_settings_custom_carrier">Editar nome da operadora</string>
   <string name="search_status_bar_settings_expandable_under_keyguard">Mostrar no ecrã de bloqueio</string>
   <string name="search_status_bar_settings_show_carrier">Mostrar nome da operadora</string>
@@ -2581,7 +2583,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="security_encryption_close_dialog_title">Voltar para a definição de segurança predefinida</string>
   <string name="security_encryption_diaglog_continue">Seguinte</string>
   <string name="security_encryption_is_used">Ligado</string>
-  <string name="security_encryption_title">Encriptar dispositivo</string>
+  <string name="security_encryption_title">Encriptar telefone</string>
   <string name="security_keyguard_category_name">Ecrã de bloqueio</string>
   <string name="security_password_category_name">Tipo de segurança</string>
   <string name="security_passwords_title">Desbloqueio de ecrã</string>
@@ -2633,7 +2635,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="settings_safetylegal_activity_title">Informações de segurança</string>
   <string name="settings_safetylegal_activity_unreachable">Não tem uma ligação de dados. Para ver esta informação agora, vá a %s em qualquer computador ligado à Internet</string>
   <string name="settings_safetylegal_title">Informações de segurança</string>
-  <string name="settings_shortcut">Atalho de Definições</string>
+  <string name="settings_shortcut">Atalho das definições</string>
   <string name="show_all_anrs">Mostrar todos os ANRs</string>
   <string name="show_all_anrs_summary">Mostrar informação das aplicações que não respondem à execução em segundo plano</string>
   <string name="show_background_processes">Mostrar processos em cache</string>
@@ -2680,14 +2682,14 @@ Possivelmente o PIN está incorrecto"</string>
   <string name="sim_lock_change_not_supported">Não é possível alterar o bloqueio do SIM</string>
   <string name="sim_lock_failed">"Não é possível alterar o estado de bloqueio do cartão SIM.
 Possivelmente o código PIN está incorrecto"</string>
-  <string name="sim_lock_off">Pedir PIN para utilizar o telefone</string>
-  <string name="sim_lock_on">Pedir PIN para utilizar o telefone</string>
+  <string name="sim_lock_off">Não exigir PIN para utilizar o telefone</string>
+  <string name="sim_lock_on">Exigir PIN para utilizar o telefone</string>
   <string name="sim_lock_settings">Definições de bloqueio do cartão SIM</string>
   <string name="sim_lock_settings_category">Configurar bloqueio do cartão SIM</string>
   <string name="sim_lock_settings_title">Bloqueio do cartão SIM</string>
   <string name="sim_management_title">Cartões SIM e redes móveis</string>
   <string name="sim_multi_sims_summary">Defina o cartão SIM para os dados móveis</string>
-  <string name="sim_multi_sims_title">Encontrados vários cartões SIMs</string>
+  <string name="sim_multi_sims_title">Encontrados vários cartões SIM</string>
   <string name="sim_no_inserted_msg">Sem cartões SIM inseridos</string>
   <string name="sim_other_call_settings">Outras definições de chamadas</string>
   <string name="sim_outgoing_call_title">Cartão SIM para fazer chamadas</string>
@@ -2703,18 +2705,19 @@ Tentativas restantes :"</string>
   <string name="skip_label">Ignorar</string>
   <string name="skip_lock_screen_confirm_msg">Notificações, controlos do leitor de música e deslizar para a direita para aceder à lista de chamadas vão ser desligados no ecrã de bloqueio</string>
   <string name="skip_step">Ignorar</string>
-  <string name="slot_status_title">Informação do IMEI:</string>
+  <string name="slot_status_title">Informação do IMEI</string>
   <string name="small_font">Pequena</string>
   <string name="smallwindow_smartcover_title">Capa com frente transparente</string>
   <string name="smartcover_sensitive_title">Modo de capa inteligente</string>
-  <string name="sms_application_title">Aplicações predefinidas de mensagens</string>
+  <string name="sms_application_title">Aplicação de SMS</string>
   <string name="sms_change_default_dialog_text" formatted="false">Utilizar %s em vez de %s como aplicação de SMS?</string>
   <string name="sms_change_default_dialog_title">Alterar a aplicação de SMS?</string>
   <string name="sms_change_default_no_previous_dialog_text">Utilizar %s como aplicação de SMS?</string>
   <string name="sms_delivered_sound_dialog_title">Escolher toque de mensagem entregue</string>
   <string name="sms_delivered_sound_title">Mensagem entregue</string>
-  <string name="sms_over_ims_off">Desactivar SMS sobre IMS</string>
-  <string name="sms_over_ims_on">Activar SMS sobre IMS</string>
+  <string name="sms_messages_title">Mensagens SMS</string>
+  <string name="sms_over_ims_off">Desligar SMS sobre IMS</string>
+  <string name="sms_over_ims_on">Ligar SMS sobre IMS</string>
   <string name="sms_received_sound_dialog_title">Escolher toque de mensagem recebida</string>
   <string name="sms_received_sound_title">Mensagem recebida</string>
   <string name="sort_order_alpha">Ordenar por nome</string>
@@ -2729,7 +2732,7 @@ Tentativas restantes :"</string>
   <string name="spellchecker_language">Idioma</string>
   <string name="spellchecker_quick_settings">Definições</string>
   <string name="spellchecker_security_warning">Este corrector ortográfico poderá recolher todo o texto que digita, incluindo dados pessoais, como palavras-passe e números de cartões de crédito. Tem origem na aplicação %1$s. Quer utilizar este corrector ortográfico?</string>
-  <string name="spellcheckers_settings_title">Correcção ortográfica</string>
+  <string name="spellcheckers_settings_title">Corrector ortográfico</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">Monitorização de rede</string>
   <string name="ssl_ca_cert_info_message">"Este dispositivo é gerido por:
@@ -2969,6 +2972,9 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="under_keyguard">Bloqueio de ecrã</string>
   <string name="uninstall_all_users_text">Desinstalar para todos os utilizadores</string>
   <string name="uninstall_text">Desinstalar</string>
+  <string name="uninstall_with_xspace_app_dlg_msg">A aplicacões clonadas correspondentes vão ser eliminadas juntamente com os dados das mesmas</string>
+  <string name="uninstall_xspace_app_dlg_msg">Desinstalar aplicacão clonada vai eliminar todos os dados da aplicacão</string>
+  <string name="uninstall_xspace_app_dlg_title">Desinstalar aplicacão clonada?</string>
   <string name="unknown">Desconhecido</string>
   <string name="unlock_backup_info_summary">Quando o Desbloqueio com o Rosto não o consegue ver, como deseja desbloquear?</string>
   <string name="unlock_change_lock_password_title">Alterar palavra-passe de desbloqueio</string>
@@ -2977,7 +2983,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="unlock_disable_lock_password_summary">Remover palavra-passe de desbloqueio</string>
   <string name="unlock_disable_lock_pattern_summary">Remover padrão de desbloqueio</string>
   <string name="unlock_disable_lock_pin_summary">Desligar PIN</string>
-  <string name="unlock_disable_lock_title">Desactivar o bloqueio de ecrã</string>
+  <string name="unlock_disable_lock_title">Desligar bloqueio de ecrã</string>
   <string name="unlock_set_enter_system">Ignorar bloqueio de ecrã</string>
   <string name="unlock_set_enter_system_summary">Ir directamente para o ecrã inicial após ligar</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Nível de segurança baixo (experimental)</string>
@@ -3016,7 +3022,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="usage_time_label">Tempo de utilização</string>
   <string name="usage_type_audio">Áudio</string>
   <string name="usage_type_cpu">Utilização da CPU</string>
-  <string name="usage_type_cpu_foreground">CPU em primeiro plano</string>
+  <string name="usage_type_cpu_foreground">Primeiro plano da CPU</string>
   <string name="usage_type_data_recv">Dados móveis recebidos</string>
   <string name="usage_type_data_send">Dados móveis enviados</string>
   <string name="usage_type_data_wifi_recv">Dados Wi-Fi recebidos</string>
@@ -3029,7 +3035,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="usage_type_wake_lock">Manter ligado</string>
   <string name="usage_type_wifi_running">Wi-Fi em execução</string>
   <string name="usb_audio_disable_routing">Desactivar encaminhamento áudio USB</string>
-  <string name="usb_audio_disable_routing_summary">Desactivar encaminhamento automático para periféricos de áudio USB</string>
+  <string name="usb_audio_disable_routing_summary">Desactivar encaminhamento automático para periféricos áudio USB</string>
   <string name="usb_charging_summary">Desligue todas as outras funcionalidades de ligação USB para acelerar o carregamento</string>
   <string name="usb_charging_title">Acelerar carga</string>
   <string name="usb_connection_category">Ligar como</string>
@@ -3072,24 +3078,25 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="user_add_profile_item_title">Perfil restrito</string>
   <string name="user_add_user_item_summary">Os utilizadores têm as suas próprias aplicações e conteúdos</string>
   <string name="user_add_user_item_title">Utilizador</string>
-  <string name="user_add_user_menu">Adicionar utilizador ou perfil</string>
+  <string name="user_add_user_menu">Adicionar utilizador</string>
   <string name="user_add_user_message_long">"Pode partilhar este dispositivo com outras pessoas ao criar utilizadores adicionais. Cada utilizador possui o seu próprio espaço, que pode ser personalizado com aplicações, papel de parede, etc. Os utilizadores também podem ajustar as definições do dispositivo, como o Wi-Fi, que afectam os restantes utilizadores.
 
-Depois de criar um novo utilizador, é necessário seguir o processo de definições. 
+Ao adicionar um novo utilizador, essa pessoa tem de configurar o respectivo espaço. 
 
 Qualquer utilizador pode actualizar aplicações para todos os outros utilizadores"</string>
-  <string name="user_add_user_message_short">"Depois de criar um novo utilizador, esse utilizador tem que passar por um processo de definições.
+  <string name="user_add_user_message_short">"Ao adicionar um novo utilizador, essa pessoa tem de configurar o respectivo espaço.
 
 Qualquer utilizador pode actualizar aplicações para todos os outros utilizadores"</string>
+  <string name="user_add_user_or_profile_menu">Adicionar utilizador ou perfil</string>
   <string name="user_add_user_title">Adicionar novo utilizador</string>
   <string name="user_add_user_type_title">Adicionar</string>
   <string name="user_adding_new_user">A adicionar novo utilizador…</string>
   <string name="user_cannot_add_accounts_message">Perfis restritos não podem adicionar contas</string>
   <string name="user_cannot_manage_message">A gestão dos utilizadores só pode ser feita pelo proprietário do telefone</string>
-  <string name="user_confirm_remove_message">O espaço e dados deste utilizador serão eliminados do telefone. Não pode reverter esta acção</string>
+  <string name="user_confirm_remove_message">Todas as aplicações e dados serão eliminados</string>
   <string name="user_confirm_remove_self_message">Perderá os dados e espaço neste telefone. Não é possível reverter esta acção</string>
   <string name="user_confirm_remove_self_title">Eliminar-se a si próprio?</string>
-  <string name="user_confirm_remove_title">Remover utilizador?</string>
+  <string name="user_confirm_remove_title">Remover este utilizador?</string>
   <string name="user_delete_button">Eliminar</string>
   <string name="user_delete_user_description">Eliminar utilizador</string>
   <string name="user_dict_settings_add_dialog_confirm">OK</string>
@@ -3124,10 +3131,11 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="user_picture_title">ID da foto</string>
   <string name="user_profile_confirm_remove_message">O espaço e dados deste perfil serão eliminados do telefone. Não pode reverter esta acção</string>
   <string name="user_profile_confirm_remove_title">Remover este perfil?</string>
+  <string name="user_remove_user">Remover utilizador</string>
   <string name="user_remove_user_menu">Eliminar %1$s deste dispositivo</string>
   <string name="user_rename">MUDAR O NOME</string>
   <string name="user_restrictions_controlled_by">Controlado por %1$s</string>
-  <string name="user_restrictions_title">Restrições de aplicação e de conteúdo</string>
+  <string name="user_restrictions_title">Acesso às aplicações e conteúdo</string>
   <string name="user_set_lock_button">Definir bloqueio</string>
   <string name="user_settings_title">Utilizadores</string>
   <string name="user_setup_button_setup_later">Agora não</string>
@@ -3141,7 +3149,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="user_you">Você (%s)</string>
   <string name="verify_applications">Verificar aplicações</string>
   <string name="verify_applications_summary">Não permitir ou avisar antes de instalar aplicações que podem causar danos</string>
-  <string name="verify_apps_over_usb_summary">Verificar as aplicações instaladas via ADB/ADT para detectar comportamento malicioso</string>
+  <string name="verify_apps_over_usb_summary">Verificar as aplicações instaladas via ADB/ADT para detectar comportamentos maliciosos</string>
   <string name="verify_apps_over_usb_title">Verificar aplicações de USB</string>
   <string name="version_text">versão %1$s</string>
   <string name="vibrate_category_title">Vibrar</string>
@@ -3150,9 +3158,9 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="vibrate_input_devices">Utilizar vibração</string>
   <string name="vibrate_input_devices_summary">Redireccionar vibração para o controlador de jogo quando ligado</string>
   <string name="vibrate_when_ringing_title">Vibrar ao receber chamadas</string>
-  <string name="virtual_sim_category_title">SIM virtual</string>
+  <string name="virtual_sim_category_title">Roaming Mi</string>
   <string name="virtual_sim_description">Serviço de roaming de confiança</string>
-  <string name="virtual_sim_search_title">SIM virtual</string>
+  <string name="virtual_sim_search_title">SIM Virtual</string>
   <string name="virtual_sim_title">Rede de dados roaming</string>
   <string name="virus_scan">Verificar vírus</string>
   <string name="virus_scan_app_continue">Continuar verificação</string>
@@ -3401,7 +3409,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="wifi_off_airplane_on_not_remind">Não mostrar novamente</string>
   <string name="wifi_off_airplane_on_title">Wi-Fi em Modo Avião</string>
   <string name="wifi_on_time">Tempo de ligação Wi-Fi</string>
-  <string name="wifi_other_network">Outras redes…</string>
+  <string name="wifi_other_network">Adicionar outra rede</string>
   <string name="wifi_p2p_cancel_connect_message">Deseja cancelar o convite para se ligar com %1$s?</string>
   <string name="wifi_p2p_cancel_connect_title">Cancelar convite?</string>
   <string name="wifi_p2p_delete_group_message">Esquecer este grupo?</string>
@@ -3580,9 +3588,9 @@ A configuração do telefone pode exigir a actividade de rede significativa"</st
   <string name="wifi_wapi_cert_cancel_button">Cancelar</string>
   <string name="wifi_wapi_cert_create_subdir">Criar uma pasta</string>
   <string name="wifi_wapi_cert_delet_subdir">Seleccionar um certificado compatível</string>
-  <string name="wifi_wapi_cert_install">Instalar Certificado WAPI</string>
+  <string name="wifi_wapi_cert_install">Instalar certificados WAPI</string>
   <string name="wifi_wapi_cert_install_button">Instalar</string>
-  <string name="wifi_wapi_cert_mgmt_as_dont_exist">O armazenamento não tem o certificado AS, por favor, verifique</string>
+  <string name="wifi_wapi_cert_mgmt_as_dont_exist">O armazenamento não tem o certificado AS. Por favor, verifique</string>
   <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">O formato de certificado AS está errado! Por favor, instale o certificado AS correcto</string>
   <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Introduza o nome do certificado AS</string>
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Não foi possível criar uma pasta</string>
@@ -3592,7 +3600,7 @@ A configuração do telefone pode exigir a actividade de rede significativa"</st
   <string name="wifi_wapi_cert_mgmt_user_dont_exist">Insira o nome do certificado de utilizador</string>
   <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">O certificado de utilizador está errado! Por favor, instale o certificado de utilizador correcto</string>
   <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Insira o nome do certificado de utilizador</string>
-  <string name="wifi_wapi_cert_uninstall">Desinstalar certificado WAPI</string>
+  <string name="wifi_wapi_cert_uninstall">Desinstalar certificados WAPI</string>
   <string name="wifi_wapi_cert_uninstall_button">Desinstalar</string>
   <string name="wifi_wapi_certification_dont_exist">A palavra-passe da rede que introduziu está incorrecta</string>
   <string name="wifi_wapi_user_cert">Certificado de Utilizador</string>

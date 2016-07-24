@@ -1076,7 +1076,7 @@ O cartão SIM será bloqueado após nova tentativa falhada"</string>
   <string name="respond_via_sms_cannot_empty">Mensagens de rejeição não podem estar vazias</string>
   <string name="respond_via_sms_confirmation_format">Mensagem enviada para %s</string>
   <string name="respond_via_sms_edittext_dialog_title">Resposta rápida</string>
-  <string name="respond_via_sms_menu_reset_default_activity">Restaurar predefinições</string>
+  <string name="respond_via_sms_menu_reset_default_activity">Repor predefinições</string>
   <string name="respond_via_sms_setting_summary">Editar respostas de texto pré-escritas</string>
   <string name="respond_via_sms_setting_title">Respostas rápidas</string>
   <string name="response_error">Resposta inesperada da rede</string>

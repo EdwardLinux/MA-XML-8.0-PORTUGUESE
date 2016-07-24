@@ -2,8 +2,8 @@
 <resources>
   <string name="ErrorTooManyRequests">Estão a ser processados muitos pedidos. Tente mais tarde</string>
   <string name="ack_record">Registo de confirmação</string>
-  <string name="airplane_can_not_share">"Não é possível utilizar o Bluetooth para partilhar em Modo Avião"</string>
-  <string name="airplane_error_msg">"Não pode usar o Bluetooth em Modo Avião"</string>
+  <string name="airplane_can_not_share">Não é possível utilizar o Bluetooth para partilhar em Modo Avião</string>
+  <string name="airplane_error_msg">Não pode utilizar o Bluetooth em Modo Avião</string>
   <string name="airplane_error_title">Modo Avião</string>
   <string name="app_name">Partilha Bluetooth</string>
   <string name="auth_notif_message">Introduzir chave de sessão para %1$s</string>
@@ -93,7 +93,7 @@
   <string name="incoming_line2">Nome do ficheiro</string>
   <string name="incoming_line3">Tamanho</string>
   <string name="insert_record">Inserir registo</string>
-  <string name="install_package">Instalar %1$s para mais funções</string>
+  <string name="install_package">Instalar %1$s para mais funcionalidades</string>
   <string name="localPhoneName">Meu nome</string>
   <string name="mi_band_vibrate_alarm">Vibrar quando o alarme tocar</string>
   <string name="mi_band_vibrate_incall">Vibrar ao receber chamada</string>
@@ -144,7 +144,7 @@
   <string name="permlab_bluetoothWhitelist">Adicionar às excepções de acesso ao dispositivo Bluetooth</string>
   <string name="process"/>
   <string name="progress_scanning">A pesquisar</string>
-  <string name="reset_function_msg">Redefinir a funcionalidade pode prevenir %1$s de funcionar normalmente</string>
+  <string name="reset_function_msg">Ao repor esta funcionalidade pode fazer com que %1$s deixe de funcionar normalmente</string>
   <string name="sharedUserId"/>
   <string name="some_app_taking">(%1$s já está a utilizar esta funcionalidade)</string>
   <string name="start_server">Iniciar servidor TCP</string>

@@ -249,11 +249,11 @@ Tente novamente em %d segundos"</string>
   <string name="usb_storage_ready_title">Armazenamento externo USB preparado</string>
   <string name="usb_ums_notification_title">Ligado como armazenamento USB</string>
   <string name="usbint_notification_title">Internet USB activa</string>
-  <string name="virtual_sim_on">SIM virtual ligado</string>
-  <string name="virtual_sim_on_slot1">SIM 1 virtual activado</string>
-  <string name="virtual_sim_on_slot2">SIM 2 virtual activado</string>
-  <string name="virtual_sim_on_slot3">SIM 3 virtual activado</string>
-  <string name="virtual_sim_on_slot4">SIM 4 virtual activado</string>
+  <string name="virtual_sim_on">SIM Virtual ligado</string>
+  <string name="virtual_sim_on_slot1">SIM 1 Virtual activado</string>
+  <string name="virtual_sim_on_slot2">SIM 2 Virtual activado</string>
+  <string name="virtual_sim_on_slot3">SIM 3 Virtual activado</string>
+  <string name="virtual_sim_on_slot4">SIM 4 Virtual activado</string>
   <string name="voice_unlock_media_playing">O desbloqueio por voz está desactivado durante a reprodução de multimédia</string>
   <string name="voice_unlock_noisy">Existe demasiado ruído. Não é possível ouvi-lo claramente</string>
   <string name="voice_unlock_password_wrong">Não é possível reconhecer a sua voz</string>

@@ -523,10 +523,10 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="lockpattern_need_to_confirm">Desenhar novamente o padrão para confirmar</string>
   <string name="lockpattern_need_to_unlock">Confirmar o padrão de desbloqueio</string>
   <string name="lockpattern_need_to_unlock_wrong">Tente novamente</string>
-  <string name="lockpattern_pattern_confirmed_header">Novo padrão de desbloqueio</string>
+  <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio</string>
   <string name="lockpattern_pattern_entered_header">Padrão adicionado</string>
-  <string name="lockpattern_recording_incorrect_too_short">Ligar pelo menos %d pontos</string>
-  <string name="lockpattern_recording_inprogress">Levantar o dedo quando estiver concluído</string>
+  <string name="lockpattern_recording_incorrect_too_short">Ligue pelo menos %d pontos. Tente novamente</string>
+  <string name="lockpattern_recording_inprogress">Levante o dedo quando terminar</string>
   <string name="lockpattern_recording_intro_header">Ligar pelo menos 4 pontos para criar um padrão</string>
   <string name="lockpattern_retry_button_text">Desenhar novamente</string>
   <string name="lockpattern_settings_help_how_to_record">Como desenhar um padrão</string>
@@ -1321,7 +1321,7 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="usage_sorted_loading_text">Aguarde…</string>
   <string name="usage_type_audio">Áudio</string>
   <string name="usage_type_cpu">CPU total</string>
-  <string name="usage_type_cpu_foreground">CPU em primeiro plano</string>
+  <string name="usage_type_cpu_foreground">Primeiro plano da CPU</string>
   <string name="usage_type_data_recv">Dados móveis recebidos</string>
   <string name="usage_type_data_send">Dados móveis enviados</string>
   <string name="usage_type_data_wifi_recv">Dados Wi-Fi recebidos</string>
