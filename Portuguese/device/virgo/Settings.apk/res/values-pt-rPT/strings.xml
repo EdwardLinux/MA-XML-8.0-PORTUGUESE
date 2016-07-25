@@ -110,7 +110,7 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="add_device_admin_msg">Activar o administrador do dispositivo?</string>
   <string name="add_fingerprint_done_msg">Agora pode desbloquear o seu dispositivo com a sua impressão digital</string>
   <string name="add_fingerprint_done_title">Feito!</string>
-  <string name="add_fingerprint_failed_retry_text">Não foi possível adicionar impressão digita. Tente novamente</string>
+  <string name="add_fingerprint_failed_retry_text">Não foi possível adicionar impressão digital. Tente novamente</string>
   <string name="add_fingerprint_finished_button_text">OK</string>
   <string name="add_fingerprint_instruction_msg">Desbloquear o dispositivo ou verificar pagamentos com a sua impressão digital</string>
   <string name="add_fingerprint_instruction_title">Adicionar a sua impressão digital</string>

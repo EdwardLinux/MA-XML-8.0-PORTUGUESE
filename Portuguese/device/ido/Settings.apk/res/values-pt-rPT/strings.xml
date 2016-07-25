@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Accounts_settings_title">Contas</string>
   <string name="aaid_info">"
 Identificador de anúncios é um ID único e permanente do seu dispositivo. Os fornecedores utilizam-no para seleccionar anúncios que vão ser mais úteis para si.
 
@@ -23,6 +24,7 @@ Se escolher não utilizar anúncios personalizados, a quantidade de anúncios n�
   <string name="access_control_password_title">Bloqueio de ecrã</string>
   <string name="access_control_recording_intro_header">Desenhar um padrão de desbloqueio</string>
   <string name="access_control_reset_by_account">Iniciar a sessão na sua Conta Mi para redefinir palavra-passe</string>
+  <string name="access_point_names">Pontos de acesso(APN)</string>
   <string name="accessibility_captioning_title">Legendas</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Esta funcionalidade é experimental e pode afectar o desempenho</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcção de cor</string>
@@ -30,13 +32,14 @@ Se escolher não utilizar anúncios personalizados, a quantidade de anúncios n�
   <string name="accessibility_display_inversion_preference_title">Inversão de cor</string>
   <string name="accessibility_display_title">Ecrã</string>
   <string name="accessibility_enable">Acessibilidade</string>
+  <string name="accessibility_feature_or_input_method_not_allowed">Não permitido pela sua organização</string>
   <string name="accessibility_feature_state_off">Desligado</string>
   <string name="accessibility_feature_state_on">Ligado</string>
   <string name="accessibility_global_gesture_preference_description">"Quando esta funcionalidade está ligada, pode activar rapidamente funcionalidades de acessibilidade em dois passos:
 
-Passo 1: Prima e segure o botão Ligar/Desligar até ouvir um som ou sentir uma vibração.
+Passo 1: Prima e segure o botão Ligar/Desligar até ouvir um som ou sentir uma vibração
 
-Passo 2: Toque e segure dois dedos até ouvir a confirmação de áudio.
+Passo 2: Toque e segure dois dedos até ouvir a confirmação de áudio
 
 Se o dispositivo tiver vários utilizadores, ao utilizar este atalho no ecrã de bloqueio activa temporariamente a acessibilidade até que o dispositivo seja desbloqueado"</string>
   <string name="accessibility_global_gesture_preference_summary_off">Desligado</string>
@@ -58,14 +61,13 @@ Também pode aumentar temporariamente o que estiver sobre o seu dedo com um trip
 Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra de navegação e no teclado"</string>
   <string name="accessibility_screen_magnification_title">Ampliação de gestos</string>
   <string name="accessibility_service_default_description">Sem descrição fornecida</string>
-  <string name="accessibility_service_no_apps_message">TalkBack fornece mensagens de voz para ajudar os utilizadores cegos e de visão reduzida. Deseja instalá-lo gratuitamente a partir da Play Store?</string>
-  <string name="accessibility_service_no_apps_title">Necessita de um leitor de ecrã?</string>
   <string name="accessibility_services_title">Serviços</string>
   <string name="accessibility_settings">Acessibilidade</string>
   <string name="accessibility_settings_title">Definições de acessibilidade</string>
   <string name="accessibility_sync_disabled">Sincronização desactivada</string>
   <string name="accessibility_sync_enabled">Sincronização activada</string>
   <string name="accessibility_sync_error">Erro de sincronização</string>
+  <string name="accessibility_sync_in_progress">A sincronizar agora</string>
   <string name="accessibility_system_title">Sistema</string>
   <string name="accessibility_toggle_high_text_contrast_preference_title">Texto de alto contraste</string>
   <string name="accessibility_toggle_large_text_preference_title">Texto grande</string>
@@ -77,6 +79,10 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="account_autostar_label">Início automático</string>
   <string name="account_list">Outras contas</string>
   <string name="account_settings">Contas</string>
+  <string name="account_settings_menu_auto_sync">Sinc. auto. de dados</string>
+  <string name="account_settings_menu_auto_sync_personal">Sinc. auto. de dados pessoais</string>
+  <string name="account_settings_menu_auto_sync_work">Sinc. auto. de dados de trabalho</string>
+  <string name="account_settings_title">Contas</string>
   <string name="account_sync_settings_title">Definições de sincronização</string>
   <string name="activating">A activar…</string>
   <string name="active_device_admin_msg">Administrador do dispositivo</string>
@@ -93,8 +99,8 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="add_device_admin_msg">Activar o administrador do dispositivo?</string>
   <string name="add_fingerprint_done_msg">Agora pode desbloquear o seu dispositivo com a sua impressão digital</string>
   <string name="add_fingerprint_done_title">Feito!</string>
-  <string name="add_fingerprint_finished_button_text">Ok</string>
-  <string name="add_fingerprint_instruction_dialog_msg">Para adicionar a sua impressão digital, coloque o seu dedo no sensor e retire após sentir uma vibração</string>
+  <string name="add_fingerprint_failed_retry_text">Não foi possível adicionar impressão digital. Tente novamente</string>
+  <string name="add_fingerprint_finished_button_text">OK</string>
   <string name="add_fingerprint_instruction_msg">Desbloquear o dispositivo ou verificar pagamentos com a sua impressão digital</string>
   <string name="add_fingerprint_instruction_title">Adicionar a sua impressão digital</string>
   <string name="add_fingerprint_put_finger_edge_msg">Coloque e remova o dedo repetidamente até a sua impressão digital ficar totalmente gravada</string>
@@ -103,6 +109,9 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="add_fingerprint_similar_fingerprint_input_error_msg">Coloque e remova o dedo repetidamente até a sua impressão digital ficar totalmente gravada</string>
   <string name="add_fingerprint_text">Adicionar impressão digital</string>
   <string name="add_fingerprint_toast_text">Coloque o seu dedo no sensor</string>
+  <string name="adding_profile_owner_warning">"Ao proceder, o seu utilizador vai ser gerido pelo seu Administrador que também pode guardar dados associados, por adição aos seus dados pessoais.
+
+O seu Administrador pode monitorizar e gerir definições, acessos, aplicações e dados associados com este Utilizador, incluíndo actividade de rede e a informação de localização do seu dispositivo"</string>
   <string name="additional_system_update"/>
   <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">Actualizações adicionais do sistema</string>
@@ -110,7 +119,6 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="advanced_security_title">Avançadas</string>
   <string name="advanced_settings">Definições avançadas</string>
   <string name="advanced_settings_summary">Activar mais opções de definições</string>
-  <string name="advanced_text_layout">Activar layouts de texto avançado</string>
   <string name="agps_roaming">A-GPS quando em roaming</string>
   <string name="agps_roaming_dia">Utilizar o A-GPS em roaming pode aumentar o consumo de dados móveis. Se ultrapassar o limite de dados do seu plano a sua operadora pode cobrar taxas adicionais</string>
   <string name="agps_roaming_dia_title">Utilizar A-GPS em roaming</string>
@@ -125,12 +133,15 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="allow_bind_app_widget_activity_allow_bind">Depois de criar o widget, %1$s pode aceder a todos os dados que ele mostra</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Deseja criar widget e permitir acesso?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">Permitir sempre %1$s que criem widgets e acedam aos seus dados</string>
+  <string name="allow_data_usage_title">Permitir utilização de dados em roaming</string>
   <string name="allow_mock_location">Permitir locais fictícios</string>
   <string name="allow_mock_location_summary">Permitir locais fictícios</string>
-  <string name="allow_usage_access_message">Se permitir o acesso a esta aplicação, a mesma poderá visualizar a informação geral acerca das aplicações no seu dispositivo, como por exemplo, a frequência com que as utiliza</string>
+  <string name="allow_usage_access_message">Se permitir o acesso a esta aplicação, esta poderá visualizar informações gerais de outras aplicações no seu dispositivo, como por exemplo, a frequência com que as utiliza</string>
   <string name="allow_usage_access_title">Permitir acesso?</string>
   <string name="alpha_build">" | Alfa"</string>
   <string name="always_allow_bind_appwidgets_text">Escolheu permitir que esta aplicação crie widgets e aceda aos dados</string>
+  <string name="amber_alerts_summary">Receber boletins acerca de rapto de crianças</string>
+  <string name="amber_alerts_title">Alertas AMBER</string>
   <string name="android_beam_disabled_summary">Partilha de conteúdo NFC necessita que o NFC esteja ligado</string>
   <string name="android_beam_explained">É possível transferir uma página web, um vídeo ou outro conteúdo a partir do seu ecrã para outro dispositivo, juntando os dispositivos (normalmente traseira com traseira)</string>
   <string name="android_beam_label">Android Beam</string>
@@ -149,8 +160,6 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="apn_auth_type_pap_chap">PAP ou CHAP</string>
   <string name="apn_chinaunicom_3gnet_general">Ligação à Internet para utilizadores de banda larga Wal</string>
   <string name="apn_chinaunicom_3gwap_general">Utilizadores de Internet móvel de banda larga Waugh</string>
-  <string name="apn_cm_net">CMNET</string>
-  <string name="apn_cm_wap">CMWAP</string>
   <string name="apn_edit">Editar ponto de acesso</string>
   <string name="apn_general">Geral</string>
   <string name="apn_http_port">Porta</string>
@@ -171,6 +180,7 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="apn_save_msg">Guardar alterações para o APN?</string>
   <string name="apn_server">Servidor</string>
   <string name="apn_settings">APNs</string>
+  <string name="apn_settings_not_available">Definições de pontos de acesso não estão disponíveis para este utilizador</string>
   <string name="apn_type">Tipo APN</string>
   <string name="apn_user">Utilizador</string>
   <string name="app_backup">Cópia</string>
@@ -186,12 +196,24 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="app_forward_locked">A aplicação é protegida contra cópia</string>
   <string name="app_install_location_summary">Alterar o local de instalação preferido para novas aplicações</string>
   <string name="app_install_location_title">Local de instalação preferido</string>
+  <string name="app_invisible">Aplicações invisíveis</string>
   <string name="app_memory_use">Memória utilizada</string>
   <string name="app_name_label">Aplicação</string>
   <string name="app_not_found_dlg_text">A aplicação não foi encontrada na lista de aplicações instaladas</string>
   <string name="app_not_found_dlg_title"/>
   <string name="app_not_supported_in_limited">Esta aplicação não é suportada em perfis restritos</string>
-  <string name="app_notifications_switch_label">Notificações</string>
+  <string name="app_notification_block_summary">Nunca mostrar notificações desta aplicação</string>
+  <string name="app_notification_block_title">Bloquear tudo</string>
+  <string name="app_notification_priority_summary">Deixar que as notificações desta aplicação sejam ouvidas quando Não incomodar estiver definido como Apenas Prioridade</string>
+  <string name="app_notification_priority_title">Tratar como prioridade</string>
+  <string name="app_notification_row_banned">Bloqueado</string>
+  <string name="app_notification_row_priority">Prioridade</string>
+  <string name="app_notification_row_sensitive">Sensível</string>
+  <string name="app_notification_sensitive_summary">Quando o dispositivo está bloqueado, ocultar conteúdo nas notificações desta aplicação que possa revelar informação privada</string>
+  <string name="app_notification_sensitive_title">Ocultar conteúdo sensível</string>
+  <string name="app_notifications_dialog_done">Concluído</string>
+  <string name="app_notifications_switch_label">Notificações personalizadas</string>
+  <string name="app_notifications_title">Notificações das aplicações</string>
   <string name="app_ops_never_used">(Nunca utilizado)</string>
   <string name="app_ops_running">Em execução</string>
   <string name="app_ops_settings">Aplicações ops</string>
@@ -698,7 +720,7 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
 
 Para continuar a utilizar o telefone, é necessário efectuar uma reposição de fábrica. Quando configurar o telefone após a reposição, terá a oportunidade de restaurar quaisquer dados da cópia de segurança da sua Conta Google"</string>
   <string name="crypt_keeper_data_corrupt_title">Desencriptação sem sucesso</string>
-  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu telefone, supondo que configurou um bloqueio de ecrã (código PIN numérico ou palavra-passe), será necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. A única e outra opção de desencriptar é fazer uma reposição de dados de fábrica, eliminando todos os seus dados</string>
+  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu telefone, supondo que configurou um bloqueio de ecrã (código PIN numérico ou palavra-passe), será necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. A outra opção para desencriptar é fazer uma reposição de dados de fábrica, eliminando todos os seus dados</string>
   <string name="crypt_keeper_decrypt_methods_title">Desencriptar o seu telefone</string>
   <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, dados, aplicações transferidas, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar um restauro de dados de fábrica, eliminando todos os seus dados.
 

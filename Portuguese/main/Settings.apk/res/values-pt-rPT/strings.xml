@@ -30,9 +30,9 @@
   <string name="accessibility_feature_state_on">Ligado</string>
   <string name="accessibility_global_gesture_preference_description">"Quando esta funcionalidade está ligada, pode activar rapidamente funcionalidades de acessibilidade em dois passos:
 
-Passo 1: Prima e segure o botão Ligar/Desligar até ouvir um som ou sentir uma vibração.
+Passo 1: Prima e segure o botão Ligar/Desligar até ouvir um som ou sentir uma vibração
 
-Passo 2: Toque e segure dois dedos até ouvir a confirmação de áudio.
+Passo 2: Toque e segure dois dedos até ouvir a confirmação de áudio
 
 Se o dispositivo tiver vários utilizadores, ao utilizar este atalho no ecrã de bloqueio activa temporariamente a acessibilidade até que o dispositivo seja desbloqueado"</string>
   <string name="accessibility_global_gesture_preference_summary_off">Desligado</string>
@@ -122,7 +122,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">Permitir sempre %1$s que criem widgets e acedam aos seus dados</string>
   <string name="allow_mock_location">Permitir locais fictícios</string>
   <string name="allow_mock_location_summary">Permitir locais fictícios</string>
-  <string name="allow_usage_access_message">Se permitir o acesso a esta aplicação, a mesma poderá visualizar a informação geral acerca das aplicações no seu dispositivo, como por exemplo, a frequência com que as utiliza</string>
+  <string name="allow_usage_access_message">Se permitir o acesso a esta aplicação, esta poderá visualizar informações gerais de outras aplicações no seu dispositivo, como por exemplo, a frequência com que as utiliza</string>
   <string name="allow_usage_access_title">Permitir acesso?</string>
   <string name="alpha_build">" | Alfa"</string>
   <string name="always_allow_bind_appwidgets_text">Escolheu permitir que esta aplicação crie widgets e aceda aos dados</string>
@@ -686,7 +686,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
 
 Para continuar a utilizar o telefone, é necessário efectuar uma reposição de fábrica. Quando configurar o telefone após a reposição, terá a oportunidade de restaurar quaisquer dados da cópia de segurança da sua Conta Google"</string>
   <string name="crypt_keeper_data_corrupt_title">Desencriptação sem sucesso</string>
-  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu telefone, supondo que configurou um bloqueio de ecrã (código PIN numérico ou palavra-passe), será necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. A única e outra opção de desencriptar é fazer uma reposição de dados de fábrica, eliminando todos os seus dados</string>
+  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu telefone, supondo que configurou um bloqueio de ecrã (código PIN numérico ou palavra-passe), será necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. A outra opção para desencriptar é fazer uma reposição de dados de fábrica, eliminando todos os seus dados</string>
   <string name="crypt_keeper_decrypt_methods_title">Desencriptar o seu telefone</string>
   <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, dados, aplicações transferidas, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar um restauro de dados de fábrica, eliminando todos os seus dados.
 
