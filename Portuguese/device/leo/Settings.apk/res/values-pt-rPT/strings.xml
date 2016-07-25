@@ -954,9 +954,9 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="dndm_vip_list_custom">Excepções</string>
   <string name="dndm_vip_list_custom_group">Excepções</string>
   <string name="dndm_vip_list_group">Lista de excepções</string>
-  <string name="dndm_wristband">Activar com Banda Mi</string>
-  <string name="dndm_wristband_detailed">"Ligar Não incomodar se a Banda Mi detectar que está a dormir uma hora antes da hora de início marcada"</string>
-  <string name="dndm_wristband_detailed2">"Desligar Não incomodar se a Banda Mi detectar que está acordado uma hora antes da hora de fim marcada"</string>
+  <string name="dndm_wristband">Activar com Mi Band</string>
+  <string name="dndm_wristband_detailed">"Ligar Não incomodar se a Mi Band detectar que está a dormir uma hora antes da hora de início marcada"</string>
+  <string name="dndm_wristband_detailed2">"Desligar Não incomodar se a Mi Band detectar que está acordado uma hora antes da hora de fim marcada"</string>
   <string name="do_not_disturb_mode">Não incomodar</string>
   <string name="dock_audio_settings_title">Áudio</string>
   <string name="dock_audio_summary_car">Definições da estação de ancoragem para carro</string>
@@ -1846,7 +1846,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_dndm_open">Definições/Não incomodar/Activar Não incomodar</string>
   <string name="path_dndm_repeated_call_setting_title">Definições/Não incomodar/Chamadas repetidas</string>
   <string name="path_dndm_vip_call_setting_title">Definições/Não incomodar/Excepções</string>
-  <string name="path_dndm_wristband">Definições/Não incomodar/Activar com a Banda Mi</string>
+  <string name="path_dndm_wristband">Definições/Não incomodar/Activar com a Mi Band</string>
   <string name="path_do_not_disturb_settings">Definições/Não incomodar</string>
   <string name="path_dtmf_tone_enable_title">Definições/Som e vibração/Tons de marcação</string>
   <string name="path_edge_handgrip">Definições/Controlos do limite</string>
@@ -2418,7 +2418,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone"</string>
   <string name="search_dndm_open">Não incomodar</string>
   <string name="search_dndm_repeated_call_setting_title">Chamadas repetidas</string>
   <string name="search_dndm_vip_call_setting_title">VIP;Excepções</string>
-  <string name="search_dndm_wristband">Activar com a Banda Mi</string>
+  <string name="search_dndm_wristband">Activar com a Mi Band</string>
   <string name="search_do_not_disturb">Não incomodar;VIP;Definir hora;Excepções;Chamadas repetidas</string>
   <string name="search_dtmf_tone_enable_title">Tons de marcação</string>
   <string name="search_edge_handgrip">Controlos do limite</string>
