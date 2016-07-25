@@ -337,6 +337,7 @@ O objecto não pode estar a mais de dois metros</string>
   <string name="toast_start_audio_capture">Fazer um som para tirar uma foto</string>
   <string name="ubi_focus_capture_fail">Não foi possível tirar foto</string>
   <string name="ubifocus_capture_warning_message">Para melhorar o resultado da foto os objectos devem estar a menos de um metro de distância da lente</string>
+  <string name="video_camera_label">Máquina de filmar</string>
   <string name="video_reach_size_limit">Atingiu o limite do tamanho</string>
   <string name="wait">Aguarde…</string>
 </resources>

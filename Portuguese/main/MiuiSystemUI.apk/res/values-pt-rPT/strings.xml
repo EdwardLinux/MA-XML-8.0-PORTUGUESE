@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_airplane_mode">Modo Avião</string>
+  <string name="accessibility_assistant">Menu de atalhos</string>
   <string name="accessibility_back">Voltar</string>
   <string name="accessibility_battery_level">Bateria a %d por cento</string>
   <string name="accessibility_bluetooth_connected">Bluetooth ligado</string>
@@ -151,19 +152,19 @@ Se voltar a activar os dados móveis poderá ter custos adicionais facturados pe
   <string name="expanded_confirm_disable_notification">Ocultar</string>
   <string name="expanded_notification_manager">Gerir notificações</string>
   <string name="ext_media_badremoval_notification_message">Desmontar o armazenamento USB antes de o remover para evitar a perda de dados</string>
-  <string name="ext_media_badremoval_notification_title">Armazenamento USB foi removido inesperadamente</string>
-  <string name="ext_media_checking_notification_message">A verificar se existem erros</string>
+  <string name="ext_media_badremoval_notification_title">Armazenamento USB removido inesperadamente</string>
+  <string name="ext_media_checking_notification_message">A verificar se há erros</string>
   <string name="ext_media_checking_notification_title">A preparar o armazenamento USB</string>
   <string name="ext_media_mountable_notification_message">Toque para abrir no Explorador</string>
   <string name="ext_media_mountable_notification_title">Dispositivo de armazenamento USB ligado</string>
-  <string name="ext_media_nofs_notification_message">A memória de armazenamento USB está vazia ou tem um sistema de ficheiros não suportado</string>
-  <string name="ext_media_nofs_notification_title">Armazenamento USB vazio</string>
-  <string name="ext_media_nomedia_notification_message">Armazenamento USB removido. Insira um novo</string>
+  <string name="ext_media_nofs_notification_message">Armazenamento USB em branco ou com sistema de ficheiros não suportado</string>
+  <string name="ext_media_nofs_notification_title">Armazenamento USB em branco</string>
+  <string name="ext_media_nomedia_notification_message">Armazenamento USB removido</string>
   <string name="ext_media_nomedia_notification_title">Armazenamento USB removido</string>
   <string name="ext_media_safe_remove">Remover com segurança</string>
-  <string name="ext_media_safe_unmount_notification_message">Pode remover o armazenamento USB em segurança</string>
-  <string name="ext_media_safe_unmount_notification_title">Remover em segurança o armazenamento USB</string>
-  <string name="ext_media_unmountable_notification_message">Armazenamento USB danificado. Vai ter que formatar novamente</string>
+  <string name="ext_media_safe_unmount_notification_message">Pode remover com segurança o armazenamento USB</string>
+  <string name="ext_media_safe_unmount_notification_title">É seguro remover o armazenamento USB</string>
+  <string name="ext_media_unmountable_notification_message">O armazenamento USB está danificado. Tente formatar novamente</string>
   <string name="ext_media_unmountable_notification_title">Armazenamento USB danificado</string>
   <string name="float_incall_ignore">Ignorar</string>
   <string name="float_incall_message">Mensagem</string>

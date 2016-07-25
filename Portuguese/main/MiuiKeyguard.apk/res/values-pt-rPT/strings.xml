@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_enter_lock_wallpaper">Clique no papel de parede do ecrã de bloqueio</string>
+  <string name="accessibility_enter_lock_wallpaper">Toque para abrir o Carrocel de Papéis de Parede</string>
   <string name="click_to_enter_text">Toque para desbloquear</string>
   <string name="confirm_pin_msg">Insira novamente o PIN</string>
   <string name="default_lockscreen_unlock_hint_text">Deslizar para cima para desbloquear</string>

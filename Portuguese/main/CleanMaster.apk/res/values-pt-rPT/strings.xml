@@ -29,8 +29,8 @@
   <string name="apk_status_install">Instalado</string>
   <string name="apk_status_installed_old">Versão antiga</string>
   <string name="apk_status_uninstalled">Não instalado</string>
-  <string name="app_install_tips_go_to">Executar agora</string>
-  <string name="app_install_tips_install_success">%1$s instalado com sucesso</string>
+  <string name="app_install_tips_go_to">Abrir</string>
+  <string name="app_install_tips_install_success">Instalado %1$s com sucesso</string>
   <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
   <string name="apps_sort_type_item_size">Tamanho</string>
   <string name="apps_sort_type_item_time">Frequentemente utilizado</string>
@@ -339,7 +339,7 @@
   <string name="similar_image_title">Fotos</string>
   <string name="sms">SMS/MMS</string>
   <string name="sponsored">Patrocinado</string>
-  <string name="start_downloading_app">Iniciar transferência：%1$s</string>
+  <string name="start_downloading_app">A iniciar transferência：%1$s</string>
   <string name="start_install">Instalar agora</string>
   <string name="summary_auto_cleaner">Limpar o sistema automaticamente a cada 3 dias?</string>
   <string name="summary_delete_apk">Eliminar APKs seleccionados?</string>

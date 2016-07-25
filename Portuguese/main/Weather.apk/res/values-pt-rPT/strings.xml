@@ -5,7 +5,7 @@
   <string name="act_set_city_find_side">A localizar…</string>
   <string name="act_set_city_find_side_error">Não é possível localizar dispositivo</string>
   <string name="act_weather_find_city_added">Adicionado</string>
-  <string name="act_weather_find_city_click_retry">Repetir</string>
+  <string name="act_weather_find_city_click_retry">Tentar novamente</string>
   <string name="act_weather_find_city_net_no_good">Não é possível ligar à rede</string>
   <string name="act_weather_find_city_no_result">Sem resultados</string>
   <string name="act_weather_find_city_searching">A pesquisar…</string>
@@ -27,7 +27,7 @@
   <string name="ads_extension"/>
   <string name="ads_install_num"/>
   <string name="ads_score_title"/>
-  <string name="alert_warning">Aviso de alertas</string>
+  <string name="alert_warning">Alertas de tempo</string>
   <string name="app_name">Tempo</string>
   <string name="aqi_data_source">Fornecido por Caiyun Weather</string>
   <string name="aqi_desc">Indíce de qualidade do ar</string>
@@ -42,12 +42,12 @@
   <string name="aqi_detail_sub_title">Detalhes IQA</string>
   <string name="aqi_detail_subtitle">IQA %1$s</string>
   <string name="aqi_detail_title">Indíce de qualidade do ar</string>
-  <string name="aqi_detail_unit">Unidade:µg/m3(CO:mg/m3)</string>
+  <string name="aqi_detail_unit">Unidade: µg/m³ (CO: mg/m³)</string>
   <string name="aqi_publish_source">Actualizado às %1$s por CNEMC</string>
   <string name="aqi_publish_time">Actualizado às %1$s</string>
   <string name="aqi_short_desc">Qualidade do ar %1$s</string>
   <string name="aqi_sub_desc">IQA</string>
-  <string name="aqi_top_pollution">Poluição máxima</string>
+  <string name="aqi_top_pollution">Mais poluidores</string>
   <string name="button_abandon">Rejeitar alterações</string>
   <string name="button_add_city">Adicionar localização</string>
   <string name="button_allow">OK</string>
@@ -101,7 +101,7 @@
   <string name="information_manager_information">Informação do Tempo</string>
   <string name="information_manager_wlan">Mostrar quando ligado ao Wi-Fi</string>
   <string name="information_menu_title"/>
-  <string name="information_set">Definições de informação</string>
+  <string name="information_set">Definições da página inicial</string>
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="information_views"/>
   <string name="install">Instalar</string>
@@ -130,7 +130,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="realtime_aqi_title">Indíce de qualidade do ar</string>
   <string name="realtime_humidity_title">Humidade relativa</string>
   <string name="realtime_wind_default_title">Vento</string>
-  <string name="retry">Repetir</string>
+  <string name="retry">Tentar novamente</string>
   <string name="set">Definições</string>
   <string name="set_degree_centigrade">°C</string>
   <string name="set_fahrenheit">°F</string>
@@ -164,7 +164,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="twc_logo_title"/>
   <string name="unit">Unidades</string>
   <string name="unit_temperature">Temperatura</string>
-  <string name="unit_wind">Força do vento</string>
+  <string name="unit_wind">Velocidade do vento</string>
   <string name="video_dialog_no_play"/>
   <string name="video_dialog_play"/>
   <string name="video_dialog_subtitle"/>
