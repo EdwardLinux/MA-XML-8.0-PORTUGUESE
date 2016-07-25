@@ -6,7 +6,7 @@
   <string name="bluetooth_ftp_request">Pedido Ftp</string>
   <string name="bluetooth_mas_acceptance_dialog_text">%1$s gostaria de aceder às suas mensagens. Conceder acesso a %2$s?</string>
   <string name="bluetooth_mas_request">Pedido de acesso a mensagem</string>
-  <string name="bluetooth_remember_choice">Permirtir sempre</string>
+  <string name="bluetooth_remember_choice">Permitir sempre</string>
   <string name="bluetooth_sap_acceptance_dialog_text">%1$s gostaria de aceder ao SIM. Conceder acesso a %2$s?</string>
   <string name="bluetooth_sap_request">Pedido SAP</string>
   <string name="defaultname">Kit mãos livres</string>

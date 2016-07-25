@@ -187,7 +187,7 @@
   <string name="dpad_ok">OK</string>
   <string name="dpad_right">Direita</string>
   <string name="dpad_up">Cima</string>
-  <string name="dvb_bind_epg">(Atualmente)</string>
+  <string name="dvb_bind_epg">(Actualmente)</string>
   <string name="edit">Editar</string>
   <string name="edit_controller">Editar controlo remoto</string>
   <string name="edit_ir_device">Mudar o nome do dispositivo</string>

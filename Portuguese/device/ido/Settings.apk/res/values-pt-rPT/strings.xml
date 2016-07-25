@@ -698,7 +698,7 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
 
 Para continuar a utilizar o telefone, é necessário efectuar uma reposição de fábrica. Quando configurar o telefone após a reposição, terá a oportunidade de restaurar quaisquer dados da cópia de segurança da sua Conta Google"</string>
   <string name="crypt_keeper_data_corrupt_title">Desencriptação sem sucesso</string>
-  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu telefone, assumindo que configurou um bloqueio de ecrã, vai ser necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. O único outro modo de desencriptar é fazer uma reposição dos dados de fábrica, apagando todos os seus dados</string>
+  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu telefone, supondo que configurou um bloqueio de ecrã (código PIN numérico ou palavra-passe), será necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. A única e outra opção de desencriptar é fazer uma reposição de dados de fábrica, eliminando todos os seus dados</string>
   <string name="crypt_keeper_decrypt_methods_title">Desencriptar o seu telefone</string>
   <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, dados, aplicações transferidas, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar um restauro de dados de fábrica, eliminando todos os seus dados.
 
@@ -2979,8 +2979,8 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="uninstall_all_users_text">Desinstalar para todos os utilizadores</string>
   <string name="uninstall_text">Desinstalar</string>
   <string name="uninstall_with_xspace_app_dlg_msg">A aplicacões clonadas correspondentes vão ser eliminadas juntamente com os dados das mesmas</string>
-  <string name="uninstall_xspace_app_dlg_msg">Desinstalar aplicacão clonada vai eliminar todos os dados da aplicacão</string>
-  <string name="uninstall_xspace_app_dlg_title">Desinstalar aplicacão clonada?</string>
+  <string name="uninstall_xspace_app_dlg_msg">Desinstalar aplicação clonada vai eliminar todos os dados da aplicação</string>
+  <string name="uninstall_xspace_app_dlg_title">Desinstalar aplicação clonada?</string>
   <string name="unknown">Desconhecido</string>
   <string name="unlock_backup_info_summary">Quando o Desbloqueio com o Rosto não o consegue ver, como deseja desbloquear?</string>
   <string name="unlock_change_lock_password_title">Alterar palavra-passe de desbloqueio</string>

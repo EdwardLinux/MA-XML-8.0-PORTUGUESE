@@ -7,7 +7,7 @@
     <integer-array name="maps_starting_zoom">
         <item>4</item>
     </integer-array>
-     <string-array name="app_ops_labels">
+    <string-array name="app_ops_labels">
         <item>A tentar aceder à localização</item>
         <item>A tentar aceder à localização</item>
         <item>A tentar aceder à localização</item>
@@ -58,20 +58,20 @@
         <item>A tentar ler MMS</item>
         <item>A tentar escrever MMS</item>
         <item>A tentar iniciar o arranque</item>
-     </string-array>
-     <string-array name="emailAddressTypes">
+    </string-array>
+    <string-array name="emailAddressTypes">
         <item>Casa</item>
         <item>Trabalho</item>
         <item>Outro</item>
         <item>Personalizado</item>
-     </string-array>
-     <string-array name="imAddressTypes">
+    </string-array>
+    <string-array name="imAddressTypes">
         <item>Casa</item>
         <item>Trabalho</item>
         <item>Outro</item>
         <item>Personalizado</item>
-     </string-array>
-     <string-array name="imProtocols">
+    </string-array>
+    <string-array name="imProtocols">
         <item>AIM</item>
         <item>Windows Live</item>
         <item>Yahoo</item>
@@ -80,13 +80,13 @@
         <item>Hangouts</item>
         <item>ICQ</item>
         <item>Jabber</item>
-     </string-array>          
-     <string-array name="organizationTypes">
+    </string-array>          
+    <string-array name="organizationTypes">
         <item>Trabalho</item>
         <item>Outro</item>
         <item>Personalizado</item>
-     </string-array>     
-     <string-array name="phoneTypes">
+    </string-array>
+    <string-array name="phoneTypes">
         <item>Casa</item>
         <item>Telemóvel</item>
         <item>Trabalho</item>
@@ -95,11 +95,11 @@
         <item>Pager</item>
         <item>Outro</item>
         <item>Personalizado</item>
-     </string-array>
-     <string-array name="postalAddressTypes">
+    </string-array>
+    <string-array name="postalAddressTypes">
         <item>Casa</item>
         <item>Trabalho</item>
         <item>Outro</item>
-        <item>Personalizar</item>
-     </string-array>
+        <item>Personalizado</item>
+    </string-array>
 </resources>

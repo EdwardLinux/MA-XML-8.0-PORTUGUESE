@@ -15,8 +15,8 @@
   <string name="adding_fdn_contact">A adicionar número de marcação fixa…</string>
   <string name="additional_cdma_call_settings">Definições adicionais de chamada CDMA</string>
   <string name="additional_gsm_call_settings">Definições adicionais</string>
-  <string name="administrative_disable">Administrador desactivo</string>
-  <string name="administrative_enable">Administrador activo</string>
+  <string name="administrative_disable">Administrador desactivado</string>
+  <string name="administrative_enable">Administrador activado</string>
   <string name="advanced_settings">Definições opcionais</string>
   <string name="advanced_settings_hide">▽ Toque para ocultar tudo</string>
   <string name="advanced_settings_show">▷ Toque para mostrar tudo</string>
@@ -359,8 +359,8 @@
   <string name="editContact">Editar</string>
   <string name="edit_fdn_contact">Editar número de marcação fixa</string>
   <string name="emergencyDialerIconLabel">Chamada de emergência</string>
-  <string name="emergency_broadcast_disable">Difusão celular de emergência desactivo</string>
-  <string name="emergency_broadcast_enable">Difusão celular de emergência activo</string>
+  <string name="emergency_broadcast_disable">Difusão móvel de emergência desactivado</string>
+  <string name="emergency_broadcast_enable">Difusão móvel de emergência activado</string>
   <string name="emergency_call_area_code_edit_dialog_button">Chamada</string>
   <string name="emergency_call_area_code_edit_dialog_hint">Introduzir código de área</string>
   <string name="emergency_enable_radio_dialog_message">A ligar o rádio…</string>
@@ -1205,8 +1205,8 @@ O cartão SIM será bloqueado após nova tentativa falhada"</string>
   <string name="sum_select_automatically">Escolher automaticamente a rede preferida</string>
   <string name="sum_show_caller_id">Mostrar o meu número</string>
   <string name="sum_voicemail_choose_provider">Escolher o serviço de Voice Mail</string>
-  <string name="sum_xdivert_disabled">X-Divert Desactivo</string>
-  <string name="sum_xdivert_enabled">X-Divert Activo</string>
+  <string name="sum_xdivert_disabled">X-Divert desactivado</string>
+  <string name="sum_xdivert_enabled">X-Divert activado</string>
   <string name="summary_manage_subscriptions">Gerir as definições de cada rede subscrita</string>
   <string name="t9_indexing_method_pinyin">Pinyin</string>
   <string name="t9_indexing_method_title">Entrada de pesquisa T9</string>

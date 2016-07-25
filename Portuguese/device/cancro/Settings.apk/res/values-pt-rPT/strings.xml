@@ -2470,7 +2470,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="permission_manager">Permissões</string>
   <string name="permission_mgr">Permissões</string>
   <string name="permission_settings_summary">Gerir permissões relacionadas com localização, armazenamento, telefone, mensagens e contactos</string>
-  <string name="permission_settings_title">Permissões da aplicacão</string>
+  <string name="permission_settings_title">Permissões da aplicação</string>
   <string name="permissions_label">Permissões</string>
   <string name="permit_draw_overlay">Permitir a sobreposição a outras aplicações</string>
   <string name="permit_usage_access">Permitir acesso de utilização</string>
@@ -3733,12 +3733,12 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="turn_on_security_lock">Escolher bloqueio de ecrã</string>
   <string name="under_keyguard">Bloqueio de ecrã</string>
   <string name="uninstall_all_users_text">Desinstalar para todos os utilizadores</string>
-  <string name="uninstall_dlg_msg">Desinstalar vai eliminar todos os dados da aplicacão</string>
+  <string name="uninstall_dlg_msg">Desinstalar vai eliminar todos os dados da aplicação</string>
   <string name="uninstall_dlg_title">Desinstalar agora?</string>
   <string name="uninstall_text">Desinstalar</string>
   <string name="uninstall_with_xspace_app_dlg_msg">A aplicacões clonadas correspondentes vão ser eliminadas juntamente com os dados das mesmas</string>
-  <string name="uninstall_xspace_app_dlg_msg">Desinstalar aplicacão clonada vai eliminar todos os dados da aplicacão</string>
-  <string name="uninstall_xspace_app_dlg_title">Desinstalar aplicacão clonada?</string>
+  <string name="uninstall_xspace_app_dlg_msg">Desinstalar aplicação clonada vai eliminar todos os dados da aplicação</string>
+  <string name="uninstall_xspace_app_dlg_title">Desinstalar aplicação clonada?</string>
   <string name="unknown">Desconhecido</string>
   <string name="unknown_app">Aplicação desconhecida</string>
   <string name="unlock_change_lock_password_title">Alterar palavra-passe de desbloqueio</string>

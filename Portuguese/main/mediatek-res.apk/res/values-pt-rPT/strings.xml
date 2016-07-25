@@ -265,7 +265,7 @@ Tente novamente em %d segundos"</string>
   <string name="voiceui_or">ou</string>
   <string name="voiceui_quota_end"/>
   <string name="voiceui_quota_start"/>
-  <string name="voiceunlock_multiple_failures">Foi excedido o máximo de tentativas de desbloqueio por voz</string>
+  <string name="voiceunlock_multiple_failures">Excedido o n.º máximo de tentativas de desbloqueio por voz</string>
   <string name="volume_fm">Volume FM</string>
   <string name="volume_matv">Volume da TV móvel</string>
   <string name="wap_browser_url_flag">Procurar URL</string>
