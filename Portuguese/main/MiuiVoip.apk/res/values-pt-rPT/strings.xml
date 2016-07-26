@@ -25,9 +25,9 @@ vá a %s"</string>
   <string name="mx_btn_enable_now">Activar</string>
   <string name="mx_choose_sim_dlg_title">Escolher número de telefone para activar</string>
   <string name="mx_dspt_provision">ver Política de Privacidade de Weihui</string>
-  <string name="mx_dspt_tips">A sua operadora pode cobrar por uma SMS utilizada para activar este serviço. Este serviço necessita do seu número de telefone.</string>
-  <string name="net_connect_fails">Não tem uma ligação à Internet.</string>
-  <string name="network_unavailable">"Não é possível ligar à rede."</string>
+  <string name="mx_dspt_tips">A sua operadora pode cobrar por uma SMS utilizada para activar este serviço. Este serviço necessita do seu número de telefone</string>
+  <string name="net_connect_fails">Não tem uma ligação à Internet</string>
+  <string name="network_unavailable">Não é possível ligar à rede</string>
   <string name="no_sim_found">Sem cartão SIM detectado</string>
   <string name="notification_activate_failed">Não é possível activar Voz Mi</string>
   <string name="notification_missedCallTicker">Chamada não atendida de %s</string>
@@ -60,17 +60,17 @@ vá a %s"</string>
   <string name="unknown">Ocorreu um erro desconhecido</string>
   <string name="user_agreement">Política de Privacidade</string>
   <string name="voip_about">Voz Mi</string>
-  <string name="voip_about_gif_desc">Faça chamadas utilizando Voz Mi directamente do marcador ou da página de informação dos contactos.</string>
-  <string name="voip_about_net_desc">Fazer chamadas com a Voz Mi gasta menos de 400KB por minuto (cerca de 0,0028€ no plano de tarifário mensal de 300MB).</string>
+  <string name="voip_about_gif_desc">Faça chamadas utilizando Voz Mi directamente do marcador ou da página de informação dos contactos</string>
+  <string name="voip_about_net_desc">Fazer chamadas com a Voz Mi gasta menos de 400KB por minuto (cerca de 0,0028€ no plano de tarifário mensal de 300MB)</string>
   <string name="voip_about_net_title">Utilização de dados móveis</string>
-  <string name="voip_about_support_desc">"Se a pessoa para quem está a ligar usar um dispositivo Mi, certifique-se que essa pessoa tem a Voz Mi ligada. Se a pessoa para quem está a ligar não usar um dispositivo Mi, informe essa pessoa que poderá baixar a Voz Mi no Weihui na Internet na Mi App Store."</string>
+  <string name="voip_about_support_desc">"Se a pessoa para quem está a ligar usar um dispositivo Mi, certifique-se que essa pessoa tem a Voz Mi ligada. Se a pessoa para quem está a ligar não usar um dispositivo Mi, informe essa pessoa que poderá baixar a Voz Mi no Weihui na Internet na Mi App Store"</string>
   <string name="voip_about_support_title">Ligar para qualquer dispositivo Android</string>
   <string name="voip_btn_mute">Silenciar</string>
   <string name="voip_btn_speaker">Altifalante</string>
   <string name="voip_btn_switch_camera">Trocar câmara</string>
   <string name="voip_call_failed_common_call_title">Chamada GSM</string>
   <string name="voip_call_failed_hang_up_title">Desligar</string>
-  <string name="voip_call_failed_message">A pessoa que está a tentar contactar pode não estar a atender. Tente trocar para GSM e ligue novamente.</string>
+  <string name="voip_call_failed_message">A pessoa que está a tentar contactar pode não estar a atender. Tente trocar para GSM e ligue novamente</string>
   <string name="voip_call_failed_title">Não foi possível ligar</string>
   <string name="voip_call_intro_summary">Ligar para os seus contactos gratuitamente</string>
   <string name="voip_call_outgoing">A marcar…</string>
@@ -78,14 +78,14 @@ vá a %s"</string>
   <string name="voip_call_setting_summary">Chamadas de alta qualidade gratuitas</string>
   <string name="voip_call_switch_call_message">Escolher um número de telefone</string>
   <string name="voip_call_switch_call_title">Trocar para GSM</string>
-  <string name="voip_callee_offline">A pessoa para quem ligou está offline.</string>
+  <string name="voip_callee_offline">A pessoa para quem ligou está offline</string>
   <string name="voip_callee_offline_and_dial_phone">"A pessoa para quem ligou está offline.
 A trocar para GSM  em %1$d seg…"</string>
   <string name="voip_droped_call">%1$s desligado</string>
   <string name="voip_ending_call">A desligar…</string>
   <string name="voip_free_video_tip">Videochamada Voz Mi</string>
   <string name="voip_gsm_online">Não pode configurar Voz Mi enquanto GSM estiver em utilização</string>
-  <string name="voip_incall">Não pode configurar Voz Mi durante uma chamada.</string>
+  <string name="voip_incall">Não pode configurar Voz Mi durante uma chamada</string>
   <string name="voip_support_net_tips">Utilizar Wi-Fi, 3G ou dados móveis para melhorar ligação à rede</string>
   <string name="voip_the_other_is_on_the_phone">Ocupado</string>
 </resources>

@@ -58,7 +58,7 @@ Quando ampliado, pode:
 
 Também pode aumentar temporariamente o que estiver sobre o seu dedo com um triplo toque e segurar. Neste modo, pode mover o dedo ampliando para explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior
 
-Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra de navegação e no teclado"</string>
+Nota: O triplo toque para ampliar funciona em todo o sistema excepto na barra de navegação e no teclado"</string>
   <string name="accessibility_screen_magnification_title">Ampliação de gestos</string>
   <string name="accessibility_service_default_description">Sem descrição fornecida</string>
   <string name="accessibility_services_title">Serviços</string>
@@ -138,7 +138,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="allow_mock_location_summary">Permitir locais fictícios</string>
   <string name="allow_usage_access_message">Se permitir o acesso a esta aplicação, esta poderá visualizar informações gerais de outras aplicações no seu dispositivo, como por exemplo, a frequência com que as utiliza</string>
   <string name="allow_usage_access_title">Permitir acesso?</string>
-  <string name="alpha_build">" | Alfa"</string>
+  <string name="alpha_build">" | Alpha"</string>
   <string name="always_allow_bind_appwidgets_text">Escolheu permitir que esta aplicação crie widgets e aceda aos dados</string>
   <string name="amber_alerts_summary">Receber boletins acerca de rapto de crianças</string>
   <string name="amber_alerts_title">Alertas AMBER</string>
@@ -652,7 +652,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="close_dialog">OK</string>
   <string name="close_miui_optimization_title">Desligar optimização MIUI</string>
   <string name="close_miui_optimization_warning_message">O seu dispositivo vai reiniciar para aplicar esta alteração</string>
-  <string name="cmcc_hardware_version">Versão de hardware:</string>
+  <string name="cmcc_hardware_version">Versão de hardware</string>
   <string name="color_black">Preto</string>
   <string name="color_blue">Azul</string>
   <string name="color_calibration_none">Natural</string>
@@ -720,7 +720,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
 
 Para continuar a utilizar o telefone, é necessário efectuar uma reposição de fábrica. Quando configurar o telefone após a reposição, terá a oportunidade de restaurar quaisquer dados da cópia de segurança da sua Conta Google"</string>
   <string name="crypt_keeper_data_corrupt_title">Desencriptação sem sucesso</string>
-  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu telefone, supondo que configurou um bloqueio de ecrã (código PIN numérico ou palavra-passe), será necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. A outra opção para desencriptar é fazer uma reposição de dados de fábrica, eliminando todos os seus dados</string>
+  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu telefone, supondo que configurou um bloqueio de ecrã (código PIN numérico ou palavra-passe), será necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. O outro e único modo de desencriptar é fazer uma reposição de dados de fábrica, eliminando todos os seus dados</string>
   <string name="crypt_keeper_decrypt_methods_title">Desencriptar o seu telefone</string>
   <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, dados, aplicações transferidas, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar um restauro de dados de fábrica, eliminando todos os seus dados.
 
@@ -1193,7 +1193,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="global_change_warning">Esta definição vai afectar todos os utilizadores do telefone</string>
   <string name="global_font_change_title">Alterar tamanho do tipo de letra</string>
   <string name="global_locale_change_title">Alterar idioma</string>
-  <string name="google_backup_section_title">Cópia do Google e restauro</string>
+  <string name="google_backup_section_title">Cópia e restauro do Google</string>
   <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
   <string name="handy_mode">Modo Uma Mão</string>
   <string name="handy_mode_enter_ask">Perguntar antes de entrar no Modo Uma Mão</string>
@@ -2221,8 +2221,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="radioInfo_phone_idle">Inactivo</string>
   <string name="radioInfo_phone_offhook">Chamada a decorrer</string>
   <string name="radioInfo_phone_ringing">A tocar</string>
-  <string name="radioInfo_roaming_in">Activo</string>
-  <string name="radioInfo_roaming_not">Inactivo</string>
+  <string name="radioInfo_roaming_in">Roaming</string>
+  <string name="radioInfo_roaming_not">Sem roaming</string>
   <string name="radioInfo_service_emergency">Só chamadas de emergência</string>
   <string name="radioInfo_service_in">Em serviço</string>
   <string name="radioInfo_service_off">Rádio desligado</string>
@@ -2263,7 +2263,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="really_remove_account_message">Remover esta conta eliminará todas as suas mensagens, contactos e outros dados do telefone!</string>
   <string name="really_remove_account_title">Remover conta?</string>
   <string name="rebootiing_for_updates">A reiniciar…</string>
-  <string name="recent_location_requests_summary">Ver aplicações que estão a pedir acesso à sua informação de localização</string>
+  <string name="recent_location_requests_summary">Ver aplicações que estão a pedir acesso à sua informação de localização</string>
   <string name="recent_location_requests_title">Acesso à localização</string>
   <string name="recognizer_settings_summary">"Definições para '%s'"</string>
   <string name="recognizer_settings_title">Pesquisa por voz</string>
@@ -3000,7 +3000,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="under_keyguard">Bloqueio de ecrã</string>
   <string name="uninstall_all_users_text">Desinstalar para todos os utilizadores</string>
   <string name="uninstall_text">Desinstalar</string>
-  <string name="uninstall_with_xspace_app_dlg_msg">A aplicacões clonadas correspondentes vão ser eliminadas juntamente com os dados das mesmas</string>
+  <string name="uninstall_with_xspace_app_dlg_msg">As aplicações clonadas correspondentes vão ser eliminadas juntamente com os dados das mesmas</string>
   <string name="uninstall_xspace_app_dlg_msg">Desinstalar aplicação clonada vai eliminar todos os dados da aplicação</string>
   <string name="uninstall_xspace_app_dlg_title">Desinstalar aplicação clonada?</string>
   <string name="unknown">Desconhecido</string>

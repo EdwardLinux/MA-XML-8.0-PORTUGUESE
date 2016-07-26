@@ -302,8 +302,6 @@
   <string name="dial_pad_autocomplete">Completar automaticamente o número</string>
   <string name="dial_related_setting_catory">Marcar</string>
   <string name="dialerKeyboardHintText">Utilizar o teclado para marcar</string>
-  <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
-  <string name="dialer_default_package">com.android.contacts</string>
   <string name="dialog_activate_livetalk">Verificar</string>
   <string name="dialog_call_ordinary_telephone">Utilizar SIM</string>
   <string name="dialog_hang_up">Terminar chamada</string>
@@ -496,11 +494,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="ims_vt_call_quality_set_failed">Erro ao definir qualidade de vídeo</string>
   <string name="ims_vt_call_quality_title">Qualidade de chamada VT</string>
   <string name="ims_vt_call_quality_unknown">Desconhecido</string>
-  <string name="incall_default_activity">com.android.incallui.InCallActivity</string>
-  <string name="incall_default_class">com.android.incallui.CallHandlerService</string>
-  <string name="incall_default_package">com.android.incallui</string>
-  <string name="incall_default_recording_service_class">com.android.incallui.CallRecordingService</string>
-  <string name="incall_error_call_failed">Não é possível fazer a chamada</string>
+  <string name="incall_error_call_failed">Não é possível efectuar a chamada</string>
   <string name="incall_error_emergency_only">Não registado na rede</string>
   <string name="incall_error_missing_voicemail_number">Número de Voice Mail desconhecido</string>
   <string name="incall_error_no_active_sim">O cartão SIM não foi activado</string>

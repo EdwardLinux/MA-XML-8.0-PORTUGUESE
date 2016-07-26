@@ -64,7 +64,7 @@
         <item quantity="other">Código PIN do cartão SIM está incorrecto tem %d tentativas restantes</item>
         <item quantity="one">Código PIN do cartão SIM está incorrecto tem %d tentativa restante. Deve entrar em contacto com sua operadora para desbloquear o dispositivo</item>
     </plurals>
-	<plurals name="auto_disable_screenbuttons_enabled_header_title">
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">Desactivar sempre para %d aplicações</item>
         <item quantity="one">Desactivar sempre para 1 aplicação</item>
     </plurals>

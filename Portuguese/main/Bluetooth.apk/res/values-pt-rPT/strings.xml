@@ -8,7 +8,7 @@
   <string name="app_name">Partilha Bluetooth</string>
   <string name="auth_notif_message">Introduzir chave de sessão para %1$s</string>
   <string name="auth_notif_ticker">Pedido de autenticação Obex</string>
-  <string name="auth_notif_title">Chave de sessão</string>
+  <string name="auth_notif_title">Chave de Sessão</string>
   <string name="ble_device_address">MAC dispositivo BLE</string>
   <string name="ble_device_profile">Perfil de dispositivo Bluetooth</string>
   <string name="ble_device_profile_header_title">Definições</string>

@@ -4,7 +4,7 @@
   <string name="about_settings_summary">Ver informações legais, estado, versão de software</string>
   <string name="ac_enable_summary">Definir uma palavra-passe para as aplicações individualmente</string>
   <string name="ac_enable_title">Bloqueio de aplicações</string>
-  <string name="ac_privacy_mode_sum">Solicitar uma palavra-passe para desligar o Modo Convidado</string>
+  <string name="ac_privacy_mode_sum">Exigir uma palavra-passe para desligar o Modo Convidado</string>
   <string name="ac_privacy_mode_title">Bloqueio de ecrã</string>
   <string name="ac_set_apps_title">Escolher aplicações a bloquear</string>
   <string name="accelerometer_summary_off">Trocar orientação automaticamente ao rodar o telefone</string>
@@ -51,7 +51,7 @@ Quando ampliado, pode:
 
 Também pode aumentar temporariamente o que estiver sobre o seu dedo com um triplo toque e segurar. Neste modo, pode mover o dedo ampliando para explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior
 
-Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra de navegação e no teclado"</string>
+Nota: O triplo toque para ampliar funciona em todo o sistema excepto na barra de navegação e no teclado"</string>
   <string name="accessibility_screen_magnification_title">Ampliação de gestos</string>
   <string name="accessibility_service_default_description">Sem descrição fornecida</string>
   <string name="accessibility_service_no_apps_message">TalkBack fornece mensagens de voz para ajudar os utilizadores cegos e de visão reduzida. Deseja instalá-lo gratuitamente a partir da Play Store?</string>
@@ -89,7 +89,7 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="add_device_admin_msg">Activar o administrador do dispositivo?</string>
   <string name="add_fingerprint_done_msg">Agora pode desbloquear o seu dispositivo com a sua impressão digital</string>
   <string name="add_fingerprint_done_title">Feito!</string>
-  <string name="add_fingerprint_finished_button_text">Ok</string>
+  <string name="add_fingerprint_finished_button_text">OK</string>
   <string name="add_fingerprint_instruction_dialog_msg">"Para adicionar a sua impressão digital coloque o seu dedo no sensor.
 Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="add_fingerprint_instruction_msg">Desbloquear o dispositivo ou verificar pagamentos com a sua impressão digital</string>
@@ -124,7 +124,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="allow_mock_location_summary">Permitir locais fictícios</string>
   <string name="allow_usage_access_message">Se permitir o acesso a esta aplicação, esta poderá visualizar informações gerais de outras aplicações no seu dispositivo, como por exemplo, a frequência com que as utiliza</string>
   <string name="allow_usage_access_title">Permitir acesso?</string>
-  <string name="alpha_build">" | Alfa"</string>
+  <string name="alpha_build">" | Alpha"</string>
   <string name="always_allow_bind_appwidgets_text">Escolheu permitir que esta aplicação crie widgets e aceda aos dados</string>
   <string name="android_beam_disabled_summary">Partilha de conteúdo NFC necessita que o NFC esteja ligado</string>
   <string name="android_beam_explained">É possível transferir uma página web, um vídeo ou outro conteúdo a partir do seu ecrã para outro dispositivo, juntando os dispositivos (normalmente traseira com traseira)</string>
@@ -612,14 +612,14 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="clear_failed_dlg_text">Erro ao limpar os dados da aplicação</string>
   <string name="clear_failed_dlg_title">Limpar dados</string>
   <string name="clear_user_data_text">Limpar dados</string>
-  <string name="cloud_backup_section_title">Cópia da Nuvem Mi</string>
-  <string name="cloud_backup_settings_section_title">Definições da cópia</string>
-  <string name="cloud_restore_section_summary">Restaurar aplicações, disposição do ecrã inicial e definições de sistema</string>
+  <string name="cloud_backup_section_title">Cópias Nuvem Mi</string>
+  <string name="cloud_backup_settings_section_title">Definições das cópias</string>
+  <string name="cloud_restore_section_summary">Restaurar aplicações, disposição do ecrã inicial e as definições de sistema</string>
   <string name="cloud_restore_section_title">Restaurar da Nuvem Mi</string>
   <string name="close_dialog">OK</string>
   <string name="close_miui_optimization_title">Desligar optimização MIUI</string>
   <string name="close_miui_optimization_warning_message">O seu dispositivo vai reiniciar para aplicar esta alteração</string>
-  <string name="cmcc_hardware_version">Versão de hardware:</string>
+  <string name="cmcc_hardware_version">Versão de hardware</string>
   <string name="color_black">Preto</string>
   <string name="color_blue">Azul</string>
   <string name="color_calibration_none">Natural</string>
@@ -686,7 +686,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
 
 Para continuar a utilizar o telefone, é necessário efectuar uma reposição de fábrica. Quando configurar o telefone após a reposição, terá a oportunidade de restaurar quaisquer dados da cópia de segurança da sua Conta Google"</string>
   <string name="crypt_keeper_data_corrupt_title">Desencriptação sem sucesso</string>
-  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu telefone, supondo que configurou um bloqueio de ecrã (código PIN numérico ou palavra-passe), será necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. A outra opção para desencriptar é fazer uma reposição de dados de fábrica, eliminando todos os seus dados</string>
+  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu telefone, supondo que configurou um bloqueio de ecrã (código PIN numérico ou palavra-passe), será necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. O outro e único modo de desencriptar é fazer uma reposição de dados de fábrica, eliminando todos os seus dados</string>
   <string name="crypt_keeper_decrypt_methods_title">Desencriptar o seu telefone</string>
   <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, dados, aplicações transferidas, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar um restauro de dados de fábrica, eliminando todos os seus dados.
 
@@ -1161,7 +1161,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="global_change_warning">Esta definição vai afectar todos os utilizadores do telefone</string>
   <string name="global_font_change_title">Alterar tamanho do tipo de letra</string>
   <string name="global_locale_change_title">Alterar idioma</string>
-  <string name="google_backup_section_title">Cópia do Google e restauro</string>
+  <string name="google_backup_section_title">Cópia e restauro do Google</string>
   <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
   <string name="handy_mode">Modo Uma Mão</string>
   <string name="handy_mode_enter_ask">Perguntar antes de entrar no Modo Uma Mão</string>
@@ -2185,8 +2185,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="radioInfo_phone_idle">Inactivo</string>
   <string name="radioInfo_phone_offhook">Chamada a decorrer</string>
   <string name="radioInfo_phone_ringing">A tocar</string>
-  <string name="radioInfo_roaming_in">Activo</string>
-  <string name="radioInfo_roaming_not">Inactivo</string>
+  <string name="radioInfo_roaming_in">Roaming</string>
+  <string name="radioInfo_roaming_not">Sem roaming</string>
   <string name="radioInfo_service_emergency">Só chamadas de emergência</string>
   <string name="radioInfo_service_in">Em serviço</string>
   <string name="radioInfo_service_off">Rádio desligado</string>
@@ -2227,7 +2227,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="really_remove_account_message">Remover esta conta eliminará todas as suas mensagens, contactos e outros dados do telefone!</string>
   <string name="really_remove_account_title">Remover conta?</string>
   <string name="rebootiing_for_updates">A reiniciar…</string>
-  <string name="recent_location_requests_summary">Ver aplicações que estão a pedir acesso à sua informação de localização</string>
+  <string name="recent_location_requests_summary">Ver aplicações que estão a pedir acesso à sua informação de localização</string>
   <string name="recent_location_requests_title">Acesso à localização</string>
   <string name="recognizer_settings_summary">"Definições para '%s'"</string>
   <string name="recognizer_settings_title">Pesquisa por voz</string>
@@ -2663,7 +2663,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="show_user_info_on_lockscreen_label">Mostrar info. do proprietário no ecrã de bloqueio</string>
   <string name="shut_down_find_device_failure_confirm">OK</string>
   <string name="shut_down_find_device_network_failure_content">Não foi possível desligar Localizar Dispositivo. Certifique-se que o seu dispositivo está ligado à Internet</string>
-  <string name="shut_down_find_device_network_failure_title">Não foi possível ligação à rede. Verifique a sua ligação e tente novamente</string>
+  <string name="shut_down_find_device_network_failure_title">Não foi possível ligar à rede. Verifique a sua ligação e tente novamente</string>
   <string name="shuting_down_find_device">A desligar Localizar Dispositivo…</string>
   <string name="silent_mode_title">Modo silêncio</string>
   <string name="sim_bad_pin">Introduza um PIN com 4 a 8 números</string>
@@ -2972,7 +2972,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="under_keyguard">Bloqueio de ecrã</string>
   <string name="uninstall_all_users_text">Desinstalar para todos os utilizadores</string>
   <string name="uninstall_text">Desinstalar</string>
-  <string name="uninstall_with_xspace_app_dlg_msg">A aplicacões clonadas correspondentes vão ser eliminadas juntamente com os dados das mesmas</string>
+  <string name="uninstall_with_xspace_app_dlg_msg">As aplicações clonadas correspondentes vão ser eliminadas juntamente com os dados das mesmas</string>
   <string name="uninstall_xspace_app_dlg_msg">Desinstalar aplicação clonada vai eliminar todos os dados da aplicação</string>
   <string name="uninstall_xspace_app_dlg_title">Desinstalar aplicação clonada?</string>
   <string name="unknown">Desconhecido</string>
@@ -3081,7 +3081,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="user_add_user_menu">Adicionar utilizador</string>
   <string name="user_add_user_message_long">"Pode partilhar este dispositivo com outras pessoas ao criar utilizadores adicionais. Cada utilizador possui o seu próprio espaço, que pode ser personalizado com aplicações, papel de parede, etc. Os utilizadores também podem ajustar as definições do dispositivo, como o Wi-Fi, que afectam os restantes utilizadores.
 
-Ao adicionar um novo utilizador, essa pessoa tem de configurar o respectivo espaço. 
+Ao adicionar um novo utilizador, essa pessoa tem de configurar o respectivo espaço.
 
 Qualquer utilizador pode actualizar aplicações para todos os outros utilizadores"</string>
   <string name="user_add_user_message_short">"Ao adicionar um novo utilizador, essa pessoa tem de configurar o respectivo espaço.

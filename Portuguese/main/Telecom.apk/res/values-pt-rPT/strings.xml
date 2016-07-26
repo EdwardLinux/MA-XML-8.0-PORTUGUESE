@@ -9,7 +9,7 @@
   <string name="handle_restricted">RESTRINGIDO</string>
   <string name="headset_plugin_view_text">Auscultadores ligados</string>
   <string name="headset_plugin_view_title">Auscultadores</string>
-  <string name="incall_error_call_failed">"Não foi possível fazer a chamada"</string>
+  <string name="incall_error_call_failed">Não foi possível efectuar chamada</string>
   <string name="no_vm_number">Número de Voice Mail em falta</string>
   <string name="no_vm_number_msg">Não existe um número de Voice Mail guardado no cartão SIM</string>
   <string name="notification_missedCallTicker">Chamada não atendida de %s</string>
@@ -44,6 +44,6 @@
   <string name="unknown">Desconhecido</string>
   <string name="video_call_not_allowed_if_tty_enabled">Por favor, desactive o modo TTY para fazer videochamadas</string>
   <string name="voice_dial_out">Chamada de voz</string>
-  <string name="voice_report_incoming_call">A ligar</string>
+  <string name="voice_report_incoming_call">Chamada recebida</string>
   <string name="voice_report_unknown_num">Número desconhecido</string>
 </resources>
