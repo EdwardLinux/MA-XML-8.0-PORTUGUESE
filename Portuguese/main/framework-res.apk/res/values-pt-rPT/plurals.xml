@@ -9,12 +9,12 @@
         <item quantity="one">daqui a 1 hora</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">daqui a %d min.</item>
-        <item quantity="one">daqui a 1 min.</item>
+        <item quantity="other">daqui a %d mins</item>
+        <item quantity="one">daqui a 1 min</item>
     </plurals>
     <plurals name="abbrev_in_num_seconds">
-        <item quantity="other">daqui a %d seg.</item>
-        <item quantity="one">daqui a 1 seg.</item>
+        <item quantity="other">daqui a %d segs</item>
+        <item quantity="one">daqui a 1 seg</item>
     </plurals>
     <plurals name="abbrev_num_days_ago">
         <item quantity="other">%d dias atrás</item>
@@ -25,12 +25,12 @@
         <item quantity="one">1 hora atrás</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d min. atrás</item>
-        <item quantity="one">1 min. atrás</item>
+        <item quantity="other">%d mins atrás</item>
+        <item quantity="one">1 min atrás</item>
     </plurals>
     <plurals name="abbrev_num_seconds_ago">
-        <item quantity="other">%d seg. atrás</item>
-        <item quantity="one">1 seg. atrás</item>
+        <item quantity="other">%d segs atrás</item>
+        <item quantity="one">1 seg atrás</item>
     </plurals>
     <plurals name="duration_hours">
         <item quantity="other">%d horas</item>
@@ -65,7 +65,7 @@
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d de %2$d</item>
-        <item quantity="one">1 coincide</item>
+        <item quantity="one">1 correspondência</item>
     </plurals>
     <plurals name="num_days_ago">
         <item quantity="other">%d dias atrás</item>
@@ -84,20 +84,20 @@
         <item quantity="one">1 segundo atrás</item>
     </plurals>
     <plurals name="pinpuk_attempts">
-        <item quantity="other">Tem %d tentativas restantes antes do cartão SIM bloquear.</item>
-        <item quantity="one">Tem %d tentativa restante antes do cartão SIM bloquear.</item>
+        <item quantity="other">Tem %d tentativas restantes antes do SIM ficar bloqueado</item>
+        <item quantity="one">Tem %d tentativa restante antes do SIM ficar bloqueado</item>
     </plurals>
     <plurals name="restr_pin_countdown">
-        <item quantity="other">Tente novamente daqui a %d segundos</item>
-        <item quantity="one">Tente novamente daqui a 1 segundo</item>
+        <item quantity="other">Tente novamente em %d segundos</item>
+        <item quantity="one">Tente novamente em 1 segundo</item>
     </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Redes Wi-Fi disponíveis</item>
         <item quantity="one">Rede Wi-Fi disponível</item>
     </plurals>
     <plurals name="wifi_available_detailed">
-        <item quantity="other">Redes Wi-Fi disponíveis</item>
-        <item quantity="one">Rede Wi-Fi disponível</item>
+        <item quantity="other">Redes Wi-Fi abertas disponíveis</item>
+        <item quantity="one">Rede Wi-Fi aberta disponível</item>
     </plurals>
     <plurals name="zen_mode_duration_hours">
         <item quantity="other">Durante %d horas</item>

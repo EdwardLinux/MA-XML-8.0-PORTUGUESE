@@ -418,7 +418,7 @@ utilizando %s"</string>
   <string name="hardware">Hardware</string>
   <string name="heavy_weight_notification">%1$s em execução</string>
   <string name="heavy_weight_notification_detail">Toque para mudar para a aplicação</string>
-  <string name="heavy_weight_switcher_text">Já está em execução outra aplicação, esta terá que ser encerrada para poder iniciar uma nova</string>
+  <string name="heavy_weight_switcher_text">Já se encontra em execução outra aplicação que terá de ser interrompida antes de poder iniciar uma nova</string>
   <string name="heavy_weight_switcher_title">Mudar de aplicação?</string>
   <string name="hour">hora</string>
   <string name="hour_ampm" formatted="false">%-l%P</string>
