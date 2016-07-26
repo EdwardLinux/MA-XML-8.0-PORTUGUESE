@@ -449,7 +449,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="important_attention">Atenção</string>
   <string name="importingSimContacts">Importar contactos do SIM</string>
   <string name="ims_settings">Definições IMS</string>
-  <string name="incall_error_call_failed">Não é possível fazer a chamada</string>
+  <string name="incall_error_call_failed">Não é possível efectuar a chamada</string>
   <string name="incall_error_emergency_only">Não registado na rede</string>
   <string name="incall_error_local_low_battery">Chamada falhou devido a bateria fraca</string>
   <string name="incall_error_low_battery">Chamada falhou devido a bateria fraca</string>

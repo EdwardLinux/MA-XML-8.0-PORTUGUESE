@@ -61,7 +61,7 @@
         <item quantity="one">daqui a 1 segundo</item>
     </plurals>
     <plurals name="last_num_days">
-	    <item quantity="other">Últimos %d dias</item>
+        <item quantity="other">Últimos %d dias</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d de %2$d</item>

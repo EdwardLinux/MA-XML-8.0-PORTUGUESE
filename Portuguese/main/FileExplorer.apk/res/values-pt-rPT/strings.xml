@@ -16,8 +16,8 @@
   <string name="album_creator">Criado por %s</string>
   <string name="album_name">Selecção diária: %s</string>
   <string name="all_topic">Todos os tópicos</string>
-  <string name="already_liked">Já adiconou este item aos Favoritos</string>
-  <string name="already_signin_description">Já foi deu entrada hoje</string>
+  <string name="already_liked">Já adicionou este item aos Favoritos</string>
+  <string name="already_signin_description">Já deu entrada hoje</string>
   <string name="app_name">Explorador</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Câmara</string>
@@ -49,7 +49,7 @@
   <string name="bind_phone_dialog_cancle">Não adicionar</string>
   <string name="bind_phone_dialog_tip">O seu vídeo pode ganhar prémios. Em caso de vencer alguma coisa, não o podemos contactar a não ser que adicione o seu número de telefone</string>
   <string name="bind_phone_failed_tip">Não foi possível adicionar número de telefone</string>
-  <string name="bind_phone_success_tip">Adicionado número de telefone</string>
+  <string name="bind_phone_success_tip">Número de telefone adicionado</string>
   <string name="bind_success_tip">Adicionado com sucesso</string>
   <string name="binded_accout_description">A sua Conta Mi está sincronizada com o KuaiPan. Utilize a sua Conta Mi para aceder aos dados que armazenou no KuaiPan</string>
   <string name="binded_accout_title">Contas sincronizadas</string>
@@ -178,7 +178,7 @@
   <string name="drive_opened">Com sessão iniciada</string>
   <string name="editor_commend">Editar</string>
   <string name="email_platform">Email</string>
-  <string name="empty_comment">O comentários não podem estar vazios</string>
+  <string name="empty_comment">Os comentários não podem estar vazios</string>
   <string name="empty_file_download">Não é possível transferir ficheiros vazios</string>
   <string name="empty_file_upload">Não é possível carregar ficheiros vazios</string>
   <string name="enable_documentsui">Ligar %s em Definições &gt; Aplicações instaladas primeiro</string>
@@ -228,7 +228,7 @@
   <string name="ftp_account_req_notice">4-16 caracteres, letras e números, maiúsculas e minúsculas</string>
   <string name="ftp_anonymous_login">Iniciar sessão anónima</string>
   <string name="ftp_invalid_username_or_password">Utilizador ou palavra-passe inválido</string>
-  <string name="ftp_open_port_error">"Não foi possível abrir a porta. Verifique a ligação de rede ou reinicie o número da porta."</string>
+  <string name="ftp_open_port_error">"Não foi possível abrir a porta. Verifique a ligação de rede ou reinicie o número da porta"</string>
   <string name="ftp_password_hint">Palavra-passe</string>
   <string name="ftp_port_number">Número da porta</string>
   <string name="ftp_transfer_secure">Segurança</string>
@@ -236,7 +236,7 @@
   <string name="ftp_username_hint">Utilizador</string>
   <string name="gbk_summary">Codificação predefinida do Chinês simplificado do Windows</string>
   <string name="gbk_title">GBK</string>
-  <string name="get_user_info_err">Não foi possível obter a informação desta pessoa</string>
+  <string name="get_user_info_err">Não foi possível obter a informação deste utilizador</string>
   <string name="get_verification_code_fail">Não foi possível obter código de verificação</string>
   <string name="gigabyteShort">GB</string>
   <string name="good_tip">Bom trabalho!</string>
@@ -374,7 +374,7 @@
   <string name="month_day_format">d \'de\' MMMM</string>
   <string name="move_failed">Não é possível cortar</string>
   <string name="move_failed_retry">Não é possível cortar. Tente novamente após %1$s</string>
-  <string name="move_icon_to_desktop_hint">Criar um atalho do Explorador no ecrã inicial para gerir ficheiros mais eficientemente</string>
+  <string name="move_icon_to_desktop_hint">Criar um atalho do Explorador no ecrã inicial para uma melhor gestão de ficheiros</string>
   <string name="move_icon_to_desktop_success">Atalho adicionado ao ecrã inicial</string>
   <string name="move_to">Mover para…</string>
   <string name="msg_set_password">Definir palavra-passe primeiro</string>
@@ -415,7 +415,7 @@
   <string name="network_not_available">Não é possível ligar à rede</string>
   <string name="network_spent_reminding">Utilizar a sua ligação de dados móveis para ver esta página?</string>
   <string name="network_spent_reminding_title">Notificação de utilização de dados</string>
-  <string name="never_notify_network_connect">Memorizar preferências</string>
+  <string name="never_notify_network_connect">Memorizar preferência</string>
   <string name="new_comments">Novos comentários</string>
   <string name="new_folder_name">Pasta sem nome</string>
   <string name="new_function">Pastas ocultas</string>
@@ -471,8 +471,8 @@ e nunca perca as novidades!"</string>
   <string name="oauth_success_tip">Autorizado</string>
   <string name="online_not_support">Não é possível ver este ficheiro neste momento</string>
   <string name="open_changed_file_message">"O ficheiro que está a tentar abrir foi alterado. Por favor:
-1. Faça novamente a transferência do ficheiro para o actualizar.
-2. Carregue-a da sua conta KuaiPan."</string>
+1. Faça novamente a transferência do ficheiro para o actualizar
+2. Carregue-a da sua conta KuaiPan"</string>
   <string name="open_changed_file_title">Alteração aplicada</string>
   <string name="open_file_failed">Erro ao abrir</string>
   <string name="open_private_folder">Soltar para ver pastas ocultas</string>
@@ -539,7 +539,7 @@ e nunca perca as novidades!"</string>
   <string name="phone_code_err">Número de telefone ou código de verificação inválidos</string>
   <string name="phone_code_et_hint">Introduzir código de verificação</string>
   <string name="phone_get_code_tip">Demasiadas tentativas para obter o código</string>
-  <string name="phone_has_used_tip">Este telefone está associado com uma conta existente. Tente uma diferente</string>
+  <string name="phone_has_used_tip">Este telefone está associado a uma conta existente. Tente com uma diferente</string>
   <string name="phone_login_title">Telefone</string>
   <string name="phone_num_et_hint">Introduzir número de telefone</string>
   <string name="phone_num_format_tip">Número de telefone inválido</string>
@@ -589,7 +589,7 @@ e nunca perca as novidades!"</string>
   <string name="repair_error">Não foi possível restaurar</string>
   <string name="repair_file">Restaurar ficheiros encriptados</string>
   <string name="repeat_upload_video">Este vídeo já foi partilhado. Escolha outro</string>
-  <string name="reply_success">O comentário adicionado</string>
+  <string name="reply_success">Comentário adicionado</string>
   <string name="report_abuse">Abusos</string>
   <string name="report_advertisement">Anúncios</string>
   <string name="report_other">Outros</string>
@@ -673,8 +673,8 @@ e nunca perca as novidades!"</string>
   <string name="shared_sticker_page_no_file">Não foi possível ligar à rede. Verifique a sua ligação de rede e tente novamente</string>
   <string name="shared_sticker_str">Recentes</string>
   <string name="shared_sticker_suffix">Sticker em %s</string>
-  <string name="shared_sticker_use_tip">"Pode enviar os stickers que gravou nos diálogos Chats da mesma maneira que envia imagens.
-(GIFs podem ser adicionados a Personalizado nos Stickers WeChat)."</string>
+  <string name="shared_sticker_use_tip">"Pode enviar os stickers que gravou nos diálogos do Chat da mesma forma que envia imagens.
+(GIFs podem ser adicionados e personalizados nos Stickers WeChat)"</string>
   <string name="shared_sticker_use_tip_title">Como utilizar stickers</string>
   <string name="shared_str">Partilhado por %s</string>
   <string name="show_message">Tem que transferir este ficheiro antes de o poder abrir</string>
@@ -844,7 +844,7 @@ e nunca perca as novidades!"</string>
   <string name="video_tag_search_title">Seleccionar tópico</string>
   <string name="video_topic_hint">Pesquisar tópicos</string>
   <string name="video_upload_btn">Seguinte</string>
-  <string name="video_upload_btn_hint">Vídeos MP4 devem ter 3 a 10 minutos</string>
+  <string name="video_upload_btn_hint">Vídeos MP4 devem ter entre 3 a 10 minutos</string>
   <string name="video_upload_btn_hint_span">Não consegue encontrar o seu vídeo?</string>
   <string name="video_upload_item_more">Mais (%1$s)</string>
   <string name="video_upload_item_title">%1$s (%2$s)</string>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-   <plurals name="delete_files_confirm">
-     <item quantity="other">Eliminar %1$d ficheiros</item>
-     <item quantity="zero">Eliminar %1$d ficheiros</item>
-     <item quantity="one">Eliminar %1$d ficheiro</item>
-     <item quantity="two">Eliminar %1$d ficheiros</item>
-     <item quantity="few">Eliminar %1$d ficheiros</item>
-     <item quantity="many">Eliminar %1$d ficheiros</item>
+  <plurals name="delete_files_confirm">
+    <item quantity="other">Eliminar %1$d ficheiros</item>
+    <item quantity="zero">Eliminar %1$d ficheiros</item>
+    <item quantity="one">Eliminar %1$d ficheiro</item>
+    <item quantity="two">Eliminar %1$d ficheiros</item>
+    <item quantity="few">Eliminar %1$d ficheiros</item>
+    <item quantity="many">Eliminar %1$d ficheiros</item>
   </plurals>
   <plurals name="delete_folders_confirm">
-     <item quantity="other">" e %1$d pastas?"</item>
-     <item quantity="zero">" e %1$d pastas?"</item>
-     <item quantity="one">" e %1$d pasta?"</item>
+    <item quantity="other">" e %1$d pastas?"</item>
+    <item quantity="zero">" e %1$d pastas?"</item>
+    <item quantity="one">" e %1$d pasta?"</item>
     <item quantity="two">" e %1$d pastas?"</item>
     <item quantity="few">" e %1$d pastas?"</item>
     <item quantity="many">" e %1$d pastas?"</item>

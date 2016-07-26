@@ -343,7 +343,7 @@ utilizando %s"</string>
   <string name="eventTypeOther">Outro</string>
   <string name="expires_on">Expira em:</string>
   <string name="ext_media_badremoval_notification_message">Desmontar o armazenamento USB antes de o remover para evitar a perda de dados</string>
-  <string name="ext_media_badremoval_notification_title">Armazenamento USB foi removido inesperadamente</string>
+  <string name="ext_media_badremoval_notification_title">O armazenamento USB foi removido inesperadamente</string>
   <string name="ext_media_checking_notification_message">A verificar se existem erros</string>
   <string name="ext_media_checking_notification_title">A preparar o armazenamento USB</string>
   <string name="ext_media_nofs_notification_message">A memória de armazenamento USB está vazia ou tem um sistema de ficheiros não suportado</string>
@@ -352,7 +352,7 @@ utilizando %s"</string>
   <string name="ext_media_nomedia_notification_title">Armazenamento USB removido</string>
   <string name="ext_media_safe_unmount_notification_message">Pode remover o armazenamento USB em segurança</string>
   <string name="ext_media_safe_unmount_notification_title">Remover em segurança o armazenamento USB</string>
-  <string name="ext_media_unmountable_notification_message">Armazenamento USB está danificado. Tente formatar novamente</string>
+  <string name="ext_media_unmountable_notification_message">O armazenamento USB está danificado. Tente formatar novamente</string>
   <string name="ext_media_unmountable_notification_title">Armazenamento USB danificado</string>
   <string name="extmedia_format_button_format">Formatar</string>
   <string name="extmedia_format_message">Todos os ficheiros guardados no armazenamento USB serão eliminados. Não será possível reverter esta acção!</string>
@@ -1735,5 +1735,5 @@ Pretende fechá-la?"</string>
   <string name="write_fail_reason_cannot_write">Erro ao escrever conteúdo</string>
   <string name="year">ano</string>
   <string name="years">anos</string>
-<string name="yes">OK</string>
+  <string name="yes">OK</string>
 </resources>
