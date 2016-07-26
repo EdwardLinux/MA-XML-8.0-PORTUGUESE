@@ -259,8 +259,8 @@
   <string name="uninstall_result_succeeded">Aplicação desinstalada</string>
   <string name="uninstall_result_two_failed">Não foi possível desinstalar %s e 1 outra aplicação</string>
   <string name="uninstall_with_xspace_dialog_message">As aplicações clonadas correspondentes vão ser removidas juntamente com os dados da aplicação</string>
-  <string name="uninstall_xspace_dialog_message">Desinstalar a aplicação clonada vai remover todos os dados da aplicação</string>
-  <string name="uninstall_xspace_dialog_title_format">Desinstalar aplicação clonada \"%s\"?</string>
+  <string name="uninstall_xspace_dialog_message">Desinstalar vai remover todos os dados da aplicação</string>
+  <string name="uninstall_xspace_dialog_title_format">Desinstalar aplicação clonada %s?</string>
   <string name="unknown_artist_name">Artista desconhecido</string>
   <string name="unnamed_folder_name">Pasta sem nome</string>
   <string name="wallpaper">Papel de parede</string>
