@@ -40,6 +40,7 @@ Toque no botão + para criar uma pasta"</string>
   <string name="error_unsupport_content">Esta nota contém conteúdo não suportado, toque aqui para actualizar</string>
   <string name="error_widget_exist_for_send_to_desktop">Esta nota já existe no ecrã inicial</string>
   <string name="folder_exist">Já existe uma pasta com o mesmo nome</string>
+  <string name="force_touch_menu_add">Adicionar nota</string>
   <string name="format_move_notes_out_folder">Movida %1$s fora</string>
   <string name="format_move_notes_to_folder">Movida %1$s para %2$s</string>
   <string name="hint_foler_name">Nome</string>
@@ -91,7 +92,7 @@ Toque no botão + para criar uma pasta"</string>
   <string name="search_hint">Pesquisar notas</string>
   <string name="search_keyword_notes">Notas;Memo</string>
   <string name="search_label">A pesquisar…</string>
-  <string name="search_path_notes">Definições/Aplicações de sistema/Notas</string>
+  <string name="search_path_notes">Aplicações de sistema/Notas</string>
   <string name="search_setting_description">Texto nas suas notas</string>
   <string name="search_title_notes">Notas</string>
   <string name="select_account_prompt">Sincronizar notas</string>

@@ -53,6 +53,7 @@
   <string name="album_share_subtitle_quitting">A sair…</string>
   <string name="album_share_subtitle_requesting">A obter informação do álbum…</string>
   <string name="album_share_title_new_album">Partilhar novo álbum</string>
+  <string name="album_show_local_only">Mostrar apenas álbuns locais</string>
   <string name="album_type_baby">Álbum de bebé</string>
   <string name="album_type_share">Álbuns partilhados</string>
   <string name="album_type_system">Álbuns de sistema</string>
@@ -202,6 +203,7 @@
   <string name="delete_from_album">do álbum \"%s\" (em todos os dispositivos)</string>
   <string name="delete_from_album_no_account">do álbum \"%s\"</string>
   <string name="delete_from_all_devices">de todos os dispositivos</string>
+  <string name="delete_from_cloud">Eliminar itens do álbum na Nuvem Mi</string>
   <string name="delete_from_devices">Todos os dispositivos sincronizados</string>
   <string name="delete_from_devices_album">Todos os dispositivos que sincronizaram este álbum</string>
   <string name="delete_from_homepage_album">Álbuns mostrados na Galeria</string>
@@ -510,6 +512,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="posterize">Posterizar</string>
   <string name="preparing_data">Aguarde…</string>
   <string name="projection_checkbox_text">Memorizar este ecrã</string>
+  <string name="projection_device_connection_failed">Não foi possível ligar ao projector</string>
   <string name="projection_local_mobile">Este telefone</string>
   <string name="projection_multi_title">Dispositivos</string>
   <string name="projection_single_title">Transmitir para %s</string>
