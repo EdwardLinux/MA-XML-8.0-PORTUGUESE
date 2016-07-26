@@ -35,6 +35,7 @@
   <string name="confirm_restore_title">Restaurar definições predefinidas</string>
   <string name="dialog_ok">OK</string>
   <string name="dual_camera_lens_covered_toast">A lente está tapada</string>
+  <string name="dual_camera_low_constract_toast">O contraste é demasiado baixo</string>
   <string name="dual_camera_lowlight_toast">A iluminação é muito baixa</string>
   <string name="dual_camera_too_close_toast">A câmara está demasiado perto do objecto</string>
   <string name="dual_camera_use_hint">O modo Estéreo ajuda-o a utilizar o efeito blur.
