@@ -317,7 +317,7 @@
         <item>Preto em branco</item>
         <item>Amarelo em preto</item>
         <item>Amarelo em azul</item>
-        <item>Personalizar</item>
+        <item>Personalizado</item>
     </string-array>
     <string-array name="select_runtime_summaries">
         <item>Utilizar Dalvik</item>

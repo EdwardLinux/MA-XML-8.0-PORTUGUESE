@@ -3173,7 +3173,7 @@ Para utilizar a fixação no ecrã:
   <string name="select_application">Seleccionar aplicação</string>
   <string name="select_device_admin_msg">Administradores do dispositivo</string>
   <string name="select_logd_size_dialog_title">Selec. tam. reg. p/ mem. int. reg.</string>
-  <string name="select_logd_size_title">Tamanhos da memória intermédia do registo</string>
+  <string name="select_logd_size_title">Tamanho da memória intermédia do registo</string>
   <string name="select_sim_for_calls">Ligar com</string>
   <string name="select_sim_for_data">Seleccionar um SIM para dados</string>
   <string name="select_ssid_type_title">Seleccionar SSID</string>
