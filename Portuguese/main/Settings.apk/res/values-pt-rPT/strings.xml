@@ -3576,7 +3576,7 @@ A configuração do telefone pode exigir um consumo significativo de dados móve
   <string name="wifi_switch_to_gsm_title">Utilizar GSM</string>
   <string name="wifi_tether_checkbox_text">Ponto de Acesso Móvel</string>
   <string name="wifi_tether_configure_ap_text">Configurar Ponto de Acesso Móvel</string>
-  <string name="wifi_tether_configure_ssid_default">Ponto de Acesso Android</string>
+  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_tether_configure_subtext">Ponto de Acesso Móvel: SSID %1$s</string>
   <string name="wifi_tether_enabled_subtext">Ponto de Acesso Móvel %1$s activo</string>
   <string name="wifi_tether_failed_subtext">Erro no Ponto de Acesso Móvel</string>

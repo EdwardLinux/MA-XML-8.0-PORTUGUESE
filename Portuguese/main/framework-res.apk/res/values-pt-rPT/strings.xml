@@ -1727,7 +1727,7 @@ Pretende fechá-la?"</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Para:</string>
   <string name="wifi_p2p_turnon_message">Iniciar Wi-Fi Directo. Isto vai desligar o cliente/PA Móvel Wi-Fi</string>
-  <string name="wifi_tether_configure_ssid_default">Ponto de Acesso Android</string>
+  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">Não foi possível ligar ao Wi-Fi</string>
   <string name="wifi_watchdog_network_disabled_detailed">" tem uma ligação à Internet fraca"</string>
   <string name="wireless_display_route_description">Visualização sem fios</string>

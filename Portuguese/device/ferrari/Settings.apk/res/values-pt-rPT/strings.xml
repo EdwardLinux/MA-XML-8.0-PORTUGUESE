@@ -3534,7 +3534,7 @@ A configuração do telefone pode exigir a actividade de rede significativa"</st
   <string name="wifi_suspend_optimizations_summary">Minimizar a utilização da bateria quando a rede Wi-Fi está ligada</string>
   <string name="wifi_tether_checkbox_text">Ponto de acesso móvel</string>
   <string name="wifi_tether_configure_ap_text">Configurar Ponto de Acesso Móvel</string>
-  <string name="wifi_tether_configure_ssid_default">Ponto de Acesso Android</string>
+  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_tether_configure_subtext">Ponto de Acesso Móvel: SSID %1$s</string>
   <string name="wifi_tether_enabled_subtext">Ponto de Acesso Móvel %1$s activo</string>
   <string name="wifi_tether_failed_subtext">Erro no Ponto de Acesso Móvel</string>
