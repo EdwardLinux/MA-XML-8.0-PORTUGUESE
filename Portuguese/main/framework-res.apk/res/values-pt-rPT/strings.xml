@@ -76,7 +76,7 @@ Pretende fechar?"</string>
   <string name="anr_activity_process">"A actividade %1$s não está a responder. 
 
 Pretende fechar?"</string>
-  <string name="anr_application_process">%1$s não está a responder. Pretende fechá-la?</string>
+  <string name="anr_application_process">%1$s não está a responder. Pretende fechar?</string>
   <string name="anr_process">"O processo %1$s não está a responder. 
 
 Pretende fechar?"</string>
@@ -525,7 +525,7 @@ Tem a certeza de que deseja sair desta página?"</string>
   <string name="kg_enter_confirm_pin_hint">Confirme o código PIN pretendido</string>
   <string name="kg_failed_attempts_almost_at_login" formatted="false">"Desenhou o seu padrão de desbloqueio incorrectamente %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone através de uma conta de email.
 
- Tente novamente em %d segundos"</string>
+Tente novamente dentro de %d segundos"</string>
   <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativas sem sucesso, as definições de origem do telefone serão repostas e todos os dados do utilizador serão perdidos</string>
   <string name="kg_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que será reposta a predefinição de fábrica</string>
   <string name="kg_forgot_pattern_button_text">Esqueceu o padrão?</string>
@@ -534,7 +534,7 @@ Tem a certeza de que deseja sair desta página?"</string>
   <string name="kg_invalid_sim_pin_hint">Introduzir um PIN de 4 a 8 números</string>
   <string name="kg_invalid_sim_puk_hint">Código PUK deve ter 8 números</string>
   <string name="kg_login_account_recovery_hint">"Esqueceu o nome de utilizador ou a palavra-passe?
-Aceda a <b>google.com/accounts/recovery</b>"</string>
+Visite <b>google.com/accounts/recovery</b>"</string>
   <string name="kg_login_checking_password">A verificar conta…</string>
   <string name="kg_login_instructions">Para desbloquear, inicie sessão com a sua conta Google</string>
   <string name="kg_login_invalid_input">Utilizador ou palavra-passe inválido</string>
@@ -609,10 +609,10 @@ Tente novamente dentro de %d segundos"</string>
   <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que serão repostas as respectivas definições de fábrica</string>
   <string name="lockscreen_forgot_pattern_button_text">Esqueceu o padrão?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Esqueceu o nome de utilizador ou a palavra-passe?
-Aceda <b>google.com/accounts/recovery</b>"</string>
+Visite <b>google.com/accounts/recovery</b>"</string>
   <string name="lockscreen_glogin_checking_password">A verificar…</string>
   <string name="lockscreen_glogin_forgot_pattern">Desbloqueio de conta</string>
-  <string name="lockscreen_glogin_instructions">Para desbloquear inicie sessão na Conta Google</string>
+  <string name="lockscreen_glogin_instructions">Para desbloquear inicie sessão na sua Conta Google</string>
   <string name="lockscreen_glogin_invalid_input">Utilizador ou palavra-passe inválido</string>
   <string name="lockscreen_glogin_password_hint">Palavra-passe</string>
   <string name="lockscreen_glogin_submit_button">Iniciar sessão</string>
@@ -631,7 +631,7 @@ Aceda <b>google.com/accounts/recovery</b>"</string>
   <string name="lockscreen_pattern_instructions">Desenhar padrão para desbloquear</string>
   <string name="lockscreen_pattern_wrong">Tentar novamente</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">"O cartão SIM foi desactivado permanentemente. 
- Contacte o seu fornecedor de serviços móveis para obter outro cartão SIM"</string>
+Contacte o seu fornecedor de serviços móveis para obter outro cartão SIM"</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Cartão SIM inutilizável</string>
   <string name="lockscreen_plugged_in">A carregar %d%%</string>
   <string name="lockscreen_return_to_call">Voltar à chamada</string>
@@ -643,16 +643,16 @@ Aceda <b>google.com/accounts/recovery</b>"</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">A desbloquear cartão SIM…</string>
   <string name="lockscreen_sound_off_label">Som desligado</string>
   <string name="lockscreen_sound_on_label">Som ligado</string>
-  <string name="lockscreen_too_many_failed_attempts_countdown">Tente novamente em %d segundos</string>
+  <string name="lockscreen_too_many_failed_attempts_countdown">Tente novamente dentro de %d segundos</string>
   <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Desenhou o seu padrão de desbloqueio incorrectamente %d vezes.
 
- Tente novamente dentro de %d segundos"</string>
+Tente novamente dentro de %d segundos"</string>
   <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Introduziu a sua palavra-passe incorrectamente %d vezes. 
 
- Tente novamente dentro de %d segundos"</string>
+Tente novamente dentro de %d segundos"</string>
   <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Introduziu o seu PIN incorrectamente %d vezes. 
 
- Tente novamente dentro de %d segundos"</string>
+Tente novamente dentro de %d segundos"</string>
   <string name="lockscreen_transport_ffw_description">Avançar</string>
   <string name="lockscreen_transport_next_description">Faixa seguinte</string>
   <string name="lockscreen_transport_pause_description">Pausa</string>
@@ -1449,7 +1449,7 @@ Tentativas restantes :"</string>
   <string name="safeMode">Modo Seguro</string>
   <string name="safe_media_volume_warning">"Aumentar o volume acima do nível recomendado?
   
- Ouvir níveis elevados de volume durante longos períodos poderá ser prejudicial para a sua audição"</string>
+Ouvir níveis elevados de volume durante longos períodos poderá ser prejudicial para a sua audição"</string>
   <string name="sans_serif">sans-serif</string>
   <string name="save_password_label">Confirmar</string>
   <string name="save_password_message">Quer que o navegador memorize esta palavra-passe?</string>
