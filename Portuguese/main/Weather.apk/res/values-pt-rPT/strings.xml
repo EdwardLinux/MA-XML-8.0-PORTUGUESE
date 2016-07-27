@@ -81,7 +81,7 @@
   <string name="hourly_forecast_title">Previsão horária</string>
   <string name="index_item_install_now">Instalar agora</string>
   <string name="indices_desc_Precip1hr">%1$s mm</string>
-  <string name="indices_desc_feel">"Parece estar %1$s°C"</string>
+  <string name="indices_desc_feel">"Sensação térmica %1$s°C"</string>
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
   <string name="indices_desc_humidity">Humidade %1$s%%</string>
   <string name="indices_desc_humidity_without_pic">%1$s%%</string>
@@ -91,14 +91,14 @@
   <string name="indices_title">Actividades recomendadas</string>
   <string name="indices_title_Precip1hr">Precipitação 1hr</string>
   <string name="indices_title_car_wash">Lavar carro</string>
-  <string name="indices_title_feel">Parece estar</string>
+  <string name="indices_title_feel">Sensação térmica</string>
   <string name="indices_title_humidity">Humidade</string>
   <string name="indices_title_pressure">Pressão</string>
   <string name="indices_title_restriction">Espaço da estrada</string>
   <string name="indices_title_sport">Desportos</string>
   <string name="indices_title_uv">Indíce UV</string>
   <string name="indices_title_visibility">Visibilidade</string>
-  <string name="information_manager_information">Informação do Tempo</string>
+  <string name="information_manager_information">Informação do tempo</string>
   <string name="information_manager_wlan">Mostrar quando ligado ao Wi-Fi</string>
   <string name="information_menu_title"/>
   <string name="information_set">Definições da página inicial</string>
@@ -107,7 +107,7 @@
   <string name="install">Instalar</string>
   <string name="international_detail_menu_title">Detalhes</string>
   <string name="international_details_pressure_title">Pressão</string>
-  <string name="international_details_real_feel_title">"Parece estar "</string>
+  <string name="international_details_real_feel_title">"Sensação térmica "</string>
   <string name="international_details_title">Detalhes</string>
   <string name="international_details_uv_index_title">Indíce UV</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
@@ -173,6 +173,6 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="view_indexes_item_today">Hoje</string>
   <string name="view_indexes_item_tommorrow">Amanhã</string>
   <string name="weather_alert">Alertas de tempo</string>
-  <string name="wind_miles_unit">%1$smph</string>
+  <string name="wind_miles_unit">%1$s mph</string>
   <string name="wind_unit">%1$s km/h</string>
 </resources>
