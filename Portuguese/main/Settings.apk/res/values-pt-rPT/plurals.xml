@@ -57,8 +57,8 @@
         <item quantity="one">Está a %1$d passo de entrar nas informações do telefone</item>
     </plurals>
     <plurals name="show_rep_countdown">
-        <item quantity="other">Está a %1$d passos de enviar relatório de erros</item>
-        <item quantity="one">Está a %1$d passo de enviar relatório de erros</item>
+        <item quantity="other">Está a %1$d passos de criar um relatório de erros</item>
+        <item quantity="one">Está a %1$d passo de criar um relatório de erros</item>
     </plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">Código PIN do cartão SIM está incorrecto tem %d tentativas restantes</item>

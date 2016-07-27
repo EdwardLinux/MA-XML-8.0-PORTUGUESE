@@ -83,15 +83,15 @@
     </plurals>    
     <plurals name="show_pho_countdown">
         <item quantity="other">Está a %1$d passos de entrar nas informações do telefone</item>
-        <item quantity="one">Está a %1$d passos de entrar nas informações do telefone</item>
+        <item quantity="one">Está a %1$d passo de entrar nas informações do telefone</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Está a %1$d passos de entrar nos testes de hardware</item>
-        <item quantity="one">Está a %1$d passos de entrar nos testes de hardware</item>
+        <item quantity="one">Está a %1$d passo de entrar nos testes de hardware</item>
     </plurals>
     <plurals name="show_rep_countdown">
-        <item quantity="other">Está a %1$d passos de reportar erros</item>
-        <item quantity="one">Está a %1$d passo de reportar erros</item>
+        <item quantity="other">Está a %1$d passos de criar um relatório de erros</item>
+        <item quantity="one">Está a %1$d passo de criar um relatório de erros</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">Desactivar sempre para %d aplicações</item>

@@ -67,13 +67,13 @@
         <item>30 segundos</item>
         <item>1 minuto</item>
         <item>2 minutos</item>
-        <item>5 minutes</item>
+        <item>5 minutos</item>
         <item>10 minutos</item>
         <item>30 minutos</item>
     </string-array>
     <string-array name="entries_font_size">
         <item>Pequena</item>
-        <item>Normal</item>
+        <item>Média</item>
         <item>Grande</item>
         <item>Enorme</item>        
     </string-array>
@@ -102,7 +102,7 @@
         <item>Questo è un esempio di sintesi vocale in italiano.</item>
         <item>Este es un ejemplo de síntesis de voz en español.</item>
         <item>이것은 한국어 음성 합성의 예입니다.</item>
-    </string-array>    
+    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Premir botão</item>
         <item>PIN do dispositivo ponto a ponto</item>
@@ -249,12 +249,12 @@
         <item>botões multimédia</item>
         <item>orientação do áudio</item>
         <item>volume principal</item>
-        <item>volume de voz</item>
-        <item>volume de toque</item>
+        <item>volume da voz</item>
+        <item>volume do toque</item>
         <item>volume de multimédia</item>
-        <item>volume de alarme</item>
-        <item>volume de notificação</item>
-        <item>volume de bluetooth</item>
+        <item>volume do alarme</item>
+        <item>volume das notificações</item>
+        <item>volume do bluetooth</item>
         <item>manter activo</item>
         <item>monitorizar localização</item>
         <item>monitorizar localização de potência elevada</item>
@@ -306,7 +306,7 @@
         <item>Volume de multimédia</item>
         <item>Volume do alarme</item>
         <item>Volume das notificações</item>
-        <item>Volume de Bluetooth</item>
+        <item>Volume do Bluetooth</item>
         <item>Manter activo</item>
         <item>Localização</item>
         <item>Localização</item>
@@ -510,7 +510,7 @@
         <item>Desligado</item>
         <item>Leve</item>
         <item>Médio</item>
-        <item>Forte</item>        
+        <item>Forte</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Forte</item>
@@ -611,7 +611,7 @@
     <string-array name="msd_pc_system_install_finish_summary">
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
         <item>@string/msd_pc_system_install_finish_summary_vista</item>
-        <item>Armazenamento em massa USB é ligado automaticamente quando ligado a um computador.</item>
+        <item>Armazenamento em massa USB é ligado automaticamente quando ligado a um computador</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
