@@ -806,7 +806,7 @@ Esta definição afecta todos os utilizadores deste telefone</string>
   <string name="date_and_time_settings_title_setup_wizard">Definir data e hora</string>
   <string name="date_picker_title">Data</string>
   <string name="date_time_24hour">Utilizar formato de 24 horas</string>
-  <string name="date_time_auto">Data e horas automáticas</string>
+  <string name="date_time_auto">Data e hora automática</string>
   <string name="date_time_auto_summaryOff">Utilizar a hora fornecida pela rede</string>
   <string name="date_time_auto_summaryOn">Utilizar a hora fornecida pela rede</string>
   <string name="date_time_date_format">Escolher formato da data</string>
@@ -3687,8 +3687,8 @@ A configuração do telefone pode exigir um consumo significativo de dados móve
   <string name="zen_mode_when_never">Nunca</string>
   <string name="zen_mode_when_weeknights">Noites de dias úteis</string>
   <string name="zone_auto">Fuso horário automático</string>
-  <string name="zone_auto_summaryOff">Utilizar fuso horário fornecido na rede</string>
-  <string name="zone_auto_summaryOn">Utilizar fuso horário fornecido na rede</string>
+  <string name="zone_auto_summaryOff">Utilizar fuso horário fornecido pela rede</string>
+  <string name="zone_auto_summaryOn">Utilizar fuso horário fornecido pela rede</string>
   <string name="zone_list_menu_sort_alphabetically">Ordenar por ordem alfabética</string>
   <string name="zone_list_menu_sort_by_timezone">Ordenar por fuso horário</string>
 </resources>
