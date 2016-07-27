@@ -39,7 +39,7 @@
   <string name="sst_wifi_only_desc">Desligar esta funcionalidade para poupar dados móveis</string>
   <string name="sst_wifi_only_title">Actualizar papéis de parede utilizando dados móveis</string>
   <string name="summary">"Ao utilizar esta funcionalidade, está a concordar com o nosso <a href ='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a>. Esta funcionalidade necessita de ligar à Internet para funcionar normalmente"</string>
-  <string name="summary_international">"Ao utilizar esta funcionalidade, está a concordar com os nossos <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Termos de Utilização</a> e <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a>. Esta aplicação necessita de ligar à Internet para funcionar normalmente​"</string>
+  <string name="summary_international">"Ao utilizar esta funcionalidade, está a concordar com os nossos <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Termos de Utilização</a> e <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a>. Esta aplicação necessita de ligar à Internet para funcionar normalmente"</string>
   <string name="theme_apply_failured">Não é possível aplicar. Tente novamente mais tarde</string>
   <string name="theme_apply_success">Bloqueio de ecrã aplicado</string>
   <string name="theme_applying">A aplicar…</string>

@@ -464,7 +464,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="get_purchase_history_failed">Não foi possível obter o histórico de compras</string>
   <string name="get_smsc_address_error">Não é possível ligar à rede</string>
   <string name="get_smsc_address_timeout">O tempo de ligação chegou ao fim</string>
-  <string name="get_use_history_failed">"Não foi possível obter o histórico"</string>
+  <string name="get_use_history_failed">Não foi possível obter o histórico</string>
   <string name="goPrivate">Ficar privado</string>
   <string name="got_it">OK</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Preferências de rede</string>
@@ -494,7 +494,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="ims_vt_call_quality_set_failed">Erro ao definir qualidade de vídeo</string>
   <string name="ims_vt_call_quality_title">Qualidade de chamada VT</string>
   <string name="ims_vt_call_quality_unknown">Desconhecido</string>
-  <string name="incall_error_call_failed">Não é possível efectuar a chamada</string>
+  <string name="incall_error_call_failed">Não é possível fazer a chamada</string>
   <string name="incall_error_emergency_only">Não registado na rede</string>
   <string name="incall_error_missing_voicemail_number">Número de Voice Mail desconhecido</string>
   <string name="incall_error_no_active_sim">O cartão SIM não foi activado</string>
@@ -1188,12 +1188,12 @@ O cartão SIM será bloqueado após nova tentativa falhada"</string>
   <string name="sum_cfu_enabled_no_number">Número indisponível</string>
   <string name="sum_cw_disabled">Não notificar-me de chamadas a receber durante uma chamada</string>
   <string name="sum_cw_enabled">Notificar-me de chamadas a receber durante uma chamada</string>
-  <string name="sum_default_caller_id">Utilizar as definições predefinidas da operadora para mostrar o meu número</string>
+  <string name="sum_default_caller_id">Utilizar as predefinições da operadora</string>
   <string name="sum_fdn">Gerir os números de marcação fixa</string>
   <string name="sum_fdn_change_pin">Alterar PIN de acesso a FDN</string>
   <string name="sum_fdn_manage_list">Gerir a lista de números de marcação fixa</string>
   <string name="sum_gsm_call_settings">Definições adicionais apenas de chamada GSM</string>
-  <string name="sum_hide_caller_id">Número oculto em chamadas efectuadas</string>
+  <string name="sum_hide_caller_id">Ocultar o meu número</string>
   <string name="sum_loading_settings">A carregar definições…</string>
   <string name="sum_search_networks">Pesquisar todas as redes disponíveis</string>
   <string name="sum_select_automatically">Escolher automaticamente a rede preferida</string>

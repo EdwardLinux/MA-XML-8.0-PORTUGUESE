@@ -344,13 +344,13 @@ Deslize para baixo para bloquear"</string>
   <string name="vpn_title_long">Ligar a VPN utilizando %s</string>
   <string name="weather_description_no_aqi">%1$s &gt;</string>
   <string name="weather_publish_time">Actualizado às %1$s</string>
-  <string name="wifi_connected_no_internet">Ligado. Sem Internet</string>
+  <string name="wifi_connected_no_internet">Ligado, sem Internet</string>
   <string name="wifi_disabled_generic">Desactivado</string>
   <string name="wifi_disabled_network_failure">Evitar ligações de Internet fracas</string>
   <string name="wifi_disabled_password_failure">Problema de autenticação</string>
   <string name="wifi_disabled_wifi_failure">Erro na ligação Wi-Fi</string>
   <string name="wifi_fail_to_scan">Não é possível pesquisar redes</string>
-  <string name="wifi_no_internet">Não foi detectado acesso à Internet, não vai religar automaticamente</string>
+  <string name="wifi_no_internet">Não foi detectado acesso à Internet. Não vai religar automaticamente</string>
   <string name="wifi_not_in_range">Fora do alcance</string>
   <string name="wifi_remembered">Guardado</string>
 </resources>

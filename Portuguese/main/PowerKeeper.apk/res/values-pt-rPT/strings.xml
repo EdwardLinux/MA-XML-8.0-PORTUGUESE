@@ -22,12 +22,12 @@
   <string name="config_mode_title">Definições de segundo plano</string>
   <string name="config_no_restrict_description">A poupança de bateria não vai restringir a actividade das aplicações</string>
   <string name="config_no_restrict_title">Sem restrições</string>
-  <string name="config_restrict_function_description">Algumas funcionalidades (p.e. notificações) podem ser afectadas mas as aplicações não vao ser fechadas</string>
+  <string name="config_restrict_function_description">Algumas funcionalidades (p.e. notificações) podem ser afectadas, mas as aplicações não vão ser fechadas</string>
   <string name="config_restrict_function_title">Restringir aplicações em segundo plano</string>
   <string name="config_restrict_running_description">Aplicações vão ser fechadas para poupar bateria</string>
   <string name="config_restrict_running_title">Restringir actividade em segundo plano</string>
-  <string name="config_suggest_description">"Identifique aplicações e actividades para manter os processos importantes em execução.
- A poupança de bateria vai tratar as aplicações mais importantes selectivamente"</string>
+  <string name="config_suggest_description">"Identifica aplicações e actividades para manter os processos importantes em execução.
+ A poupança de bateria vai monitorizar as aplicações mais importantes selectivamente"</string>
   <string name="config_suggest_suffix_title">Poupança de bateria MIUI (recomendado)</string>
   <string name="config_suggest_title">Poupança de bateria MIUI</string>
   <string name="disabled">Desligado</string>
@@ -127,7 +127,7 @@
   <string name="power_event_view_event_title">Activadores</string>
   <string name="power_hide_mode_app_list_summary">Definições de aplicações</string>
   <string name="power_hide_mode_summary">Poupar bateria restringindo processos individualmente em segundo plano das aplicações, ligações Wi-Fi, dados móveis e utilização de GPS</string>
-  <string name="power_hide_mode_title">Gerir utilização de bateria das aplicações</string>
+  <string name="power_hide_mode_title">Gerir utilização da bateria das aplicações</string>
   <string name="power_keeper">Poupança de bateria</string>
   <string name="power_mode_cpu_state_high">Desempenho</string>
   <string name="power_mode_cpu_state_high_desc">Dar prioridade ao desempenho sobre a duração de bateria</string>

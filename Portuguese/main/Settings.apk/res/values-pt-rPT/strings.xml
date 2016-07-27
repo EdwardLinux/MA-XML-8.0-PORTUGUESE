@@ -499,7 +499,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="bluetooth_unlock_add_device">Adicionar dispositivo</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">O dispositivo antigo será substituído pelo novo</string>
   <string name="bluetooth_unlock_change_matched_device">Escolher outro dispositivo</string>
-  <string name="bluetooth_unlock_confirm_device_text">Junte os dispositivos para desbloquear</string>
+  <string name="bluetooth_unlock_confirm_device_text">Junte os dispositivos Bluetooth para confirmar</string>
   <string name="bluetooth_unlock_delete_device">Eliminar este dispositivo</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Deseja eliminar este dispositivo?</string>
   <string name="bluetooth_unlock_device_matched_text">Utilizar este dispositivo para desbloquear</string>
@@ -925,7 +925,7 @@ Esta definição afecta todos os utilizadores deste telefone</string>
   <string name="dndm_alarm_content_not_all">Silenciar tudo</string>
   <string name="dndm_alarm_content_sms">Mensagens</string>
   <string name="dndm_auto_button_title">Repetir hora de Não incomodar</string>
-  <string name="dndm_auto_setting_group">Programado</string>
+  <string name="dndm_auto_setting_group">Programar</string>
   <string name="dndm_auto_time_setting">Definir hora</string>
   <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">Até</string>
@@ -3415,10 +3415,10 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="wifi_p2p_delete_group_message">Esquecer este grupo?</string>
   <string name="wifi_p2p_device_info">Informação do dispositivo</string>
   <string name="wifi_p2p_disconnect_message">Se desligar, a ligação com %1$s vai terminar</string>
-  <string name="wifi_p2p_disconnect_multiple_message">Se desligar, a sua ligação com outros dispositivos %1$s e %2$s vai terminar</string>
+  <string name="wifi_p2p_disconnect_multiple_message">Se desligar, a sua ligação com os dispositivos %1$s e %2$s vai terminar</string>
   <string name="wifi_p2p_disconnect_title">Desligar?</string>
   <string name="wifi_p2p_failed_connect_message">Não foi possível ligar</string>
-  <string name="wifi_p2p_failed_rename_message">Erro ao mudar nome do dispositivo</string>
+  <string name="wifi_p2p_failed_rename_message">Erro ao mudar o nome do dispositivo</string>
   <string name="wifi_p2p_menu_rename">Mudar o nome do dispositivo</string>
   <string name="wifi_p2p_menu_search">Pesquisar dispositivos</string>
   <string name="wifi_p2p_menu_searching">A pesquisar…</string>
@@ -3442,16 +3442,19 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="wifi_remembered">Guardado</string>
   <string name="wifi_required_info_text">Para finalizar a instalação, o seu dispositivo necessita de aceder ao Wi-Fi. Depois da instalação, pode alternar entre os dados móveis e o Wi-Fi</string>
   <string name="wifi_save">Guardar</string>
+  <string name="wifi_saved_access_points_label">Redes guardadas</string>
+  <string name="wifi_saved_access_points_titlebar">Redes guardadas</string>
   <string name="wifi_scan_always_available">Localizar sempre disponível</string>
-  <string name="wifi_scan_always_available_summary">Permitir que o serviço de localização do Google e outras aplicações pesquisem redes, mesmo quando o Wi-Fi está desligado</string>
+  <string name="wifi_scan_always_available_summary">Permitir que o serviço de localização do Google e outras aplicações pesquisem redes, mesmo quando o Wi-Fi estiver desligado</string>
   <string name="wifi_scan_always_confirm_allow">Permitir</string>
   <string name="wifi_scan_always_confirm_deny">Negar</string>
-  <string name="wifi_scan_always_turnon_message">"Para melhorar a precisão da localização e para outros fins, %1$s pretende ligar a verificação de redes, mesmo quando o Wi-Fi está desligado.
+  <string name="wifi_scan_always_turnoff_message">Para desligar, vá a Definições avançadas do Wi-Fi</string>
+  <string name="wifi_scan_always_turnon_message">"Para melhorar a precisão da localização e outros fins, %1$s pretende ligar a verificação de redes, mesmo quando o Wi-Fi estiver desligado.
 
 Permitir esta opção para todas as aplicações que pretenderem verificar a localização?"</string>
   <string name="wifi_scan_notify_remember_choice">Não mostrar novamente</string>
-  <string name="wifi_scan_notify_text_location_off">As aplicações podem pesquisar redes, mesmo quando o Wi-Fi está desligado. Pode alterar esta opção nas Definições avançadas Wi-Fi &gt; Localizar sempre disponível</string>
-  <string name="wifi_scan_notify_text_location_on">Para melhorar a precisão da localização e para outros fins, o Google e outras aplicações podem pesquisar redes, mesmo quando o Wi-Fi está desligado. Pode alterar esta opção nas Definições avançadas Wi-Fi &gt; Localizar sempre disponível</string>
+  <string name="wifi_scan_notify_text_location_off">As aplicações podem pesquisar redes, mesmo quando o Wi-Fi estiver desligado. Pode alterar esta opção nas Definições avançadas Wi-Fi &gt; Localizar sempre disponível</string>
+  <string name="wifi_scan_notify_text_location_on">Para melhorar a precisão da localização e outros fins, o Google e outras aplicações podem pesquisar redes, mesmo quando o Wi-Fi estiver desligado. Pode alterar esta opção nas Definições avançadas Wi-Fi &gt; Localizar sempre disponível</string>
   <string name="wifi_secured_first_item">Protegido com %1$s</string>
   <string name="wifi_secured_second_item">, protegido com %1$s</string>
   <string name="wifi_security">Segurança</string>
@@ -3470,10 +3473,12 @@ Permitir esta opção para todas as aplicações que pretenderem verificar a loc
   <string name="wifi_security_wpa">WPA PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+  <string name="wifi_select_network">Seleccionar Wi-Fi</string>
   <string name="wifi_setting_category">Redes disponíveis</string>
   <string name="wifi_setting_frequency_band_error">Houve um problema ao definir a banda de frequência</string>
   <string name="wifi_setting_frequency_band_summary">Especificar o intervalo de frequência da operação</string>
   <string name="wifi_setting_frequency_band_title">Banda de frequências de Wi-Fi</string>
+  <string name="wifi_setting_on_during_sleep_title">Wi-Fi ligado durante suspensão</string>
   <string name="wifi_setting_sleep_policy_error">Houve um problema ao definir</string>
   <string name="wifi_setting_sleep_policy_title">Manter Wi-Fi durante suspensão</string>
   <string name="wifi_settings">Wi-Fi</string>
@@ -3549,7 +3554,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_skip_anyway">Ignorar na mesma</string>
   <string name="wifi_skipped_message">"AVISO: Podem surgir custos adicionais.
 
-A configuração do telefone pode exigir a actividade de rede significativa"</string>
+A configuração do telefone pode exigir um consumo significativo de dados móveis"</string>
   <string name="wifi_speed">Velocidade da ligação</string>
   <string name="wifi_ssid">SSID</string>
   <string name="wifi_ssid_hint">Introduzir SSID</string>
@@ -3564,8 +3569,11 @@ A configuração do telefone pode exigir a actividade de rede significativa"</st
   <string name="wifi_status_test">Estado Wi-Fi</string>
   <string name="wifi_stopping">A desligar…</string>
   <string name="wifi_subnet_mask">Máscara de sub-rede</string>
+  <string name="wifi_suspend_efficiency_title">Melhorar eficiência</string>
   <string name="wifi_suspend_optimizations">Optimização Wi-Fi</string>
   <string name="wifi_suspend_optimizations_summary">Minimizar a utilização da bateria quando a rede Wi-Fi está ligada</string>
+  <string name="wifi_switch_to_gsm_message">Perdeu ligação ao Wi-Fi. Utilizar ligação de dados móveis?</string>
+  <string name="wifi_switch_to_gsm_title">Utilizar GSM</string>
   <string name="wifi_tether_checkbox_text">Ponto de Acesso Móvel</string>
   <string name="wifi_tether_configure_ap_text">Configurar Ponto de Acesso Móvel</string>
   <string name="wifi_tether_configure_ssid_default">Ponto de Acesso Android</string>
@@ -3614,8 +3622,9 @@ A configuração do telefone pode exigir a actividade de rede significativa"</st
   <string name="wifi_wps_failed_tkip">Não há suporte para a definição de segurança (TKIP) do router wireless</string>
   <string name="wifi_wps_failed_wep">Não há suporte para a definição de segurança (WEP) do router wireless</string>
   <string name="wifi_wps_in_progress">O WPS encontra-se em curso e pode levar algum tempo para concluir</string>
+  <string name="wifi_wps_nfc_enter_password">Introduzir a palavra-passe da rede</string>
   <string name="wifi_wps_onstart_pbc">Toque no botão Wi-Fi Instalação Protegida no seu router. Poderá chamar-se \"WPS\" ou ter este símbolo:</string>
-  <string name="wifi_wps_onstart_pin">Introduza PIN de %1$s no seu router Wi-Fi. A configuração poderá demorar até dois minutos para ficar concluída</string>
+  <string name="wifi_wps_onstart_pin">Introduza o PIN de %1$s no seu router Wi-Fi. A configuração poderá demorar até dois minutos para ficar concluída</string>
   <string name="wifi_wps_overlap_error">Foi detectada outra sessão de Wi-Fi. Tente novamente mais tarde</string>
   <string name="wifi_wps_setup_msg">A iniciar WPS…</string>
   <string name="wifi_wps_setup_title">Instalação Wi-Fi protegida</string>
@@ -3627,6 +3636,8 @@ A configuração do telefone pode exigir a actividade de rede significativa"</st
   <string name="wizard_back">Voltar</string>
   <string name="wizard_finish">Concluir</string>
   <string name="wizard_next">Seguinte</string>
+  <string name="work_profile_confirm_remove_message">Se continuar, todas as aplicações e todos os dados neste perfil serão eliminados</string>
+  <string name="work_profile_confirm_remove_title">Remover perfil de trabalho?</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Confirme se o router suporta WPS e se este se encontra activo</string>
   <string name="wps_connect_title">Ligar WPS</string>
@@ -3669,7 +3680,7 @@ A configuração do telefone pode exigir a actividade de rede significativa"</st
   <string name="zen_mode_option_title">Ao receber chamadas e notificações</string>
   <string name="zen_mode_option_title_novoice">Ao receber notificações</string>
   <string name="zen_mode_phone_calls">Chamadas</string>
-  <string name="zen_mode_settings_title">Interrupções</string>
+  <string name="zen_mode_settings_title">Não incomodar</string>
   <string name="zen_mode_start_time">Hora de início</string>
   <string name="zen_mode_when">Ligar automaticamente</string>
   <string name="zen_mode_when_every_night">Todas as noites</string>
