@@ -789,7 +789,7 @@ Será utilizada a rede preferida"</string>
   <string name="notification_missedCallTitle">Chamada não atendida</string>
   <string name="notification_missedCall_call_back">Ligar de volta</string>
   <string name="notification_missedCall_message">Mensagem</string>
-  <string name="notification_missedCallsMsg">%s chamada(s) não atendida(s)</string>
+  <string name="notification_missedCallsMsg">%s chamadas não atendidas</string>
   <string name="notification_missedCallsTitle">Chamadas não atendidas</string>
   <string name="notification_network_selection_text">Rede seleccionada (%s) indisponível</string>
   <string name="notification_network_selection_title">Sem serviço</string>

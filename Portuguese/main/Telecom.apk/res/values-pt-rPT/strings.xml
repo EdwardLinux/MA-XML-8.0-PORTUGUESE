@@ -17,7 +17,7 @@
   <string name="notification_missedCall_call_back">Ligar de volta</string>
   <string name="notification_missedCall_call_back_miui">Ligar</string>
   <string name="notification_missedCall_message">Mensagem</string>
-  <string name="notification_missedCallsMsg">%s chamada(s) não atendida(s)</string>
+  <string name="notification_missedCallsMsg">%s chamadas não atendidas</string>
   <string name="notification_missedCallsTitle">Chamadas não atendidas</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Chamada não efectuada. Não foi introduzido um número válido</string>
   <string name="outgoing_call_not_allowed">Não é permitido a este utilizador fazer chamadas telefónicas</string>

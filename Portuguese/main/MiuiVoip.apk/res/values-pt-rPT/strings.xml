@@ -31,7 +31,7 @@ vá a %s"</string>
   <string name="no_sim_found">Sem cartão SIM detectado</string>
   <string name="notification_activate_failed">Não é possível activar Voz Mi</string>
   <string name="notification_missedCallTicker">Chamada não atendida de %s</string>
-  <string name="notification_missedCallsMsg">%s chamada(s) não atendida(s)</string>
+  <string name="notification_missedCallsMsg">%s chamadas não atendidas</string>
   <string name="notification_missedCallsTitle">Chamadas não atendidas</string>
   <string name="phone_switch_tip">Trocar para GSM</string>
   <string name="policy_name">Política: %s</string>

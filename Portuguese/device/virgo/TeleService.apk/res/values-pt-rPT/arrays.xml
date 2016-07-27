@@ -15,20 +15,20 @@
         <item>TD-SCDMA e GSM</item>
         <item>TD-SCDMA e LTE</item>
         <item>TD-SCDMA e WCDMA</item>
-        <item>Apenas TD-SCDMA</item>
+        <item>TD-SCDMA (apenas)</item>
         <item>LTE/WCDMA</item>
-        <item>Apenas LTE</item>
+        <item>LTE (apenas)</item>
         <item>LTE/GSM/CDMA auto (PRL)</item>
         <item>LTE/GSM auto (PRL)</item>
         <item>LTE/CDMA auto (PRL)</item>
         <item>GSM/CDMA auto (PRL)</item>
-        <item>Apenas EvDo</item>
-        <item>Apenas CDMA</item>
+        <item>EvDo (apenas)</item>
+        <item>CDMA (apenas)</item>
         <item>CDMA auto (PRL)</item>
         <item>GSM auto (PRL)</item>
-        <item>Apenas WCDMA</item>
-        <item>Apenas GSM</item>
-        <item>WCDMA preferido</item>
+        <item>WCDMA (apenas)</item>
+        <item>GSM (apenas)</item>
+        <item>WCDMA (preferido)</item>
     </string-array>
     <string-array name="call_barring_outgoing_display_values">
         <item>Desligado</item>
