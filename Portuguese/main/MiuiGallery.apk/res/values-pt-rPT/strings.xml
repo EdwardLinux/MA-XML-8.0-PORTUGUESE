@@ -20,7 +20,7 @@
   <string name="adding">A adicionar…</string>
   <string name="adding_recipients">A adicionar destinatários…</string>
   <string name="adding_to_album">A adicionar fotos…</string>
-  <string name="adjust">Ajustar</string>
+  <string name="adjust">Melhorar</string>
   <string name="adjust_blur">Névoa</string>
   <string name="adjust_brightness">Brilho</string>
   <string name="adjust_contrast">Contraste</string>
@@ -185,6 +185,7 @@
   <string name="create_quick_icon_on_desk">Criar atalho</string>
   <string name="creating_baby_album">A criar álbum…</string>
   <string name="crop">Recortar</string>
+  <string name="crop_and_rotate">Ajustar</string>
   <string name="crop_label">Fotos recortadas</string>
   <string name="crop_save_text">Guardar</string>
   <string name="crop_tooltip">Arrastar marcadores para cortar</string>
@@ -412,6 +413,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="micloud_introduce">Fazer cópias de fotos e vídeos automaticamente (É necessário uma Conta Mi)</string>
   <string name="more_album_hint">", etc."</string>
   <string name="more_face_album_name">Mais pessoas</string>
+  <string name="move_to_other_albums_tip">Se mover este álbum para a lista de Outros álbuns, a sincronização do álbum com a Nuvem Mi vai ser desligada. Pretende mover agora?</string>
   <string name="must_pick_file">Seleccionar uma foto</string>
   <string name="name_split">", "</string>
   <string name="need_to_turn_on_network">Não tem uma ligação à Internet</string>
@@ -440,19 +442,19 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="operation_add_secret">Ocultar</string>
   <string name="operation_delete">Eliminar</string>
   <string name="operation_detail">Detalhes</string>
-  <string name="operation_disable_auto_upload">Desligar sincronização com a Nuvem Mi</string>
   <string name="operation_do_delete_local_thumnail">Eliminar do dispositivo</string>
   <string name="operation_download">Transferir original (%s)</string>
   <string name="operation_edit">Editar</string>
-  <string name="operation_enable_auto_upload">Ligar sincronização com a Nuvem Mi</string>
   <string name="operation_enter_delte_thumbnail">Eliminar cópias de fotos e vídeos do dispositivo</string>
   <string name="operation_failed">A operação falhou</string>
   <string name="operation_force_top">Fixar</string>
   <string name="operation_hide">Ocultar</string>
   <string name="operation_in_process">A processar…</string>
+  <string name="operation_move_to_other_albums">Mover para Outros álbuns</string>
   <string name="operation_not_show_in_photos_tab">Não mostrar em Fotos</string>
   <string name="operation_projection">Transmitir</string>
   <string name="operation_remove_from_face_album">Remover do álbum</string>
+  <string name="operation_remove_from_other_albums">Remover de Outros álbuns</string>
   <string name="operation_remove_secret">Mostrar</string>
   <string name="operation_save">Guardar</string>
   <string name="operation_send">Enviar</string>
@@ -538,6 +540,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="relation_text_mother">Mãe</string>
   <string name="relation_with_you">Escolher relação</string>
   <string name="release_space_finish_format">Libertou %s de armazenamento</string>
+  <string name="remove_from_other_albums_tip">Se remover o álbum da lista de Outros álbuns, a sincronização da Nuvem Mi com este álbum deve estar ligada. Pretende remover agora?</string>
   <string name="remove_from_secret_fail">Não foi possível remover dos álbuns ocultos</string>
   <string name="remove_from_secret_failed_with_reason">Não pode remover do álbum oculto. %1$s</string>
   <string name="remove_from_secret_failed_with_reason_and_count">%2$s itens podem ser removidos do álbum oculto. %1$s</string>
@@ -644,6 +647,8 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="trash_bin">Lixo</string>
   <string name="trash_bin_summary">Ver fotos guardadas que foram eliminadas recentemente</string>
   <string name="try_to_send">Enviar</string>
+  <string name="turn_off_and_move">Desligar e mover</string>
+  <string name="turn_on_and_remove">Ligar e remover</string>
   <string name="unpublish_failed">Não foi possível anular a publicação</string>
   <string name="unpublish_succeeded">Publicação de álbum anulada</string>
   <string name="unpublishing">A cancelar…</string>

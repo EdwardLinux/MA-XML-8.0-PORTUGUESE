@@ -2310,7 +2310,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_battery_indicator_settings">Definições/Bateria e desempenho/Indicador de bateria</string>
   <string name="path_battery_settings">Definições/Bateria e desempenho</string>
   <string name="path_bluetooth_device_name">Definições/Bluetooth/Nome do dispositivo</string>
-  <string name="path_bluetooth_enable">Definições/Bluetooth/Activar Bluetooth</string>
+  <string name="path_bluetooth_enable">Definições/Bluetooth/Bluetooth</string>
   <string name="path_bluetooth_settings">Definições/Bluetooth</string>
   <string name="path_brightness_settings">Definições/Ecrã/Nível do brilho</string>
   <string name="path_button_light_timeout">Definições/Definições adicionais/Botões/Duração da luz dos botões</string>
@@ -2330,7 +2330,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_dndm_alarm_content">Definições/Não incomodar/Excepções</string>
   <string name="path_dndm_auto_button_title">Definições/Não incomodar/Definir hora</string>
   <string name="path_dndm_auto_time_setting">Definições/Não incomodar/Definir hora</string>
-  <string name="path_dndm_open">Definições/Não incomodar/Activar Não incomodar</string>
+  <string name="path_dndm_open">Definições/Não incomodar/Não incomodar</string>
   <string name="path_dndm_repeated_call_setting_title">Definições/Não incomodar/Chamadas repetidas</string>
   <string name="path_dndm_vip_call_setting_title">Definições/Não incomodar/Excepções</string>
   <string name="path_dndm_wristband">Definições/Não incomodar/Activar com a Mi Band</string>
@@ -2384,9 +2384,9 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_preferred_network_type_settings">Definições/Definições de rede móvel/Tipo de rede preferida</string>
   <string name="path_privacy_policy">Definições/Acerca do telefone/Informações Legais/Política de Privacidade</string>
   <string name="path_privacy_settings">Definições/Definições adicionais/Cópia e restauro</string>
-  <string name="path_ringer_volume_settings">Definições/Som e vibração/Volumes/Toques e notificações</string>
+  <string name="path_ringer_volume_settings">Definições/Som e vibração/Volumes/Sons de toque e notificaçõesToques e notificações</string>
   <string name="path_ringtone_settings">Definições/Som e vibração/Toque do telefone</string>
-  <string name="path_safe_result_header_title_system">Definições/Definições adicionais/Segurança do sistema</string>
+  <string name="path_safe_result_header_title_system">Definições/Definições adicionais/Privacidade</string>
   <string name="path_screen_effect_settings">Definições/Ecrã/Cores e contraste</string>
   <string name="path_screen_key_long_press_timeout">Definições/Definições adicionais/Botões/Definir tempo de espera do botão</string>
   <string name="path_screen_on_proximity_sensor_title">Definições/Ecrã de bloqueio e segurança/Prevenir uso inadvertido no bolso</string>
@@ -2432,7 +2432,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_vibrate_on_touch_title">Definições/Som e vibração/Vibrar ao tocar</string>
   <string name="path_vibrate_when_ringing_title">Definições/Som e vibração/Vibrar também para chamadas</string>
   <string name="path_virtual_sim">Definições/Mais/Dados móveis internacionais</string>
-  <string name="path_vpn_enable">Definições/Mais/VPN/Activar VPN</string>
+  <string name="path_vpn_enable">Definições/Mais/VPN/VPN</string>
   <string name="path_vpn_settings">Definições/Mais/VPN</string>
   <string name="path_vpn_settings_password">Definições/Mais/VPN/Palavra-passe VPN</string>
   <string name="path_wakeup_for_keyguard_notification_title">Definições/Ecrã de bloqueio e segurança/Ligar ecrã para notificações</string>
@@ -3173,7 +3173,7 @@ Para utilizar a fixação no ecrã:
   <string name="select_application">Seleccionar aplicação</string>
   <string name="select_device_admin_msg">Administradores do dispositivo</string>
   <string name="select_logd_size_dialog_title">Selec. tam. reg. p/ mem. int. reg.</string>
-  <string name="select_logd_size_title">Tamanho da memória intermédia do registo</string>
+  <string name="select_logd_size_title">Tamanhos da memória intermédia do registo</string>
   <string name="select_sim_for_calls">Ligar com</string>
   <string name="select_sim_for_data">Seleccionar um SIM para dados</string>
   <string name="select_ssid_type_title">Seleccionar SSID</string>
@@ -3336,7 +3336,7 @@ Possívelmente o código PIN está incorrecto"</string>
   <string name="sort_max_use">Ordenar por utilização máxima</string>
   <string name="sort_order_alpha">Ordenar por nome</string>
   <string name="sort_order_size">Ordenar por tamanho</string>
-  <string name="sound_category_call_ringtone_vibrate_title">Toques de chamada e vibração</string>
+  <string name="sound_category_call_ringtone_vibrate_title">Sons de toques e notificações</string>
   <string name="sound_category_sound_title">Geral</string>
   <string name="sound_category_system_title">Sistema</string>
   <string name="sound_effects_enable_title">Sons de toque</string>
@@ -3956,7 +3956,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="verify_apps_over_usb_summary">Verificar as aplicações instaladas via ADB/ADT para detectar comportamento perigoso</string>
   <string name="verify_apps_over_usb_title">Verificar aplicações de USB</string>
   <string name="version_text">versão %1$s</string>
-  <string name="vibrate_category_title">Vibrar</string>
+  <string name="vibrate_category_title">Vibração</string>
   <string name="vibrate_in_normal_title">Vibrar quando estiver a tocar</string>
   <string name="vibrate_in_silent_title">Vibrar em modo silêncio</string>
   <string name="vibrate_input_devices">Utilizar vibração</string>

@@ -15,8 +15,8 @@
   <string name="additional_cdma_call_settings">Definições adicionais de chamada CDMA</string>
   <string name="additional_gsm_call_settings">Definições adicionais</string>
   <string name="additional_gsm_call_settings_with_label">Definições adicionais (%s)</string>
-  <string name="administrative_disable">Administrador desactivado</string>
-  <string name="administrative_enable">Administrador activado</string>
+  <string name="administrative_disable">Administrador desactivo</string>
+  <string name="administrative_enable">Administrador activo</string>
   <string name="advanced_settings">Definições opcionais</string>
   <string name="advanced_settings_hide">▽ Toque para ocultar tudo</string>
   <string name="advanced_settings_show">▷ Toque para mostrar tudo</string>
@@ -112,7 +112,7 @@
   <string name="callFailed_number_unreachable">Número inacessível</string>
   <string name="callFailed_noSignal">Sem sinal</string>
   <string name="callFailed_outOfService">Fora de serviço</string>
-  <string name="callFailed_out_of_network">Chamada fora da rede</string>
+  <string name="callFailed_out_of_network">Chamada de fora da rede</string>
   <string name="callFailed_powerOff">Rádio desligado</string>
   <string name="callFailed_server_error">Erro do servidor. Tente novamente mais tarde</string>
   <string name="callFailed_server_unreachable">Servidor inacessível</string>
@@ -155,7 +155,7 @@
   <string name="call_recording_notification_toggle_title">Notificação de gravação de chamada</string>
   <string name="call_recording_setting">Gravação de chamadas</string>
   <string name="call_remove_exception_numbers_confirm">%d números vão ser eliminados</string>
-  <string name="call_settings">Definições de chamadas</string>
+  <string name="call_settings">Telefone</string>
   <string name="call_settings_primary_user_only">As definições de chamadas só podem ser alteradas pelo utilizador principal</string>
   <string name="call_settings_with_label">Definições adicionais (%s)</string>
   <string name="call_waiting_summary">Notificar-me de chamadas a receber durante uma chamada</string>
@@ -314,8 +314,8 @@
   <string name="disable_cfnry_forbidden">A sua operadora não suporta a desactivação do reencaminhamento de chamadas quando não atende</string>
   <string name="disable_fdn">Desactivar FDN</string>
   <string name="disable_fdn_ok">Activar FDN</string>
-  <string name="disable_pin_ok">PIN do SIM desactivado</string>
-  <string name="disable_sim_pin">Desactivar PIN do SIM</string>
+  <string name="disable_pin_ok">PIN limpo</string>
+  <string name="disable_sim_pin">Limpar PIN do SIM</string>
   <string name="display_name_summary">&lt;O mesmo que o utilizador&gt;</string>
   <string name="display_name_title">Mostrar nome</string>
   <string name="do_not_ask">Não perguntar novamente</string>
@@ -342,10 +342,10 @@
   <string name="empty_alert">%s não pode ficar em branco</string>
   <string name="empty_networks_list">Não foram encontradas redes</string>
   <string name="enable">Ligar</string>
-  <string name="enable_antispam_strange_summary">Silenciar ao primeiro toque as chamadas de números desconhecidos</string>
-  <string name="enable_antispam_strange_title">Silenciar ao primeiro toque</string>
+  <string name="enable_antispam_strange_summary">Silenciar o primeiro toque para chamadas de números desconhecidos</string>
+  <string name="enable_antispam_strange_title">Silenciar o primeiro toque</string>
   <string name="enable_button_text">Seguinte</string>
-  <string name="enable_disable_administrative">Administrador</string>
+  <string name="enable_disable_administrative">Administrativo</string>
   <string name="enable_disable_advertisements">Anúncios</string>
   <string name="enable_disable_atr">Relatórios de trânsito</string>
   <string name="enable_disable_cell_bc_sms">Transmissões Móveis SMS</string>
@@ -374,13 +374,13 @@
   <string name="enable_proximity_title">Sensor de proximidade</string>
   <string name="enable_sim_pin">Definir PIN do SIM</string>
   <string name="enable_video_calling_dialog_close">Fechar</string>
-  <string name="enable_video_calling_dialog_msg">Para ligar as videochamadas, tem de activar o modo 4G LTE nas definições avançadas da rede</string>
+  <string name="enable_video_calling_dialog_msg">Para ligar as videochamadas, tem de activar o modo 4G LTE Avançado nas definições da rede</string>
   <string name="enable_video_calling_dialog_settings">Definições de rede</string>
   <string name="enable_video_calling_title">Ligar videochamadas</string>
   <string name="enhanced_4g_lte_mode_off_failed">Não foi possível desligar VoLTE</string>
   <string name="enhanced_4g_lte_mode_on_failed">Não foi possível ligar VoLTE</string>
-  <string name="enhanced_4g_lte_mode_summary">Utilizar os serviços 4G LTE para melhorar a qualidade das chamadas e outras comunicações (recomendado)</string>
-  <string name="enhanced_4g_lte_mode_title">Definições avançadas do modo 4G LTE</string>
+  <string name="enhanced_4g_lte_mode_summary">Utilizar os serviços 4G LTE para melhorar a voz e outras comunicações (recomendado)</string>
+  <string name="enhanced_4g_lte_mode_title">Modo 4G LTE Avançado</string>
   <string name="ensure_info">Sim</string>
   <string name="enterName">Nome</string>
   <string name="enterNumber">Número de telefone</string>
@@ -393,7 +393,7 @@
   <string name="eo_enable">Oportunidades de emprego está ligado</string>
   <string name="error_updating_title">Erro das definições de chamada</string>
   <string name="exception_error">Erro da rede ou do cartão SIM</string>
-  <string name="exportAllcontatsFailed">Erro ao exportar todos os contactos do SIM</string>
+  <string name="exportAllcontatsFailed">Não foi possível exportar todos os contactos do SIM</string>
   <string name="exportAllcontatsNoContacts">Não foram encontrados contactos</string>
   <string name="exportAllcontatsSuccess">Todos os contactos do SIM foram exportados</string>
   <string name="exportContactScreen">Exportar os contactos do telefone para o cartão SIM</string>
@@ -404,7 +404,7 @@
   <string name="fdn">Números de marcação fixa</string>
   <string name="fdnListLabel">Lista FDN</string>
   <string name="fdn_activation">Activação FDN</string>
-  <string name="fdn_check_failure">Algumas funcionalidades de chamadas não estão disponíveis, porque os números de marcação fixa estão activos</string>
+  <string name="fdn_check_failure">Algumas funcionalidades de chamadas não estão disponíveis porque os Números de Marcação Fixa estão activos</string>
   <string name="fdn_contact_added">Número de marcação fixa adicionado</string>
   <string name="fdn_contact_deleted">Número de marcação fixa eliminado</string>
   <string name="fdn_contact_updated">Número de marcação fixa actualizado</string>
@@ -418,7 +418,7 @@
   <string name="fdn_summary">Restringir chamadas para lista FDN ou para números com determinados prefixos</string>
   <string name="fdn_with_label">Números de marcação fixa (%s)</string>
   <string name="feedback">Feedback</string>
-  <string name="flash_when_ring_summary">A luz do flash pisca para as chamadas recebidas</string>
+  <string name="flash_when_ring_summary">Acender luz de flash para chamadas recebidas</string>
   <string name="flash_when_ring_title">Acender flash quando tocar</string>
   <string name="fw_change_failed">"Não foi possível alterar o número de reencaminhamento.
 Contacte a sua operadora se este problema persistir"</string>
@@ -620,7 +620,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Erro do cartão SIM</string>
   <string name="msim_setting_categery_title">Informação do cartão SIM</string>
   <string name="msim_setting_no_sim_indicator">Sem cartão SIM</string>
-  <string name="msim_setting_operator_network_title">Rede Móvel</string>
+  <string name="msim_setting_operator_network_title">Rede móvel</string>
   <string name="msim_setting_screen_title">Cartões SIM e redes móveis</string>
   <string name="msim_setting_sim_info_editor_title">Editar informação do cartão SIM</string>
   <string name="msim_sim_lock">Bloqueado</string>
@@ -656,7 +656,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
 Será utilizada a rede preferida"</string>
   <string name="network_settings_title">Redes móveis</string>
   <string name="network_settings_turn_off">Desligar</string>
-  <string name="network_settings_warn_message">Utilizar apenas a rede que seleccionou manualmente</string>
+  <string name="network_settings_warn_message">O dispositivo apenas vai ligar a redes que seleccionou manualmente</string>
   <string name="network_unlock">Desbloquear</string>
   <string name="networks">Operadores de rede</string>
   <string name="networks_title">Redes móveis</string>
@@ -669,13 +669,13 @@ Será utilizada a rede preferida"</string>
   <string name="no_change">Não foram feitas alterações</string>
   <string name="no_data">Sem dados</string>
   <string name="no_internet_available">Para fazer uma chamada pela Internet, tem de ter uma ligação à Internet</string>
-  <string name="no_more">Não</string>
+  <string name="no_more">Não mais</string>
   <string name="no_number">Sem número de telefone</string>
   <string name="no_sim_card">Inserir cartão SIM</string>
   <string name="no_vm_number">Número de Voice Mail em falta</string>
   <string name="no_vm_number_msg">Não existe número de Voice Mail guardado no cartão SIM</string>
   <string name="no_voip">Chamadas pela Internet não suportadas</string>
-  <string name="no_wifi_available">É necessário ligação a uma rede Wi-Fi para fazer chamadas pela Internet (utilize o Wi-Fi nas Definições de rede)</string>
+  <string name="no_wifi_available">Precisa de estar ligado a uma rede Wi-Fi para fazer chamadas pela Internet (utilize o Wi-Fi nas definições de rede)</string>
   <string name="not_a_valid_port">O número da porta deve ser entre 1000 e 65534</string>
   <string name="not_allowed">O seu cartão SIM não permite ligar a esta rede</string>
   <string name="not_supported_number_content">O pacote de carregamento não suporta números de serviço. Tente utilizar o SIM para fazer esta chamada. A sua operadora vai cobrar por esta chamada</string>
@@ -709,7 +709,7 @@ Será utilizada a rede preferida"</string>
   <string name="onscreenVideoCallText">Videochamada</string>
   <string name="open_miui">Abrir</string>
   <string name="operation_successfully">Concluído</string>
-  <string name="operator_first_mins_hint">x minutos</string>
+  <string name="operator_first_mins_hint">xx minutos</string>
   <string name="operator_first_mins_none_summary">Carregue o pacote primeiro</string>
   <string name="operator_first_mins_none_title">Minutos do pacote da operadora totalmente utilizados</string>
   <string name="operator_first_no_set">sem valor</string>
@@ -748,12 +748,12 @@ Este processo poderá demorar até 5 minutos"</string>
   <string name="ota_title_problem_with_activation">Não é possível activar</string>
   <string name="ota_touch_activate">"É necessário fazer uma chamada específica para activar o serviço do seu telefone. 
 
-Depois de tocar em “Activar”, ouvir as instruções fornecidas pela sua operadora para activar o seu telefone"</string>
+Depois de premir “Activar”, ouvir as instruções fornecidas pela sua operadora para activar o seu telefone."</string>
   <string name="ota_try_again">Repetir</string>
   <string name="ota_unsuccessful">"O seu telefone não ficou activado.
-Precisa de encontrar uma zona com melhor cobertura (perto de uma janela, ou no exterior).
+Precisa de encontrar uma zona com melhor cobertura (perto de uma janela, ou no exterior). 
 
-Tente novamente ou ligue para o serviço de apoio ao cliente para obter mais informações"</string>
+Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções."</string>
   <string name="other_settings">Outras definições de chamada</string>
   <string name="other_settings_category">Outros</string>
   <string name="overseas_roaming_setting">Dados em roaming</string>
@@ -810,9 +810,9 @@ Tente novamente ou ligue para o serviço de apoio ao cliente para obter mais inf
   <string name="phone_accounts_make_sip_calls_with">Efectuar chamadas SIP com</string>
   <string name="phone_accounts_selection_header">Contas do telefone</string>
   <string name="phone_accounts_settings_header">Definições</string>
-  <string name="phone_entered_ecm_text">Entrou em modo de chamada de retorno de emergência</string>
+  <string name="phone_entered_ecm_text">Entrou em Modo de Chamada de Retorno de Emergência</string>
   <string name="phone_in_ecm_call_notification_text">Ligação de dados está desligada</string>
-  <string name="phone_in_ecm_notification_title">Modo de chamada de retorno de emergência</string>
+  <string name="phone_in_ecm_notification_title">Modo de Chamada de Retorno de Emergência</string>
   <string name="phone_number_hint_text">Número de telefone</string>
   <string name="pin2_attempts">"
 Tem mais %d tentativas"</string>
@@ -821,9 +821,9 @@ Tem mais %d tentativas"</string>
   <string name="pin2_invalid">FDN não foi actualizado porque introduziu um PIN incorrecto</string>
   <string name="pin2_invalid_or_name_is_too_long">Introduziu um PIN inválido ou o nome que introduziu é muito longo</string>
   <string name="pin2_lock_warning">"
-As funções relacionadas com o PIN2 serão bloqueadas depois de outra tentativa falhada"</string>
-  <string name="pin2_or_fdn_invalid">Não foram actualizados os números autorizados. O PIN2 estava incorrecto ou o número de telefone foi rejeitado</string>
-  <string name="pin2_unblocked">O PIN2 desbloqueado!</string>
+As funções relacionadas com PIN2 serão bloqueadas depois de outra tentativa falhada"</string>
+  <string name="pin2_or_fdn_invalid">Não foram actualizados os números autorizados. O PIN2 estava errado ou o número de telefone foi rejeitado</string>
+  <string name="pin2_unblocked">O PIN2 deixou de estar bloqueado</string>
   <string name="pin_attempts">"
 Tem mais %d tentativas"</string>
   <string name="pin_changed">O PIN do SIM foi alterado com sucesso</string>
@@ -858,13 +858,13 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preferred_network_mode_4g_3g_2g_auto">4G/3G/2G (auto)</string>
   <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Modo de rede preferido: CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_cdma_evdo_summary">Modo de rede preferido: CDMA/EvDo</string>
-  <string name="preferred_network_mode_cdma_only_summary">Modo de rede preferido: CDMA (apenas)</string>
+  <string name="preferred_network_mode_cdma_only_summary">Modo de rede preferido: Apenas CDMA</string>
   <string name="preferred_network_mode_cdma_summary">Modo de rede preferido: CDMA</string>
   <string name="preferred_network_mode_dialogtitle">Tipo de rede preferida</string>
   <string name="preferred_network_mode_dialogtitle_cmcc">Modo de rede</string>
-  <string name="preferred_network_mode_evdo_only_summary">Modo de rede preferido: EvDo (apenas)</string>
+  <string name="preferred_network_mode_evdo_only_summary">Modo de rede preferido: Apenas EvDo</string>
   <string name="preferred_network_mode_global_summary">Modo de rede preferido: Global (CDMA/EVDO/LTE/GSM/WCDMA)</string>
-  <string name="preferred_network_mode_gsm_only_summary">Modo de rede preferido: GSM (apenas)</string>
+  <string name="preferred_network_mode_gsm_only_summary">Modo de rede preferido: Apenas GSM</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Modo de rede preferido: GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">Modo de rede preferido: CDMA+LTE/EVDO</string>
   <string name="preferred_network_mode_lte_cdma_summary">Modo de rede preferido: LTE/CDMA</string>
@@ -880,23 +880,23 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preferred_network_mode_td_scdma_gsm_wcdma_summary">Modo de rede preferido: TD-SCDMA/GSM/WCDMA</string>
   <string name="preferred_network_mode_td_scdma_lte_cdma_evdo_gsm_wcdma_summary">Modo de rede preferido: TD-SCDMA/LTE/CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_td_scdma_lte_summary">Modo de rede preferido: TD-SCDMA/LTE</string>
-  <string name="preferred_network_mode_td_scdma_only_summary">Modo de rede preferido: TD-SCDMA (apenas)</string>
+  <string name="preferred_network_mode_td_scdma_only_summary">Modo de rede preferido: Apenas TD-SCDMA</string>
   <string name="preferred_network_mode_td_scdma_wcdma_lte_summary">Modo de rede preferido: TD-SCDMA/WCDMA/LTE</string>
   <string name="preferred_network_mode_td_scdma_wcdma_summary">Modo de rede preferido: TD-SCDMA/WCDMA</string>
   <string name="preferred_network_mode_title">Tipo de rede preferida</string>
-  <string name="preferred_network_mode_wcdma_only_summary">Modo de rede preferido: WCDMA (apenas)</string>
-  <string name="preferred_network_mode_wcdma_perf_summary">Modo de rede preferido: WCDMA (preferido)</string>
+  <string name="preferred_network_mode_wcdma_only_summary">Modo de rede preferido: Apenas WCDMA</string>
+  <string name="preferred_network_mode_wcdma_perf_summary">Modo de rede preferido: WCDMA preferido</string>
   <string name="preferred_network_restrict_network_changed_incall">Não é possível mudar de rede móvel durante a chamada</string>
   <string name="preferred_network_type_3g_only_warning">Não vai conseguir ligar a uma rede se o cartão SIM não for compatível com 3G</string>
   <string name="preferred_network_type_cdma">CDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred">Rede 3G</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Rede 3G (CDMA)</string>
-  <string name="preferred_network_type_pref_entries_4g_preferred">Rede 4G LTE</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred">Rede 4G (LTE)</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Rede 4G (CDMA)</string>
   <string name="preferred_network_type_pref_entries_auto">Automática</string>
   <string name="preferred_network_type_pref_entries_global">Global</string>
   <string name="preferred_network_type_pref_entries_only_2g">Rede 2G</string>
-  <string name="preferred_network_type_pref_entries_only_3g">Rede 3G (apenas)</string>
+  <string name="preferred_network_type_pref_entries_only_3g">Rede 3G</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Tipo de rede preferida</string>
   <string name="private_num">Número privado</string>
@@ -913,7 +913,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="puk_label">Introduzir código PUK</string>
   <string name="puk_lock_warning">"
 O cartão SIM será bloqueado após nova tentativa falhada"</string>
-  <string name="puk_requested">Código incorrecto. O cartão SIM está bloqueado. Introduzir PUK</string>
+  <string name="puk_requested">Palavra-passe incorrecta, PIN está bloqueado. Necessário PUK</string>
   <string name="puk_unlock_failed">Desbloqueio com PUK sem sucesso</string>
   <string name="puk_unlock_success">Desbloqueio com PUK com sucesso</string>
   <string name="puk_unlocked">O cartão SIM foi desbloqueado. O telefone está a desbloquear…</string>
@@ -924,7 +924,7 @@ O cartão SIM será bloqueado após nova tentativa falhada"</string>
   <string name="radio_off_error">Ligar o rádio antes de ver estas definições</string>
   <string name="rc_unlock_failed">O pedido de desbloqueio do cartão RUIM da empresa falhou</string>
   <string name="rc_unlock_success">Cartão SIM da empresa desbloqueado</string>
-  <string name="reading_settings">A carregar definições…</string>
+  <string name="reading_settings">A ler definições…</string>
   <string name="regional_disable">Notícias regionais está desligado</string>
   <string name="regional_enable">Notícias regionais está ligado</string>
   <string name="register_automatically">A registar automaticamente…</string>
@@ -990,7 +990,7 @@ O cartão SIM será bloqueado após nova tentativa falhada"</string>
   <string name="rnw2_unlock_success">Cartão SIM da rede 2 desbloqueado</string>
   <string name="roaming">Dados em roaming</string>
   <string name="roaming_alert_title">Permitir roaming de dados?</string>
-  <string name="roaming_disable">Desligar dados móveis quando em roaming</string>
+  <string name="roaming_disable">Ligar dados móveis quando em roaming</string>
   <string name="roaming_enable">Ligar dados móveis quando em roaming</string>
   <string name="roaming_notification_content">Pode adicionar códigos de país automaticamente para marcar mais facilmente</string>
   <string name="roaming_notification_title">O roaming está activado</string>
@@ -1031,7 +1031,7 @@ O cartão SIM será bloqueado após nova tentativa falhada"</string>
   <string name="sim_contact_name">Nome</string>
   <string name="sim_contact_number">Número</string>
   <string name="sim_description_default">Cartão SIM %s</string>
-  <string name="sim_description_emergency_calls">Só chamadas de emergência</string>
+  <string name="sim_description_emergency_calls">Só cham. de emergência</string>
   <string name="sim_label_emergency_calls">Chamadas de emergência</string>
   <string name="sim_ndp_dismiss_text">Dispensar</string>
   <string name="sim_ndp_unlock_text">Desbloquear</string>
@@ -1044,7 +1044,7 @@ O cartão SIM será bloqueado após nova tentativa falhada"</string>
   <string name="sim_useless">SIM indisponível</string>
   <string name="sip_account_list">Contas SIP</string>
   <string name="sip_accounts">Contas SIP</string>
-  <string name="sip_accounts_title">Contas SIP</string>
+  <string name="sip_accounts_title">Contas</string>
   <string name="sip_add_account_tip_text">Para utilizar chamadas pela Internet adicione uma conta SIP</string>
   <string name="sip_always_send_keepalive">Enviar sempre</string>
   <string name="sip_call_options_entry_1">Para todas as chamadas quando a rede de dados está disponível</string>
@@ -1084,7 +1084,7 @@ O cartão SIM será bloqueado após nova tentativa falhada"</string>
   <string name="sum_cfu_enabled">Reencaminhar todas as chamadas para {0}</string>
   <string name="sum_cfu_enabled_indicator">Reencaminhar todas as chamadas</string>
   <string name="sum_cfu_enabled_no_number">Número indisponível</string>
-  <string name="sum_cw_disabled">Não notificar-me de chamadas a receber durante uma chamada</string>
+  <string name="sum_cw_disabled">Notificar-me de chamadas a receber durante uma chamada</string>
   <string name="sum_cw_enabled">Notificar-me de chamadas a receber durante uma chamada</string>
   <string name="sum_default_caller_id">Utilizar as predefinições da operadora</string>
   <string name="sum_fdn">Gerir os números de marcação fixa</string>
@@ -1103,7 +1103,7 @@ O cartão SIM será bloqueado após nova tentativa falhada"</string>
   <string name="t9_indexing_rebuilding_message">Aguarde…</string>
   <string name="technology_news_disable">Notícias sobre tecnologia está desligado</string>
   <string name="technology_news_enable">Notícias sobre tecnologia está ligado</string>
-  <string name="telephony_setting">Definições de chamadas</string>
+  <string name="telephony_setting">Telefone</string>
   <string name="telocation_auto_country_code">Adicionar código do país</string>
   <string name="telocation_auto_country_code_summary">Adicionar automaticamente o código do país antes de ligar para os contactos</string>
   <string name="telocation_call_assistant">Assistente de marcação</string>
@@ -1116,7 +1116,7 @@ O cartão SIM será bloqueado após nova tentativa falhada"</string>
   <string name="telocation_countrycode_alert_message">Introduzir número de telefone sem o código do país</string>
   <string name="telocation_countrycode_alert_message_warning">O código do país que introduziu pode estar incorrecto</string>
   <string name="telocation_countrycode_alert_message_wrong">O código do país que introduziu está incorrecto</string>
-  <string name="telocation_countrycode_alert_title">Aviso</string>
+  <string name="telocation_countrycode_alert_title">Alerta</string>
   <string name="telocation_custom_empty">Adicionar um número tocando no botão (+)</string>
   <string name="telocation_custom_location_summary">Gerir códigos de área guardados e números de grupo</string>
   <string name="telocation_custom_location_title">As minhas localizações</string>
@@ -1193,7 +1193,7 @@ Contacte a sua operadora se este problema persistir"</string>
   <string name="voicemail_number_not_set">&lt;Não definido&gt;</string>
   <string name="voicemail_provider">Serviço de Voice Mail</string>
   <string name="voicemail_provider_summary">Escolher o serviço de Voice Mail</string>
-  <string name="voicemail_settings">Definições do Voice Mail</string>
+  <string name="voicemail_settings">Voice Mail</string>
   <string name="voicemail_settings_number_hint">Introduzir número da caixa de Voice Mail</string>
   <string name="voicemail_settings_number_label">Número do Voice Mail</string>
   <string name="voicemail_settings_number_title">Número do Voice Mail</string>

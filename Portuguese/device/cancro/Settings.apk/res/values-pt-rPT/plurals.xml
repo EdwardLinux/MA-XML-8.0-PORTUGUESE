@@ -80,7 +80,7 @@
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d aplicações utilizaram a memória nos(as) últimos(as) %2$s</item>
         <item quantity="one">1 aplicação utilizou a memória nos(as) últimos(as) %2$s</item>
-    </plurals>    
+    </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Está a %1$d passos de entrar nas informações do telefone</item>
         <item quantity="one">Está a %1$d passo de entrar nas informações do telefone</item>

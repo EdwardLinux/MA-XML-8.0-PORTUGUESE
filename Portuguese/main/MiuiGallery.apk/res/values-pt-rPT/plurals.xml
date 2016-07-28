@@ -44,6 +44,10 @@
         <item quantity="other">As fotos seleccionadas não estão no dispositivo. Vão ser transferidas</item>
         <item quantity="one">A foto seleccionada não está no dispositivo. Vai ser transferida</item>
     </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">Foram ignoradas %d fotos que não estão no dispositivo</item>
+        <item quantity="one">Foi ignorada uma foto que não está no dispositivo</item>
+    </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">Não foi possível transferir %1$d fotos. Tentar novamente?</item>
         <item quantity="one">Não foi possível transferir foto. Tentar novamente?</item>

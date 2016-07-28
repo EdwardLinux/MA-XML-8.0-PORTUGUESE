@@ -97,7 +97,7 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="app_not_installed_toast">A aplicação não está instalada no seu dispositivo</string>
   <string name="app_version">Versão</string>
   <string name="app_wifi">Wi-Fi</string>
-  <string name="apps_item_sign_dialog_content">A assinatura de \"%s\" é diferente da versão da Loja de Aplicações. Eliminar esta aplicação e instalar a versão oficial? Nota: instalar uma aplicação com conflitos de assinatura pode causar à perda dos dados da aplicação</string>
+  <string name="apps_item_sign_dialog_content">A assinatura de %s é diferente da versão da Loja de Aplicações. Eliminar esta aplicação e instalar a versão oficial? Nota: instalar uma aplicação com conflitos de assinatura pode causar à perda dos dados da aplicação</string>
   <string name="apps_item_sign_dialog_title">Instalar aplicação oficial</string>
   <string name="apps_item_sign_install_button_text">Substituir</string>
   <string name="apps_item_sms_default_set_success">Definido com sucesso</string>
@@ -530,7 +530,7 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="lockpattern_recording_intro_header">Ligar pelo menos 4 pontos para criar um padrão</string>
   <string name="lockpattern_retry_button_text">Desenhar novamente</string>
   <string name="lockpattern_settings_help_how_to_record">Como desenhar um padrão</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Aguarde pelo menos %d segundos e tente novamente</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Aguarde pelo menos %ds e tente novamente</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Demasiadas tentativas falhadas!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
   <string name="lockpattern_tutorial_continue_label">Seguinte</string>
@@ -761,7 +761,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pm_auto_start_by_system_event">Permitir que aplicações iniciem automaticamente</string>
   <string name="pm_auto_start_proc_is_running">Em execução</string>
   <string name="pm_remember_choice">Memorizar preferência</string>
-  <string name="pm_root_success_notification_title">Acesso root activado</string>
+  <string name="pm_root_success_notification_infomation">Certifique-se que percebe os riscos relacionados com o acesso root</string>
+  <string name="pm_root_success_notification_title">Acesso root permitido</string>
   <string name="power_20s_shutdown">O dispositivo vai desligar em %d segundos</string>
   <string name="power_analysis_consume_title">Utilização de bateria</string>
   <string name="power_analysis_suggestion_need_optimize">Problemas detectados na utilização de bateria</string>
@@ -954,7 +955,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="result_autoscan_info">Monitorizar automaticamente o ambiente do sistema quando as aplicações de pagamento iniciarem</string>
   <string name="result_sign_header">Encontrou %d aplicações não oficiais</string>
   <string name="result_sms_header">Detectados riscos de mensagens</string>
-  <string name="result_sms_info_antispam">Ligar AntiSpam para proteger o dispositivo de URLs maliciosos</string>
+  <string name="result_sms_info_antispam">Ligar a lista de bloqueio para proteger o dispositivo de URLs maliciosos</string>
   <string name="result_sms_info_auth">Restrinjir o acesso de aplicações de terceiros a códigos de verificação</string>
   <string name="result_sms_title_antispam">Ameaçado por URLs maliciosos de SMS</string>
   <string name="result_sms_title_auth">Detectados riscos de SMS financeiros</string>
@@ -1028,6 +1029,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="settings_category_overheat">Aquecimento</string>
   <string name="settings_choice_no_notification">Desligado</string>
   <string name="settings_power_save_ontime_title">Programar</string>
+  <string name="settings_title_payment_security">Definições da segurança dos pagamentos</string>
   <string name="settings_title_permission">Definições de permissões</string>
   <string name="show_traffic_dialog_message">A sua utilização de dados vai estar visível na área de notificações. Pode ligar ou desligar esta funcionalidade em Utilização de dados &gt; Definições</string>
   <string name="show_traffic_dialog_title">Mostrar utilização de dados na área de notificações</string>

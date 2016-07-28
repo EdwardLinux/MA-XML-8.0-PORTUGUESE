@@ -220,7 +220,7 @@
   <string name="folder_name_empty">Nome de pasta não pode estar vazio</string>
   <string name="folder_name_illegal">Nome de pasta inválida</string>
   <string name="folder_name_invalid">"Os nomes das pastas não podem conter: /\\:*?&lt;&gt;"</string>
-  <string name="force_touch_clean">Limpar</string>
+  <string name="force_touch_clean">Limpar lixo</string>
   <string name="force_touch_search">Pesquisar ficheiros</string>
   <string name="forward_to_web_recycle_prompt"><a href="%1$s">Toque</a>para ir para a pasta do lixo</string>
   <string name="found_router">Router ligado</string>

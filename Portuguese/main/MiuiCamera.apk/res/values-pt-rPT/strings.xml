@@ -35,7 +35,6 @@
   <string name="confirm_restore_title">Restaurar definições predefinidas</string>
   <string name="dialog_ok">OK</string>
   <string name="dual_camera_lens_covered_toast">A lente está tapada</string>
-  <string name="dual_camera_low_constract_toast">O contraste é demasiado baixo</string>
   <string name="dual_camera_lowlight_toast">A iluminação é muito baixa</string>
   <string name="dual_camera_too_close_toast">A câmara está demasiado perto do objecto</string>
   <string name="dual_camera_use_hint">O modo Estéreo ajuda-o a utilizar o efeito blur.
@@ -45,6 +44,7 @@ O objecto não pode estar a mais de dois metros</string>
   <string name="face_analyze_info">Idade: %2$s (%1$s)</string>
   <string name="face_analyze_info_female">Feminino</string>
   <string name="face_analyze_info_male">Masculino</string>
+  <string name="face_beauty_advanced">Pro</string>
   <string name="face_beauty_age_alias_female_0_7">Feminino 0-7</string>
   <string name="face_beauty_age_alias_female_18_30">Feminino 18-30</string>
   <string name="face_beauty_age_alias_female_31_44">Feminino 31-44</string>
@@ -57,6 +57,7 @@ O objecto não pode estar a mais de dois metros</string>
   <string name="face_beauty_age_alias_male_45_60">Masculino 45-60</string>
   <string name="face_beauty_age_alias_male_60_m">Masculino 60+</string>
   <string name="face_beauty_age_alias_male_8_17">Masculino 8-17</string>
+  <string name="face_beauty_close">Deslig.</string>
   <string name="face_beauty_intelligent_level_0">Desligado</string>
   <string name="face_beauty_intelligent_level_1">Baixo</string>
   <string name="face_beauty_intelligent_level_2">Médio</string>

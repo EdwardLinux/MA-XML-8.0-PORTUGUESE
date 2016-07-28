@@ -47,7 +47,8 @@
   <string name="change_wallpaper">Alterar</string>
   <string name="children_folder_title">Crianças</string>
   <string name="children_mode_exit">Sair</string>
-  <string name="children_mode_tips">Voltar às Definições para gerir o acesso às aplicações</string>
+  <string name="children_mode_tips_message">Não existe nenhuma aplicação em Modo Criança. Seleccione uma aplicação</string>
+  <string name="children_mode_tips_title">Seleccionar aplicação</string>
   <string name="choose_wallpaper">Escolher papel de parede</string>
   <string name="chooser_wallpaper">Escolher um novo papel de parede</string>
   <string name="cloud_app_restore_title">Pendente</string>
