@@ -617,12 +617,12 @@ Visite <b>google.com/accounts/recovery</b>"</string>
   <string name="lockscreen_glogin_password_hint">Palavra-passe</string>
   <string name="lockscreen_glogin_submit_button">Iniciar sessão</string>
   <string name="lockscreen_glogin_too_many_attempts">Demasiadas tentativas para desenhar o padrão</string>
-  <string name="lockscreen_glogin_username_hint">Nome de utilizador (email)</string>
+  <string name="lockscreen_glogin_username_hint">Utilizador (email)</string>
   <string name="lockscreen_instructions_when_pattern_disabled">Prima Menu para desbloquear</string>
   <string name="lockscreen_instructions_when_pattern_enabled">Prima Menu para desbloquear ou efectuar uma chamada de emergência</string>
   <string name="lockscreen_low_battery">Ligue o carregador</string>
-  <string name="lockscreen_missing_sim_instructions">Insira um cartão SIM</string>
-  <string name="lockscreen_missing_sim_instructions_long">Sem cartão SIM ou ilegível. Insira um cartão SIM</string>
+  <string name="lockscreen_missing_sim_instructions">Inserir um cartão SIM</string>
+  <string name="lockscreen_missing_sim_instructions_long">O cartão SIM está em falta ou não é legível. Introduza um cartão SIM</string>
   <string name="lockscreen_missing_sim_message">Sem cartão SIM no telefone</string>
   <string name="lockscreen_missing_sim_message_short">Sem cartão SIM</string>
   <string name="lockscreen_network_locked_message">Rede bloqueada</string>
@@ -1445,7 +1445,7 @@ Tentativas restantes :"</string>
   <string name="roamingText7">Roaming - Parceiro Alliance</string>
   <string name="roamingText8">Roaming - Parceiro Google Premium</string>
   <string name="roamingText9">Roaming - Funcionalidade de Serviço Total</string>
-  <string name="roamingTextSearching">A pesquisar serviço</string>
+  <string name="roamingTextSearching">A pesquisar Serviço</string>
   <string name="safeMode">Modo Seguro</string>
   <string name="safe_media_volume_warning">"Aumentar o volume acima do nível recomendado?
   

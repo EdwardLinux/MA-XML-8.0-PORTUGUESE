@@ -233,12 +233,12 @@
         <item>botões multimédia</item>
         <item>orientação do áudio</item>
         <item>volume principal</item>
-        <item>volume de voz</item>
-        <item>volume de toque</item>
+        <item>volume da voz</item>
+        <item>volume do toque</item>
         <item>volume de multimédia</item>
-        <item>volume de alarme</item>
-        <item>volume de notificação</item>
-        <item>volume do Bluetooth</item>
+        <item>volume do alarme</item>
+        <item>volume das notificações</item>
+        <item>volume do bluetooth</item>
         <item>manter activo</item>
         <item>monitorizar localização</item>
         <item>monitorizar localização de potência elevada</item>
@@ -698,5 +698,5 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Leve</item>
         <item>Médio</item>
         <item>Forte</item>
-</string-array>
+    </string-array>
 </resources>
