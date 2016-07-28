@@ -386,7 +386,7 @@
   <string name="pref_show_blocked_messages_summary">Mostrar SMS bloqueadas na lista de conversas</string>
   <string name="pref_show_sms_template_summary">Copiar e preencher códigos de verificação automaticamente</string>
   <string name="pref_show_sms_template_in_summary">Detectar automaticamente OTP nas mensagens SMS</string>
-  <string name="pref_sms_theme_title">Mostrar</string>
+  <string name="pref_sms_theme_title">Visualização</string>
   <string name="pref_summary_allow_si_sl_push">Permitir mensagens WAP (SI/SL)</string>
   <string name="pref_summary_delete_limit">%1$s mensagens por conversa</string>
   <string name="pref_summary_delivery_reports">Mostrar relatório de entrega das mensagens enviadas</string>
@@ -544,7 +544,7 @@
   <string name="sim_full_body">Elimine algumas mensagens para ter mais espaço</string>
   <string name="sim_full_title">O cartão SIM está cheio</string>
   <string name="sim_manage_messages_title">Mensagens de texto no cartão SIM</string>
-  <string name="sim_view">Mostrar</string>
+  <string name="sim_view">Ver</string>
   <string name="slide_number">Diapositivo %s</string>
   <string name="slide_show_part">Parte %1$s/%2$s</string>
   <string name="slideshow_activity">Apresentação</string>
