@@ -304,7 +304,7 @@ O objecto não pode estar a mais de dois metros</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">Intervalo de 30 segundos(900 vezes)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Intervalo de time lapse</string>
   <string name="preparing_sd">A verificar armazenamento interno…</string>
-  <string name="record_back_pressed_hint">Toque voltar novamente para terminar a gravação</string>
+  <string name="record_back_pressed_hint">Prima voltar novamente para terminar a gravação</string>
   <string name="search_settings">Definições da câmara;Qualidade;Qualidade de imagem;Localização de imagem;Localização de foto;Detecção de rosto;Sons da câmara</string>
   <string name="see_qrcode_detals">Ver detalhes QR</string>
   <string name="setting_top_text">Modos da Câmara</string>
