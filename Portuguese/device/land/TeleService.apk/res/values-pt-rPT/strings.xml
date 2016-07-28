@@ -656,9 +656,9 @@ Mudar para um novo fornecedor mesmo assim?"</string>
 Será utilizada a rede preferida"</string>
   <string name="network_settings_title">Redes móveis</string>
   <string name="network_settings_turn_off">Desligar</string>
-  <string name="network_settings_warn_message">O telefone apenas vai ligar a redes que seleccionou manualmente</string>
+  <string name="network_settings_warn_message">O dispositivo apenas vai ligar a redes que seleccionou manualmente</string>
   <string name="network_unlock">Desbloquear</string>
-  <string name="networks">Operadores de rede</string>
+  <string name="networks">Operadoras de rede</string>
   <string name="networks_title">Redes móveis</string>
   <string name="newPin2Label">Novo PIN2</string>
   <string name="newPinLabel">Novo PIN</string>
@@ -709,7 +709,7 @@ Será utilizada a rede preferida"</string>
   <string name="onscreenVideoCallText">Videochamada</string>
   <string name="open_miui">Abrir</string>
   <string name="operation_successfully">Concluído</string>
-  <string name="operator_first_mins_hint">x minutos</string>
+  <string name="operator_first_mins_hint">xx minutos</string>
   <string name="operator_first_mins_none_summary">Carregue o pacote primeiro</string>
   <string name="operator_first_mins_none_title">Minutos do pacote da operadora totalmente utilizados</string>
   <string name="operator_first_no_set">sem valor</string>
@@ -748,12 +748,12 @@ Este processo poderá demorar até 5 minutos"</string>
   <string name="ota_title_problem_with_activation">Não é possível activar</string>
   <string name="ota_touch_activate">"É necessário fazer uma chamada específica para activar o serviço do seu telefone. 
 
-Depois de tocar em “Activar”, ouvir as instruções fornecidas pela sua operadora para activar o seu telefone"</string>
+Depois de premir “Activar”, ouvir as instruções fornecidas pela sua operadora para activar o seu telefone"</string>
   <string name="ota_try_again">Repetir</string>
   <string name="ota_unsuccessful">"O seu telefone não ficou activado.
 Precisa de encontrar uma zona com melhor cobertura (perto de uma janela, ou no exterior).
 
-Tente novamente ou ligue para o serviço de apoio ao cliente para obter mais informações"</string>
+Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções"</string>
   <string name="other_settings">Outras definições de chamada</string>
   <string name="other_settings_category">Outros</string>
   <string name="overseas_roaming_setting">Dados em roaming</string>
