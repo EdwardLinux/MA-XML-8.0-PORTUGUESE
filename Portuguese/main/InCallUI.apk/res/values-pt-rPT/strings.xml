@@ -23,7 +23,7 @@
   <string name="callFailed_noSignal">Sem sinal</string>
   <string name="callFailed_number_unreachable">Número inacessível</string>
   <string name="callFailed_outOfService">Fora de serviço</string>
-  <string name="callFailed_out_of_network">Chamada fora da rede</string>
+  <string name="callFailed_out_of_network">Chamada de fora da rede</string>
   <string name="callFailed_powerOff">Rádio desligado</string>
   <string name="callFailed_server_error">Erro do servidor. Tente novamente mais tarde</string>
   <string name="callFailed_server_unreachable">Servidor inacessível</string>
