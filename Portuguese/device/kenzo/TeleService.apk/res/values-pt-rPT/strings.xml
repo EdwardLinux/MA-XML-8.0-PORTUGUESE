@@ -18,7 +18,7 @@
   <string name="additional_cdma_call_settings">Definições adicionais de chamada CDMA</string>
   <string name="additional_gsm_call_settings">Definições adicionais</string>
   <string name="additional_gsm_call_settings_with_label">Definições adicionais (%s)</string>
-  <string name="administrative_disable">Administrador desactivo</string>
+  <string name="administrative_disable">Administrador desactivado</string>
   <string name="administrative_enable">Administrador activo</string>
   <string name="advanced_settings">Definições opcionais</string>
   <string name="advanced_settings_hide">▽ Toque para ocultar tudo</string>
@@ -340,7 +340,7 @@
   <string name="edit_fdn_contact">Editar número de marcação fixa</string>
   <string name="emergencyDialerIconLabel">Chamada de emergência</string>
   <string name="emergency_action_launch_hint">Tocar novamente para abrir</string>
-  <string name="emergency_broadcast_disable">Difusão celular de emergência desactivo</string>
+  <string name="emergency_broadcast_disable">Difusão celular de emergência desactivado</string>
   <string name="emergency_broadcast_enable">Difusão celular de emergência activo</string>
   <string name="emergency_call_area_code_edit_dialog_button">Chamada</string>
   <string name="emergency_call_area_code_edit_dialog_hint">Introduzir código de área</string>
