@@ -821,8 +821,8 @@ Tem mais %d tentativas"</string>
   <string name="pin2_invalid">FDN não foi actualizado porque introduziu um PIN incorrecto</string>
   <string name="pin2_invalid_or_name_is_too_long">Introduziu um PIN inválido ou o nome que introduziu é muito longo</string>
   <string name="pin2_lock_warning">"
-As funções relacionadas com PIN2 serão bloqueadas depois de outra tentativa falhada"</string>
-  <string name="pin2_or_fdn_invalid">Não foram actualizados os números autorizados. O PIN2 estava errado ou o número de telefone foi rejeitado</string>
+As funções relacionadas com o PIN2 serão bloqueadas depois de outra tentativa falhada"</string>
+  <string name="pin2_or_fdn_invalid">Não foram actualizados os números autorizados. O PIN2 estava incorrecto ou o número de telefone foi rejeitado</string>
   <string name="pin2_unblocked">O PIN2 deixou de estar bloqueado</string>
   <string name="pin_attempts">"
 Tem mais %d tentativas"</string>

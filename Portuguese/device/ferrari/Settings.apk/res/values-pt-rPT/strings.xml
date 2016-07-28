@@ -7,7 +7,7 @@ Se escolher não utilizar anúncios personalizados, a quantidade de anúncios n�
   <string name="about_settings">Acerca do telefone</string>
   <string name="about_settings_summary">Ver informações legais, estado, versão de software</string>
   <string name="ac_enable_summary">Vai ser necessário palavra-passe para abrir a aplicação</string>
-  <string name="ac_enable_title">Bloqueio de aplicacões</string>
+  <string name="ac_enable_title">Bloqueio de aplicações</string>
   <string name="ac_privacy_mode_sum">Exigir uma palavra-passe para desligar o Modo Convidado</string>
   <string name="ac_privacy_mode_title">Bloqueio de ecrã</string>
   <string name="ac_set_apps_title">Escolher aplicações a bloquear</string>
@@ -206,7 +206,7 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="application_item_already_permission">Permitido</string>
   <string name="application_item_disable">Negar</string>
   <string name="application_item_permission">Permitir</string>
-  <string name="application_lock_name">Bloqueio de aplicacões</string>
+  <string name="application_lock_name">Bloqueio de aplicações</string>
   <string name="application_restrictions">Permitir aplicações e conteúdo</string>
   <string name="application_size_label">Aplicação</string>
   <string name="applications_settings">Aplicações instaladas</string>
@@ -1673,7 +1673,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="network_settings_title">Redes móveis</string>
   <string name="network_state_label">Estado da rede:</string>
   <string name="networkid_label">ID de rede:</string>
-  <string name="networks">Seleccão de operadora</string>
+  <string name="networks">Selecção de operadora</string>
   <string name="never">Nunca</string>
   <string name="new_backup_pw_prompt">Introduza uma nova palavra-passe para a cópia de segurança completa</string>
   <string name="next_button_label">Seguinte</string>
@@ -1817,7 +1817,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_app_invisible">Definições/Definições adicionais/Funcionalidades Beta/Aplicações invisíveis</string>
   <string name="path_app_permission">Definições/Permissões</string>
   <string name="path_app_switch_key">Definições/Definições adicionais/Botões/Recentes</string>
-  <string name="path_application_lock">Definições/Bloqueio de aplicacões</string>
+  <string name="path_application_lock">Definições/Bloqueio de aplicações</string>
   <string name="path_applications_settings">Definições/Aplicações instaladas</string>
   <string name="path_back_key">Definições/Definições adicionais/Botões/Voltar</string>
   <string name="path_battery_indicator_settings">Definições/Bateria e desempenho/Indicador de bateria</string>
@@ -1877,7 +1877,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_network_settings">Definições/Definições de rede móvel</string>
   <string name="path_networks_title">Definições/Definições de rede móvel/Redes móveis</string>
   <string name="path_nfc_se_route_title">Definições/Mais/Posição do elemento de segurança</string>
-  <string name="path_notification_app_list_settings">Definições/Notificações e barra de estado/Notificações das aplicacões</string>
+  <string name="path_notification_app_list_settings">Definições/Notificações e barra de estado/Notificações das aplicações</string>
   <string name="path_notification_sound">Definições/Som e vibração/Toque de notificação predefinido</string>
   <string name="path_notification_sound_title">Definições/Som e vibração/Toque de notificação predefinido</string>
   <string name="path_ntts_settings_title">Definições/Definições adicionais/Acessibilidade/Saída de texto para voz</string>
@@ -1889,7 +1889,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_pn_settings">Definições/Redes móveis/Pontos de acesso (APN)</string>
   <string name="path_pointer_speed">Definições/Definições adicionais/Idioma e entrada/Velocidade do ponteiro</string>
   <string name="path_power_checker">Definições/Definições adicionais/Funcionalidades Beta/Controlo de energia</string>
-  <string name="path_power_hide_mode_title">Definições/Bateria e desempenho/Gerir utilização da bateria das aplicacões</string>
+  <string name="path_power_hide_mode_title">Definições/Bateria e desempenho/Gerir utilização da bateria das aplicações</string>
   <string name="path_power_mode_settings">Definições/Bateria e desempenho/Definições de energia</string>
   <string name="path_power_optimize">Definições/Definições adicionais/Funcionalidades Beta/Poupança de bateria</string>
   <string name="path_pref_volume_wake_title">Definições/Ecrã de bloqueio e segurança/Acordar com botões de Volume</string>
@@ -2453,7 +2453,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone"</string>
   <string name="search_network">Redes móveis de trabalho;Dados móveis;Roaming;Receber MMS;Pontos de acesso(APN);Tipo de rede preferida;Redes móveis</string>
   <string name="search_networks_title">Redes móveis</string>
   <string name="search_nfc_se_route_title">Posição do elemento de segurança</string>
-  <string name="search_notification_app_list_settings">Notificações das aplicacões</string>
+  <string name="search_notification_app_list_settings">Notificações das aplicações</string>
   <string name="search_notification_sound_title">Toque de notificação predefinido</string>
   <string name="search_ntts_settings_title">Saída de texto para voz;TTS</string>
   <string name="search_oldman_mode">Modo Leve;Modo Leve</string>
@@ -2463,7 +2463,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone"</string>
   <string name="search_page_layout_settings">Tamanho do texto</string>
   <string name="search_pointer_speed">Velocidade do ponteiro</string>
   <string name="search_power_checker">Controlo de energia</string>
-  <string name="search_power_hide_mode_title">Gerir utilização da bateria das aplicacões</string>
+  <string name="search_power_hide_mode_title">Gerir utilização da bateria das aplicações</string>
   <string name="search_power_mode">Definições de energia</string>
   <string name="search_power_optimize">Poupança de bateria</string>
   <string name="search_pref_volume_wake_title">Acordar com botões de Volume</string>
@@ -2494,7 +2494,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone"</string>
   <string name="search_sms_received">Mensagem recebida</string>
   <string name="search_sound_effects_enable_title">Sons de toque</string>
   <string name="search_sound_settings">Som e vibração;Volumes;Modo silêncio;Alarmes;Música;Vibração;Toque do telefone;Toque do telefone predefinido;Mensagem recebida;Mensagem entregue;Sons de toque;Som de bloqueio de ecrã;Definições de áudio;Suprimir ruído</string>
-  <string name="search_status_bar">Notificações e barra de estado;Notificações das aplicacões;Posição dos atalhos;Mostrar velocidade da ligação;Mostrar nome da operadora;Mostrar notificação de captura de ecrã;Mostrar no ecrã de bloqueio</string>
+  <string name="search_status_bar">Notificações e barra de estado;Notificações das aplicações;Posição dos atalhos;Mostrar velocidade da ligação;Mostrar nome da operadora;Mostrar notificação de captura de ecrã;Mostrar no ecrã de bloqueio</string>
   <string name="search_status_bar_settings_custom_carrier">Editar nome da operadora</string>
   <string name="search_status_bar_settings_expandable_under_keyguard">Mostrar no ecrã de bloqueio</string>
   <string name="search_status_bar_settings_show_carrier">Mostrar nome da operadora</string>
