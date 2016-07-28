@@ -97,7 +97,7 @@
   <string name="connecting">A ligar…</string>
   <string name="deep_clean_data_path_clean_title">Armazenamento interno limpo</string>
   <string name="deep_clean_normal_clean_progress_desc">Foram limpos %1$s ficheiros</string>
-  <string name="deepclean_1_k_clean">Limpeza com um clique</string>
+  <string name="deepclean_1_k_clean">Limpeza com um toque</string>
   <string name="deepclean_apk_content">Eliminar APKs ou aplicações desnecessárias</string>
   <string name="deepclean_apk_summary_empty">Verificação concluída. Sem APKs para eliminar</string>
   <string name="deepclean_apk_version_error">Desconhecido</string>

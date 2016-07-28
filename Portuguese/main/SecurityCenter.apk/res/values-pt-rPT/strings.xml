@@ -97,7 +97,7 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="app_not_installed_toast">A aplicação não está instalada no seu dispositivo</string>
   <string name="app_version">Versão</string>
   <string name="app_wifi">Wi-Fi</string>
-  <string name="apps_item_sign_dialog_content">A assinatura de %s é diferente da versão da Loja de Aplicações. Eliminar esta aplicação e instalar a versão oficial? Nota: instalar uma aplicação com conflitos de assinatura pode causar à perda dos dados da aplicação</string>
+  <string name="apps_item_sign_dialog_content">A assinatura de %s é diferente da versão da Loja de Aplicações. Eliminar esta aplicação e instalar a versão oficial? Nota: instalar uma aplicação com conflitos de assinatura pode causar a perda dos dados da aplicação</string>
   <string name="apps_item_sign_dialog_title">Instalar aplicação oficial</string>
   <string name="apps_item_sign_install_button_text">Substituir</string>
   <string name="apps_item_sms_default_set_success">Definido com sucesso</string>
@@ -761,7 +761,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pm_auto_start_by_system_event">Permitir que aplicações iniciem automaticamente</string>
   <string name="pm_auto_start_proc_is_running">Em execução</string>
   <string name="pm_remember_choice">Memorizar preferência</string>
-  <string name="pm_root_success_notification_infomation">Certifique-se que percebe os riscos relacionados com o acesso root</string>
+  <string name="pm_root_success_notification_infomation">Certifique-se que entende os riscos relacionados com o acesso root</string>
   <string name="pm_root_success_notification_title">Acesso root permitido</string>
   <string name="power_20s_shutdown">O dispositivo vai desligar em %d segundos</string>
   <string name="power_analysis_consume_title">Utilização de bateria</string>

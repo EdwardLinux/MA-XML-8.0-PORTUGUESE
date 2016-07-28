@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="mins_ago">
+    <plurals name="mins_ago">
         <item quantity="other">%1$d minutos atrás</item>
         <item quantity="zero">%1$d minutos atrás</item>
         <item quantity="one">%1$d minuto atrás</item>
@@ -40,7 +40,7 @@
         <item quantity="two">%1$d visualizações</item>
         <item quantity="few">%1$d visualizações</item>
         <item quantity="many">%1$d visualizações</item>
-     </plurals>
+    </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d grupos</item>
         <item quantity="one">%d grupo</item>
