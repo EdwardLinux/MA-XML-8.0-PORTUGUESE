@@ -340,8 +340,8 @@
   <string name="edit_fdn_contact">Editar número de marcação fixa</string>
   <string name="emergencyDialerIconLabel">Chamada de emergência</string>
   <string name="emergency_action_launch_hint">Tocar novamente para abrir</string>
-  <string name="emergency_broadcast_disable">Difusão celular de emergência desactivado</string>
-  <string name="emergency_broadcast_enable">Difusão celular de emergência activo</string>
+  <string name="emergency_broadcast_disable">Difusão móvel de emergência desactivado</string>
+  <string name="emergency_broadcast_enable">Difusão móvel de emergência activado</string>
   <string name="emergency_call_area_code_edit_dialog_button">Chamada</string>
   <string name="emergency_call_area_code_edit_dialog_hint">Introduzir código de área</string>
   <string name="emergency_enable_radio_dialog_message">A ligar o rádio…</string>
