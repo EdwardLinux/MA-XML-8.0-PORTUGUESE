@@ -1063,7 +1063,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="service_provider">Páginas amarelas</string>
   <string name="service_provider_detail">Detalhes das Páginas amarelas</string>
   <string name="set_data_package">Definir um plano de dados primeiro</string>
-  <string name="set_default">Definir predefinido</string>
+  <string name="set_default">Definir como predefinido</string>
   <string name="set_photo_failed_msg">Não foi possível atribuir imagem</string>
   <string name="share_error">Este contacto não pode ser partilhado</string>
   <string name="share_over_limit">Não é possível partilhar mais de 1000 contactos</string>
