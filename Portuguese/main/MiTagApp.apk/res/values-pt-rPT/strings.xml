@@ -123,7 +123,7 @@ toque a com a parte de trás do seu dispositivo."</string>
   <string name="off">desligado</string>
   <string name="on">ligado</string>
   <string name="one_minute">1 minuto</string>
-  <string name="open_web">Abrir página Web</string>
+  <string name="open_web">Abrir página web</string>
   <string name="open_xiaomi_web">Visitar mi.com</string>
   <string name="password_preference">Definir palavra-passe</string>
   <string name="percent">%s%%</string>
@@ -202,7 +202,7 @@ toque-a com a parte de trás do seu dispositivo."</string>
   <string name="vibrate_on">Vibrar ligado</string>
   <string name="voice_call_value">Volume chamada %s%%</string>
   <string name="volume">Som</string>
-  <string name="web_label">Etiqueta Web (opcional)</string>
+  <string name="web_label">Etiqueta web (opcional)</string>
   <string name="web_url">URL</string>
   <string name="wifi">WLAN</string>
   <string name="wireless_network">Redes Sem Fios</string>

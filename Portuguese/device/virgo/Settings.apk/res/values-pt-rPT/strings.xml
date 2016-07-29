@@ -913,7 +913,7 @@ Poderá encontrar controlos de utilização de dados mais adequados nas definiç
   <string name="data_usage_app_summary_title">Utilização dados da aplicação</string>
   <string name="data_usage_auto_sync_off_dialog">Isto vai conservar a utilização de dados e bateria, mas vai ser necessário sincronizar cada conta manualmente para obter informações recentes e não vai receber notificações quando ocorrerem actualizações</string>
   <string name="data_usage_auto_sync_off_dialog_title">Desligar sincronização automática?</string>
-  <string name="data_usage_auto_sync_on_dialog">"Qualquer alteração que efectue nas contas a partir da Web será copiada automaticamente para o telefone.
+  <string name="data_usage_auto_sync_on_dialog">"Qualquer alteração que efectue nas contas a partir da web será copiada automaticamente para o telefone.
 
 Algumas contas também podem copiar automaticamente para a web qualquer alteração que efectue no telefone. É assim que funciona uma Conta Google"</string>
   <string name="data_usage_auto_sync_on_dialog_title">Ligar sincronização automática?</string>
