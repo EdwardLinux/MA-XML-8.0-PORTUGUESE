@@ -3054,7 +3054,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_sound_settings">Som e vibração;Volumes;Modo silêncio;Alarmes;Música;Vibração;Toque do telefone;Toque do telefone predefinido;Mensagem recebida;Mensagem entregue;Sons de toque;Som de bloqueio de ecrã;Definições de áudio;Suprimir ruído</string>
   <string name="search_status_bar">Notificações e barra de estado;Notificações das aplicações;Posição dos atalhos;Mostrar velocidade da ligação;Mostrar nome da operadora;Mostrar notificação de captura de ecrã;Mostrar no ecrã de bloqueio</string>
   <string name="search_status_bar_settings_custom_carrier">Editar nome da operadora</string>
-  <string name="search_status_bar_settings_expandable_under_keyguard">Mostrar no ecrã de bloqueio</string>
+  <string name="search_status_bar_settings_expandable_under_keyguard">Mostrar no ecrã de bloqueio;mostrar no ecrã de bloqueio</string>
   <string name="search_status_bar_settings_show_carrier">Mostrar nome da operadora</string>
   <string name="search_status_bar_settings_show_network_speed">Mostrar velocidade da ligação</string>
   <string name="search_status_bar_settings_show_notification_icon">Mostrar ícones das notificações</string>
@@ -3075,7 +3075,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_touch_sensitive_title">Modo Luvas</string>
   <string name="search_trusted_credentials">Credenciais fiáveis</string>
   <string name="search_tts_settings_title">Saída de texto para voz</string>
-  <string name="search_turn_on_security_lock">Escolher bloqueio de ecrã</string>
+  <string name="search_turn_on_security_lock">Alterar bloqueio de ecrã;Bloqueio de ecrã;Editar bloqueio de ecrã;Editar bloqueio de ecrã;Bloqueio de ecrã</string>
   <string name="search_unlock_set">Bloqueio de ecrã;Info. do proprietário;Suspender;Ligar ecrã para notificações;Bloqueio de ecrã;Prevenir uso inadvertido no bolso;Desbloquear com dispositivo Bluetooth</string>
   <string name="search_user_agreement">Termos de Serviço</string>
   <string name="search_user_dict_settings_title">Dicionário pessoal</string>
