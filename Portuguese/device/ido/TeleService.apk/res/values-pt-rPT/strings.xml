@@ -707,7 +707,7 @@ Será utilizada a rede preferida"</string>
   <string name="network_unconnected_message_livetalk">Erro de rede. Tente fazer uma chamada normal. Irá ser cobrado um valor adicional pela sua operadora</string>
   <string name="network_unconnected_title">Erro de rede</string>
   <string name="network_unlock">Desbloquear</string>
-  <string name="networks">Operadores de rede</string>
+  <string name="networks">Operadoras de rede</string>
   <string name="networks_title">Redes móveis</string>
   <string name="newPin2Label">Novo PIN2</string>
   <string name="newPinLabel">Novo PIN</string>

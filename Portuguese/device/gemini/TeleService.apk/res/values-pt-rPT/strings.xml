@@ -658,7 +658,7 @@ Será utilizada a rede preferida"</string>
   <string name="network_settings_turn_off">Desligar</string>
   <string name="network_settings_warn_message">O dispositivo apenas vai ligar a redes que seleccionou manualmente</string>
   <string name="network_unlock">Desbloquear</string>
-  <string name="networks">Operadores de rede</string>
+  <string name="networks">Operadoras de rede</string>
   <string name="networks_title">Redes móveis</string>
   <string name="newPin2Label">Novo PIN2</string>
   <string name="newPinLabel">Novo PIN</string>
