@@ -117,6 +117,7 @@ Nota: O triplo toque para ampliar funciona em todo o sistema excepto na barra de
   <string name="add_fingerprint_put_finger_edge_msg">Mova o seu dedo levemente e coloque-o no sensor novamente para adicionar todas as diferentes partes da sua impressão digital</string>
   <string name="add_fingerprint_put_finger_msg">Coloque o seu dedo no sensor e retire após sentir uma vibração</string>
   <string name="add_fingerprint_put_finger_title">Adicionar impressão digital</string>
+  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Mova o seu dedo lentamente</string>
   <string name="add_fingerprint_text">Adicionar impressão digital</string>
   <string name="add_fingerprint_toast_text">Coloque o seu dedo no sensor</string>
   <string name="adding_profile_owner_warning">"Ao proceder, o seu utilizador vai ser gerido pelo seu Administrador que também pode guardar dados associados, por adição aos seus dados pessoais.
