@@ -704,9 +704,9 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
 
 Para continuar a utilizar o telefone, é necessário efectuar uma reposição de fábrica. Quando configurar o telefone após a reposição, terá a oportunidade de restaurar quaisquer dados da cópia de segurança da sua Conta Google"</string>
   <string name="crypt_keeper_data_corrupt_title">Desencriptação sem sucesso</string>
-  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu dispositivo, assumindo que configurou um bloqueio de ecrã, vai ser necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. O único e outro modo de desencriptar é fazer uma reposição dos dados de fábrica, apagando todos os seus dados</string>
+  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu dispositivo, assumindo que configurou um bloqueio de ecrã, vai ser necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. O outro modo de desencriptar é fazer uma reposição de dados de fábrica, eliminando todos os seus dados</string>
   <string name="crypt_keeper_decrypt_methods_title">Desencriptar o seu dispositivo</string>
-  <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas e dados, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar um restauro dos dados de fábrica, apagando todos os seus dados.
+  <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas e dados, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar um restauro dos dados de fábrica, eliminando todos os seus dados.
 
 Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter o telefone a carregar até que a encriptação esteja terminada. Se interromper o processo de encriptação, perderá alguns ou todos os seus dados"</string>
   <string name="crypt_keeper_dialog_need_password_message">Deve definir um código PIN ou uma palavra-passe para o ecrã de bloqueio antes de iniciar a encriptação</string>
@@ -797,8 +797,8 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="data_usage_metered_wifi_disabled">Para seleccionar um ponto de acesso ligue o Wi-Fi</string>
   <string name="data_usage_pick_cycle_day">Dia do mês para repor o ciclo de utilização de dados:</string>
   <string name="data_usage_received_sent">%1$s recebido, %2$s enviado</string>
-  <string name="data_usage_restrict_background">Se restringir os dados móveis em segundo plano, algumas aplicações e serviços não vão funcionar a não ser que esteja ligado a uma rede Wi-Fi</string>
-  <string name="data_usage_restrict_background_multiuser">Se restringir os dados móveis em segundo plano, algumas aplicações e serviços não vão funcionar a não ser que esteja ligado a uma rede Wi-Fi</string>
+  <string name="data_usage_restrict_background">"Se restringir os dados móveis em segundo plano, algumas aplicações e serviços deixam de funcionar, excepto com uma ligação à rede Wi-Fi"</string>
+  <string name="data_usage_restrict_background_multiuser">"Se restringir os dados móveis em segundo plano, algumas aplicações e serviços deixam de funcionar, excepto com uma ligação à rede Wi-Fi"</string>
   <string name="data_usage_restrict_background_title">Restringir dados em segundo plano?</string>
   <string name="data_usage_restrict_denied_dialog">Restringir dados em segundo plano apenas é possível quando já tiver definido um limite de dados móveis</string>
   <string name="data_usage_summary_title">Utilização de dados</string>
@@ -2416,14 +2416,14 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="se_route_ese">Elemento de segurança integrado</string>
   <string name="se_route_uicc">Elemento de segurança do cartão SIM</string>
   <string name="search_about">"Acerca do telefone;Nome do dispositivo;Modelo do dispositivo;Versão Android;Versão MIUI;CPU;RAM;Armazenamento interno;Versão da banda base;Versão de kernel;Número de compilação;Estado;Informações legais "</string>
-  <string name="search_accelerometer">Rodar o ecrã automaticamente</string>
-  <string name="search_access_control">Definições de privacidade</string>
+  <string name="search_accelerometer">Rodar o ecrã automaticamente;Rodar o ecrã;Orientação;Retrato;Paisagem</string>
+  <string name="search_access_control">Definições de privacidade;Privacidade;Convidado;Modo Convidado</string>
   <string name="search_accessibility">Acessibilidade</string>
   <string name="search_accessibility_captioning_title">Legendas</string>
-  <string name="search_accessibility_display_daltonizer_preference_title">Correcção de cor</string>
-  <string name="search_accessibility_global_gesture_preference_title">Atalho de acessibilidade</string>
-  <string name="search_accessibility_long_press_timeout_preference_title">Atraso de tocar sem largar</string>
-  <string name="search_accessibility_screen_magnification_title">Gestos de ampliação</string>
+  <string name="search_accessibility_display_daltonizer_preference_title">Correcção de cor;Cor;Cores</string>
+  <string name="search_accessibility_global_gesture_preference_title">Atalho de acessibilidade;Acessibilidade</string>
+  <string name="search_accessibility_long_press_timeout_preference_title">Atraso de tocar sem largar;Atraso de tocar sem largar;Tocar sem largar;Atraso</string>
+  <string name="search_accessibility_screen_magnification_title">Gestos de ampliação;Ampliação</string>
   <string name="search_accessibility_settings">Acessibilidade</string>
   <string name="search_account_list">Outras contas</string>
   <string name="search_airplane">Modo Avião</string>
@@ -2542,7 +2542,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="search_sound_settings">Som e vibração;Volumes;Modo silêncio;Alarmes;Música;Vibração;Toque do telefone;Toque do telefone predefinido;Mensagem recebida;Mensagem entregue;Sons de toque;Som de bloqueio de ecrã;Definições de áudio;Suprimir ruído</string>
   <string name="search_status_bar">Notificações e barra de estado;Notificações das aplicações;Posição dos atalhos;Mostrar velocidade da ligação;Mostrar nome da operadora;Mostrar notificação de captura de ecrã;Mostrar no ecrã de bloqueio</string>
   <string name="search_status_bar_settings_custom_carrier">Editar nome da operadora</string>
-  <string name="search_status_bar_settings_expandable_under_keyguard">Mostrar no ecrã de bloqueio</string>
+  <string name="search_status_bar_settings_expandable_under_keyguard">Mostrar no ecrã de bloqueio;mostrar no ecrã de bloqueio</string>
   <string name="search_status_bar_settings_show_carrier">Mostrar nome da operadora</string>
   <string name="search_status_bar_settings_show_network_speed">Mostrar velocidade da ligação</string>
   <string name="search_status_bar_settings_show_notification_icon">Mostrar ícones das notificações</string>
@@ -2563,7 +2563,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="search_touch_sensitive_title">Modo Luvas</string>
   <string name="search_trusted_credentials">Credenciais fiáveis</string>
   <string name="search_tts_settings_title">Saída de texto para voz</string>
-  <string name="search_turn_on_security_lock">Escolher bloqueio de ecrã</string>
+  <string name="search_turn_on_security_lock">Alterar bloqueio de ecrã;Bloqueio de ecrã;Editar bloqueio de ecrã;Editar bloqueio de ecrã;Bloqueio de ecrã</string>
   <string name="search_unlock_set">Bloqueio de ecrã;Info. do proprietário;Suspender;Ligar ecrã para notificações;Bloqueio de ecrã;Prevenir uso inadvertido no bolso;Desbloquear com dispositivo Bluetooth</string>
   <string name="search_user_agreement">Termos de Serviço</string>
   <string name="search_user_dict_settings_title">Dicionário pessoal</string>
@@ -3452,7 +3452,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="wifi_p2p_delete_group_message">Esquecer este grupo?</string>
   <string name="wifi_p2p_device_info">Informação do dispositivo</string>
   <string name="wifi_p2p_disconnect_message">Se desligar, a ligação com %1$s vai terminar</string>
-  <string name="wifi_p2p_disconnect_multiple_message">Se desligar, a sua ligação com %1$s e %2$s outros dispositivos vai terminar</string>
+  <string name="wifi_p2p_disconnect_multiple_message">Se desligar, a sua ligação com %1$s e %2$s e outros dispositivos vai terminar</string>
   <string name="wifi_p2p_disconnect_title">Desligar?</string>
   <string name="wifi_p2p_failed_connect_message">Não foi possível ligar</string>
   <string name="wifi_p2p_failed_rename_message">Erro ao mudar o nome do dispositivo</string>

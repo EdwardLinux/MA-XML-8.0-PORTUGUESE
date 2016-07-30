@@ -2937,7 +2937,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_accessibility_display_daltonizer_preference_title">Correcção de cor;Cor;Cores</string>
   <string name="search_accessibility_global_gesture_preference_title">Atalho de acessibilidade;Acessibilidade</string>
   <string name="search_accessibility_long_press_timeout_preference_title">Atraso de tocar sem largar;Atraso de tocar sem largar;Tocar sem largar;Atraso</string>
-  <string name="search_accessibility_screen_magnification_title">Gestos de ampliação</string>
+  <string name="search_accessibility_screen_magnification_title">Gestos de ampliação;Ampliação</string>
   <string name="search_accessibility_settings">Acessibilidade</string>
   <string name="search_account_list">Outras contas</string>
   <string name="search_airplane">Modo Avião</string>

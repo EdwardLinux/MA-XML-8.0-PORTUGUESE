@@ -852,9 +852,9 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
 
 Para continuar a utilizar o telefone, é necessário efectuar uma reposição de fábrica. Quando configurar o telefone após a reposição, terá a oportunidade de restaurar quaisquer dados da cópia de segurança da sua Conta Google"</string>
   <string name="crypt_keeper_data_corrupt_title">Desencriptação sem sucesso</string>
-  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu dispositivo, assumindo que configurou um bloqueio de ecrã, vai ser necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. O único e outro modo de desencriptar é fazer uma reposição dos dados de fábrica, apagando todos os seus dados</string>
+  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu dispositivo, assumindo que configurou um bloqueio de ecrã, vai ser necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. O outro modo de desencriptar é fazer uma reposição de dados de fábrica, eliminando todos os seus dados</string>
   <string name="crypt_keeper_decrypt_methods_title">Desencriptar o seu dispositivo</string>
-  <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas e dados, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar um restauro dos dados de fábrica, apagando todos os seus dados.
+  <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas e dados, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar um restauro de dados de fábrica, eliminando todos os seus dados.
 
 Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter o telefone a carregar até que a encriptação esteja terminada. Se interromper o processo de encriptação, perderá alguns ou todos os seus dados"</string>
   <string name="crypt_keeper_dialog_need_password_message">Deve definir um código PIN ou uma palavra-passe para o ecrã de bloqueio antes de iniciar a encriptação</string>
@@ -965,10 +965,10 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="data_usage_metered_wifi_disabled">Para seleccionar um ponto de acesso ligue o Wi-Fi</string>
   <string name="data_usage_pick_cycle_day">Dia do mês para repor o ciclo de utilização de dados:</string>
   <string name="data_usage_received_sent">%1$s recebido, %2$s enviado</string>
-  <string name="data_usage_restrict_background">Se restringir os dados móveis em segundo plano, algumas aplicações e serviços não vão funcionar a não ser que esteja ligado a uma rede Wi-Fi</string>
-  <string name="data_usage_restrict_background_multiuser">Se restringir os dados móveis em segundo plano, algumas aplicações e serviços não vão funcionar a não ser que esteja ligado a uma rede Wi-Fi.
+  <string name="data_usage_restrict_background">"Se restringir os dados móveis em segundo plano, algumas aplicações e serviços deixam de funcionar, excepto com uma ligação à rede Wi-Fi"</string>
+  <string name="data_usage_restrict_background_multiuser">"Se restringir os dados móveis em segundo plano, algumas aplicações e serviços deixam de funcionar, excepto com uma ligação à rede Wi-Fi.
 
-Esta definição afecta todos os utilizadores deste telefone</string>
+Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="data_usage_restrict_background_title">Restringir dados em segundo plano?</string>
   <string name="data_usage_restrict_denied_dialog">Restringir dados em segundo plano apenas é possível quando já tiver definido um limite de dados móveis</string>
   <string name="data_usage_summary_title">Utilização de dados</string>
@@ -1107,7 +1107,7 @@ Esta definição afecta todos os utilizadores deste telefone</string>
   <string name="display_settings_title">Ecrã</string>
   <string name="dlg_cancel">Cancelar</string>
   <string name="dlg_close">Fechar</string>
-  <string name="dlg_confirm_unmount_text">Se desmontar o armazenamento USB, algumas aplicações que estão em utilização serão interrompidas e podem não estar disponíveis até ligar novamente o armazenamento USB</string>
+  <string name="dlg_confirm_unmount_text">Se desmontar o armazenamento USB, algumas aplicações que estão em utilização serão interrompidas e podem não estar disponíveis até montar novamente o armazenamento USB</string>
   <string name="dlg_confirm_unmount_title">Desmontar armazenamento USB?</string>
   <string name="dlg_error_unmount_text">Não é possível desmontar o armazenamento USB. Tente novamente mais tarde</string>
   <string name="dlg_error_unmount_title"/>
@@ -1289,10 +1289,10 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="erase_internal_storage">Eliminar o conteúdo armazenado</string>
   <string name="erase_internal_storage_description">Eliminar músicas, fotos, vídeos e outros dados do utilizador</string>
   <string name="erase_optional">Conteúdo</string>
-  <string name="erase_personal_data">Todos os ficheiros no telefone</string>
+  <string name="erase_personal_data">Todos os ficheiros do telefone</string>
   <string name="erase_personal_data_description">Todos os ficheiros e dados incluindo contas, contactos, fotos e aplicações</string>
   <string name="erase_sd_data">Formatar cartão SD</string>
-  <string name="erase_sd_data_description">Formatar vai apagar todos os ficheiros e dados no cartão SD</string>
+  <string name="erase_sd_data_description">Formatar vai eliminar todos os ficheiros e dados no cartão SD</string>
   <string name="erase_sure">Dados pessoais</string>
   <string name="error_apn_empty">O APN não pode estar vazio</string>
   <string name="error_mcc_not3">Campo MCC deve ter 3 dígitos</string>
@@ -1628,7 +1628,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="keywords_display_night_mode">tema escuro modo noturno escurecer o ecrã inverter o brilho</string>
   <string name="keywords_display_wallpaper">fundo personalizar visualização</string>
   <string name="keywords_emergency_app">aplicação predefinida para casos de emergência</string>
-  <string name="keywords_factory_data_reset">apagar eliminar restaurar limpar remover</string>
+  <string name="keywords_factory_data_reset">eliminar eliminar restaurar limpar remover</string>
   <string name="keywords_home">iniciador</string>
   <string name="keywords_ignore_optimizations">ignorar otimizações fechar aplicação modo de suspensão</string>
   <string name="keywords_keyboard_and_ime">correcção de texto corrigir som vibração idioma automático toque sugerir sugestão tema palavra ofensiva escrever emoji internacional</string>
@@ -2939,7 +2939,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_accessibility_display_daltonizer_preference_title">Correcção de cor;Cor;Cores</string>
   <string name="search_accessibility_global_gesture_preference_title">Atalho de acessibilidade;Acessibilidade</string>
   <string name="search_accessibility_long_press_timeout_preference_title">Atraso de tocar sem largar;Atraso de tocar sem largar;Tocar sem largar;Atraso</string>
-  <string name="search_accessibility_screen_magnification_title">Gestos de ampliação</string>
+  <string name="search_accessibility_screen_magnification_title">Gestos de ampliação;Ampliação</string>
   <string name="search_accessibility_settings">Acessibilidade</string>
   <string name="search_account_list">Outras contas</string>
   <string name="search_airplane">Modo Avião</string>
@@ -3356,7 +3356,7 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="ssl_ca_cert_info_message">"Este dispositivo é gerido por:
 %s
 
-O seu administrador pode monitorizar a sua actividade da rede, incluindo emails, aplicações e páginas de Internet seguras.
+O seu administrador pode monitorizar a sua actividade na rede, incluindo emails, aplicações e páginas de Internet seguras.
 
 Para mais informações contacte o seu administrador"</string>
   <string name="ssl_ca_cert_settings_button">Verificar credenciais de confiança</string>
@@ -4200,6 +4200,10 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="wifi_display_status_in_use">Em utilização</string>
   <string name="wifi_display_status_not_available">Indisponível</string>
   <string name="wifi_display_wps_config">Configuração WPS</string>
+  <string name="wifi_dns1">DNS 1</string>
+  <string name="wifi_dns1_hint">8.8.8.8</string>
+  <string name="wifi_dns2">DNS 2</string>
+  <string name="wifi_dns2_hint">8.8.4.4</string>
   <string name="wifi_dont_skip">Não ignorar</string>
   <string name="wifi_eap_anonymous">Identidade anónima</string>
   <string name="wifi_eap_ca_cert">Certificado CA</string>
@@ -4222,6 +4226,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="wifi_forget">Esquecer</string>
   <string name="wifi_frequency">Frequência</string>
   <string name="wifi_gateway">Gateway</string>
+  <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_hotspot_checkbox_text">Zona Wi-Fi</string>
   <string name="wifi_hotspot_checkbox_text_summary">Utilizar ligação móvel para fornecer rede Wi-Fi</string>
   <string name="wifi_hotspot_configure_ap_text">Configuração de zona Wi-Fi</string>
@@ -4232,6 +4237,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="wifi_in_airplane_mode">Em Modo Avião</string>
   <string name="wifi_install_credentials">Instalar certificados</string>
   <string name="wifi_ip_address">Endereço IP:</string>
+  <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_ip_settings">Definições de IP</string>
   <string name="wifi_ip_settings_invalid_dns">Introduza um endereço DNS válido</string>
   <string name="wifi_ip_settings_invalid_gateway">Introduza um endereço de gateway válido</string>
@@ -4254,6 +4260,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="wifi_menu_write_to_nfc">Escrever na etiqueta NFC</string>
   <string name="wifi_more">Mais</string>
   <string name="wifi_network_prefix_length">Comprimento do prefixo de rede</string>
+  <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_internet">Sem acesso à Internet detectado, não vai religar automaticamente</string>
   <string name="wifi_not_in_range">Fora do alcance</string>
   <string name="wifi_notify_cmcc_connected_summary">Mostrar notificação quando ligado à rede CMCC</string>
@@ -4272,7 +4279,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="wifi_p2p_delete_group_message">Esquecer este grupo?</string>
   <string name="wifi_p2p_device_info">Informação do dispositivo</string>
   <string name="wifi_p2p_disconnect_message">Se desligar, a ligação com %1$s vai terminar</string>
-  <string name="wifi_p2p_disconnect_multiple_message">Se desligar, a sua ligação com %1$s e %2$s outros dispositivos vai terminar</string>
+  <string name="wifi_p2p_disconnect_multiple_message">Se desligar, a sua ligação com %1$s e %2$s e outros dispositivos vai terminar</string>
   <string name="wifi_p2p_disconnect_title">Desligar?</string>
   <string name="wifi_p2p_failed_connect_message">Não foi possível ligar</string>
   <string name="wifi_p2p_failed_rename_message">Erro ao mudar o nome do dispositivo</string>

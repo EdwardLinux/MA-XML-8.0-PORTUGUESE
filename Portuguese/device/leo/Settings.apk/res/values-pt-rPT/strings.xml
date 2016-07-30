@@ -56,7 +56,7 @@ Quando ampliado, pode:
 Também pode aumentar temporariamente o que estiver sobre o seu dedo com um triplo toque e segurar. Neste modo, pode mover o dedo ampliando para Explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
 
 Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra de navegação e no teclado"</string>
-  <string name="accessibility_screen_magnification_title">Ampliação de gestos</string>
+  <string name="accessibility_screen_magnification_title">Gestos de ampliação</string>
   <string name="accessibility_service_default_description">Sem descrição fornecida</string>
   <string name="accessibility_service_no_apps_message">TalkBack fornece mensagens de voz para ajudar os utilizadores cegos e de visão reduzida. Deseja instalá-lo gratuitamente a partir da Play Store?</string>
   <string name="accessibility_service_no_apps_title">Necessita de um leitor de ecrã?</string>
@@ -1806,7 +1806,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_accessibility_display_daltonizer_preference_title">Definições/Definições adicionais/Acessibilidade/Correcção de cor</string>
   <string name="path_accessibility_global_gesture_preference_title">Definições/Definições adicionais/Acessibilidade/Atalho de acessibilidade</string>
   <string name="path_accessibility_long_press_timeout_preference_title">Definições/Definições adicionais/Acessibilidade/Atraso de tocar sem largar</string>
-  <string name="path_accessibility_screen_magnification_title">Definições/Definições adicionais/Acessibilidade/Ampliação de gestos</string>
+  <string name="path_accessibility_screen_magnification_title">Definições/Definições adicionais/Acessibilidade/Gestos de ampliação</string>
   <string name="path_accessibility_settings">Definições/Definições adicionais/Acessibilidade</string>
   <string name="path_account_list">Definições/Outras contas</string>
   <string name="path_advanced_settings">Definições/Wi-Fi/Definições avançadas</string>
@@ -2371,14 +2371,14 @@ Estas definições vão afectar todos os  utilizadores deste telefone"</string>
   <string name="se_route_ese">Elemento de segurança integrado</string>
   <string name="se_route_uicc">Elemento de segurança do cartão SIM</string>
   <string name="search_about">"Acerca do telefone;Nome do dispositivo;Modelo do dispositivo;Versão Android;Versão MIUI;CPU;RAM;Armazenamento interno;Versão da banda base;Versão de kernel;Número de compilação;Estado;Informações legais "</string>
-  <string name="search_accelerometer">Rodar o ecrã automaticamente</string>
-  <string name="search_access_control">Definições de privacidade</string>
+  <string name="search_accelerometer">Rodar o ecrã automaticamente;Rodar o ecrã;Orientação;Retrato;Paisagem</string>
+  <string name="search_access_control">Definições de privacidade;Privacidade;Convidado;Modo Convidado</string>
   <string name="search_accessibility">Acessibilidade</string>
   <string name="search_accessibility_captioning_title">Legendas</string>
-  <string name="search_accessibility_display_daltonizer_preference_title">Correcção de cor</string>
-  <string name="search_accessibility_global_gesture_preference_title">Atalho de acessibilidade</string>
-  <string name="search_accessibility_long_press_timeout_preference_title">Atraso de tocar sem largar</string>
-  <string name="search_accessibility_screen_magnification_title">Ampliação de gestos</string>
+  <string name="search_accessibility_display_daltonizer_preference_title">Correcção de cor;Cor;Cores</string>
+  <string name="search_accessibility_global_gesture_preference_title">Atalho de acessibilidade;Acessibilidade</string>
+  <string name="search_accessibility_long_press_timeout_preference_title">Atraso de tocar sem largar;Atraso de tocar sem largar;Tocar sem largar;Atraso</string>
+  <string name="search_accessibility_screen_magnification_title">Gestos de ampliação;Ampliação</string>
   <string name="search_accessibility_settings">Acessibilidade</string>
   <string name="search_account_list">Outras contas</string>
   <string name="search_airplane">Modo Avião</string>
@@ -2496,7 +2496,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone"</string>
   <string name="search_sound_settings">Som e vibração;Volumes;Modo silêncio;Alarmes;Música;Vibração;Toque do telefone;Toque do telefone predefinido;Mensagem recebida;Mensagem entregue;Sons de toque;Som de bloqueio de ecrã;Definições de áudio;Suprimir ruído</string>
   <string name="search_status_bar">Notificações e barra de estado;Notificações das aplicações;Posição dos atalhos;Mostrar velocidade da ligação;Mostrar nome da operadora;Mostrar notificação de captura de ecrã;Mostrar no ecrã de bloqueio</string>
   <string name="search_status_bar_settings_custom_carrier">Editar nome da operadora</string>
-  <string name="search_status_bar_settings_expandable_under_keyguard">Mostrar no ecrã de bloqueio</string>
+  <string name="search_status_bar_settings_expandable_under_keyguard">Mostrar no ecrã de bloqueio;mostrar no ecrã de bloqueio</string>
   <string name="search_status_bar_settings_show_carrier">Mostrar nome da operadora</string>
   <string name="search_status_bar_settings_show_network_speed">Mostrar velocidade da ligação</string>
   <string name="search_status_bar_settings_show_notification_icon">Mostrar ícones das notificações</string>
@@ -2517,7 +2517,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone"</string>
   <string name="search_touch_sensitive_title">Modo Luvas</string>
   <string name="search_trusted_credentials">Credenciais fiáveis</string>
   <string name="search_tts_settings_title">Saída de texto para voz</string>
-  <string name="search_turn_on_security_lock">Escolher bloqueio de ecrã</string>
+  <string name="search_turn_on_security_lock">Alterar bloqueio de ecrã;Bloqueio de ecrã;Editar bloqueio de ecrã;Editar bloqueio de ecrã;Bloqueio de ecrã</string>
   <string name="search_unlock_set">Bloqueio de ecrã;Info. do proprietário;Suspender;Ligar ecrã para notificações;Bloqueio de ecrã;Prevenir uso inadvertido no bolso;Desbloquear com dispositivo Bluetooth</string>
   <string name="search_user_agreement">Termos de Serviço</string>
   <string name="search_user_dict_settings_title">Dicionário pessoal</string>
