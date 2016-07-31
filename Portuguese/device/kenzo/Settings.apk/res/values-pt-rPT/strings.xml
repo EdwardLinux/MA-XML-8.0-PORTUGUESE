@@ -989,8 +989,6 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="dndm_repeated_call_summary_none">Silenciar chamadas repetidas do mesmo número</string>
   <string name="dndm_special_call_setting_group">Excepções</string>
   <string name="dndm_summary">Chamadas e notificações que chegarem enquanto Não incomodar estiver ligado vão ser silenciadas</string>
-  <string name="dndm_twelve_hour_time_format">a h:mm</string>
-  <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">Permitir chamadas das excepções</string>
   <string name="dndm_vip_call_setting_detal">Aceitar sempre chamadas das excepções</string>
   <string name="dndm_vip_call_setting_title">Excepções</string>
@@ -3500,11 +3498,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="wifi_display_status_connecting">A ligar</string>
   <string name="wifi_display_status_in_use">Em utilização</string>
   <string name="wifi_display_status_not_available">Indisponível</string>
-  <string name="wifi_display_wps_config">Configuração WPS</string>
-  <string name="wifi_dns1">DNS 1</string>
-  <string name="wifi_dns1_hint">8.8.8.8</string>
-  <string name="wifi_dns2">DNS 2</string>
-  <string name="wifi_dns2_hint">8.8.4.4</string>
+  <string name="wifi_display_wps_config">Configuração WPS</string>  
   <string name="wifi_dont_skip">Não ignorar</string>
   <string name="wifi_eap_anonymous">Identidade anónima</string>
   <string name="wifi_eap_ca_cert">Certificado CA</string>
@@ -3525,7 +3519,6 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="wifi_forget">Esquecer</string>
   <string name="wifi_frequency">Frequência</string>
   <string name="wifi_gateway">Gateway</string>
-  <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_hotspot_checkbox_text">Zona Wi-Fi</string>
   <string name="wifi_hotspot_checkbox_text_summary">Utilizar ligação móvel para fornecer rede Wi-Fi</string>
   <string name="wifi_hotspot_configure_ap_text">Configuração de zona Wi-Fi</string>
@@ -3536,7 +3529,6 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="wifi_in_airplane_mode">Em Modo Avião</string>
   <string name="wifi_install_credentials">Instalar certificados</string>
   <string name="wifi_ip_address">Endereço IP:</string>
-  <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_ip_settings">Definições de IP</string>
   <string name="wifi_ip_settings_invalid_dns">Introduza um endereço DNS válido</string>
   <string name="wifi_ip_settings_invalid_gateway">Introduza um endereço de gateway válido</string>
@@ -3558,7 +3550,6 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="wifi_menu_write_to_nfc">Escrever na etiqueta NFC</string>
   <string name="wifi_more">Mais</string>
   <string name="wifi_network_prefix_length">Comprimento do prefixo de rede</string>
-  <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_not_in_range">Fora do alcance</string>
   <string name="wifi_notify_cmcc_connected_summary">Mostrar notificação quando ligado à rede CMCC</string>
   <string name="wifi_notify_cmcc_connected_title">Notificação de rede CMCC</string>
