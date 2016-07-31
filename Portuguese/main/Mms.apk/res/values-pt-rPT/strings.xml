@@ -498,8 +498,8 @@
   <string name="second_mms_introduction">Ir para o segundo espaço</string>
   <string name="second_mms_switch">Trocar</string>
   <string name="secs">segs</string>
-  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"O remetente não está nos seus contactos.
- "&lt;/font&gt;</string>
+  <string name="security_alert_desc"><font color="#7f000000">"O remetente não está nos seus contactos
+ "</font></string>
   <string name="security_alert_desc_highlight">Reportar este número</string>
   <string name="security_alert_dialog_desc">Reportar este número (%s) e enviar para a Xiaomi para revisão</string>
   <string name="security_alert_dialog_title">Reportar</string>
