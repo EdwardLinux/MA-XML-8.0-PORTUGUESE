@@ -14,7 +14,6 @@
   <string name="ble_device_profile_header_title">Definições</string>
   <string name="ble_device_profile_title">Dispositivo BLE ligado</string>
   <string name="ble_device_rename">Mudar o nome</string>
-  <string name="ble_device_unbind">Limpar definições</string>
   <string name="ble_profile_1">ble_profile_mi_band</string>
   <string name="ble_profile_2">ble_profile_mi_key</string>
   <string name="bluetooth_connected">Emparelhado</string>
@@ -69,7 +68,7 @@
   <string name="enabling_progress_title">Por favor, aguarde…</string>
   <string name="format_progress_text">%1$d%%</string>
   <string name="goto_package">Abrir %1$s</string>
-  <string name="hello">Olá Mundo, Teste de Actividade</string>
+  <string name="hello">Olá Mundo. Teste de Actividade</string>
   <string name="inbound_history_title">Transferências recebidas</string>
   <string name="inbound_noti_title">Bluetooth: Ficheiros recebidos</string>
   <string name="incoming_file_confirm_Notification_caption">Deseja receber este ficheiro?</string>
