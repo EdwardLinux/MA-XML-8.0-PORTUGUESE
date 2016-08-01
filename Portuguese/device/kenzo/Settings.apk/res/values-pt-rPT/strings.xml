@@ -3498,7 +3498,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="wifi_display_status_connecting">A ligar</string>
   <string name="wifi_display_status_in_use">Em utilização</string>
   <string name="wifi_display_status_not_available">Indisponível</string>
-  <string name="wifi_display_wps_config">Configuração WPS</string>  
+  <string name="wifi_display_wps_config">Configuração WPS</string>
   <string name="wifi_dont_skip">Não ignorar</string>
   <string name="wifi_eap_anonymous">Identidade anónima</string>
   <string name="wifi_eap_ca_cert">Certificado CA</string>
