@@ -14,6 +14,9 @@
   <string name="accessibility_stereo_button">Modo Câmara Dupla</string>
   <string name="audio_focus_exit_button_text">Desligar áudio da focagem</string>
   <string name="burst_shoot_exit_button_text">Desligar disparo contínuo</string>
+  <string name="button_fisheye_camera_title">Lentes Olho-de-Peixe</string>
+  <string name="button_front_camera_title">Selfie</string>
+  <string name="button_normal_video_title">Gravação de vídeo</string>
   <string name="camera_disabled">A câmara foi desactivada</string>
   <string name="camera_error_title">Erro da câmara</string>
   <string name="camera_label">Câmara</string>

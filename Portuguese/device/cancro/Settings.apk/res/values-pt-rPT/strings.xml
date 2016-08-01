@@ -1286,12 +1286,12 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="erase_external_storage_description">Eliminar todos os dados do armazenamento USB, como música e fotos</string>
   <string name="erase_internal_storage">Eliminar o conteúdo armazenado</string>
   <string name="erase_internal_storage_description">Eliminar músicas, fotos, vídeos e outros dados do utilizador</string>
-  <string name="erase_optional">Conteúdo</string>
+  <string name="erase_optional">Opcional</string>
   <string name="erase_personal_data">Todos os ficheiros no telefone</string>
   <string name="erase_personal_data_description">Todos os ficheiros e dados incluindo contas, contactos, fotos e aplicações</string>
   <string name="erase_sd_data">Formatar cartão SD</string>
   <string name="erase_sd_data_description">Formatar vai apagar todos os ficheiros e dados no cartão SD</string>
-  <string name="erase_sure">Dados pessoais</string>
+  <string name="erase_sure">Mandatório</string>
   <string name="error_apn_empty">O APN não pode estar vazio</string>
   <string name="error_mcc_not3">Campo MCC deve ter 3 dígitos</string>
   <string name="error_mnc_not23">Campo MNC deve ter 2 ou 3 dígitos</string>
@@ -2468,7 +2468,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="permission_detail_info_summary">Segurança: %1$d | Privacidade: %2$d | Outras: %3$d</string>
   <string name="permission_manage">Gestor de permissões</string>
   <string name="permission_manage_global_build_title">Outras permissões</string>
-  <string name="permission_manage_summary">Pedir a sua permissão antes de dar acesso às aplicações de lerem os seus contactos, verem os seus registos de chamadas, modificarem definições de sistema, acederem à câmara ou a outros recursos do dispositivo</string>
+  <string name="permission_manage_summary">Gerir permissões e segurança</string>
   <string name="permission_manage_title">%s permissões</string>
   <string name="permission_manager">Permissões</string>
   <string name="permission_mgr">Permissões</string>
@@ -2937,7 +2937,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_accessibility_display_daltonizer_preference_title">Correcção de cor;Cor;Cores</string>
   <string name="search_accessibility_global_gesture_preference_title">Atalho de acessibilidade;Acessibilidade</string>
   <string name="search_accessibility_long_press_timeout_preference_title">Atraso de tocar sem largar;Atraso de tocar sem largar;Tocar sem largar;Atraso</string>
-  <string name="search_accessibility_screen_magnification_title">Gestos de ampliação;Ampliação</string>
+  <string name="search_accessibility_screen_magnification_title">Gestos de ampliação</string>
   <string name="search_accessibility_settings">Acessibilidade</string>
   <string name="search_account_list">Outras contas</string>
   <string name="search_airplane">Modo Avião</string>

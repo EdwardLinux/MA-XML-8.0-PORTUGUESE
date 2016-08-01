@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_alarm">Adicionar alarme</string>
-  <string name="alarm_alert">Toque predefinido</string>
   <string name="alarm_alert_alert_silenced">O alarme desliga em %d minutos</string>
   <string name="alarm_alert_snooze_set">Suspender por %d minutos</string>
   <string name="alarm_ascending_mode_summary">O volume do alarme aumenta gradualmente</string>
@@ -14,7 +13,6 @@
   <string name="alarm_notify_snooze_label">Suspender %s</string>
   <string name="alarm_notify_text">Suspender ou desligar alarme</string>
   <string name="alarm_repeat">Repetir</string>
-  <string name="alarm_screen">Ecrã e toque do alarme</string>
   <string name="alarm_settings">Definições do alarme</string>
   <string name="alarm_vibrate">Vibrar</string>
   <string name="alarm_volume_summary">Definir volume do alarme</string>

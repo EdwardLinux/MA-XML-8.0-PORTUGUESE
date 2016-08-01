@@ -417,7 +417,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="must_pick_file">Seleccionar uma foto</string>
   <string name="name_split">", "</string>
   <string name="need_to_turn_on_network">Não tem uma ligação à Internet</string>
-  <string name="need_to_turn_on_sync">Ligar a sincronização com a Nuvem Mi primeiro</string>
+  <string name="need_to_turn_on_sync">Ligue a sincronização com a Nuvem Mi primeiro</string>
   <string name="need_to_turn_on_wlan">Ligar ao Wi-Fi primeiro</string>
   <string name="negative">Negativo</string>
   <string name="network_connected_rescan">Não é possível ligar à rede</string>
@@ -540,7 +540,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="relation_text_mother">Mãe</string>
   <string name="relation_with_you">Escolher relação</string>
   <string name="release_space_finish_format">Libertou %s de armazenamento</string>
-  <string name="remove_from_other_albums_tip">Se remover o álbum da lista de Outros álbuns, a sincronização da Nuvem Mi com este álbum deve estar ligada. Pretende remover agora?</string>
+  <string name="remove_from_other_albums_tip">Ligue a sincronização com a Nuvem Mi para mover itens de Outros álbuns. Mover agora?</string>
   <string name="remove_from_secret_fail">Não foi possível remover dos álbuns ocultos</string>
   <string name="remove_from_secret_failed_with_reason">Não pode remover do álbum oculto. %1$s</string>
   <string name="remove_from_secret_failed_with_reason_and_count">%2$s itens podem ser removidos do álbum oculto. %1$s</string>
@@ -648,7 +648,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="trash_bin_summary">Ver fotos guardadas que foram eliminadas recentemente</string>
   <string name="try_to_send">Enviar</string>
   <string name="turn_off_and_move">Desligar e mover</string>
-  <string name="turn_on_and_remove">Ligar e remover</string>
+  <string name="turn_on_and_remove">Ligar e mover</string>
   <string name="unpublish_failed">Não foi possível anular a publicação</string>
   <string name="unpublish_succeeded">Publicação de álbum anulada</string>
   <string name="unpublishing">A cancelar…</string>
