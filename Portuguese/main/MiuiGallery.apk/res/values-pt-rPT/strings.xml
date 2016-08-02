@@ -418,7 +418,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="name_split">", "</string>
   <string name="need_to_turn_on_network">Não tem uma ligação à Internet</string>
   <string name="need_to_turn_on_sync">Ligue a sincronização com a Nuvem Mi primeiro</string>
-  <string name="need_to_turn_on_wlan">Ligar ao Wi-Fi primeiro</string>
+  <string name="need_to_turn_on_wlan">Ligue ao Wi-Fi primeiro</string>
   <string name="negative">Negativo</string>
   <string name="network_connected_rescan">Não é possível ligar à rede</string>
   <string name="network_unsatisfied_button_text">Ligar à rede</string>
