@@ -104,7 +104,7 @@ Pode também transferi-las separadamente"</string>
   <string name="loading_success">Carregado com sucesso</string>
   <string name="lock_screen_open_second_space">Ir para o segundo espaço através do ecrã de bloqueio</string>
   <string name="messageData">Mensagens</string>
-  <string name="msg_switch_file">Eliminar este ficheiros no primeiro espaço depois de os mover?</string>
+  <string name="msg_switch_file">Eliminar estes ficheiros no primeiro espaço depois de os mover?</string>
   <string name="msg_switch_photo">Eliminar estas fotos no primeiro espaço depois de as mover?</string>
   <string name="needSetKeyguardFirst">Definir palavra-passe do primeiro espaço</string>
   <string name="needSetKeyguardFirstDes">Definir a palavra-passe do primeiro espaço antes de definir a palavra-passe do segundo espaço</string>
@@ -146,14 +146,14 @@ Caso contrário, pode não conseguir entrar no segundo espaço através do ecrã
   <string name="restore_show_toast">Não está a mostrar mensagens privadas</string>
   <string name="retain_src_file">Manter ficheiros</string>
   <string name="retain_src_photo">Manter fotos</string>
-  <string name="scanner_fingerprint">A analizar impressão digital…</string>
+  <string name="scanner_fingerprint">A analisar impressão digital…</string>
   <string name="scanner_fingerprint_enter_second">"Digitalizar impressão digital do segundo espaço
  para ir para o segundo espaço através do ecrã de bloqueio"</string>
   <string name="scanner_fingerprint_error_tips_desc">Não foram encontradas correspondências. Adicionar uma impressão digital ao segundo espaço?</string>
   <string name="scanner_fingerprint_error_tips_title">Não foram encontradas correspondências</string>
   <string name="scanner_fingerprint_tips_desc">Seleccionar uma impressão digital existente para entrar no segundo espaço. Não vai poder utilizá-la no primeiro espaço</string>
   <string name="scanner_fingerprint_tips_title">Ir para o segundo espaço através de impressão digital</string>
-  <string name="scanner_second_space_fingerprint">Analizar impressão digital do segundo espaço</string>
+  <string name="scanner_second_space_fingerprint">Analisar impressão digital do segundo espaço</string>
   <string name="secondSpace">Segundo espaço</string>
   <string name="second_owner_finger_print">Impressão digital do segundo espaço</string>
   <string name="second_space_finger_printf_desc">Adicionar uma impressão digital utilizada especificamente para entrar no segundo espaço</string>

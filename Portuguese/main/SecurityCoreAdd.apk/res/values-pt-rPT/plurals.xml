@@ -10,6 +10,6 @@
     </plurals>
     <plurals name="second_space_notification_format">
         <item quantity="other">%d notificações no segundo espaço</item>
-        <item quantity="one">%d notificações no segundo espaço</item>
+        <item quantity="one">%d notificação no segundo espaço</item>
     </plurals>
 </resources>

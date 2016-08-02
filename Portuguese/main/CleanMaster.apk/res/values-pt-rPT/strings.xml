@@ -406,7 +406,7 @@
   <string name="toast_network_switch">Esta aplicação pode ligar à Internet</string>
   <string name="toast_removed_from_white_list">" removido de excepções"</string>
   <string name="toast_resolve_apk_error">Resolver erro da aplicação</string>
-  <string name="toast_scaning_similar_image">A verficar fotos…</string>
+  <string name="toast_scaning_similar_image">A verificar fotos…</string>
   <string name="toast_select_image_need_delete">Escolher fotos para eliminar</string>
   <string name="toast_select_white_need_remove">Escolher itens para remover</string>
   <string name="toast_selecte_group_restore_succeed">Fotos restauradas</string>
