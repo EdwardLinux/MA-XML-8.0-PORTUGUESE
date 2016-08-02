@@ -71,7 +71,7 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>
   <string name="antivirus_none_engine_dialog_title">Escolher definições de vírus</string>
   <string name="antivirus_privacy_dialog_cloudscan">Enviar nomes e detalhes da aplicação</string>
-  <string name="antivirus_privacy_dialog_cloudscan_description">Enviar e verficar nomes e detalhes da aplicação utilizando as definições de vírus online</string>
+  <string name="antivirus_privacy_dialog_cloudscan_description">Enviar e verificar nomes e detalhes da aplicação utilizando as definições de vírus online</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
   <string name="antivirus_privacy_dialog_summary">Esta funcionalidade encripta e envia o ID do seu dispositivo para o AVL e servidores do Tencent (%s)</string>
   <string name="antivirus_privacy_dialog_summary_link">Ver Política de Privacidade</string>
@@ -255,7 +255,7 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="data_network_blocked_notification_title">Sem ligação à Internet</string>
   <string name="data_usage_correction_timeout_body">Toque para actualizar manualmente</string>
   <string name="data_usage_correction_timeout_title">Sincronização da utilização de dados expirou</string>
-  <string name="data_usage_disabled_dialog">Já atingiu o limite de utilização do seu pacote de dados. Se exedeu o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
+  <string name="data_usage_disabled_dialog">Já atingiu o limite de utilização do seu pacote de dados. Se excedeu o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
   <string name="data_usage_disabled_dialog_enable">Ligar dados móveis</string>
   <string name="data_usage_leisure_warning_body">Toque para ver os detalhes da utilização de dados</string>
   <string name="data_usage_leisure_warning_title">Limite de utilização de dados</string>
@@ -669,7 +669,7 @@ L"&lt;/b&gt;"er as instruções que vieram com o seu router e restaurar o seu ro
 T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um problema com a ligação, entre em contacto com o seu prestador de serviços de Internet</string>
   <string name="network_sim_exception_detail">"Pode existir um problema com o seu cartão SIM:
 
- 1. Certifique-se que a sua conta está normal na sua operadora. Tente usar um cartão SIM de um amigo e vericar se consegue ligar normalmente
+ 1. Certifique-se que a sua conta está normal na sua operadora. Tente usar um cartão SIM de um amigo e verificar se consegue ligar normalmente
 
  2. Se utilizar dois cartões SIM, tente mudar para o outro cartão e veja se consegue ligar normalmente
 
@@ -767,7 +767,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="power_analysis_consume_title">Utilização de bateria</string>
   <string name="power_analysis_suggestion_need_optimize">Problemas detectados na utilização de bateria</string>
   <string name="power_bluetooth">Bluetooth</string>
-  <string name="power_btn_analyze">Analizar utilização de bateria</string>
+  <string name="power_btn_analyze">Analisar utilização de bateria</string>
   <string name="power_cell">Inactividade do telefone</string>
   <string name="power_center_auto_shutdown">Ligar/desligar automaticamente</string>
   <string name="power_center_battery_full">"Bateria totalmente carregada "</string>
@@ -921,7 +921,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="protocol_exception_title">Diagnósticos de protocolo de rede</string>
   <string name="protocol_loop_back_exception_summary">O teste local falhou. Para reportar este problema à MIUI, seleccione a aplicação reportar erros para enviar um registo a partir o seu dispositivo</string>
   <string name="quick_optimize_checking">A verificar</string>
-  <string name="quick_optimize_no_fix_issue_subtitle">Não foi possível extender a vida da bateria</string>
+  <string name="quick_optimize_no_fix_issue_subtitle">Não foi possível estender a vida da bateria</string>
   <string name="quick_optimize_no_fix_issue_title">Não foi possível corrigir os problemas de bateria</string>
   <string name="quick_optimize_no_issue">Sem problemas de bateria</string>
   <string name="quick_optimize_no_issue_subtitle">Verificação concluída</string>
@@ -956,7 +956,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="result_sign_header">Encontrou %d aplicações não oficiais</string>
   <string name="result_sms_header">Detectados riscos de mensagens</string>
   <string name="result_sms_info_antispam">Ligar a lista de bloqueio para proteger o dispositivo de URLs maliciosos</string>
-  <string name="result_sms_info_auth">Restrinjir o acesso de aplicações de terceiros a códigos de verificação</string>
+  <string name="result_sms_info_auth">Restringir o acesso de aplicações de terceiros a códigos de verificação</string>
   <string name="result_sms_title_antispam">Ameaçado por URLs maliciosos de SMS</string>
   <string name="result_sms_title_auth">Detectados riscos de SMS financeiros</string>
   <string name="result_virus_header">Encontrou %d vírus e aplicações inseguras</string>
@@ -974,7 +974,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="root">Acesso root</string>
   <string name="root_apply_step_1">Conceder acesso root a %s?</string>
   <string name="root_apply_step_2">Ao conceder acesso root às aplicações pode causar instabilidade no dispositivo</string>
-  <string name="root_apply_step_3">A segurança dos seus dados de utilizador (contas, palavras-passe e mensagens) podem ser comprometidos</string>
+  <string name="root_apply_step_3">A segurança dos seus dados de utilizador (contas, palavras-passe e mensagens) podem ser comprometidas</string>
   <string name="root_apply_step_4">Ao conceder acesso root às aplicações faça-o por sua conta e risco</string>
   <string name="root_apply_step_5">Conceder acesso root a %s?</string>
   <string name="root_apply_title">Aviso importante</string>
@@ -1058,7 +1058,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="sp_settings_group_title_omit">Itens omitidos</string>
   <string name="sp_settings_info_input_method">Utilizar método de entrada do sistema nas aplicações de pagamento</string>
   <string name="sp_settings_info_monitor">Monitorizar ambiente do sistema quando as aplicações de pagamento iniciarem</string>
-  <string name="sp_settings_plugin_monitor_summary">Analizar plugins de pagamento quando iniciarem</string>
+  <string name="sp_settings_plugin_monitor_summary">Analisar plugins de pagamento quando iniciarem</string>
   <string name="sp_settings_plugin_monitor_title">Monitorizar plugins de pagamento</string>
   <string name="sp_settings_title_input_method">Segurança IME</string>
   <string name="sp_settings_root_title_omit">Verificar acesso root</string>
@@ -1222,7 +1222,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="title_permission_yes">Monitor de permissões ligado</string>
   <string name="title_power_optimizer">Poupança de bateria</string>
   <string name="title_show_notification">Controlos da área de notificações</string>
-  <string name="title_telecom_operator">Uilizar contagem operadora</string>
+  <string name="title_telecom_operator">Utilizar contagem da operadora</string>
   <string name="title_usb_no">Depuração USB ligada</string>
   <string name="title_usb_yes">Depuração USB desligada</string>
   <string name="title_virus_cloudscan">Utilizar as definições de vírus online</string>
@@ -1316,7 +1316,7 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="traffic_setting_open">Ligado</string>
   <string name="traffic_setting_step_num">Definições de plano de dados</string>
   <string name="traffic_warning_purchase_title">Aviso de utilização de dados móveis</string>
-  <string name="updating_diagnostic_botton">A analizar dados…</string>
+  <string name="updating_diagnostic_botton">A analisar dados…</string>
   <string name="unable_connect_internet">Sem ligação à Internet</string>
   <string name="usage_sorted_activity_lable">Utilização de dados</string>
   <string name="usage_sorted_empty_text">Vazio</string>

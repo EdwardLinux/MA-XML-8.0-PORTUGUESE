@@ -831,7 +831,7 @@ e nunca perca as novidades!"</string>
   <string name="video_parse_hint">Aplicações suportadas: WeChat, Weibo, Youku</string>
   <string name="video_parse_success">Analizado com sucesso</string>
   <string name="video_parse_timeout">Erro. Tente novamente</string>
-  <string name="video_parsing_btn">A analizar…</string>
+  <string name="video_parsing_btn">A analisar…</string>
   <string name="video_play_failed">Erro desconhecido</string>
   <string name="video_publish_hint">Uma boa descrição vai ajudar outras pessoas a encontrar o seu vídeo</string>
   <string name="video_releasing">A enviar…</string>
