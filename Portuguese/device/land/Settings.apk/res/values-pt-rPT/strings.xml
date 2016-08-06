@@ -812,7 +812,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="connect_to_internet">Ligar à rede</string>
   <string name="connected_via_passpoint">Ligado via %1$s</string>
   <string name="connected_via_wfa">Ligado via assistente de Wi-Fi</string>
-  <string name="connected_wifi">Redes Ligadas</string>
+  <string name="connected_wifi">Ligado</string>
   <string name="connecting_to_vpn">A ligar à VPN</string>
   <string name="contributors_title">Contribuidores</string>
   <string name="controls_label">Controlos</string>

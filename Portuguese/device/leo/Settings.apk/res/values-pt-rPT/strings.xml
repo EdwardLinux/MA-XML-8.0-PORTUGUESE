@@ -680,7 +680,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="confirm_new_backup_pw_prompt">Reintroduzir novamente a sua nova palavra-passe para a cópia de segurança completa</string>
   <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">Ligar à rede</string>
-  <string name="connected_wifi">Redes Ligadas</string>
+  <string name="connected_wifi">Ligado</string>
   <string name="contributors_title">Contribuidores</string>
   <string name="controls_label">Controlos</string>
   <string name="controls_subtitle">Ajustar utilização de energia</string>
