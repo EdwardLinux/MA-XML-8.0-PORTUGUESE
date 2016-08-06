@@ -1906,7 +1906,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_battery_indicator_settings">Definições/Bateria e desempenho/Indicador de bateria</string>
   <string name="path_battery_settings">Definições/Bateria e desempenho</string>
   <string name="path_bluetooth_device_name">Definições/Bluetooth/Nome do dispositivo</string>
-  <string name="path_bluetooth_enable">Definições/Bluetooth/Activar Bluetooth</string>
+  <string name="path_bluetooth_enable">Definições/Bluetooth/Bluetooth</string>
   <string name="path_bluetooth_settings">Definições/Bluetooth</string>
   <string name="path_brightness_settings">Definições/Ecrã/Nível do brilho</string>
   <string name="path_button_light_timeout">Definições/Definições adicionais/Botões/Duração da luz dos botões</string>
@@ -1926,7 +1926,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_dndm_alarm_content">Definições/Não incomodar/Excepções</string>
   <string name="path_dndm_auto_button_title">Definições/Não incomodar/Definir hora</string>
   <string name="path_dndm_auto_time_setting">Definições/Não incomodar/Definir hora</string>
-  <string name="path_dndm_open">Definições/Não incomodar/Activar Não incomodar</string>
+  <string name="path_dndm_open">Definições/Não incomodar/Não incomodar</string>
   <string name="path_dndm_repeated_call_setting_title">Definições/Não incomodar/Chamadas repetidas</string>
   <string name="path_dndm_vip_call_setting_title">Definições/Não incomodar/Excepções</string>
   <string name="path_dndm_wristband">Definições/Não incomodar/Activar com a Mi Band</string>
