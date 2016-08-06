@@ -597,7 +597,7 @@ Faça um carregamento e comece a falar</string>
   <string name="livetalk_welcome_description_text">"• Poupe até 70% nas suas tarifas de chamadas
 • Ligue para qualquer país do mundo, não há restrições de operadora
 • Faça um carregamento e comece a falar, não há definições complicadas"</string>
-  <string name="livetalk_welcome_notes_text">"Nota: Cada chamada necessita de 1KB de dados móveis. Números curtos e de serviço não são suportados. Se pagar por chamadas recebidas, vai ser cobrado pela operadora quando o roaming estiver ligado. A sua operadora pode cobrar por um SMS utilizado para verificar este número de telefone"</string>
+  <string name="livetalk_welcome_notes_text">"Nota: Cada chamada necessita de 1KB de dados móveis. Números curtos e de serviço não são suportados. Se pagar por chamadas recebidas, vai ser cobrado pela operadora quando o roaming estiver ligado. A sua operadora pode cobrar por uma SMS utilizada para verificar este número de telefone"</string>
   <string name="livetalk_white_list_number_title">Fazer chamada normal</string>
   <string name="load_networks_progress">A pesquisar…</string>
   <string name="loading">Aguarde…</string>
