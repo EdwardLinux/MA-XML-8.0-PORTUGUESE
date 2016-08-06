@@ -9,8 +9,8 @@
   <string name="Settings_title_power_center">Definições de bateria</string>
   <string name="ac_enable_title">Ligar Bloqueio de aplicações</string>
   <string name="ac_enter_applock">Entrar no Bloqueio de aplicações</string>
-  <string name="ac_firstUseApplock_subTitle">Utilizar Bloqueio de aplicações para proteger a sua privacidade</string>
-  <string name="ac_firstUseApplock_title">Exigir padrão de desbloqueio para abrir as aplicações seleccionadas</string>
+  <string name="ac_firstUseApplock_subTitle">Utilize o Bloqueio de aplicações para proteger a sua privacidade</string>
+  <string name="ac_firstUseApplock_title">É necessário um padrão para abrir as aplicações</string>
   <string name="ac_summaryOff">Desligado. Não é necessário um padrão para abrir as aplicações</string>
   <string name="ac_summaryOn">Ligado. É necessário um padrão para abrir as aplicações</string>
   <string name="access_control_need_password">"%s adicionado com sucesso
