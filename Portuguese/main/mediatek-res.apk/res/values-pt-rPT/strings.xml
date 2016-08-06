@@ -54,7 +54,7 @@
   <string name="description_direction_right">Deslize para a direita para ignorar</string>
   <string name="description_direction_up">Deslize para cima para ignorar</string>
   <string name="dialog_color_picker">Menu de cores</string>
-  <string name="dismiss">Dipensar</string>
+  <string name="dismiss">Dispensar</string>
   <string name="dismiss_power_off">Dispensar e desligar</string>
   <string name="dismiss_power_on">Dispensar e ligar</string>
   <string name="dm_prompt">O dispositivo já está bloqueado</string>

@@ -593,7 +593,7 @@ e nunca perca as novidades!"</string>
   <string name="report_abuse">Abusos</string>
   <string name="report_advertisement">Anúncios</string>
   <string name="report_other">Outros</string>
-  <string name="report_politics">Incorreção política</string>
+  <string name="report_politics">Política</string>
   <string name="report_porn">Pornografia</string>
   <string name="report_violence">Violência</string>
   <string name="request_timeout">Pedido de rede expirou</string>
@@ -761,7 +761,7 @@ e nunca perca as novidades!"</string>
   <string name="upload_external_notification_failed">Não foi possível publicar</string>
   <string name="upload_external_notification_success">Publicado com sucesso</string>
   <string name="upload_external_notification_title">A publicar</string>
-  <string name="upload_failed">Não foi possivel enviar</string>
+  <string name="upload_failed">Não foi possível enviar</string>
   <string name="upload_file_toolarge_message">%1$d é demasiado grande. Não é possível enviar ficheiros maiores que 300MB</string>
   <string name="upload_local_video">Partilhar vídeo</string>
   <string name="upload_notification_compress_progress">A comprimir %1$s%%</string>
@@ -829,7 +829,7 @@ e nunca perca as novidades!"</string>
   <string name="video_parse_error_repeated">Não envie vídeos iguais</string>
   <string name="video_parse_error_unknown">Este serviço de vídeo não é suportado. Tente um diferente</string>
   <string name="video_parse_hint">Aplicações suportadas: WeChat, Weibo, Youku</string>
-  <string name="video_parse_success">Analizado com sucesso</string>
+  <string name="video_parse_success">Analisado com sucesso</string>
   <string name="video_parse_timeout">Erro. Tente novamente</string>
   <string name="video_parsing_btn">A analisar…</string>
   <string name="video_play_failed">Erro desconhecido</string>
