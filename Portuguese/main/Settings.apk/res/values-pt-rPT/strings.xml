@@ -1989,7 +1989,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_vibrate_on_touch_title">Definições/Som e vibração/Vibrar ao tocar</string>
   <string name="path_vibrate_when_ringing_title">Definições/Som e vibração/Vibrar também para chamadas</string>
   <string name="path_virtual_sim">Definições/Mais/Dados móveis internacionais</string>
-  <string name="path_vpn_enable">Definições/Mais/VPN/Activar VPN</string>
+  <string name="path_vpn_enable">Definições/Mais/VPN/VPN</string>
   <string name="path_vpn_settings">Definições/Mais/VPN</string>
   <string name="path_vpn_settings_password">Definições/Mais/VPN/Palavra-passe VPN</string>
   <string name="path_wakeup_for_keyguard_notification_title">Definições/Ecrã de bloqueio e segurança/Ligar ecrã para notificações</string>
