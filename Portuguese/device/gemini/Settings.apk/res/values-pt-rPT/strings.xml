@@ -4210,7 +4210,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="wifi_empty_list_wifi_on">A localizar redes Wi-Fi…</string>
   <string name="wifi_enable">Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam">Alternar entre dados móveis e Wi-Fi</string>
-  <string name="wifi_enable_data_and_wifi_roam_summary">Manter os dados móveis e Wi-Fi ligados para alterar para dados quando a ligação Wi-Fi for fraca</string>
+  <string name="wifi_enable_data_and_wifi_roam_summary">Alterar para dados móveis quando a ligação Wi-Fi for fraca</string>
   <string name="wifi_enable_watchdog_service_summary">Evitar ligações fracas</string>
   <string name="wifi_error">Erro</string>
   <string name="wifi_fail_to_scan">Não é possível pesquisar redes</string>
