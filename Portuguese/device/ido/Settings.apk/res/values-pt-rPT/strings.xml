@@ -2887,9 +2887,9 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_notification_sound">Som</string>
   <string name="status_bar_settings_notification_vibrate">Vibração</string>
   <string name="status_bar_settings_show_carrier">Mostrar nome da operadora</string>
-  <string name="status_bar_settings_show_carrier_summary">Nome da operadora vai continuar a ser mostrado no ecrã de bloqueio e nas notificações mesmo com esta função desligada</string>
+  <string name="status_bar_settings_show_carrier_summary">O nome da operadora vai continuar a ser mostrado no ecrã de bloqueio e nas notificações mesmo com esta função desligada</string>
   <string name="status_bar_settings_show_floating_notification">Notificações flutuantes</string>
-  <string name="status_bar_settings_show_floating_notification_summary">Notificações flutuantes vão desaparecer automaticamente depois de aparecerem no topo do ecrã</string>
+  <string name="status_bar_settings_show_floating_notification_summary">As notificações flutuantes vão desaparecer automaticamente depois de aparecerem no topo do ecrã</string>
   <string name="status_bar_settings_show_flow_info">Mostrar detalhes do streaming</string>
   <string name="status_bar_settings_show_home_message">Ícone da aplicação</string>
   <string name="status_bar_settings_show_keyguard_notification">Notificações no ecrã de bloqueio</string>
