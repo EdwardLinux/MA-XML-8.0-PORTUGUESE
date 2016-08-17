@@ -345,7 +345,7 @@ Verifique o seu número de pesquisa"</string>
   <string name="recharge_follow_name">Recarregar</string>
   <string name="recharge_history">Histórico de carregamentos</string>
   <string name="recharge_history_empty">Vazio</string>
-  <string name="recharge_input_phone_title">Introduzir número de telefone (China Mobile, China Unicom, or China Telecom)</string>
+  <string name="recharge_input_phone_title">Introduzir número de telefone (China Mobile, China Unicom, ou China Telecom)</string>
   <string name="recharge_my_phone_number">Meu número</string>
   <string name="recharge_order_actual_price">€%s</string>
   <string name="recharge_order_id">Compra #:</string>

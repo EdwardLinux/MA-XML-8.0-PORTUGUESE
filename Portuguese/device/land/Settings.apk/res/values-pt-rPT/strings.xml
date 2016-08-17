@@ -2908,7 +2908,7 @@ Para utilizar a fixação no ecrã:
   <string name="sd_ejecting_summary">Desmontagem em curso…</string>
   <string name="sd_ejecting_title">A desmontar</string>
   <string name="sd_format">Formatar armazenamento USB</string>
-  <string name="sd_format_summary">Eliminar todos os dados do dispositivo de armazenamento USB interno, como música e fotos</string>
+  <string name="sd_format_summary">Eliminar todos os dados do armazenamento USB interno, como música e fotos</string>
   <string name="sd_insert_summary">Insira um armazenamento USB para montar</string>
   <string name="sd_memory">Armazenamento USB</string>
   <string name="sd_mount">Montar armazenamento USB</string>

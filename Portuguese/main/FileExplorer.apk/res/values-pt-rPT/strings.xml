@@ -123,7 +123,7 @@
   <string name="data_consumption_cancel">Sair</string>
   <string name="data_consumption_checkbox_hint">"Não mostrar novamente"</string>
   <string name="data_consumption_confirm">OK</string>
-  <string name="data_consumption_message">Esta aplicação necessita de uma ligação à Internet através do Wi-Fi para funcionar normalmente</string>
+  <string name="data_consumption_message">Esta aplicação necessita de uma ligação à Internet através de Wi-Fi para funcionar normalmente</string>
   <string name="data_consumption_message1">O dispositivo deve estar ligado à Internet para ver os vídeos e stickers mais populares</string>
   <string name="data_consumption_title">Ligação à Internet</string>
   <string name="decompress_cancel">Cancelar</string>

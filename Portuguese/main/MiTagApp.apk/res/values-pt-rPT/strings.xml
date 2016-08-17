@@ -174,7 +174,7 @@ toque a com a parte de trás do seu dispositivo."</string>
   <string name="sound_media">Multimédia</string>
   <string name="sound_notification">Notificações</string>
   <string name="sound_ringer">Toque</string>
-  <string name="sound_voice">Volume chamada</string>
+  <string name="sound_voice">Volume de chamada</string>
   <string name="start_configuration"/>
   <string name="sure_to_delete_user_config">Eliminar esta tarefa?</string>
   <string name="tag_history">Histórico</string>
