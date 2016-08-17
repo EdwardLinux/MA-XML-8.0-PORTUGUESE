@@ -220,7 +220,7 @@
   <string name="hints_quick_cleanuping">A optimizar…</string>
   <string name="hints_quick_deep_clean">Limpar agora</string>
   <string name="hints_quick_deep_scanning">A verificar</string>
-  <string name="hints_quick_deep_uninstall">Eliminar agora</string>
+  <string name="hints_quick_deep_uninstall">Limpar agora</string>
   <string name="hints_quick_prepare">A preparar…</string>
   <string name="hints_quick_scanning">A verificar…</string>
   <string name="hints_residual_header_left">Residuais</string>

@@ -50,8 +50,8 @@
         <item quantity="one">Pode limpar os dados desnecessários para %d aplicação</item>
     </plurals>
     <plurals name="deepclean_app_summary">
-        <item quantity="other">%d aplicações instaladas. Pode eliminar as aplicações raramente utilizadas</item>
-        <item quantity="one">%d aplicação instalada. Pode eliminar esta aplicação</item>
+        <item quantity="other">%d aplicações instaladas. Pode desinstalar as aplicações raramente utilizadas</item>
+        <item quantity="one">%d aplicação instalada. Pode desinstalar esta aplicação</item>
     </plurals>
     <plurals name="deepclean_large_summary">
         <item quantity="other">Encontrou %d ficheiros grandes. Pode eliminar os ficheiros desnecessários</item>
