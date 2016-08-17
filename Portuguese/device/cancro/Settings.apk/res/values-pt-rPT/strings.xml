@@ -1854,7 +1854,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="lockpattern_settings_help_how_to_record">Como desenhar um padrão de desbloqueio</string>
   <string name="lockpattern_settings_power_button_instantly_locks_summary">Excepto quando mantido bloqueado por %1$s</string>
   <string name="lockpattern_settings_title">Padrão de desbloqueio</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts">Demasiadas tentativas incorretas. Tente novamente dentro de %d segundos</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts">Demasiadas tentativas incorrectas. Tente novamente dentro de %d segundos</string>
   <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
   <string name="lockpattern_tutorial_continue_label">Seguinte</string>
   <string name="lockscreen_glogin_checking_password">A verificar…</string>

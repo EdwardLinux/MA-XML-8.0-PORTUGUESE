@@ -117,7 +117,7 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root"</string>
   <string name="HIPS_Perm_Location">Obter informações de localização</string>
   <string name="HIPS_Perm_Location_Access">obter localização exacta (baseada no GPS e na rede)</string>
   <string name="HIPS_Perm_Location_CellInfo">obter localização aproximada utilizando os dados das antenas de telemóvel</string>
-  <string name="HIPS_Perm_Location_CellLocation">obter localização aproximada utilizando da localização da antenas de telemóvel</string>
+  <string name="HIPS_Perm_Location_CellLocation">obter localização aproximada utilizando a localização das antenas de telemóvel</string>
   <string name="HIPS_Perm_Location_Desc">obter localização exacta (baseada no GPS e na rede)</string>
   <string name="HIPS_Perm_Location_Hint">%1$s aplicações podem obter localização exacta (baseada no GPS e na rede)</string>
   <string name="HIPS_Perm_Location_Monitor">monitorizar a sua localização</string>
@@ -136,7 +136,7 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root"</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s aplicações podem ligar ou desligar dados móveis</string>
   <string name="HIPS_Perm_Network_Accept">Aceitar link de %1$s?</string>
   <string name="HIPS_Perm_Network_Connect">Local do link: %1$s</string>
-  <string name="HIPS_Perm_Network_Listen">Á escuta da porta %1$s</string>
+  <string name="HIPS_Perm_Network_Listen">À escuta da porta %1$s</string>
   <string name="HIPS_Perm_Network_MobileEvent">Utilização de dados móveis</string>
   <string name="HIPS_Perm_Network_Recv">Receber dados</string>
   <string name="HIPS_Perm_Network_Send">Enviar dados</string>

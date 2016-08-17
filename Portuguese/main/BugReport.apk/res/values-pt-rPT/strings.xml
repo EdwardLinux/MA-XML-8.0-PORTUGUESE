@@ -144,7 +144,7 @@
   <string name="michat_msg_status_arrived">Enviado</string>
   <string name="michat_msg_status_send">Enviar</string>
   <string name="michat_msg_status_sendding">A enviar…</string>
-  <string name="michat_msg_too_long_info">Introduziu %1$d caracteres. Não é possivel introduzir mais do que %2$d caracteres</string>
+  <string name="michat_msg_too_long_info">Introduziu %1$d caracteres. Não é possível introduzir mais do que %2$d caracteres</string>
   <string name="michat_net_error_info">Não existe ligação à Internet. Toque aqui para ir às Definições</string>
   <string name="michat_network_unavaliable">Não foi possível obter informação. Verifique a ligação à Internet</string>
   <string name="michat_no_good_message_title">Isto não resolveu o meu problema</string>
