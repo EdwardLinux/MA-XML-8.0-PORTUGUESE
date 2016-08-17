@@ -65,7 +65,7 @@
   <string name="dialog_insufficient_space_on_cache">Não é possível concluir a transferência. Não existe espaço suficiente no armazenamento interno</string>
   <string name="dialog_insufficient_space_on_external">Não é possível concluir a transferência. Não existe espaço suficiente no armazenamento externo</string>
   <string name="dialog_media_not_found">Não é possível transferir. O dispositivo externo não está disponível</string>
-  <string name="dialog_msg_disabled_net">%1$s transferências restrictas na rede actual. Toque nas definições de rede para ir para a aplicação de Segurança</string>
+  <string name="dialog_msg_disabled_net">%1$s transferências restritas na rede actual. Toque nas definições de rede para ir para a aplicação de Segurança</string>
   <string name="dialog_queued_body">Este ficheiro foi adicionado à lista de transferências pendentes</string>
   <string name="dialog_title_disabled_net">Acesso à Internet</string>
   <string name="dialog_title_not_available">A transferência falhou</string>
@@ -230,7 +230,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="pref_download_storage_path">Criar uma nova pasta para transferências</string>
   <string name="pref_sniff_shortcut">Criar atalho no ecrã inicial para a pesquisa web</string>
   <string name="pref_summary_any_bytes_popup">Aguardar sempre por uma ligação Wi-Fi para transferir ficheiros</string>
-  <string name="pref_summary_enable_max_bytes_popup">Mostrar notificação popup quando utilizar ligação de dados móveis para transferir conteúdo</string>
+  <string name="pref_summary_enable_max_bytes_popup">Mostrar notificação quando utilizar ligação de dados móveis para transferir conteúdo</string>
   <string name="pref_summary_max_bytes_limit_format">Aguardar por Wi-Fi se o tamanho do ficheiro exceder %s</string>
   <string name="pref_summary_no_limit_popup">Ilimitado</string>
   <string name="pref_title_enable_max_bytes_popup">Mostrar aviso de utilização de dados</string>
@@ -316,7 +316,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="sniff_copyright_text">Não é possível mostrar resultados devido a problemas de direitos de autor</string>
   <string name="sniff_download_task_already_exist">Esta transferência já existe</string>
   <string name="sniff_download_task_create_success">Transferência adicionada</string>
-  <string name="sniff_finding_resource_prompt">A pequisar na web…</string>
+  <string name="sniff_finding_resource_prompt">A pesquisar na web…</string>
   <string name="sniff_hot_text">Relacionados</string>
   <string name="sniff_no_network_tip">Verifique a sua ligação de rede e tente novamente</string>
   <string name="sniff_no_result_text">Sem resultados encontrados</string>
@@ -372,7 +372,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="third_web_filename_hint">Nome</string>
   <string name="third_web_filesize">Tamanho</string>
   <string name="third_web_savepath">Caminho</string>
-  <string name="third_web_title">Tranferir</string>
+  <string name="third_web_title">Transferir</string>
   <string name="title_homepage_infoflow">Actualizações recentes</string>
   <string name="title_tips">Atenção</string>
   <string name="title_unbind_xunlei">Remover a sua conta Xunlei</string>

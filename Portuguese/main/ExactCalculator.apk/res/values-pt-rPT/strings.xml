@@ -54,5 +54,5 @@
   <string name="mode_rad">rad</string>
   <string name="ok_remove_timeout">Utilizar tempo limite maior</string>
   <string name="text_copied_toast">Texto copiado</string>
-  <string name="timeout">Tempo limite excedido. O valor pode ser infinito ou indefinido.</string>
+  <string name="timeout">Tempo limite excedido. O valor pode ser infinito ou indefinido</string>
 </resources>

@@ -172,7 +172,7 @@
   <string name="goto_set">Definir</string>
   <string name="grabage_rank_title">Limpo hoje</string>
   <string name="harass_detail">Bloqueadas %1$d SMS e %2$d chamadas</string>
-  <string name="header_optimizer">Ao usar esta funcionalidade está a concordar com %s</string>
+  <string name="header_optimizer">Ao utilizar esta funcionalidade está a concordar com %s</string>
   <string name="hint_clean_select_similar_image">A eliminar duplicados…</string>
   <string name="hints_ad_header_left">Ficheiros de anúncios</string>
   <string name="hints_apk_header_left">Pacotes</string>
