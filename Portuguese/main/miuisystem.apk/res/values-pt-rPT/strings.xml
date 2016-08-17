@@ -32,7 +32,7 @@
   <string name="edit_frequent_phrases">Editar frases frequentes</string>
   <string name="fools_day">Dia das mentiras</string>
   <string name="frequent_phrases_size_exceeded">Pode adicionar até %1$d frases frequentes. Elimine as desnecessárias para adicionar mais</string>
-  <string name="glockenspiel"/>
+  <string name="glockenspiel">Glockenspiel</string>
   <string name="good_friday"/>
   <string name="grain_buds"/>
   <string name="grain_in_ear"/>
@@ -51,7 +51,7 @@
   <string name="labour_day"/>
   <string name="lantern_festival"/>
   <string name="light_snow"/>
-  <string name="lollipop"/>
+  <string name="lollipop">Lollipop</string>
   <string name="lunar_ba"/>
   <string name="lunar_calendar"/>
   <string name="lunar_chu"/>
@@ -107,7 +107,7 @@
   <string name="the_mid_autumn_festival"/>
   <string name="the_rains"/>
   <string name="the_spring_festival"/>
-  <string name="toyrobot"/>
+  <string name="toyrobot">ToyRobot</string>
   <string name="tw_childrens_day"/>
   <string name="tw_youth_day"/>
   <string name="united_nations_day"/>
