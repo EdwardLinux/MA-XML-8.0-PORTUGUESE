@@ -137,7 +137,7 @@ toque a com a parte de trás do seu dispositivo."</string>
   <string name="play_song">Reproduzir uma música</string>
   <string name="preference">Definições</string>
   <string name="pwd_alert">Definir palavra-passe agora</string>
-  <string name="pwd_pref">Protejer etiqueta de ser reescrita</string>
+  <string name="pwd_pref">Proteger etiqueta de ser reescrita</string>
   <string name="pwd_pref_desc">Exigir palavra-passe antes que os utilizadores possam escrever nesta etiqueta</string>
   <string name="read_a_tag">Ler uma etiqueta</string>
   <string name="reading">A ler…</string>

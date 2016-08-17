@@ -209,7 +209,7 @@
   <string name="contact_detail_miprofile_binded_label">Verificados</string>
   <string name="contact_detail_miprofile_exchange_closed">"Nenhum número de telefone está associado a esta Conta Mi
  Cartões de contactos estão desligados"</string>
-  <string name="contact_detail_miprofile_privacy_settings">Necessário permissão para ver</string>
+  <string name="contact_detail_miprofile_privacy_settings">Necessária permissão para ver</string>
   <string name="contact_detail_miprofile_request">Trocar cartões de contacto</string>
   <string name="contact_detail_miprofile_request_fail_toast">"Não foi possível enviar o pedido"</string>
   <string name="contact_detail_miprofile_request_subtitle">Actualizar informação deste contacto automaticamente</string>
@@ -293,7 +293,7 @@
   <string name="description_add_contact">Adicionar contacto</string>
   <string name="description_call">Chamada %1$s</string>
   <string name="description_call_log_incoming_call">Chamada recebida</string>
-  <string name="description_call_log_missed_call">Chamadas não atendida</string>
+  <string name="description_call_log_missed_call">Chamada não atendida</string>
   <string name="description_call_log_outgoing_call">Chamada efectuada</string>
   <string name="description_call_log_play_button">Reproduzir Voice Mail</string>
   <string name="description_call_log_unheard_voicemail">Mensagem de voz não ouvida</string>
@@ -1026,16 +1026,16 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="scanning_sdcard_failed_title">O armazenamento não pode ser verificado</string>
   <string name="searchHint">Pesquisar contactos</string>
   <string name="search_batch_delete">Organizar;Contactos</string>
-  <string name="search_contacts_display">Contacts;Mostrar</string>
+  <string name="search_contacts_display">Contactos;Mostrar</string>
   <string name="search_contacts_more">Organizar;Contactos</string>
   <string name="search_contacts_recovery">Contactos</string>
-  <string name="search_contacts_setting">Definições dos contactos;Mostrar fotos e informação;Atribuir foto ao contacto;Importar e exportar;Partilhar;Importar do cartão SD;Importar do cartão SIM;Importar doutro telefone;Exportar do cartão SD;Exportar do cartão SIM;Partilhar conctactos vísiveis;Preferências de visualização;Ocultar números incompletos;Mostrar contactos do SIM;Configurar listas de contactos;Grupos inteligentes;Organizar contactos;Unir contactos duplicados;Eliminar registos;Limpar dados;Reconstruir os dados do índice;t9;Cartões SIM;Armazenamento cartão SIM;Introdução da recuperação de contactos</string>
+  <string name="search_contacts_setting">Definições dos contactos;Mostrar fotos e informação;Atribuir foto ao contacto;Importar e exportar;Partilhar;Importar do cartão SD;Importar do cartão SIM;Importar doutro telefone;Exportar do cartão SD;Exportar do cartão SIM;Partilhar contactos visíveis;Preferências de visualização;Ocultar números incompletos;Mostrar contactos do SIM;Configurar listas de contactos;Grupos inteligentes;Organizar contactos;Unir contactos duplicados;Eliminar registos;Limpar dados;Reconstruir os dados do índice;t9;Cartões SIM;Armazenamento cartão SIM;Introdução da recuperação de contactos</string>
   <string name="search_display_only_phones">Contactos;Mostrar</string>
   <string name="search_display_sim_contacts">Contactos;Mostrar</string>
   <string name="search_export_to_sdcard">Contactos;Exportar;Armazenamento</string>
   <string name="search_export_to_sim">Contactos;Exportar;Cartão SIM</string>
   <string name="search_import_export">Importar;Exportar;Partilhar</string>
-  <string name="search_import_from_other_phone">Contacts;Importar;outro telefone</string>
+  <string name="search_import_from_other_phone">Contactos;Importar;outro telefone</string>
   <string name="search_import_from_sdcard">Contactos;Importar;Armazenamento</string>
   <string name="search_import_from_sim">Contactos;Importar;Cartão SIM</string>
   <string name="search_key_photo_word">Atribuir;contacto;fotos;Contactos</string>
@@ -1045,7 +1045,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="search_remove_duplicate">Organizar;Contactos</string>
   <string name="search_results_searching">A pesquisar…</string>
   <string name="search_settings_description">Nomes dos seus contactos</string>
-  <string name="search_share_visible_contacts">Contactos;Partilhar;vísiveis</string>
+  <string name="search_share_visible_contacts">Contactos;Partilhar;visíveis</string>
   <string name="search_sim_capacity">Contactos</string>
   <string name="search_simple_mode">Mostrar;info;fotos;Contactos</string>
   <string name="search_smart_group_title">Contactos;Mostrar</string>

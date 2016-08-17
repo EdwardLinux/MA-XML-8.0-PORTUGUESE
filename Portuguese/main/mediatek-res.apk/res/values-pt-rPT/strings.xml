@@ -181,7 +181,7 @@ Tente novamente em %d segundos"</string>
   <string name="never">Nunca</string>
   <string name="new_sim">Novo SIM</string>
   <string name="new_simcard">Novo cartão SIM</string>
-  <string name="no_favorite_contacts">Sem contatos favoritos</string>
+  <string name="no_favorite_contacts">Sem contactos favoritos</string>
   <string name="nq_sms_filter_message">Esta mensagem poderá ter custos. Deseja continuar?</string>
   <string name="nq_sms_filter_no">Não</string>
   <string name="nq_sms_filter_title">Filtro de SMS</string>
