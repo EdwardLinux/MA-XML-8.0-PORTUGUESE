@@ -2440,7 +2440,7 @@ Para utilizar a fixação no ecrã:
   <string name="screensaver_settings_title">DayDream</string>
   <string name="screensaver_settings_when_to_dream">Quando em DayDream</string>
   <string name="screenshot">Capturas de ecrã</string>
-  <string name="screenshot_three_gesture">Deslizar três dedos simultaneamente vai tirar uma captura de ecrã</string>
+  <string name="screenshot_three_gesture">Deslizar três dedos simultaneamente para tirar uma captura de ecrã</string>
   <string name="sd_card_settings_label">Armazenamento USB</string>
   <string name="sd_card_storage">Armazenamento USB</string>
   <string name="sd_eject">Desmontar partilha de armazenamento</string>

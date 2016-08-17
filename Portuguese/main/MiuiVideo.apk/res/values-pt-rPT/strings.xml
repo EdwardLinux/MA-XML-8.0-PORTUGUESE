@@ -12,7 +12,7 @@
   <string name="add_more_addons">Adicionar mais add-ons</string>
   <string name="addon">Popular</string>
   <string name="addon_category">Add-ons</string>
-  <string name="addon_install_complete_disc">%s add-ons instalados. Pode vê-los em /Meus vídeos/</string>
+  <string name="addon_install_complete_disc">%s add-ons instalados. Pode vê-los em /Os meus vídeos/</string>
   <string name="addon_update_desc">Nova versão encontrada, actualizar agora?</string>
   <string name="adjust_position_next_media_notice">Seguinte</string>
   <string name="adjust_position_prev_media_notice">Último</string>
@@ -36,11 +36,11 @@
   <string name="app_charging_wifi_mode">Actualizar em Wi-Fi</string>
   <string name="app_charging_wifi_mode_summary">Actualizar aplicação automaticamente quando ligado ao Wi-Fi e a carregar bateria</string>
   <string name="app_latest_version">Não existem actualizações</string>
-  <string name="app_name">Vídeo</string>
+  <string name="app_name">Vídeos</string>
   <string name="app_plugin_ready">%1$s instalado</string>
   <string name="app_update_background">Actualize a sua aplicação em segundo plano</string>
   <string name="app_upgrade_hint">Toque para ver vídeos online em HD</string>
-  <string name="app_upgrade_title">Vídeo já está actualizado com a versão mais recente</string>
+  <string name="app_upgrade_title">Vídeos já está actualizado com a versão mais recente</string>
   <string name="app_upgrade_version">Actualização disponível</string>
   <string name="app_version">Versão</string>
   <string name="app_wifi_mode">Actualizar automaticamente</string>
@@ -187,7 +187,7 @@
   <string name="introduce">Resumo</string>
   <string name="join_alert_title">Juntar-se aos testes beta</string>
   <string name="join_hint">Introduzir código do convite</string>
-  <string name="key_back_down_toast">Toque voltar novamente para sair</string>
+  <string name="key_back_down_toast">Prima voltar novamente para sair</string>
   <string name="lastrefresh">Última actualização</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
@@ -346,7 +346,7 @@
   <string name="star3">3 estrelas</string>
   <string name="star4">4 estrelas</string>
   <string name="star5">5 estrelas</string>
-  <string name="start_addon">Começo de publicidade</string>
+  <string name="start_addon">Iniciar addon</string>
   <string name="storage_remain">"Disponível: "</string>
   <string name="storage_total">"Espaço total: "</string>
   <string name="subscribe">Subscrever</string>
@@ -355,7 +355,7 @@
   <string name="temp_play_history_button_label">Histórico</string>
   <string name="tencent">Tencent</string>
   <string name="to_be_play_label_v5">"A seguir: "</string>
-  <string name="toast_back_key_pressed_notice">Toque voltar novamente para sair</string>
+  <string name="toast_back_key_pressed_notice">Prima voltar novamente para sair</string>
   <string name="toast_message_continue_play_from">Reproduzir a partir de </string>
   <string name="toast_message_continue_play_hour">h </string>
   <string name="toast_message_continue_play_minute">m </string>
