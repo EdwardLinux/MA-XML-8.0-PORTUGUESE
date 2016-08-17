@@ -232,7 +232,7 @@
   <string name="colon">:</string>
   <string name="compose">Escrever</string>
   <string name="compose_attachment_number_limit">Não pode adicionar mais do que 10 anexos</string>
-  <string name="compose_picturesexceedlimits">Não pode exceder as 5 imagens por linha na mensagem</string>
+  <string name="compose_picturesexceedlimits">Não pode exceder as 5 imagens inline na mensagem</string>
   <string name="compose_send">Enviar</string>
   <string name="compose_sent">Enviado com sucesso</string>
   <string name="confirm">OK</string>
@@ -786,7 +786,7 @@
   <string name="report_spam">Denunciar spam</string>
   <string name="request_entity_large">O ficheiro é muito grande</string>
   <string name="request_permission_activity">Pedido de permissão</string>
-  <string name="respond_inline">Responder directamente</string>
+  <string name="respond_inline">Responder inline</string>
   <string name="save_action">Guardar</string>
   <string name="save_attachment">Guardar</string>
   <string name="save_draft_failed">Erro ao guardar rascunho</string>
