@@ -117,7 +117,7 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="apps_item_virus_summary_uninstalled">APK</string>
   <string name="apps_list_header_title_sms">Verificar a aplicação de mensagens</string>
   <string name="apps_list_header_title_sms_access">Restringir acesso a códigos de verificação</string>
-  <string name="auto_handle_title">GERAL</string>
+  <string name="auto_handle_title">Geral</string>
   <string name="back">Voltar</string>
   <string name="background_traffic">Segundo plano %s</string>
   <string name="battery_capacity_title">Capacidade da bateria</string>
@@ -245,7 +245,7 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="card_main_paysafe_title">Segurança dos pagamentos</string>
   <string name="card_main_sectool_title">Ferramentas</string>
   <string name="card_main_speeddetail_title">Velocidade da ligação</string>
-  <string name="card_main_speeddetailt_summary">Ver a velocidade da ligação para cada aplicação individualmente</string>
+  <string name="card_main_speeddetailt_summary">Ver a velocidade da ligação de cada aplicação</string>
   <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">"Última carga "</string>
   <string name="charging_text_battery_nearly_full">Quase carregada</string>
