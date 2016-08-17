@@ -25,11 +25,8 @@
   <string name="apply">Definir</string>
   <string name="apply_action">Definir</string>
   <string name="apply_as_lock_screen">Definir como ecrã de bloqueio</string>
-  <string name="apply_as_lock_wallpaper_message">Definir também como ecrã de bloqueio?</string>
-  <string name="apply_as_lockwallpaper_action">Definir</string>
   <string name="apply_as_wallpaper">Definir como ecrã inicial</string>
   <string name="apply_both">Definir ambos</string>
-  <string name="apply_negative_action">Não definir</string>
   <string name="aqi_quality_index_dangerous">Perigoso</string>
   <string name="aqi_quality_index_good">Bom</string>
   <string name="aqi_quality_index_hazardous">Arriscado</string>

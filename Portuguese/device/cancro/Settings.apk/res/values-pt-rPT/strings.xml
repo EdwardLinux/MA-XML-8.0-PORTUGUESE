@@ -2151,6 +2151,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="no_application">Nenhuma</string>
   <string name="no_applications">Não existem aplicações</string>
   <string name="no_battery_summary">Não utilizou bateria desde o último carregamento completo</string>
+  <string name="no_connected_devices">Sem dispositivos ligados</string>
   <string name="no_data_usage">Sem dados utilizados</string>
   <string name="no_default_apps">Sem aplicações predefinidas</string>
   <string name="no_device_admins">Não há administradores de dispositivo disponíveis</string>
@@ -3227,6 +3228,8 @@ Para utilizar a fixação no ecrã:
   <string name="show_all_anrs">Mostrar todos os ANRs</string>
   <string name="show_all_anrs_summary">Mostrar erro de Aplicação não está a responder para aplicações em segundo plano</string>
   <string name="show_background_processes">Mostrar processos em cache</string>
+  <string name="show_connected_devices_summary">Ver dispositivos ligados</string>
+  <string name="show_connected_devices_title">Dispositivos ligados</string>
   <string name="show_cpu_usage">Mostrar utilização do CPU</string>
   <string name="show_cpu_usage_summary">Sobreposição de ecrã ao mostrar a utilização do CPU actual</string>
   <string name="show_dev_already">Não é necessário, já é um programador</string>
@@ -3636,6 +3639,8 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="testing_sim_toolkit">Ferramentas do SIM</string>
   <string name="testing_usage_stats">Estatísticas de utilização</string>
   <string name="testing_wifi_info">Informação Wi-Fi</string>
+  <string name="tether_devices_management_title">Gerir dispositivos</string>
+  <string name="tether_settings_disabled">PA Móvel está desligado</string>
   <string name="tether_settings_title_all">Partilha de ligação e PA Móvel</string>
   <string name="tether_settings_title_bluetooth">Partilha de ligação Bluetooth</string>
   <string name="tether_settings_title_usb">Partilha de ligação USB</string>

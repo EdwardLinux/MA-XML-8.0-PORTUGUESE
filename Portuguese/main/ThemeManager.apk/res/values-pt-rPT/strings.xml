@@ -164,6 +164,7 @@
   <string name="resource_comment_upload_not_logined">Primeiro tem de iniciar a sessão</string>
   <string name="resource_comment_upload_success">O seu comentário será mostrado depois de uma breve revisão</string>
   <string name="resource_continue">Seguinte</string>
+  <string name="resource_data_empty">O conteúdo está vazio</string>
   <string name="resource_default">Toque predefinido</string>
   <string name="resource_default_name">Temas</string>
   <string name="resource_delete">Eliminar</string>

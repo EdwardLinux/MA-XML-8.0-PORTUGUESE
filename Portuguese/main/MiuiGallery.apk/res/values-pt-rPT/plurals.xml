@@ -52,13 +52,25 @@
         <item quantity="other">Não foi possível transferir %1$d fotos. Tentar novamente?</item>
         <item quantity="one">Não foi possível transferir foto. Tentar novamente?</item>
     </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">Não foi possível transferir %1$d fotos</item>
+        <item quantity="one">Não foi possível transferir %1$d foto</item>
+    </plurals>
     <plurals name="picker_retry_origin_confirm_message">
         <item quantity="other">Não foi possível transferir %1$d fotos (%2$dMB). Tentar novamente?</item>
         <item quantity="one">Não foi possível transferir foto (%2$dMB). Tentar novamente?</item>
     </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">Não foi possível transferir %1$d fotos (%2$dMB)</item>
+        <item quantity="one">Não foi possível transferir foto (%2$dMB)</item>
+    </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">Cancelar a transferência das %d fotos restantes?</item>
         <item quantity="one">Cancelar a transferência da última foto?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">Adicionadas %d fotos na Nuvem Mi. Desligue \"Mostrar apenas álbuns locais\" para ver</item>
+        <item quantity="one">Adicionada %d foto na Nuvem Mi. Desligue \"Mostrar apenas álbuns locais\" para ver</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">Eliminar %1$d fotos %2$s?</item>

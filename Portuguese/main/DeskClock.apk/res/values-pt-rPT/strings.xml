@@ -108,6 +108,7 @@
   <string name="time">Hora</string>
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Toque no ecrã para parar de tocar</string>
+  <string name="timer_alarm_dot_matrix_label">Temporizador</string>
   <string name="timer_alert_alert_silenced">O temporizador desliga após %d minutos</string>
   <string name="timer_clock_alert_text">Definir temporizador</string>
   <string name="timer_continue">Continuar</string>

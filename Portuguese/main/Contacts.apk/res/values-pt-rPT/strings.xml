@@ -499,7 +499,6 @@ Motivo: \"%s\""</string>
   <string name="ic_menu_done">Concluído</string>
   <string name="imLabelsGroup">IM</string>
   <string name="imei">"IMEI: "</string>
-  <string name="imei_invalid">IMEI inválido</string>
   <string name="import_all_sim_entries_miui">Importar todos os contactos</string>
   <string name="import_all_vcard_string">Importar todos os ficheiros vCard</string>
   <string name="import_contact_card_aggregate_suggestion_button">Unir cartões</string>
@@ -586,7 +585,6 @@ Motivo: \"%s\""</string>
   <string name="map_other">Ver endereço</string>
   <string name="map_work">Ver endereço do trabalho</string>
   <string name="meid">"MEID: "</string>
-  <string name="meid_invalid">MEID inválido</string>
   <string name="menuMoreDescription">Mais</string>
   <string name="menu_accounts">Contas</string>
   <string name="menu_addStar">Favoritos</string>

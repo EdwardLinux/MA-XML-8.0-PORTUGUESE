@@ -131,6 +131,9 @@
   <string name="notification_reboot_title_hm">Reiniciar para aplicar a actualização</string>
   <string name="notification_restart">Actualizar novamente</string>
   <string name="notification_share">Partilhar</string>
+  <string name="notification_uncrypt_summary_hm">Toque para reiniciar o seu dispositivo</string>
+  <string name="notification_uncrypt_title_hm">Reiniciar para aplica actualização</string>
+  <string name="notification_uncrypting">A desencriptar actualização</string>
   <string name="notification_update_new_version">Actualização disponível</string>
   <string name="notification_update_now">Actualizar agora</string>
   <string name="notification_updating">A actualizar…</string>
@@ -201,6 +204,7 @@
   <string name="timer_title">O dispositivo vai reiniciar em %d segundos</string>
   <string name="title_toast_auto">As actualizações vão ser transferidas automaticamente</string>
   <string name="top_secret_build">Super secreto</string>
+  <string name="uncrypt_title">A desencriptar (%s)</string>
   <string name="unkown_error_title">Não é possível transferir</string>
   <string name="unstable_build">Instável</string>
   <string name="update_comment_hint"/>

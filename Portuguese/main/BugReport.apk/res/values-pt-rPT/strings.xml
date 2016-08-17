@@ -7,6 +7,8 @@
   <string name="app_label">Comentários</string>
   <string name="app_name">Comentários</string>
   <string name="btn_send">Enviar</string>
+  <string name="bugreport_dialog_not_show_again">Não mostrar novamente</string>
+  <string name="bugreport_dialog_submit_content">O seu comentário pode ter informações pessoais</string>
   <string name="bugreport_dump_complete_notification_summary">Toque para ver</string>
   <string name="bugreport_dump_complete_notification_title">Relatório de erros criado</string>
   <string name="bugreport_dump_start_notification_summary">Aguarde alguns minutos</string>
@@ -84,6 +86,7 @@
   <string name="feedback_submit_hint2">Ir a \"Os meus relatórios\" para ver detalhes</string>
   <string name="feedback_submit_succ">Enviado com sucesso</string>
   <string name="feedback_submit_succ_button">Concluído</string>
+  <string name="feedback_submitting">A submeter…</string>
   <string name="feedback_suggestion_status_change_notification_desc">%1$s sugestão \"%2$s\"</string>
   <string name="feedback_title">Título</string>
   <string name="feedback_title_hint">Descreva detalhadamente o problema</string>
@@ -130,11 +133,11 @@
   <string name="michat_kefu_welcome">Bem-vindo ao suporte online da Xiaomi!</string>
   <string name="michat_lose_artificial">Ocorreu um erro de rede. Saiu do chat</string>
   <string name="michat_menu_copy_text">Copiar</string>
-  <string name="michat_mesage_resend_error_network">Não foi possível ligar à rede</string>
-  <string name="michat_mesage_send_error_network">Não foi possível enviar. Verifique a ligação de rede</string>
   <string name="michat_message_copy_info">Copiado para a área de transferências</string>
+  <string name="michat_message_error_network">Não foi possível ligar à rede</string>
   <string name="michat_message_join_again">Estamos gratos por voltar!</string>
   <string name="michat_message_robot_welcome">O meu nome é Mi Bunny. Sou o robot de suporte online</string>
+  <string name="michat_message_send_error_network">Não foi possível enviar. Verifique a ligação de rede</string>
   <string name="michat_motto">O Suporte Mi está pronto a ajudar</string>
   <string name="michat_msg_image_upload_error">Não foi possível enviar imagem. Tente novamente mais tarde</string>
   <string name="michat_msg_input_info">Descreva detalhadamente o problema</string>
@@ -149,7 +152,7 @@
   <string name="michat_pull_to_refresh_pull_label">Descer para ver histórico</string>
   <string name="michat_pull_to_refresh_refreshing_label">A carregar histórico…</string>
   <string name="michat_pull_to_refresh_release_label">Soltar para ver histórico</string>
-<string name="michat_queue_pos_update">Estão %1$d pessoa(s) à sua frente. Aguarde um momento…</string>
+  <string name="michat_queue_pos_update">Estão %1$d pessoa(s) à sua frente. Aguarde um momento…</string>
   <string name="michat_return_to_outside">Sair</string>
   <string name="michat_service_unavailiable">Não foi possível obter informação. Tente novamente mais tarde"</string>
   <string name="michat_skillset_business_type_title">Seleccionar serviço</string>
@@ -191,7 +194,7 @@
   <string name="packaging_dialog_content">A criar relatório…</string>
   <string name="pic_not_exist">Esta imagem não existe</string>
   <string name="pic_view_format">%1$s/%2$s</string>
-  <string name="plus_one_submit_dialog_content">O seu comentário assim como os relatórios de erros vão ser enviados para os servidores Mi</string>
+  <string name="plus_one_submit_dialog_content">O seu comentário assim como os relatórios de erros vão ser enviados para os servidores MIUI. Podem conter informações pessoais</string>
   <string name="plus_one_submit_dialog_not_show_again">Memorizar preferência</string>
   <string name="post_miui_bbs_failed">Não foi possível postar no fórum</string>
   <string name="pull_to_refresh_pull_label">Descer para actualizar</string>

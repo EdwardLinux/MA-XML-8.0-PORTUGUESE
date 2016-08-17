@@ -649,8 +649,9 @@ e nunca perca as novidades!"</string>
   <string name="search_title_hint">Pesquisar</string>
   <string name="select_dest_folder">Seleccionar pasta</string>
   <string name="select_image">Imagens</string>
-  <string name="select_music">Ficheiros de Áudio</string>
-  <string name="select_video">Ficheiros de Vídeo</string>
+  <string name="select_music">Ficheiros de áudio</string>
+  <string name="select_video">Ficheiros de vídeo</string>
+  <string name="select_volume">Seleccione volume</string>
   <string name="send_comment">Enviar</string>
   <string name="send_error">Não foi possível enviar comentário</string>
   <string name="send_sticker">Enviar sticker</string>

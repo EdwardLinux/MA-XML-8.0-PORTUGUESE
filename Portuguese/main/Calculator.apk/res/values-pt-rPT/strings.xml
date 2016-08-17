@@ -8,9 +8,12 @@
   <string name="cal_text_copied">Texto copiado</string>
   <string name="choose_currency">Seleccionar moeda</string>
   <string name="choose_unit">Seleccionar unidade</string>
+  <string name="city">Cidade</string>
   <string name="clear">C</string>
   <string name="clearDesc">limpar</string>
   <string name="clear_history">Limpar histórico</string>
+  <string name="combine_loan">Empréstimo combinado</string>
+  <string name="commercial_loan">Empréstimo comercial</string>
   <string name="convert_currency">Conversor de moedas</string>
   <string name="convertion_unit">Conversor de unidades</string>
   <string name="convertion_unit_area">Conversor de área</string>
@@ -23,6 +26,10 @@
   <string name="cos">cos</string>
   <string name="cosDesc">cosseno</string>
   <string name="currency_update_time_format">Actualizado em %s</string>
+  <string name="current_rate_remind_commercial"/>
+  <string name="current_rate_remind_fund"/>
+  <string name="dateformat">dd-MM-yyyy</string>
+  <string name="day">Dia</string>
   <string name="del">DEL</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>
@@ -52,6 +59,9 @@
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">Quilómetros por hora</string>
   <string name="from_unit_short">km/h</string>
+  <string name="fund"/>
+  <string name="fund_loan"/>
+  <string name="income_type"/>
   <string name="item_title_aa_payment">Dividir a conta</string>
   <string name="item_title_area_conversion">Área</string>
   <string name="item_title_calculator">Calculadora</string>
@@ -84,6 +94,7 @@
   <string name="loan_unit">×10K</string>
   <string name="minus">−</string>
   <string name="minusDesc">menos</string>
+  <string name="month"/>
   <string name="mortgage_amount">Total</string>
   <string name="mortgage_average_repayment_first_month">Primeiro mês de pagamento</string>
   <string name="mortgage_average_repayment_monthly">Pagamentos mensais</string>
@@ -132,8 +143,10 @@
   <string name="rightParenDesc">parêntese direito</string>
   <string name="sin">sin</string>
   <string name="sinDesc">seno</string>
+  <string name="social_security"/>
   <string name="sqrt">√</string>
   <string name="sqrtDesc">raiz quadrada</string>
+  <string name="start_calculate"/>
   <string name="tan">tan</string>
   <string name="tanDesc">tangente</string>
   <string name="tax_accumulation_fund">Fundo de acumulação</string>
@@ -145,6 +158,7 @@
   <string name="tax_city">Cidade</string>
   <string name="tax_city_located">Localização</string>
   <string name="tax_city_picker">Cidade</string>
+  <string name="tax_edittext_hint"/>
   <string name="tax_endowment">Fundo de reforma</string>
   <string name="tax_fixed_salary_hint">Introduza o seu rendimento bruto</string>
   <string name="tax_income_before_tax">Rendimento bruto</string>
@@ -164,8 +178,11 @@
   <string name="tax_thershold_foreign">%s (nacionalidade estrangeira)</string>
   <string name="tax_thershold_native">%s (China)</string>
   <string name="tax_threshold">Limite do imposto</string>
+  <string name="tax_title_primary"/>
+  <string name="tax_title_secondary"/>
   <string name="tax_unemployment">Desemprego</string>
   <string name="tax_update_time_format">Data no ano %s</string>
+  <string name="times"/>
   <string name="title_bar">Conversor de comprimento</string>
   <string name="to_num">62.7</string>
   <string name="unit_data_default_area_0">sq.m</string>
@@ -381,4 +398,5 @@
   <string name="word_figure_unit_shi">拾</string>
   <string name="word_figure_yuan">元</string>
   <string name="word_figure_zheng">整</string>
+  <string name="year"/>
 </resources>
