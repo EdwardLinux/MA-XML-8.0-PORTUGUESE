@@ -1368,7 +1368,8 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
 
 "</string>
   <string name="font_size_summary1">"Se o tamanho do texto ainda é muito pequeno, tente "</string>
-  <string name="font_size_summary2">Modo Reduzido</string>
+  <string name="font_size_summary2">Modo Leve</string>
+  <string name="forbidden_switch_apn_string">O APN seleccionado não corresponde ao tipo de rede actual</string>
   <string name="force_hw_ui">Forçar renderização de GPU</string>
   <string name="force_hw_ui_summary">Forçar a utilização do GPU para aplicações 2D</string>
   <string name="force_msaa">Forçar 4x MSAA</string>

@@ -170,7 +170,9 @@
   <string name="dislike_toast">Este tipo de vídeos não são recomendados para si</string>
   <string name="dislike_video">Não estou interessado</string>
   <string name="dlg_error_unmount_text">Não foi possível desmontar o armazenamento USB</string>
+  <string name="download">Transferir</string>
   <string name="download_current_progress">%1$d%%</string>
+  <string name="download_fail">Não foi possível transferir</string>
   <string name="download_failed">Não foi possível transferir</string>
   <string name="download_link_completed">"%1$s partilhado utilizando KuaiPan. Toque no link abaixo para ver: "</string>
   <string name="downloaded_sticker_str">Transferido</string>
@@ -218,6 +220,7 @@
   <string name="file_too_large">O ficheiro é muito grande para enviar</string>
   <string name="files">Ficheiros</string>
   <string name="finished">Concluído</string>
+   <string name="flow_setting">Definições</string>
   <string name="folder_exist">A pasta já existe</string>
   <string name="folder_name_empty">Nome de pasta não pode estar vazio</string>
   <string name="folder_name_illegal">Nome de pasta inválida</string>
@@ -250,6 +253,7 @@
   <string name="homepage_tab_category">Categorias</string>
   <string name="homepage_tab_file_view">Armazenamento</string>
   <string name="homepage_tab_recent">Recentes</string>
+  <string name="hot_app">Aplicações populares</string>
   <string name="hot_comments">Comentários em destaque</string>
   <string name="hot_sticker">Stickers</string>
   <string name="hot_video">Vídeos</string>
@@ -258,6 +262,7 @@
   <string name="if_cancel">Cancelar esta operação?</string>
   <string name="image_loading_error">Não foi possível carregar imagem</string>
   <string name="input_memo_hint">Introduzir razões adicionais (opcional)</string>
+  <string name="install_fail">Não foi possível instalar</string>
   <string name="instruction">"Introduza o seguinte endereço no cliente FTP: "</string>
   <string name="instruction_pre">Toque para iniciar o servidor FTP</string>
   <string name="interest_recommend">Recomendar vídeos</string>
@@ -472,6 +477,8 @@ e nunca perca as novidades!"</string>
   <string name="oauth_failed_tip">Não foi possível concluir autorização</string>
   <string name="oauth_success_tip">Autorizado</string>
   <string name="online_not_support">Não é possível ver este ficheiro neste momento</string>
+  <string name="only_wifi">Transferir quando estiver ligado ao Wi-Fi</string>
+  <string name="open_app">Abrir</string>
   <string name="open_changed_file_message">"O ficheiro que está a tentar abrir foi alterado. Por favor:
 1. Faça novamente a transferência do ficheiro para o actualizar
 2. Carregue-a da sua conta KuaiPan"</string>
@@ -579,6 +586,7 @@ e nunca perca as novidades!"</string>
   <string name="qq_platform">QQ</string>
   <string name="quota_info">Mi Drive: %1$s disponíveis | %2$s total</string>
   <string name="qzone_platform">Qzone</string>
+  <string name="recent_show">Recentes</string>
   <string name="recommend">Recomendar</string>
   <string name="release_to_signin">Soltar para dar entrada</string>
   <string name="remote_video_no_network">Não é possível ligar à rede</string>

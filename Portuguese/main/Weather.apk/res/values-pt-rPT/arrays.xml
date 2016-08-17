@@ -100,4 +100,12 @@
         <item>%s</item>
         <item>%s</item>
      </string-array>
+     <string-array name="aqi_value">
+        <item>Bom</item>
+        <item>Satisfatório</item>
+        <item>Com alguma poluição</item>
+        <item>Pobre</item>
+        <item>Muito pobre</item>
+        <item>Severo</item>
+    </string-array>
 </resources>

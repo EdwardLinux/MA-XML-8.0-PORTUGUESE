@@ -27,10 +27,11 @@
     </string-array>
     <string-array name="assistant_tab">
         <item>Vídeos</item>
+        <item>Capturas de ecrã</item>
         <item>Aplicações</item>
     </string-array>
     <string-array name="epg_channel_tab">
-        <item>Todos</item>
+        <item>Concluídos</item>
         <item>Favoritos</item>
         <item>CCTV</item>
         <item>TV</item>
@@ -43,6 +44,6 @@
         <item>Canais CCTV</item>
         <item>Canais por satélite</item>
         <item>Canais HD</item>
-        <item>Visualizações recentementes</item>
+        <item>Visualizados recentemente</item>
     </string-array>
 </resources>
