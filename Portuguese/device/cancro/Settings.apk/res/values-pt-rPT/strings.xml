@@ -2,7 +2,7 @@
 <resources>
   <string name="Accounts_settings_title">Contas</string>
   <string name="aaid_info">"
-Identificador de anúncios é um ID único e permanente do seu dispositivo. Os fornecedores utilizam-no para seleccionar anúncios que vão ser mais úteis para si"
+Identificador de anúncios é um ID único e permanente do seu dispositivo. Os fornecedores utilizam-no para seleccionar anúncios que vão ser mais úteis para si"</string>
   <string name="about_settings">Acerca do telefone</string>
   <string name="about_settings_summary">Ver informações legais, estado, versão de software</string>
   <string name="ac_enable_summary">Definir uma palavra-passe para as aplicações individualmente</string>
