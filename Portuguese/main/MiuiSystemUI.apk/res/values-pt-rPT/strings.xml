@@ -351,7 +351,7 @@ Deslize para baixo para bloquear"</string>
   <string name="wifi_disabled_password_failure">Problema de autenticação</string>
   <string name="wifi_disabled_wifi_failure">Erro na ligação Wi-Fi</string>
   <string name="wifi_fail_to_scan">Não é possível pesquisar redes</string>
-  <string name="wifi_no_internet">Não foi detectado acesso à Internet. Não vai religar automaticamente</string>
+  <string name="wifi_no_internet">Sem acesso à Internet detectado. Não vai religar automaticamente</string>
   <string name="wifi_not_in_range">Fora do alcance</string>
   <string name="wifi_remembered">Guardado</string>
 </resources>

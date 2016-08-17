@@ -4260,7 +4260,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="wifi_menu_write_to_nfc">Escrever na etiqueta NFC</string>
   <string name="wifi_more">Mais</string>
   <string name="wifi_network_prefix_length">Comprimento do prefixo de rede</string>
-  <string name="wifi_no_internet">Sem acesso à Internet detectado, não vai religar automaticamente</string>
+  <string name="wifi_no_internet">Sem acesso à Internet detectado. Não vai religar automaticamente</string>
   <string name="wifi_not_in_range">Fora do alcance</string>
   <string name="wifi_notify_cmcc_connected_summary">Mostrar notificação quando ligado à rede CMCC</string>
   <string name="wifi_notify_cmcc_connected_title">Notificação de rede CMCC</string>
