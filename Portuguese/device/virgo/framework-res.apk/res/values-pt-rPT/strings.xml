@@ -914,7 +914,7 @@ para a conta %s"</string>
   <string name="policydesc_watchLogin">Monitorizar o número de palavras-passe incorrectas introduzidas ao desbloquear o ecrã e bloquear o telefone caso tenham sido introduzidas demasiadas palavras-passe incorrectas</string>
   <string name="policydesc_watchLogin_secondaryUser">Monitorizar o número de palavras-passe incorrectas introduzidas ao desbloquear o ecrã e bloquear o telefone ou eliminar todos os dados deste utilizador se forem introduzidas demasiadas palavras-passe incorrectas</string>
   <string name="policydesc_wipeData">Eliminar os dados do telefone sem avisar através de uma reposição de dados de fábrica</string>
-  <string name="policydesc_wipeData_secondaryUser">Apagar os dados deste utilizador neste telefone sem aviso</string>
+  <string name="policydesc_wipeData_secondaryUser">Eliminar os dados deste utilizador neste telefone sem aviso</string>
   <string name="policylab_disableCamera">Desactivar câmaras</string>
   <string name="policylab_disableKeyguardFeatures">Desactivar funcionalidades na protecção do teclado</string>
   <string name="policylab_encryptedStorage">Definir encriptação do armazenamento</string>

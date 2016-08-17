@@ -81,6 +81,10 @@
         <item quantity="other">%1$d aplicações utilizaram a memória nos(as) últimos(as) %2$s</item>
         <item quantity="one">1 aplicação utilizou a memória nos(as) últimos(as) %2$s</item>
     </plurals>
+    <plurals name="connected_devices_number">
+        <item quantity="other">%d dispositivos</item>
+        <item quantity="one">%d dispositivo</item>
+    </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">Está a %1$d passos de entrar nas informações do telefone</item>
         <item quantity="one">Está a %1$d passo de entrar nas informações do telefone</item>
