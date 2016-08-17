@@ -254,7 +254,7 @@
   <string name="episode_intro_title_text">Resumo do episódio</string>
   <string name="episode_title">Episódio %1$d</string>
   <string name="episodes_list">Episódios seleccionados</string>
-  <string name="error_input_dialogue_guide">Introduza o código de 4 digítos</string>
+  <string name="error_input_dialogue_guide">Introduza o código de 4 dígitos</string>
   <string name="exit">Sair</string>
   <string name="external_app">Instalar aplicação</string>
   <string name="external_photo">Ver fotos</string>
@@ -934,7 +934,7 @@ Para activar a sua conta, siga o
   <string name="tv_mirror">Mostrar controlos</string>
   <string name="tv_mirror_intro">Mostrar controlos de ecrã no modo paisagem</string>
   <string name="tv_power">Ligar/desligar TV</string>
-  <string name="udt_conn_error">Dispositivos não ligado</string>
+  <string name="udt_conn_error">Dispositivo não ligado</string>
   <string name="udt_timeout_error">Expirado. Verifique a sua ligação de rede</string>
   <string name="udt_version_error">Versão errada da Mi TV. Actualize a sua Mi TV</string>
   <string name="unknown">Desconhecido</string>
@@ -955,7 +955,7 @@ Para activar a sua conta, siga o
   <string name="upgrade_title_frame">%1s</string>
   <string name="upgrading">A actualizar…</string>
   <string name="use_tv_power_key">"Utilizar o botão Ligar/Desligar de %1$s
-Para alterar, premir longamente o botão Ligar/Desligar da TV"</string>
+Para alterar, mantenha premido o botão Ligar/Desligar da TV"</string>
   <string name="user_title">Perfil</string>
   <string name="vendor_kookong">Kookong</string>
   <string name="vendor_peel">Peel</string>
@@ -1021,7 +1021,7 @@ Para alterar, premir longamente o botão Ligar/Desligar da TV"</string>
   <string name="wind_speed_low">Baixo</string>
   <string name="wind_speed_medium">Normal</string>
   <string name="wind_sweep">Balanço</string>
-  <string name="wx_not_installed">O cliente não está instalado</string>
+  <string name="wx_not_installed">WeChat não está instalado</string>
   <string name="xiaomi_vip">VIP Mi</string>
   <string name="year_month_day_format">dd/MM/yyyy</string>
   <string name="yes">Sim</string>

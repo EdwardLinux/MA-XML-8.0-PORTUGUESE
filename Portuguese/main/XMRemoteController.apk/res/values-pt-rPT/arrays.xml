@@ -7,9 +7,9 @@
         <item>Ventilação</item>
     </string-array>
     <string-array name="answer">
-        <item>O seu dispositivo apenas pode emparelhar com Mi TV, Mi Box e alguns outros dispositivos Android utilizando o Wi-Fi.</item>
-        <item>Certifique-se que seleccionou o modelo A/C correcto no processo de emparelhamento. Siga as instruções no seu dispositivo até o emparelhamento ficar concluído.</item>
-        <item>Não. Actualmente pode utilizar apenas o Mi 4, Mi4C e o Redmi Note 2 como controlo remoto IR.</item>
+        <item>O seu dispositivo apenas pode emparelhar com Mi TV, Mi Box e alguns outros dispositivos Android utilizando o Wi-Fi</item>
+        <item>Certifique-se que seleccionou o modelo A/C correcto no processo de emparelhamento. Siga as instruções no seu dispositivo até o emparelhamento ficar concluído</item>
+        <item>Não. Actualmente pode utilizar apenas o Mi 4, Mi4C e o Redmi Note 2 como controlo remoto IR</item>
     </string-array>
     <string-array name="epg_week_tab">
         <item>Dom</item>

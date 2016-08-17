@@ -276,8 +276,8 @@
   <string name="no_syncable_calendars">Sem calendários</string>
   <string name="no_title_label">(Sem título)</string>
   <string name="not_synced">Não sincronizado</string>
-  <string name="olympic_rank">排名</string>
-  <string name="olympic_total">总数</string>
+  <string name="olympic_rank">Posição</string>
+  <string name="olympic_total">Total</string>
   <string name="olympic_vs">VS</string>
   <string name="online_calendar_activity_label">Subscrever para o calendário</string>
   <string name="online_reminder_header_text">Memorizar</string>

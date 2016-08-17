@@ -5,6 +5,6 @@
   <string name="action_use_network">Utilizar esta rede como está</string>
   <string name="app_name">CaptivePortalLogin</string>
   <string name="ssl_error_continue">Continuar na mesma via navegador</string>
-  <string name="ssl_error_example">Por exemplo, a página de início de sessão pode não pertencer à organização mostrada.</string>
-  <string name="ssl_error_warning">A rede que está a tentar ligar tem problemas de segurança.</string>
+  <string name="ssl_error_example">Por exemplo, a página de início de sessão pode não pertencer à organização mostrada</string>
+  <string name="ssl_error_warning">A rede que está a tentar ligar tem problemas de segurança</string>
 </resources>

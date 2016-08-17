@@ -66,6 +66,6 @@
     <string-array name="volume_button_setting_entries">
        <item>Nada</item>
        <item>Suspender</item>
-       <item>Desactivar</item>
+       <item>Desligar</item>
     </string-array>
 </resources>

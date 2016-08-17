@@ -36,7 +36,7 @@ Antes de calibrar o dispositivo, coloque-o numa superfície plana"</string>
   <string name="cit_audio_lb_summary_backmic_to_speaker">Teste de funcionamento do microfone traseiro para o altifalante.
 
 Vire o telefone, fale para o microfone traseiro. Deverá ouvir a voz no altifalante"</string>
-  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Teste de funcionamentodo do microfone principal para o altifalante. 
+  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Teste de funcionamento do microfone principal para o altifalante. 
 
 Segure no telefone como se estivesse a fazer uma chamada, fale para o microfone principal. Deverá ouvir a voz no altifalante"</string>
   <string name="cit_audio_lb_summary_phonecall">"Simulação de teste de chamada.
@@ -220,7 +220,7 @@ Depois de inserir o ficheiro \"music.mp3\" no cartão SD, toque no ecrã para o 
   <string name="cit_sd_unmount">Desmontar cartão SD</string>
   <string name="cit_sd_unmount_sucess">Cartão SD desmontado</string>
   <string name="cit_signature_check_label">Verificação de assinatura:</string>
-  <string name="cit_sim_check_summary">Confirme em baixo que a informação e o estado do cartão SIM estão correctas</string>
+  <string name="cit_sim_check_summary">Confirme em baixo que a informação e o estado do cartão SIM estão correctos</string>
   <string name="cit_sim_check_title">Cartão SIM</string>
   <string name="cit_sim_error_unknown">Desconhecido</string>
   <string name="cit_sim_network_operator">Operadora dos serviços de rede:</string>
@@ -361,7 +361,7 @@ Vire o telefone, fale para microfone superior. Deverá ouvir a sua voz no altifa
   <string name="speak_from_mic">Fale para o microfone</string>
   <string name="start">Iniciar</string>
   <string name="testagain">Pode premir o botão Início para testar novamente</string>
-  <string name="testing">A executar AutoTeste…</string>
+  <string name="testing">A executar Auto Teste…</string>
   <string name="tp_color">Cor TP:</string>
   <string name="tp_version">Versão TP:</string>
   <string name="waiting">A aguardar 4s</string>

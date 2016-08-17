@@ -95,11 +95,11 @@ Introduza o número de telefone associado com o seu novo cartão SIM para reacti
   <string name="activate_status_desc_request_activation_sms">A solicitar uma SMS de activação…</string>
   <string name="activate_status_desc_request_activation_sms_server_error">Erro de servidor ao pedir uma SMS de activação</string>
   <string name="activate_status_desc_sending_sms">A enviar SMS de activação…</string>
-  <string name="activate_status_desc_sending_sms_fail">Não foi possível enviar um SMS de activação</string>
-  <string name="activate_status_desc_sms_sent">SMS de activação enviado</string>
+  <string name="activate_status_desc_sending_sms_fail">Não foi possível enviar uma SMS de activação</string>
+  <string name="activate_status_desc_sms_sent">SMS de activação enviada</string>
   <string name="activate_status_desc_wait_for_sms">A aguardar por SMS de activação do servidor…</string>
   <string name="activate_status_desc_wait_for_sms_fail">Não foi possível receber a SMS de activação do servidor</string>
-  <string name="activate_status_desc_wait_for_sms_success">Recebido SMS de activação do servidor</string>
+  <string name="activate_status_desc_wait_for_sms_success">Recebida SMS de activação do servidor</string>
   <string name="activate_status_title_activating">A activar cartão SIM…</string>
   <string name="activate_status_title_activating_msim">A activar cartão SIM %s…</string>
   <string name="app_name">Serviço Xiaomi framework</string>

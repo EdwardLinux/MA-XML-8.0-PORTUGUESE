@@ -132,7 +132,7 @@
   <string name="notification_restart">Actualizar novamente</string>
   <string name="notification_share">Partilhar</string>
   <string name="notification_uncrypt_summary_hm">Toque para reiniciar o seu dispositivo</string>
-  <string name="notification_uncrypt_title_hm">Reiniciar para aplica actualização</string>
+  <string name="notification_uncrypt_title_hm">Reiniciar para aplicar actualização</string>
   <string name="notification_uncrypting">A desencriptar actualização</string>
   <string name="notification_update_new_version">Actualização disponível</string>
   <string name="notification_update_now">Actualizar agora</string>
