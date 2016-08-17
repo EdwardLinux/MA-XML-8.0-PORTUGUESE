@@ -256,6 +256,14 @@
     <item quantity="few">vídeos</item>
     <item quantity="many">vídeos</item>
   </plurals>
+  <plurals name="user_follow_me_items">
+    <item quantity="other">seguidores</item>
+    <item quantity="zero">seguidores</item>
+    <item quantity="one">seguidor</item>
+    <item quantity="two">seguidores</item>
+    <item quantity="few">seguidores</item>
+    <item quantity="many">seguidores</item>
+  </plurals>
   <plurals name="number_of_comment">
     <item quantity="other">%1$s comentários</item>
     <item quantity="zero">%1$s comentários</item>
@@ -271,5 +279,13 @@
     <item quantity="two">%1$s vídeos</item>
     <item quantity="few">%1$s vídeos</item>
     <item quantity="many">%1$s vídeos</item>
+  </plurals>
+  <plurals name="follow_count">
+    <item quantity="other">%1$s seguidores</item>
+    <item quantity="zero">%1$s seguidores</item>
+    <item quantity="one">%1$s seguidor</item>
+    <item quantity="two">%1$s seguidores</item>
+    <item quantity="few">%1$s seguidores</item>
+    <item quantity="many">%1$s seguidores</item>
   </plurals>
 </resources>

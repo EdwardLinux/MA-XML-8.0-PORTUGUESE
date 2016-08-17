@@ -389,10 +389,8 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="phone_number_required_dspt_provision">"Este serviço necessita do seu número de telefone. "</string>
   <string name="photo">Fotos</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Apenas sincronizar as fotos de perfil dos contactos quando estiver ligado a uma rede Wi-Fi</string>
-  <string name="pref_summary_sync_video_on_wifi_only">Apenas sincronizar os perfis de vídeo dos contactos quando estiver ligado a uma rede Wi-Fi</string>
   <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Utilizar apenas Wi-Fi para sincronizar fotos</string>
-  <string name="pref_title_sync_video_on_wifi_only">Utilizar apenas Wi-Fi para sincronizar vídeos</string>
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="provision_arrow_back">&lt;</string>
   <string name="provision_arrow_next">&gt;</string>

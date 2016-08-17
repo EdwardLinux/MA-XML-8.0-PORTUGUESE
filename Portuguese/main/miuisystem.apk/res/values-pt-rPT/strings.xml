@@ -9,7 +9,8 @@
   <string name="arbor_day">Dia da Árvore</string>
   <string name="armed_forces_day"/>
   <string name="autumn_begins">Início Outono</string>
-  <string name="autumn_equinox">"Equinócio de Outono"</string>
+  <string name="autumn_equinox">Equinócio de Outono</string>
+  <string name="carousel">Carrossel</string>
   <string name="childrens_day">Dia da Criança</string>
   <string name="chinese_youth_day">Dia da Juventude</string>
   <string name="christmas_day">Natal</string>
@@ -19,6 +20,7 @@
   <string name="cloud_state_syncing">A sincronizar com a Nuvem Mi</string>
   <string name="cold_dews"/>
   <string name="day_following_good_friday"/>
+  <string name="daydream">Daydream</string>
   <string name="default_name">Predefinido</string>
   <string name="delete_frequent_phrases">Eliminar frases frequentes</string>
   <string name="delete_frequent_phrases_confirm">Eliminar as frases frequentes seleccionadas?</string>
@@ -26,9 +28,11 @@
   <string name="device_pad">Mi Pad</string>
   <string name="device_xiaomi">Telefone Mi</string>
   <string name="double_seventh_day"/>
-  <string name="easter"/>
+  <string name="easter">Páscoa</string>
   <string name="edit_frequent_phrases">Editar frases frequentes</string>
   <string name="fools_day">Dia das mentiras</string>
+  <string name="frequent_phrases_size_exceeded">Pode adicionar até %1$d frases frequentes. Elimine as desnecessárias para adicionar mais</string>
+  <string name="glockenspiel"/>
   <string name="good_friday"/>
   <string name="grain_buds"/>
   <string name="grain_in_ear"/>
@@ -47,6 +51,7 @@
   <string name="labour_day"/>
   <string name="lantern_festival"/>
   <string name="light_snow"/>
+  <string name="lollipop"/>
   <string name="lunar_ba"/>
   <string name="lunar_calendar"/>
   <string name="lunar_chu"/>
@@ -102,6 +107,7 @@
   <string name="the_mid_autumn_festival"/>
   <string name="the_rains"/>
   <string name="the_spring_festival"/>
+  <string name="toyrobot"/>
   <string name="tw_childrens_day"/>
   <string name="tw_youth_day"/>
   <string name="united_nations_day"/>

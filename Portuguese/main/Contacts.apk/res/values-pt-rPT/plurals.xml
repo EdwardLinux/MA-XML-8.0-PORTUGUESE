@@ -63,8 +63,8 @@
         <item quantity="one">%1$d contacto</item>
     </plurals>
     <plurals name="hint_search_emails">
-        <item quantity="other">%1$d contactos de emails</item>
-        <item quantity="one">%1$d contacto de email</item>
+        <item quantity="other">%1$d emails</item>
+        <item quantity="one">%1$d email</item>
     </plurals>
     <plurals name="hint_search_phone_numbers">
         <item quantity="other">%1$d números</item>

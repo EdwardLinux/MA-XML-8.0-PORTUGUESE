@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="alert_message_delete_record">Eliminar gravações seleccionadas?</string>
+  <string name="alert_message_delete_record">Eliminar a gravação do seu dispositivo vai também eliminar da Nuvem Mi. Eliminar?</string>
   <string name="alert_message_delete_record_title">Eliminar gravações</string>
   <string name="app_name">Gravador</string>
   <string name="back">Voltar</string>

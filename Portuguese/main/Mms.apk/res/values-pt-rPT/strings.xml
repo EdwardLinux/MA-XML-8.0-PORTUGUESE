@@ -207,6 +207,7 @@
   <string name="hms_add_image_progress_message">A processar…</string>
   <string name="hms_first_use_tips">Para receber mensagens, tem que estar ligado à rede móvel</string>
   <string name="hms_uri_param_err">O endereço não pode estar vazio</string>
+  <string name="hold_to_talk">Segure para falar</string>
   <string name="i_know">OK</string>
   <string name="importing_progress_private_message">Importar mensagens…</string>
   <string name="in_sms">Mensagem</string>
@@ -217,7 +218,6 @@
   <string name="invalid_recipient_message">Corrija os destinatários ou eles não receberão a mensagem</string>
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"Disposição de diapositivos "</string>
-  <string name="left_cancel">Deslize para a esquerda para cancelar</string>
   <string name="loading_all_messages">Aguarde…</string>
   <string name="loading_conversations">Aguarde…</string>
   <string name="loading_mms">A carregar…</string>
@@ -360,6 +360,7 @@
   <string name="notification_multiple">"[%s] "</string>
   <string name="notification_multiple_title">Novas mensagens</string>
   <string name="number_add_hint">Inserir número de telefone</string>
+  <string name="open_audio_record_panel">Abrir painel de gravação de áudio</string>
   <string name="open_url_with_web">Abrir este endereço no Navegador?</string>
   <string name="over_max_mms_size">A MMS é demasiado grande</string>
   <string name="overwrite_edited_content">O conteúdo que editou será substituído</string>
@@ -433,7 +434,6 @@
   <string name="pref_title_wake_up_screen">Despertar o ecrã</string>
   <string name="preferences_title">Definições</string>
   <string name="prepare_send">A preparar para enviar…</string>
-  <string name="press_recording">Manter premido o ícone do Micro para gravar</string>
   <string name="preview">Visualizar</string>
   <string name="preview_slideshow">Pré-visualizar</string>
   <string name="priority_high">Alta</string>
@@ -547,6 +547,7 @@
   <string name="sim_view">Ver</string>
   <string name="slide_number">Diapositivo %s</string>
   <string name="slide_show_part">Parte %1$s/%2$s</string>
+  <string name="slide_up_to_cancel">Deslizar para cima para cancelar</string>
   <string name="slideshow_activity">Apresentação</string>
   <string name="sms_card_partner_label">"Cartão SMS de parceiro: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>

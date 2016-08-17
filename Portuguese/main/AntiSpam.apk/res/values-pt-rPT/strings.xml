@@ -142,6 +142,10 @@
   <string name="mark_agent_block">Reportado como agência</string>
   <string name="mark_agent_block_large">Agências</string>
   <string name="mark_agent_time_setting">Bloquear números reportados como agências um número específico de vezes</string>
+  <string name="mark_courier">Bloquear mensageiros reportados</string>
+  <string name="mark_courier_block">Reportado como mensageiro</string>
+  <string name="mark_courier_block_large">Mensageiros</string>
+  <string name="mark_courier_time_setting">Bloquear números reportados como mensageiros um número específico de vezes</string>
   <string name="mark_fraud">Bloquear fraudes reportadas</string>
   <string name="mark_fraud_block">Reportado como fraude</string>
   <string name="mark_fraud_block_large">Fraudes</string>
@@ -151,6 +155,7 @@
   <string name="mark_harass_block_large">Incómodos</string>
   <string name="mark_harass_time_setting">Bloquear números reportados como incómodos um número específico de vezes</string>
   <string name="mark_number_agent">Agências</string>
+  <string name="mark_number_courier">Mensageiros</string>
   <string name="mark_number_fraud">Fraudes</string>
   <string name="mark_number_harass">Assédio</string>
   <string name="mark_number_info">Por vezes estas chamadas podem ser úteis (ex: Quando está à procura de um apartamento). Bloqueie apenas os números dos quais não quer receber chamadas</string>

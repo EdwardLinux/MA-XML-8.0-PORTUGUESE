@@ -237,6 +237,8 @@ Verifique o seu número de pesquisa"</string>
   <string name="mark_number_check_dialog_title">Marcar número</string>
   <string name="mark_number_check_most_choice">(Escolha dos utilizadores)</string>
   <string name="mark_number_custom_mark_deleted">Marcador removido</string>
+  <string name="mark_number_delete_confirm_message">Remover marcador %s?</string>
+  <string name="mark_number_delete_confirm_title">Remover marcador</string>
   <string name="mark_number_dialog_maintitle">Marcar este número</string>
   <string name="mark_number_dialog_subtitle">%1$s (marcado por %2$d pessoas)</string>
   <string name="mark_number_feedback">Marcar</string>

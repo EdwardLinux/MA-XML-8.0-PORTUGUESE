@@ -35,8 +35,6 @@
   <string name="account_user_education">Educação</string>
   <string name="account_user_email">Email</string>
   <string name="account_user_gender">Género</string>
-  <string name="account_user_gender_female">Feminino</string>
-  <string name="account_user_gender_male">Masculino</string>
   <string name="account_user_id">ID Conta Mi</string>
   <string name="account_user_income">Salário</string>
   <string name="account_user_location">Localização</string>
@@ -149,6 +147,10 @@
   <string name="no_response_retry">Sem resposta. Por favor, repita</string>
   <string name="no_sim_card">Sem cartão SIM</string>
   <string name="nobind">Não associado</string>
+  <string name="notify_network_restricted_content_bg_network">O acesso à Internet da Conta Mi está restringido. Toque para permitir</string>
+  <string name="notify_network_restricted_content_hidden_state">As actividades em segundo plano da Conta Mi estão restringidas. Toque para permitir</string>
+  <string name="notify_network_restricted_content_mobile_network">O acesso à Internet da Conta Mi está restringido. Toque para permitir</string>
+  <string name="notify_network_restricted_title">A Conta Mi não conseguiu ligar à rede</string>
   <string name="other_devices">Outros dispositivos</string>
   <string name="passport_access_denied">Acesso negado</string>
   <string name="passport_account_hint_text">Endereço de email ou ID da Conta Mi</string>

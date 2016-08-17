@@ -5,6 +5,8 @@
   <string name="back">Voltar</string>
   <string name="congratulation_label">Tudo pronto para começar!</string>
   <string name="congratulation_title">Configuração concluída</string>
+  <string name="content_description_complete">Concluído</string>
+  <string name="content_description_start">Iniciar</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
   <string name="desc_fingerprint">Utilize a sua impressão digital para desbloquear o seu dispositivo, para verificar as transações de pagamentos Mi ou para iniciar sessão em aplicações e serviços</string>

@@ -2,9 +2,7 @@
 <resources>
   <string name="Accounts_settings_title">Contas</string>
   <string name="aaid_info">"
-Identificador de anúncios é um ID único e permanente do seu dispositivo. Os fornecedores utilizam-no para seleccionar anúncios que vão ser mais úteis para si.
-
-Se escolher não utilizar anúncios personalizados, a quantidade de anúncios não vai ser reduzida mas os anúncios úteis para si vão ser reduzidos drásticamente"</string>
+Identificador de anúncios é um ID único e permanente do seu dispositivo. Os fornecedores utilizam-no para seleccionar anúncios que vão ser mais úteis para si"
   <string name="about_settings">Acerca do telefone</string>
   <string name="about_settings_summary">Ver informações legais, estado, versão de software</string>
   <string name="ac_enable_summary">Definir uma palavra-passe para as aplicações individualmente</string>
@@ -324,6 +322,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="available_via_passpoint">Disponível via %1$s</string>
   <string name="average_memory_use">Utilização média de memória</string>
   <string name="average_used">Utilização média (%)</string>
+  <string name="avoid_ui">Evitar UI</string>
   <string name="awake">Tempo activo do dispositivo</string>
   <string name="back_key">Voltar</string>
   <string name="background_data">Dados em segundo plano</string>
@@ -1656,6 +1655,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="large_font">Grande</string>
   <string name="last_synced">Última sincronização %1$s</string>
   <string name="last_time_used_label">Última utilização</string>
+  <string name="lattice_smartcover_title">Capa frontal de malha</string>
   <string name="launch_by_default">Abrir por predefinição</string>
   <string name="launch_defaults_none">Nenhuma predefinição definida</string>
   <string name="launch_defaults_some">Algumas predefinições definidas</string>
@@ -2341,6 +2341,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_dtmf_tone_enable_title">Definições/Som e vibração/Tons de marcação</string>
   <string name="path_edge_handgrip">Definições/Controlos do limite</string>
   <string name="path_equalizer">Definições/Som e vibração/Definições de áudio/Equalizador</string>
+  <string name="path_fluency_mode">Definições/Bateria e desempenho/Animações de sistema</string>
   <string name="path_font_settings">Definições/Tipo de letra do sistema</string>
   <string name="path_gesture_wakeup_title">Definições/Ecrã/Duplo toque no ecrã para ligar</string>
   <string name="path_gps_settings">Definições/Definições adicionais/Privacidade/Localização</string>
@@ -2767,9 +2768,6 @@ Não vai perder quaisquer dados das aplicações"</string>
   <string name="restore_default_apn">A restaurar as definições APN predefinidas</string>
   <string name="restore_default_apn_completed">A reposição das definições predefinidas do APN foi concluída</string>
   <string name="restr_pin_enter_admin_pin">Introduzir PIN de administrador</string>
-  <string name="restrict_background_data_dialog_summary">Aplicações executadas em segundo plano não podem receber mensagens</string>
-  <string name="restrict_background_data_notification_summary">As aplicações não podem ligar à rede, se os dados em segundo plano estiverem restritos</string>
-  <string name="restrict_background_data_title">Restringir dados em segundo plano</string>
   <string name="restriction_bluetooth_config_summary">Permitir modificações às definições e emparelhamentos Bluetooth</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
   <string name="restriction_location_enable_summary">Deixar aplicações acederem à sua informação de localização</string>
@@ -2901,6 +2899,8 @@ Para utilizar a fixação no ecrã:
   <string name="screensaver_settings_summary_sleep">Durante o carregamento</string>
   <string name="screensaver_settings_title">DayDream</string>
   <string name="screensaver_settings_when_to_dream">Quando em DayDream</string>
+  <string name="screenshot">Capturas de ecrã</string>
+  <string name="screenshot_three_gesture">Deslizar três dedos simultaneamente vai tirar uma captura de ecrã</string>
   <string name="sd_card_settings_label">Armazenamento USB</string>
   <string name="sd_card_storage">Armazenamento USB</string>
   <string name="sd_eject">Desmontar partilha de armazenamento</string>
@@ -2983,6 +2983,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_edge_handgrip">Controlos do limite</string>
   <string name="search_empty">Sem resultados</string>
   <string name="search_equalizer">Equalizador</string>
+  <string name="search_fluency_mode">Animações de sistema</string>
   <string name="search_font">Tipo de letra do sistema</string>
   <string name="search_gesture_wakeup_title">Duplo toque no ecrã para ligar</string>
   <string name="search_gps">GPS;Acesso à localização</string>
@@ -3642,6 +3643,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="tether_settings_title_wifi">Ponto de Acesso Móvel</string>
   <string name="tethering_help_button_text">Ajuda</string>
   <string name="tethering_settings_not_available">Alterar as definições de partilha de ligação no primeiro espaço</string>
+  <string name="tether_share_qrcode_title">Partilhar código QR</string>
   <string name="theme_settings_title">Temas</string>
   <string name="time_picker_title">Hora</string>
   <string name="time_zone_auto_stub">Seleccionar Fuso horário</string>
