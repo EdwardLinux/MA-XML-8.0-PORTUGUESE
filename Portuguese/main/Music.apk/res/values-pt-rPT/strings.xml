@@ -354,6 +354,8 @@
   <string name="local_music_empty">Lista de reprodução vazia</string>
   <string name="local_music_empty_goto_online">Não foram encontradas músicas</string>
   <string name="local_music_is_not_available">As músicas no dispositivo não se encontram disponíveis</string>
+  <string name="local_page_song_download">Dispositivo</string>
+  <string name="local_page_song_favorite">Favoritas</string>
   <string name="local_tracks_short">Dispositivo</string>
   <string name="login_first">Primeiro inicie sessão na sua Conta Mi</string>
   <string name="lrc_search_failed">A letra não foi encontrada</string>
