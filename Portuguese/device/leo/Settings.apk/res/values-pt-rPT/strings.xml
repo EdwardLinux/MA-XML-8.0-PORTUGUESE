@@ -1755,7 +1755,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="network_settings_title">Redes móveis</string>
   <string name="network_state_label">Estado da rede:</string>
   <string name="networkid_label">ID de rede:</string>
-  <string name="networks">Selecção de operadora</string>
+  <string name="networks">Selecção de operador</string>
   <string name="never">Nunca</string>
   <string name="new_backup_pw_prompt">Introduza uma nova palavra-passe para a cópia de segurança completa</string>
   <string name="next_button_label">Seguinte</string>

@@ -749,7 +749,7 @@ Será utilizada a rede preferida"</string>
   <string name="network_unconnected_message_livetalk">Erro de rede. Tente fazer uma chamada normal. Irá ser cobrado um valor adicional pela sua operadora</string>
   <string name="network_unconnected_title">Erro de rede</string>
   <string name="network_unlock">Desbloquear</string>
-  <string name="networks">Operadoras de rede</string>
+  <string name="networks">Operadores de rede</string>
   <string name="networks_title">Redes móveis</string>
   <string name="newPin2Label">Novo PIN2</string>
   <string name="newPinLabel">Novo PIN</string>
@@ -1264,7 +1264,7 @@ O cartão SIM será bloqueado após nova tentativa falhada"</string>
   <string name="unlock_success">Cartão SIM desbloqueado</string>
   <string name="updating_fdn_contact">A actualizar número de marcação fixa…</string>
   <string name="updating_settings">A actualizar definições…</string>
-  <string name="updating_title">Definições de chamadas</string>
+  <string name="updating_title">Telefone</string>
   <string name="uplmn_list_setting_add_plmn">Novo PLMN</string>
   <string name="uplmn_list_setting_title">Redes preferidas</string>
   <string name="uplmn_numeric_is_empty">Introduzir ID de rede</string>
