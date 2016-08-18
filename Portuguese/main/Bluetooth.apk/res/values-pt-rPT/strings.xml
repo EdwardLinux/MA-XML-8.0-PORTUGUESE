@@ -68,7 +68,7 @@
   <string name="incoming_line2">Nome do ficheiro</string>
   <string name="incoming_line3">Tamanho</string>
   <string name="insert_record">Inserir registo</string>
-  <string name="localPhoneName">Meu nome</string>
+  <string name="localPhoneName">O meu nome</string>
   <string name="miui_transfer_history_title">Transferências Bluetooth</string>
   <string name="miui_transfer_inbound_title">Recebidas</string>
   <string name="miui_transfer_outbound_title">Enviadas</string>
