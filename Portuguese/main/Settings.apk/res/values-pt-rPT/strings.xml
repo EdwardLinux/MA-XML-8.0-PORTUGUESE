@@ -2284,6 +2284,7 @@ Não vai perder quaisquer dados das aplicações"</string>
   <string name="resource_ringtone_volume_mute">O toque do telefone está silenciado</string>
   <string name="restore_default_apn">A restaurar as definições APN predefinidas</string>
   <string name="restore_default_apn_completed">A reposição das definições predefinidas do APN foi concluída</string>
+  <string name="restr_pin_enter_admin_pin">Introduzir PIN de administrador</string>
   <string name="restriction_bluetooth_config_summary">Permitir modificações às definições e emparelhamentos Bluetooth</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
   <string name="restriction_location_enable_summary">Deixar aplicações acederem à sua informação de localização</string>
