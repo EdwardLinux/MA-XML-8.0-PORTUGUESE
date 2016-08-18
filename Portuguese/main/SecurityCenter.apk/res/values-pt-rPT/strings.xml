@@ -722,7 +722,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="optimize_result_button_cloudspace">Adicionar espaço na Nuvem Mi</string>
   <string name="optimize_result_button_consume_power_analysis">Analisar bateria</string>
   <string name="optimize_result_button_cooldown_now">Optimizar</string>
-  <string name="optimize_result_button_correct_now">Calibrar</string>
+  <string name="optimize_result_button_correct_now">Ajustar</string>
   <string name="optimize_result_button_fix_now">Corrigir</string>
   <string name="optimize_result_button_onekey_open">Ligar</string>
   <string name="optimize_result_button_onekey_restore">Repor</string>
@@ -1129,7 +1129,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="summary_flow_purchase">Está a atingir o limite de dados. Compre dados para se manter ligado</string>
   <string name="summary_flow_purchase_beyond">Já excedeu o limite mensal de dados do seu plano de operadora em %sMB</string>
   <string name="summary_flow_verify">Ainda não sincronizou as estatísticas de utilização de dados da operadora em %d dias</string>
-  <string name="summary_flow_verify_failed">Calibrar</string>
+  <string name="summary_flow_verify_failed">Ajuste automaticamente a utilização de dados para evitar custos adicionais</string>
   <string name="summary_garbage_lib">Utilize as últimas definições para remover spyware, adware ou outro tipo de lixo indesejado</string>
   <string name="summary_install_virus">Verificar por vírus nas aplicações antes da instalação</string>
   <string name="summary_live_talk_purchase">Poupe 70% nas suas tarifas de chamadas</string>
@@ -1255,7 +1255,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="title_flow_purchase">Comprar dados móveis</string>
   <string name="title_flow_rank">Utilização de dados móveis</string>
   <string name="title_flow_verify">Comparar contagem</string>
-  <string name="title_flow_verify_failed">Não é possível calibrar 5 dias seguidos</string>
+  <string name="title_flow_verify_failed">Não é possível ajustar 5 dias seguidos</string>
   <string name="title_garbage_lib">Actualizar as definições do lixo</string>
   <string name="title_install_virus_no">Monitor de instalação desligado</string>
   <string name="title_install_virus_yes">Monitor de instalação ligado</string>
@@ -1271,7 +1271,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="title_permission_yes">Monitor de permissões ligado</string>
   <string name="title_power_optimizer">Poupança de bateria</string>
   <string name="title_show_notification">Widget da área de notificações</string>
-  <string name="title_telecom_operator">Calibrar</string>
+  <string name="title_telecom_operator">Ajustar</string>
   <string name="title_usb_no">Depuração USB ligada</string>
   <string name="title_usb_yes">Depuração USB desligada</string>
   <string name="title_virus_cloudscan">Verificação de vírus na Nuvem Mi</string>
@@ -1280,7 +1280,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="title_virus_update_yes">Actualização automática de definições de vírus ligado</string>
   <string name="title_virus_yes">Não foram detectados vírus</string>
   <string name="title_xiaomi_roaming">Roaming Mi</string>
-  <string name="toast_auto_traffic_correct">A calibração automática está ligada</string>
+  <string name="toast_auto_traffic_correct">A utilização de dados é ajustada automaticamente</string>
   <string name="toast_cleaner_cloudscan">Limpeza vai utilizar definições online</string>
   <string name="toast_default_app">"%1$s definir como aplicação de sistema predefinida %2$s"</string>
   <string name="toast_flow_notification">Notificações de utilização de dados ligada</string>
