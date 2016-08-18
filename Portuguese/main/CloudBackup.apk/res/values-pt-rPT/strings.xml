@@ -32,7 +32,8 @@
   <string name="cloud_app_restore_data">Os dados pessoais e aplicações instaladas anteriormente vão aparecer no seu dispositivo automaticamente</string>
   <string name="cloud_app_restore_error">Não é possível restaurar</string>
   <string name="cloud_app_restore_success">Aplicações restauradas</string>
-  <string name="cloud_app_restore_wifi_prompt">Para restaurar uma cópia na Nuvem Mi, deve ligar a uma rede sem fios.</string>
+  <string name="cloud_app_restore_wifi_prompt">Para restaurar uma cópia na Nuvem Mi, deve ligar a uma rede sem fios</string>
+   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_detail_discription">"Estes dados vão ser copiados para a Nuvem Mi quando o dispositivo estiver ligado ao Wi-Fi: 
 
 - Aplicações, disposição inicial do ecrã e papéis de parede 
@@ -50,7 +51,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Nuvem
   <string name="cloud_back_up_ok_btn">OK</string>
   <string name="cloud_back_up_opening">Aguarde…</string>
   <string name="cloud_back_up_share_activity_confirm">Actualizar</string>
-  <string name="cloud_back_up_share_activity_discription">Obter mais espaço de armazenamento, cópias diárias e muito mais.</string>
+  <string name="cloud_back_up_share_activity_discription">Obter mais espaço de armazenamento, cópias diárias e muito mais</string>
   <string name="cloud_back_up_share_activity_title">Actualizar Conta Mi</string>
   <string name="cloud_back_up_task">A fazer cópia…</string>
   <string name="cloud_backup_detail_frequence">Programação de cópias</string>
@@ -62,9 +63,9 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Nuvem
   <string name="cloud_backup_detail_time">Última cópia: %1$s</string>
   <string name="cloud_backup_have_data">Cópia encontrada na Nuvem Mi</string>
   <string name="cloud_backup_select_recover">Escolher cópia da Nuvem Mi</string>
-  <string name="cloud_restore_from_other_device">Parar o restauro de %s e eliminar esta cópia de segurança? Não é possível reverter esta acção.</string>
+  <string name="cloud_restore_from_other_device">Parar o restauro de %s e eliminar esta cópia de segurança? Não é possível reverter esta acção</string>
   <string name="cloud_restore_task">A restaurar…</string>
-  <string name="cloud_task_in_process">Parar %s e eliminar esta cópia de segurança? Não é possível reverter esta acção.</string>
+  <string name="cloud_task_in_process">Parar %s e eliminar esta cópia de segurança? Não é possível reverter esta acção</string>
   <string name="confirm_restore">Restaurar</string>
   <string name="confirm_restore_summary">Ecrã inicial vai reiniciar e as aplicações vão ser transferidas automaticamente quando ligado ao Wi-Fi</string>
   <string name="confirm_restore_title">Restaurar</string>
@@ -97,7 +98,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Nuvem
   <string name="provision_arrow_back">&lt;</string>
   <string name="provision_arrow_next">&gt;</string>
   <string name="query_restore_back_view">Cópias da Nuvem Mi</string>
-  <string name="query_restore_description">Restaurar aplicações do ecrã inicial e definições utilizando esta cópia. Isto vai sobrescrever os dados da aplicação para aplicações duplicadas já instaladas neste dispositivo. Aplicações não incluidas na cópia vão ser movidas para o último ecrã inicial.</string>
+  <string name="query_restore_description">Restaurar aplicações do ecrã inicial e definições utilizando esta cópia. Isto vai sobrescrever os dados da aplicação para aplicações duplicadas já instaladas neste dispositivo. Aplicações não incluidas na cópia vão ser movidas para o último ecrã inicial</string>
   <string name="query_restore_summary">Encontrou uma cópia da Nuvem Mi para este dispositivo. Restaurar aplicações do ecrã inicial e definições ou utilizá-la como um novo dispositivo e eliminar as cópias da Nuvem Mi anteriores?</string>
   <string name="recover_from_micloud">Restaurar da Nuvem Mi</string>
   <string name="recover_home_settings">Restaurar definições do ecrã inicial</string>
