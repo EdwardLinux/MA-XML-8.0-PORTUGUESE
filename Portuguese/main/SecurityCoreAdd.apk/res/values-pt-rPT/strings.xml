@@ -26,7 +26,7 @@ esta funcionalidade vai ser adicionada automaticamente ao segundo espaço"</stri
   <string name="closed">Desligado</string>
   <string name="complete_setting">Concluir</string>
   <string name="complete_setting_sub_title">Pode voltar mais tarde para ajustar as definições</string>
-  <string name="complete_setting_title">Está tudo pronto!</string>
+  <string name="complete_setting_title">Tudo pronto!</string>
   <string name="confirm">OK</string>
   <string name="confirmClose">Desligar</string>
   <string name="confirmCloseSpaceDes">Não vai poder entrar no segundo espaço após o eliminar. Todos os dados vão ser movidos ou eliminados</string>
