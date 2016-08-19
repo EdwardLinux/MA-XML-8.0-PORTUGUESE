@@ -210,7 +210,7 @@
   <string name="delete_from_devices_album">Todos os dispositivos que sincronizaram este álbum</string>
   <string name="delete_from_homepage_album">Álbuns mostrados na Galeria</string>
   <string name="delete_from_web">Álbuns web</string>
-  <string name="delete_in_album">Quando eliminar fotos ou vídeos de um Álbum também vão ser eliminados de:</string>
+  <string name="delete_in_album">Quando eliminar fotos ou vídeos de um álbum também vão ser eliminados de:</string>
   <string name="delete_in_home_page">Quando eliminar uma foto ou vídeo da Galeria também vão ser eliminados de:</string>
   <string name="delete_in_process">A eliminar…</string>
   <string name="delete_origin">Eliminar itens do álbum original</string>

@@ -720,7 +720,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
   <string name="optimize_result_button_cloudspace">Adicionar espaço na Nuvem Mi</string>
-  <string name="optimize_result_button_consume_power_analysis">Analisar aplicações</string>
+  <string name="optimize_result_button_consume_power_analysis">Analisar bateria</string>
   <string name="optimize_result_button_cooldown_now">Optimizar</string>
   <string name="optimize_result_button_correct_now">Ajustar</string>
   <string name="optimize_result_button_fix_now">Corrigir</string>
@@ -1120,7 +1120,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="summary_cloud_space_almost_full">Obter mais espaço de armazenamento</string>
   <string name="summary_cloud_space_full">Obter mais espaço de armazenamento e acesso a mais funcionalidades</string>
   <string name="summary_cmcc_app_check">Algumas aplicações não puderam ser verificadas</string>
-  <string name="summary_consume_power">Foram encontrados problemas na gestão da bateria</string>
+  <string name="summary_consume_power">Foram detectados problemas de aquecimento</string>
   <string name="summary_data_flow">Controle a utilização de dados móveis para evitar gastos desnecessários</string>
   <string name="summary_default_app">%s não está definida como aplicação de sistema predefinida</string>
   <string name="summary_dev">Evitar malware e proteger dados pessoais</string>
