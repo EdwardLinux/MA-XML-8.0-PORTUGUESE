@@ -10,7 +10,7 @@
   <string name="AD_BLOCK_ALL">Bloquear tudo</string>
   <string name="AD_COUNT">%d bloqueado</string>
   <string name="AD_Info">Plug-in Anúncios</string>
-  <string name="AD_Info_Hint">Adware é utilizado por empresas de terceiros para enviar anúncios para o seu dispositivo.</string>
+  <string name="AD_Info_Hint">Adware é utilizado por empresas de terceiros para enviar anúncios para o seu dispositivo</string>
   <string name="AD_NOT_BLOCK">Não bloquear</string>
   <string name="AD_SCANNING">A verificar…</string>
   <string name="AD_SCAN_BUTTON">Verificar</string>
@@ -39,7 +39,7 @@
   <string name="ad_block_hint">%d bloqueado</string>
   <string name="ad_install_monitor">Inspeccionar aplicações por adware</string>
   <string name="ad_install_monitor_hint">Verificar adware ao instalar aplicações</string>
-  <string name="ad_permission_hint">Utilizar o Bloqueador de Anúncios poderá afectar o funcionamento das suas aplicações.</string>
+  <string name="ad_permission_hint">Utilizar o Bloqueador de Anúncios poderá afectar o funcionamento das suas aplicações</string>
   <string name="ad_relative_setting">Definições relacionadas</string>
   <string name="ad_single_block_hint">Bloqueado</string>
   <string name="ad_update_setting">Actualizar</string>
@@ -221,7 +221,7 @@
   <string name="report_only">Escolher uma mensagem para reportar</string>
   <string name="report_sms">Reportar mensagens</string>
   <string name="report_success">Mensagem reportada</string>
-  <string name="report_warning">Reportar %1$s de mensagens para a Mi? As mensagens e os números de telefone serão enviados para o servidor Mi. As informações pessoais associadas a estas mensagens, manter-se-ão anónimas</string>
+  <string name="report_warning">Reportar %1$s mensagens para a Mi? As mensagens e os números de telefone serão enviados para o servidor Mi. As informações pessoais associadas a estas mensagens manter-se-ão anónimas</string>
   <string name="report_warning_title">Reportar mensagens</string>
   <string name="sim_not_ready">O cartão SIM não está preparado</string>
   <string name="sim_not_ready_toast">O cartão SIM não está preparado</string>

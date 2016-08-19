@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="about_fraud_num_online_identification">Acerca desta funcionalidade</string>
   <string name="about_phone_event">Acerca do serviço de mensagens</string>
@@ -10,7 +10,7 @@
   <string name="account_type_name">Conta Mi</string>
   <string name="account_updating_device">A actualizar…</string>
   <string name="account_updating_device_failed">Não é possível iniciar sessão</string>
-  <string name="account_verify_password">Já está a utilizar este serviço noutro dispositivo. Por motivos de segurança, a sua Conta Mi necessita de ser verificada neste dispositivo</string>
+  <string name="account_verify_password">Já está a utilizar este serviço noutro dispositivo. Por motivos de segurança a sua Conta Mi necessita de ser verificada neste dispositivo</string>
   <string name="account_yellowpage_favorite">Favoritos</string>
   <string name="account_yellowpage_followed">Contas verificadas</string>
   <string name="account_yellowpage_recent">Ver histórico</string>
@@ -427,6 +427,6 @@ Total: EUR %3$s"</string>
   <string name="yellowpage_navigation_network_location_enable">Permitir</string>
   <string name="yellowpage_navigation_network_location_enable_later">Agora não</string>
   <string name="yellowpage_navigation_network_location_enabled">Acesso à localização está ligado. Pode desligá-lo em qualquer altura nas Definições</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_summary">Melhorar os resultados da pesquisa, permitindo às Páginas amarelas aceder às suas informações de localização</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Melhorar os resultados da pesquisa permitindo às Páginas amarelas aceder às suas informações de localização</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Acesso à localização</string>
 </resources>
