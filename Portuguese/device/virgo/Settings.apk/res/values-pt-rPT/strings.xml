@@ -4471,7 +4471,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_wps_in_progress">O WPS encontra-se em curso e pode levar algum tempo para concluir</string>
   <string name="wifi_wps_nfc_enter_password">Introduzir a palavra-passe da rede</string>
   <string name="wifi_wps_onstart_pbc">Toque no botão Wi-Fi Instalação Protegida no seu router. Poderá chamar-se \"WPS\" ou ter este símbolo:</string>
-  <string name="wifi_wps_onstart_pin">Introduza o PIN de %1$s no seu router Wi-Fi. A configuração poderá demorar até dois minutos para ficar concluída</string>
+  <string name="wifi_wps_onstart_pin">Introduza o PIN %1$s no seu router Wi-Fi. A configuração poderá demorar até dois minutos para ficar concluída</string>
   <string name="wifi_wps_overlap_error">Foi detectada outra sessão de Wi-Fi. Tente novamente mais tarde</string>
   <string name="wifi_wps_setup_msg">A iniciar WPS…</string>
   <string name="wifi_wps_setup_title">Instalação Wi-Fi protegida</string>
