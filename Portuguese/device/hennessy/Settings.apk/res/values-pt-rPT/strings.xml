@@ -1775,6 +1775,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="no_application">Nenhuma</string>
   <string name="no_applications">Não existem aplicações</string>
   <string name="no_device_admins">Não há administradores de dispositivo disponíveis</string>
+  <string name="no_connected_devices">Sem dispositivos ligados</string>
   <string name="no_media_button_receiver">Não</string>
   <string name="no_nearby_wifi">Não foram detectadas redes</string>
   <string name="no_notification_listeners">Sem aplicações emissoras de notificações instaladas</string>
