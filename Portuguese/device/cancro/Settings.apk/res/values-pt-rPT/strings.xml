@@ -1896,8 +1896,8 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
 Está actualmente com sessão iniciada nas seguintes contas:
 "</string>
   <string name="master_clear_all">Eliminar toda a sua informação da memória interna do telefone? Não pode reverter esta acção!</string>
-  <string name="master_clear_button_text">Restaurar telefone</string>
-  <string name="master_clear_confirm_title">Restaurar?</string>
+  <string name="master_clear_button_text">Repor telefone</string>
+  <string name="master_clear_confirm_title">Repor telefone</string>
   <string name="master_clear_desc">"Isto vai eliminar todos os dados da <b>memória interna</b>" do seu telefone, incluindo:
 
 "<li>A sua conta do Google</li>"
