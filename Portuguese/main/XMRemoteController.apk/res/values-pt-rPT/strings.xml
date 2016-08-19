@@ -123,7 +123,7 @@
   <string name="by_position">Por localização</string>
   <string name="camera_shoot">Disparo</string>
   <string name="cancel">Cancelar</string>
-  <string name="cancel_select_all">Verificar tudo</string>
+  <string name="cancel_select_all">Desmarcar tudo</string>
   <string name="cancel_share">Parar de partilhar</string>
   <string name="cancel_share_done">Parou de partilhar</string>
   <string name="cancel_timer">Cancelar temporizador</string>
@@ -182,7 +182,7 @@
   <string name="device_bluetoothi">Controlo remoto Bluetooth</string>
   <string name="device_brand">Marca</string>
   <string name="device_model">Modelo</string>
-  <string name="device_responsed">Dispositivo respondeu</string>
+  <string name="device_responsed">O dispositivo respondeu</string>
   <string name="device_type">Tipo</string>
   <string name="diagnose">Testar controlo remoto</string>
   <string name="diagnosis_intro">Testar rede por problemas de ligação</string>
@@ -814,6 +814,8 @@ Para activar a sua conta, siga o
   <string name="select_all">Seleccionar tudo</string>
   <string name="select_area">Escolher localização</string>
   <string name="select_brand">Seleccionar %s</string>
+  <string name="select_controller">Seleccionar c.remoto</string>
+  <string name="select_done">Concluído</string>
   <string name="select_dvb_carrier">Escolher provedor de serviço</string>
   <string name="select_screenshot_topic">Escolher tópico</string>
   <string name="select_stb">Seleccionar a set-top box</string>
