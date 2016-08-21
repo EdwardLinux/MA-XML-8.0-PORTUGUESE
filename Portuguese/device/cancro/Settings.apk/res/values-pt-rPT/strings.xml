@@ -2200,9 +2200,6 @@ Seleccione o seu sistema operativo:"</string>
   <string name="nsd_quick_toggle_title">Descobrir serviços de rede</string>
   <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_radio_info_label">Informações/definições específicas de OEM</string>
-  <string name="oem_unlock_enable">Desbloqueio de OEM</string>
-  <string name="oem_unlock_enable_summary">Permitir o desbloqueio do bootloader</string>
-  <string name="okay">OK</string>
   <string name="oldman_mode_confirm_title">Reiniciar agora?</string>
   <string name="oldman_mode_confirm_will_normal_mode_text">O seu dispositivo vai reiniciar para sair do Modo Leve</string>
   <string name="oldman_mode_confirm_will_oldman_mode_text">O dispositivo vai reiniciar para entrar no Modo Leve</string>
