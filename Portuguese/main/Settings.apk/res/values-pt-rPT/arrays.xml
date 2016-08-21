@@ -394,9 +394,9 @@
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN com pré partilha de chaves</item>
+        <item>L2TP/IPSec VPN com pré-partilha de chaves</item>
         <item>L2TP/IPSec VPN com certificados</item>
-        <item>IPSec VPN com chaves pré partilhadas e autenticação Xauth</item>
+        <item>IPSec VPN com chaves pré-partilhadas e autenticação Xauth</item>
         <item>IPSec com certificado VPN e autenticação Xauth</item>
         <item>IPSec VPN com certificados e autenticação hibrida</item>
     </string-array>

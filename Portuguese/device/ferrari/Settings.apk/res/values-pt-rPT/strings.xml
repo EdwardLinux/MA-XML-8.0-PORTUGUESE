@@ -718,9 +718,9 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
 
 Para continuar a utilizar o telefone, é necessário efectuar uma reposição de fábrica. Quando configurar o telefone após a reposição, terá a oportunidade de restaurar quaisquer dados da cópia de segurança da sua Conta Google"</string>
   <string name="crypt_keeper_data_corrupt_title">Desencriptação sem sucesso</string>
-  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu dispositivo, assumindo que configurou um bloqueio de ecrã, vai ser necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. O outro modo de desencriptar é fazer uma reposição de dados de fábrica, eliminando todos os seus dados</string>
+  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu dispositivo, assumindo que configurou um bloqueio de ecrã, vai ser necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. O único outro modo de desencriptar é fazer uma reposição dos dados de fábrica, eliminando todos os seus dados</string>
   <string name="crypt_keeper_decrypt_methods_title">Desencriptar o seu dispositivo</string>
-  <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas e dados, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar um restauro dos dados de fábrica, eliminando todos os seus dados.
+  <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas e dados, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar uma reposição de dados de fábrica, eliminando todos os seus dados.
 
 Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter o telefone a carregar até que a encriptação esteja terminada. Se interromper o processo de encriptação, perderá alguns ou todos os seus dados"</string>
   <string name="crypt_keeper_dialog_need_password_message">Deve definir um código PIN ou uma palavra-passe para o ecrã de bloqueio antes de iniciar a encriptação</string>
@@ -817,8 +817,8 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="data_usage_metered_wifi_disabled">Para seleccionar um ponto de acesso ligue o Wi-Fi</string>
   <string name="data_usage_pick_cycle_day">Dia do mês para repor o ciclo de utilização de dados:</string>
   <string name="data_usage_received_sent">%1$s recebido, %2$s enviado</string>
-  <string name="data_usage_restrict_background">"Se restringir os dados móveis em segundo plano, algumas aplicações e serviços deixam de funcionar, excepto com uma ligação à rede Wi-Fi"</string>
-  <string name="data_usage_restrict_background_multiuser">"Se restringir os dados móveis em segundo plano, algumas aplicações e serviços deixam de funcionar, excepto com uma ligação à rede Wi-Fi"</string>
+  <string name="data_usage_restrict_background">Se restringir os dados móveis em segundo plano, algumas aplicações e serviços não vão funcionar a não ser que esteja ligado a uma rede Wi-Fi</string>
+  <string name="data_usage_restrict_background_multiuser">"Se restringir os dados móveis em segundo plano, algumas aplicações e serviços não vão funcionar a não ser que esteja ligado a uma rede Wi-Fi"</string>
   <string name="data_usage_restrict_background_title">Restringir dados em segundo plano?</string>
   <string name="data_usage_restrict_denied_dialog">Restringir dados em segundo plano apenas é possível quando já tiver definido um limite de dados móveis</string>
   <string name="data_usage_summary_title">Utilização de dados</string>
@@ -954,7 +954,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="display_settings">Ecrã</string>
   <string name="display_settings_title">Ecrã</string>
   <string name="dlg_cancel">Cancelar</string>
-  <string name="dlg_confirm_unmount_text">Se desmontar o armazenamento USB, algumas aplicações que estão em utilização serão interrompidas e podem não estar disponíveis até montar novamente o armazenamento USB</string>
+  <string name="dlg_confirm_unmount_text">Se desmontar o armazenamento USB, algumas aplicações que estão em utilização serão interrompidas e podem não estar disponíveis até ligar novamente o armazenamento USB</string>
   <string name="dlg_confirm_unmount_title">Desmontar armazenamento USB?</string>
   <string name="dlg_error_unmount_text">Não é possível desmontar o armazenamento USB. Tente novamente mais tarde</string>
   <string name="dlg_error_unmount_title"/>
@@ -1095,7 +1095,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="erase_internal_storage">Eliminar o conteúdo armazenado</string>
   <string name="erase_internal_storage_description">Eliminar músicas, fotos, vídeos e outros dados do utilizador</string>
   <string name="erase_optional">Conteúdo</string>
-  <string name="erase_personal_data">Todos os ficheiros do telefone</string>
+  <string name="erase_personal_data">Todos os ficheiros no telefone</string>
   <string name="erase_personal_data_description">Todos os ficheiros e dados incluindo contas, contactos, fotos e aplicações</string>
   <string name="erase_sure">Dados pessoais</string>
   <string name="error_apn_empty">O APN não pode estar vazio</string>
@@ -1160,7 +1160,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="force_rtl_layout_all_locales">Forçar direcção do RTL</string>
   <string name="force_rtl_layout_all_locales_summary">Força da direcção RTL da disposição do ecrã de para todos os locais</string>
   <string name="force_stop">Forçar paragem</string>
-  <string name="force_stop_dlg_text">Se forçar a paragem desta aplicação, esta poderá funcionar mal. Continuar?</string>
+  <string name="force_stop_dlg_text">Se forçar a paragem desta aplicação, esta pode funcionar mal. Continuar?</string>
   <string name="force_stop_dlg_title">Forçar paragem</string>
   <string name="forget_password_button_text"><u>Recuperar acesso?</u></string>
   <string name="forget_wifi_message">O seu telefone vai deixar de ligar a esta rede automaticamente</string>
