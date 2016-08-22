@@ -253,13 +253,13 @@ Actualize o seu dispositivo e tente novamente"</string>
   <string name="vote_error3">"Não foi possível iniciar sessão.
 Tente novamente iniciar sessão na sua Conta Mi"</string>
   <string name="vote_error4">Já submeteu o seu comentário</string>
-  <string name="vote_error5">"Algo correu mal
-Não foi possível submeter o comentário"</string>
+  <string name="vote_error5">"Algo correu mal.
+Não foi possível submeter o seu comentário"</string>
   <string name="vote_experience">Experiência no fórum</string>
   <string name="vote_hint">Obtenha 20 pontos de experiência no fórum MIUI</string>
   <string name="vote_join">Votado</string>
-  <string name="vote_not_recommend">Não recomenda</string>
-  <string name="vote_recommend">Recomenda esta actualização</string>
+  <string name="vote_not_recommend">Não recomendar esta actualização</string>
+  <string name="vote_recommend">Recomendar esta actualização</string>
   <string name="vote_submit">Enviar</string>
   <string name="weekly_build">Semanal</string>
   <string name="welcom_button">Sim</string>
