@@ -111,7 +111,7 @@
   <string name="fraud_call_answer">Atender</string>
   <string name="fraud_call_decline">Rejeitar</string>
   <string name="fraud_call_waring">Aviso: Deve verificar sempre a identidade do contacto, seja em chamada ou videochamada, antes de responder a qualquer mensagem que envolva a sua informação pessoal</string>
-  <string name="inCallLabel">InCallUI</string>
+  <string name="inCallLabel">Em chamada</string>
   <string name="incall_call_type_label_sip">Chamadas pela Internet</string>
   <string name="incall_error_supp_service_conference">Não é possível pôr chamadas em conferência</string>
   <string name="incall_error_supp_service_hangup">Não é possível desligar chamada</string>
