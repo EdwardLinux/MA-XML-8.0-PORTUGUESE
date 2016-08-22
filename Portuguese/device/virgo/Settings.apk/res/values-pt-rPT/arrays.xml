@@ -568,6 +568,7 @@
         <item>Iniciar Assistente</item>
         <item>Iniciar Google Now</item>
         <item>Fechar aplicação actual</item>
+        <item>Iniciar Pesquisar</item>
         <item>Mostrar menu</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">

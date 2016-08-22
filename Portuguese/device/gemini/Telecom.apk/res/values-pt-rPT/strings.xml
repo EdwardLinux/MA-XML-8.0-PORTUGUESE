@@ -23,7 +23,7 @@
   <string name="notification_missedCallsMsg">%s chamadas não atendidas</string>
   <string name="notification_missedCallsTitle">Chamadas não atendidas</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Chamada não efectuada. Não foi introduzido um número válido</string>
-  <string name="outgoing_call_not_allowed_no_permission">Esta aplicação não pode efectuar chamadas sem a autorização do telefone</string>
+  <string name="outgoing_call_not_allowed_no_permission">Esta aplicação não pode efectuar chamadas sem a autorização de Telefone</string>
   <string name="outgoing_call_not_allowed_user_restriction">Apenas são permitidas chamadas de emergência pelo proprietário do dispositivo</string>
   <string name="respond_via_sms_canned_response_1">Não posso falar agora. O que é que se passa?</string>
   <string name="respond_via_sms_canned_response_2">Telefono-lhe daqui a pouco</string>
@@ -45,7 +45,7 @@
   <string name="test_account_3_short_description">Converse com outros utilizadores ligados à rede de Chat</string>
   <string name="unknown">Desconhecido</string>
   <string name="userCallActivityLabel">Telefone</string>
-  <string name="video_call_not_allowed_if_tty_enabled">Por favor, desactive o modo TTY para fazer videochamadas</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Desligue o modo TTY para fazer videochamadas</string>
   <string name="voice_dial_out">Chamada de voz</string>
   <string name="voice_report_incoming_call">Chamada recebida</string>
   <string name="voice_report_unknown_num">Número desconhecido</string>

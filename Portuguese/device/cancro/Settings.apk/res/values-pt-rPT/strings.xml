@@ -2598,7 +2598,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="priority_storage_title">Definições de armazenamento</string>
   <string name="privacy_mode_dialog_message">Ocultar mensagens, notas, fotos, definições e chamadas recebidas?</string>
   <string name="privacy_mode_dialog_title">Modo Convidado</string>
-  <string name="privacy_mode_enable_sum">Ocultar mensagens, notas, fotos, definições,e chamadas recebidas</string>
+  <string name="privacy_mode_enable_sum">Ocultar mensagens, notas, fotos, definições e chamadas recebidas</string>
   <string name="privacy_mode_enable_title">Modo Convidado</string>
   <string name="privacy_protect_title">Protecção de privacidade</string>
   <string name="privacy_relative">Privacidade</string>

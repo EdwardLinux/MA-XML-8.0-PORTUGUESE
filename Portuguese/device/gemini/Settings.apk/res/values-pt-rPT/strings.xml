@@ -2345,12 +2345,13 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_equalizer">Definições/Som e vibração/Definições de áudio/Equalizador</string>
   <string name="path_fluency_mode">Definições/Bateria e desempenho/Animações de sistema</string>
   <string name="path_font_settings">Definições/Tipo de letra do sistema</string>
+  <string name="path_force_touch">Definições/Definições adicionais/3D Touch</string>
   <string name="path_gesture_wakeup_title">Definições/Ecrã/Duplo toque no ecrã para ligar</string>
   <string name="path_gps_settings">Definições/Definições adicionais/Privacidade/Localização</string>
   <string name="path_handy_mode_settings">Definições/Definições adicionais/Modo Uma Mão</string>
   <string name="path_home_key">Definições/Definições adicionais/Botões/Início</string>
   <string name="path_key_settings">Definições/Definições adicionais/Botões</string>
-  <string name="path_lab_functions_title">Definições/Adicionais/Funcionalidades beta</string>
+  <string name="path_lab_functions_title">Definições/Definições adicionais/Funcionalidades beta</string>
   <string name="path_language_picker_title">Definições/Definições adicionais/Idioma e entrada/Idioma</string>
   <string name="path_language_settings">Definições/Definições adicionais/Idioma e entrada</string>
   <string name="path_led_settings">Definições/Definições adicionais/LED de notificações</string>
@@ -2987,6 +2988,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_equalizer">Equalizador</string>
   <string name="search_fluency_mode">Animações de sistema</string>
   <string name="search_font">Tipo de letra do sistema</string>
+  <string name="search_force_touch">3D Touch</string>
   <string name="search_gesture_wakeup_title">Duplo toque no ecrã para ligar</string>
   <string name="search_gps">GPS;Acesso à localização</string>
   <string name="search_handy_mode">Modo Uma Mão</string>
@@ -3321,6 +3323,8 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="sim_slot_empty">SIM vazio</string>
   <string name="sim_status_title">Estado do SIM</string>
   <string name="simulate_color_space">Simular espaço de cor</string>
+  <string name="single_key_use">Utilização de botão único</string>
+  <string name="single_key_use_summary">Utilizar o botão Início em vez dos outros dois para as operações normais</string>
   <string name="skip_label">Ignorar</string>
   <string name="skip_lock_screen_confirm_msg">Notificações, controlos do leitor de música e deslizar para a direita para aceder à lista de chamadas vão ser desligados no ecrã de bloqueio</string>
   <string name="skip_step">Ignorar</string>
