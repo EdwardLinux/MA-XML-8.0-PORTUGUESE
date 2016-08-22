@@ -2,10 +2,13 @@
 <resources>
   <string name="agree">Concordar</string>
   <string name="agree_terms">Eu li e aceito os Termos e Condições</string>
+  <string name="app_name">Provisão</string>
   <string name="back">Voltar</string>
   <string name="congratulation_label">Tudo pronto!</string>
   <string name="congratulation_title">Configuração concluída</string>
   <string name="content_description_complete">Concluído</string>
+  <string name="content_description_language_picker">Escolha de idioma</string>
+  <string name="content_description_miui_version">MIUI8</string>
   <string name="content_description_start">Iniciar</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
@@ -22,7 +25,6 @@
   <string name="miui_terms_no_network">Sem ligação de rede. Ver Termos de Serviço em %s</string>
   <string name="multisim_settings_category">Definições do cartão SIM</string>
   <string name="multisim_settings_title">Detectados 2 cartões SIM</string>
-  <string name="network_access_warning">Tem de obter uma ligação à Internet para activar os serviços Mi e Localizar Dispositivo</string>
   <string name="next">Seguinte</string>
   <string name="next_fingerprint">Seguinte</string>
   <string name="other_settings">Definições adicionais</string>

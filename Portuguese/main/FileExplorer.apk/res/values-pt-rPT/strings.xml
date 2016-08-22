@@ -182,7 +182,7 @@
   <string name="drive_opened">Com sessão iniciada</string>
   <string name="editor_commend">Editar</string>
   <string name="email_platform">Email</string>
-  <string name="empty_comment">Os comentários não podem estar vazios</string>
+  <string name="empty_comment">O comentário não pode estar vazio</string>
   <string name="empty_file_download">Não é possível transferir ficheiros vazios</string>
   <string name="empty_file_upload">Não é possível carregar ficheiros vazios</string>
   <string name="enable_documentsui">Ligar %s em Definições &gt; Aplicações instaladas primeiro</string>
@@ -659,7 +659,7 @@ e nunca perca as novidades!"</string>
   <string name="select_image">Imagens</string>
   <string name="select_music">Ficheiros de áudio</string>
   <string name="select_video">Ficheiros de vídeo</string>
-  <string name="select_volume">Seleccione volume</string>
+  <string name="select_volume">Seleccionar volume</string>
   <string name="send_comment">Enviar</string>
   <string name="send_error">Não foi possível enviar comentário</string>
   <string name="send_sticker">Enviar sticker</string>

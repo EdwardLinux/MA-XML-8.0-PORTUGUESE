@@ -10,6 +10,7 @@
   <string name="alert_message_edit_anyway">Se editar esta nota, alguns dos seus conteúdos podem ser perdidos</string>
   <string name="alert_title_delete">Eliminar nota</string>
   <string name="alert_title_edit_anyway">Esta nota contém conteúdo não suportado</string>
+  <string name="alert_title_hidden_note">Recebeu um lembrete duma nota oculta</string>
   <string name="all_folder_name">Todas as notas</string>
   <string name="all_terms">%1$s e %2$s</string>
   <string name="app_name">Notas</string>
@@ -41,6 +42,8 @@ Toque no botão + para criar uma pasta"</string>
   <string name="error_note_empty_for_clock">Não é possível definir um tempo de lembrete para uma nota vazia</string>
   <string name="error_note_empty_for_send_to_desktop">Notas vazias não podem ser colocadas no ecrã inicial</string>
   <string name="error_note_not_exist">A nota não existe</string>
+  <string name="error_send_empty_note">Não é possível enviar uma nota vazia</string>
+  <string name="error_send_empty_note_to_weibo">Não é possível enviar uma nota vazia para o Weibo</string>
   <string name="error_unsupport_content">Esta nota contém conteúdo não suportado, toque aqui para actualizar</string>
   <string name="error_widget_exist_for_send_to_desktop">Esta nota já existe no ecrã inicial</string>
   <string name="folder_exist">Já existe uma pasta com o mesmo nome</string>
@@ -59,6 +62,7 @@ Toque no botão + para criar uma pasta"</string>
   <string name="menu_hide">Ocultar</string>
   <string name="menu_move_parent_folder">Pasta acima</string>
   <string name="menu_move_to">Mover para</string>
+  <string name="menu_new_folder">Nova pasta</string>
   <string name="menu_restore">Restaurar</string>
   <string name="menu_send_as_image">Enviar como imagem</string>
   <string name="menu_send_as_text">Enviar como texto</string>

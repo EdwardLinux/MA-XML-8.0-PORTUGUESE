@@ -179,7 +179,6 @@
   <string name="resource_detail_jump_to_online_title">Online</string>
   <string name="resource_detail_jump_to_same_author_title">Mesmo autor</string>
   <string name="resource_detail_recommend_desiner_other_themes">Temas desenhados por %1$s</string>
-  <string name="resource_detail_recommend_desiner_themes">%1$s temas</string>
   <string name="resource_detail_recommend_other_themes">Os utilizadores também gostaram</string>
   <string name="resource_detail_update_log_title">Actualizações</string>
   <string name="resource_detail_vertical_divider">|</string>

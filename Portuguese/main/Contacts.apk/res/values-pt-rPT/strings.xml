@@ -1036,6 +1036,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="search_import_from_other_phone">Contactos;Importar;outro telefone</string>
   <string name="search_import_from_sdcard">Contactos;Importar;Armazenamento</string>
   <string name="search_import_from_sim">Contactos;Importar;Cartão SIM</string>
+  <string name="search_input_hint">Pode pesquisar números de telefone ou serviços</string>
   <string name="search_key_photo_word">Atribuir;contacto;fotos;Contactos</string>
   <string name="search_key_rebuild_t9_index_title">Organizar;Contactos;t9</string>
   <string name="search_key_sim_manage">Organizar;Contactos</string>

@@ -14,6 +14,7 @@
   <string name="auto_disable_screenbuttons_prompts_not_show_again">Não mostrar novamente</string>
   <string name="auto_disable_screenbuttons_prompts_ok">OK</string>
   <string name="auto_disable_screenbuttons_prompts_title">Desactivar os botões de navegação?</string>
+  <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Toque novamente para sair</string>
   <string name="auto_start_warning_allow">Permitir</string>
   <string name="auto_start_warning_deny">Negar</string>
   <string name="auto_start_warning_title">Permitir %s iniciar automaticamente?</string>
