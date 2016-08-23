@@ -22,7 +22,7 @@ Identificador de anúncios é um ID único e permanente do seu dispositivo. Os f
   <string name="access_control_password_title">Bloqueio de ecrã</string>
   <string name="access_control_recording_intro_header">Desenhar um padrão de desbloqueio</string>
   <string name="access_control_reset_by_account">Iniciar a sessão na sua Conta Mi para redefinir palavra-passe</string>
-  <string name="access_point_names">Pontos de acesso(APN)</string>
+  <string name="access_point_names">Pontos de acesso (APN)</string>
   <string name="accessibility_captioning_title">Legendas</string>
   <string name="accessibility_category_personal">Contas de perfil pessoal</string>
   <string name="accessibility_category_work">Contas de perfil de trabalho - %s</string>
@@ -120,7 +120,7 @@ Nota: Tocar três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="add_fingerprint_toast_text">Coloque o seu dedo no sensor</string>
   <string name="adding_profile_owner_warning">"Ao proceder, o seu utilizador vai ser gerido pelo seu Administrador que também pode guardar dados associados, por adição aos seus dados pessoais.
 
-O seu Administrador pode monitorizar e gerir definições, acessos, aplicações e dados associados com este Utilizador, incluíndo actividade de rede e a informação de localização do seu dispositivo"</string>
+O seu Administrador pode monitorizar e gerir definições, acessos, aplicações e dados associados com este Utilizador, incluindo actividade de rede e a informação de localização do seu dispositivo"</string>
   <string name="additional_permissions">Permissões adicionais</string>
   <string name="additional_permissions_more">%1$d mais</string>
   <string name="additional_system_update"/>
@@ -2308,7 +2308,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_airplane_mode_settings">Definições/Mais/Modo Avião</string>
   <string name="path_alarm_sound_title">Definições/Som e vibração/Som do alarme</string>
   <string name="path_android_beam_settings">Definições/Mais/Android Beam</string>
-  <string name="path_apn_settings">Definições/Definições de rede móvel/Pontos de acesso(APN)</string>
+  <string name="path_apn_settings">Definições/Definições de rede móvel/Pontos de acesso (APN)</string>
   <string name="path_app_invisible">Definições/Definições adicionais/Funcionalidades Beta/Aplicações invisíveis</string>
   <string name="path_app_permission">Definições/Permissões</string>
   <string name="path_app_switch_key">Definições/Definições adicionais/Botões/Recentes</string>
@@ -2950,7 +2950,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_airplane">Modo Avião</string>
   <string name="search_alarm_sound_title">Som do alarme</string>
   <string name="search_android_beam">NFC;Android Beam</string>
-  <string name="search_apn_settings">APN;Pontos de acesso(APN)</string>
+  <string name="search_apn_settings">APN;Pontos de acesso (APN)</string>
   <string name="search_app_invisible">Aplicações invisíveis</string>
   <string name="search_app_permission">Permissões;Acesso root</string>
   <string name="search_app_switch_key">Recentes</string>
@@ -3019,7 +3019,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_music_headset_mode_settings">Botões remotos do auricular</string>
   <string name="search_music_headset_settings">Auriculares e efeitos de áudio</string>
   <string name="search_music_mi_effect_title">Melhoramento de Som Mi</string>
-  <string name="search_network">Redes móveis de trabalho;Dados móveis;Roaming;Receber MMS;Pontos de acesso(APN);Tipo de rede preferida;Redes móveis</string>
+  <string name="search_network">Redes móveis de trabalho;Dados móveis;Roaming;Receber MMS;Pontos de acesso (APN);Tipo de rede preferida;Redes móveis</string>
   <string name="search_networks_title">Redes móveis</string>
   <string name="search_nfc_se_route_title">Posição do elemento de segurança</string>
   <string name="search_notification_app_list_settings">Notificações das aplicações</string>
