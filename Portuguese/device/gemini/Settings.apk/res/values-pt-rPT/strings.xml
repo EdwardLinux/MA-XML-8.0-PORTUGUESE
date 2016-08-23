@@ -164,6 +164,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="android_beam_tips">Certifique-se que os dois dispositivos estão a tocar um no outro e depois toque no conteúdo que quer transferir</string>
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Escala de duração da animação</string>
+  <string name="anr_record_interval_title">Gravar intervalos ANR</string>
   <string name="anti_spam">Lista de bloqueio</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Tipo de autenticação</string>
@@ -2025,6 +2026,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="move_app_to_internal">Mover para o telefone</string>
   <string name="move_app_to_sdcard">Mover para o armazenamento USB</string>
   <string name="moving">A mover</string>
+  <string name="mqsas_settings_category">MQSAS</string>
   <string name="msd_driver_download">Transferir driver</string>
   <string name="msd_driver_download_mac">OSX: Transferir o driver e instalar o AndroidFileTransfer.dmg</string>
   <string name="msd_driver_download_mac_url">Obter o driver em http://www.android.com/filetransfer/</string>
@@ -2216,6 +2218,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="online_resource_entry">Recursos online</string>
   <string name="only_one_home_message">Estas definições ficam ocultas até que instale outro launcher</string>
   <string name="onscreen_keyboard_settings_summary">Definições de teclado</string>
+  <string name="open_anr_debug">Ligar depuração ANR</string>
   <string name="open_miui_optimization_title">Ligar optimização MIUI</string>
   <string name="open_miui_optimization_warning_message">O seu dispositivo vai reiniciar para aplicar esta alteração</string>
   <string name="open_wifi_connect_summary">Toque para ver detalhes</string>
@@ -2732,6 +2735,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="recommend_item_4">Auriculares</string>
   <string name="recommend_item_title">Recomendados</string>
   <string name="recompute_size">A calcular o tamanho…</string>
+  <string name="record_anr_in_background">Gravar casos ANR em segundo plano</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Informação regulamentar</string>
   <string name="remove_account_failed">Esta conta é exigida por algumas aplicações. Apenas poderá removê-la repondo o telefone para as definições de fábrica (que elimina todos os dados pessoais) em Definições &gt; Cópia e restauro</string>
