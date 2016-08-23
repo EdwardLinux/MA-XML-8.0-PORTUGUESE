@@ -1355,7 +1355,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="local_backup_section_summary">Definições da cópia do sistema, contas e aplicações</string>
   <string name="local_backup_section_title">Cópias locais</string>
   <string name="locale_default">Predefinido</string>
-  <string name="locale_settings">Locale</string>
+  <string name="locale_settings">Localização</string>
   <string name="location_access_off">Desligado</string>
   <string name="location_access_on">Ligado</string>
   <string name="location_access_summary">Aplicações podem obter a informação da sua localização</string>
@@ -1376,7 +1376,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="location_agps_register_network_type">Acesso ao tipo de rede</string>
   <string name="location_agps_register_network_type_dialog_title">Escolher rede</string>
   <string name="location_agps_register_network_type_summary">Escolher rede para utilização de AGPS</string>
-  <string name="location_agps_reset_type">Redefenir tipos</string>
+  <string name="location_agps_reset_type">Redefinir tipos</string>
   <string name="location_agps_reset_type_choose_dialog_title">Redefinir tipos</string>
   <string name="location_agps_reset_type_summary">Escolha o tipo de restauro preferido</string>
   <string name="location_agps_roaming_help">Escolher todas as redes pode aumentar o consumo de dados em roaming. Poderá ter custos adicionais se exceder o limite subscrito no seu plano de dados</string>
