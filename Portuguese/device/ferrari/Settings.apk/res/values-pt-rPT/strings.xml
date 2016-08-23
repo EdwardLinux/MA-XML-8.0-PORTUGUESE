@@ -718,7 +718,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
 
 Para continuar a utilizar o telefone, é necessário efectuar uma reposição de fábrica. Quando configurar o telefone após a reposição, terá a oportunidade de restaurar quaisquer dados da cópia de segurança da sua Conta Google"</string>
   <string name="crypt_keeper_data_corrupt_title">Desencriptação sem sucesso</string>
-  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu dispositivo, assumindo que configurou um bloqueio de ecrã, vai ser necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. O único outro modo de desencriptar é fazer uma reposição dos dados de fábrica, eliminando todos os seus dados</string>
+  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu dispositivo, assumindo que configurou um bloqueio de ecrã, vai ser necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. O outro modo de desencriptar é fazer uma reposição dos dados de fábrica, eliminando todos os seus dados</string>
   <string name="crypt_keeper_decrypt_methods_title">Desencriptar o seu dispositivo</string>
   <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas e dados, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar uma reposição de dados de fábrica, eliminando todos os seus dados.
 

@@ -599,7 +599,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="bluetooth_remember_choice">Não perguntar novamente</string>
   <string name="bluetooth_rename_button">Mudar o nome</string>
   <string name="bluetooth_rename_device">Mudar o nome deste dispositivo</string>
-  <string name="bluetooth_sap_acceptance_dialog_text">%1$s pretende aceder ao seu cartão SIM. Ao conceder acesso ao cartão SIM, desativa a conetividade de dados no seu dispositivo durante a ligação. Dar acesso a %2$s?</string>
+  <string name="bluetooth_sap_acceptance_dialog_text">%1$s pretende aceder ao seu cartão SIM. Ao conceder acesso ao cartão SIM, desactiva a conectividade de dados no seu dispositivo durante a ligação. Dar acesso a %2$s?</string>
   <string name="bluetooth_sap_profile_summary_connected">Ligado a SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Utilizar para acesso ao SIM</string>
   <string name="bluetooth_sap_request">Pedido de acesso ao SIM</string>
@@ -684,7 +684,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="calendar_sound_dialog_title">Escolher som do calendário</string>
   <string name="calendar_sound_title">Som do calendário</string>
   <string name="call_manager_enable_summary">Permitir que este serviço gira a forma como as suas chamadas são efectuadas</string>
-  <string name="call_manager_enable_title">Ativar Gestor de Chamadas</string>
+  <string name="call_manager_enable_title">Activar Gestor de Chamadas</string>
   <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Gestor de Chamadas</string>
   <string name="call_settings_primary_user_only">Alterar definições de chamadas no primeiro espaço</string>
@@ -800,8 +800,8 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="configure_input_method">Configurar métodos de entrada</string>
   <string name="confirm_action">OK</string>
   <string name="confirm_download_cancelation_dialog_message">Cancelar transferência?</string>
-  <string name="confirm_enable_multi_window_text">AVISO: esta é uma funcionalidade altamente experimental que permite múltiplas atividades no ecrã ao mesmo tempo através da IU de Aplicações recentes. Algumas aplicações podem falhar ou não funcionar correctamente quando utilizadas com esta funcionalidade</string>
-  <string name="confirm_enable_multi_window_title">Activar o modo multijanelas?</string>
+  <string name="confirm_enable_multi_window_text">AVISO: esta é uma funcionalidade altamente experimental que permite múltiplas actividades no ecrã ao mesmo tempo através da IU de Aplicações recentes. Algumas aplicações podem falhar ou não funcionar correctamente quando utilizadas com esta funcionalidade</string>
+  <string name="confirm_enable_multi_window_title">Activar o modo multi-janelas?</string>
   <string name="confirm_enable_oem_unlock_text">AVISO: as funcionalidades de protecção do dispositivo não funcionam neste dispositivo enquanto esta definição estiver activada</string>
   <string name="confirm_enable_oem_unlock_title">Pretende permitir o desbloqueio de OEM?</string>
   <string name="confirm_erase">Eliminar</string>
@@ -852,7 +852,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
 
 Para continuar a utilizar o telefone, é necessário efectuar uma reposição de fábrica. Quando configurar o telefone após a reposição, terá a oportunidade de restaurar quaisquer dados da cópia de segurança da sua Conta Google"</string>
   <string name="crypt_keeper_data_corrupt_title">Desencriptação sem sucesso</string>
-  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu dispositivo, assumindo que configurou um bloqueio de ecrã, vai ser necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. O único outro modo de desencriptar é fazer uma reposição dos dados de fábrica, eliminando todos os seus dados</string>
+  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu dispositivo, assumindo que configurou um bloqueio de ecrã, vai ser necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. O outro modo de desencriptar é fazer uma reposição dos dados de fábrica, eliminando todos os seus dados</string>
   <string name="crypt_keeper_decrypt_methods_title">Desencriptar o seu dispositivo</string>
   <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas e dados, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar uma reposição de dados de fábrica, eliminando todos os seus dados.
 
@@ -910,7 +910,7 @@ Poderá encontrar controlos de utilização de dados mais adequados nas definiç
   <string name="data_usage_app_restrict_dialog_title">Restringir dados em segundo plano?</string>
   <string name="data_usage_app_restricted">Restringido</string>
   <string name="data_usage_app_settings">Definições da aplicação</string>
-  <string name="data_usage_app_summary_title">Utilização dados da aplicação</string>
+  <string name="data_usage_app_summary_title">Utilização de dados da aplicação</string>
   <string name="data_usage_auto_sync_off_dialog">Isto vai conservar a utilização de dados e bateria, mas vai ser necessário sincronizar cada conta manualmente para obter informações recentes e não vai receber notificações quando ocorrerem actualizações</string>
   <string name="data_usage_auto_sync_off_dialog_title">Desligar sincronização automática?</string>
   <string name="data_usage_auto_sync_on_dialog">"Qualquer alteração que efectue nas contas a partir da web será copiada automaticamente para o telefone.
@@ -1222,8 +1222,8 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="enable_compatibility">Redimensionar aplicação</string>
   <string name="enable_drive_mode">Modo Condução</string>
   <string name="enable_mobile_data_when_opening_hotspot">Activar também a ligação de dados móveis?</string>
-  <string name="enable_multi_window">Modo multijanelas</string>
-  <string name="enable_multi_window_summary">Várias atividades no ecrã ao mesmo tempo</string>
+  <string name="enable_multi_window">Modo multi-janelas</string>
+  <string name="enable_multi_window_summary">Várias actividades no ecrã ao mesmo tempo</string>
   <string name="enable_opengl_traces_title">Activar traços OpenGL</string>
   <string name="enable_quick_setting">Mostrar nas Definições rápidas</string>
   <string name="enable_service_encryption_warning">Se ligar o %1$s, o dispositivo não utilizará o bloqueio de ecrã para optimizar a encriptação de dados</string>
