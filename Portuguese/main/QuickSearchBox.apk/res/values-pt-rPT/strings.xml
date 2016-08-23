@@ -5,6 +5,7 @@
   <string name="baidu_search_url_from_default">https://www.google.pt/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_input">https://www.google.pt/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_launcher">https://www.google.pt/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_minus_one">https://www.google.pt/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_systemui">https://www.google.pt/search?q=%s&amp;tn=ins</string>
   <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
   <string name="clear_history">Limpar histórico</string>
@@ -52,14 +53,14 @@ Para limpar o histórico do Navegador, utilize as definições do Navegador"</st
   <string name="remove_from_history">Quer eliminar este item do histórico de pesquisas?</string>
   <string name="remove_from_history_failed">Não foi possível remover o item do histórico de pesquisas</string>
   <string name="search_apps">Pesquisar aplicações</string>
-  <string name="search_apps_url">market://search?q=%s&amp;ref=migs</string>
+  <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
   <string name="search_group_fold">Ocultar</string>
   <string name="search_group_unfold">Mais</string>
   <string name="search_history">Histórico</string>
   <string name="search_in_app_store">Pesquisar na Play Store</string>
   <string name="search_in_web">Pesquisar na web</string>
-  <string name="search_keyword_quicksearchbox">Pesquisa</string>
-  <string name="search_path_quicksearchbox">Aplicações de sistema/Pesquisa</string>
+  <string name="search_keyword_quicksearchbox">Pesquisar</string>
+  <string name="search_path_quicksearchbox">Aplicações de sistema/Pesquisar</string>
   <string name="search_settings">Definições de pesquisa</string>
   <string name="search_sources">Itens pesquisáveis</string>
   <string name="search_sources_summary">Escolher o que pesquisar no telefone</string>

@@ -29,7 +29,6 @@
   <string name="ad_card_installing">Instalação</string>
   <string name="ad_card_network_error">Sem ligação à Internet. Por favor, tente novamente</string>
   <string name="ad_card_spread">Taxa de juro</string>
-  <string name="add_account">Adicionar conta</string>
   <string name="add_calendar">Subscrição</string>
   <string name="add_card">Adicionar cartão</string>
   <string name="add_topic_success">Subscrição de \"%s\" sucesso</string>
@@ -269,12 +268,13 @@
   <string name="network_not_available">Não é possível ligar à rede</string>
   <string name="new_event_dialog_label">Novo evento</string>
   <string name="new_event_dialog_option">Novo evento</string>
-  <string name="no_calendars_found">Antes de adicionar um evento, tem de adicionar pelo menos uma conta de calendário no seu dispositivo e pôr um calendário visível. Toque Adicionar Conta para adicionar uma conta (se adicionou uma conta agora mesmo, aguarde até que finalize a sincronização e tente novamente). Ou toque Cancelar e certifique-se que pelo menos um calendário está visível</string>
   <string name="no_local_calendar">Nenhum calendário subscrito</string>
   <string name="no_network">Sem rede. Actualize novamente a rede</string>
   <string name="no_network_btn">Tente novamente</string>
-  <string name="no_syncable_calendars">Sem calendários</string>
   <string name="no_title_label">(Sem título)</string>
+  <string name="no_visiable_calendar_message">É necessário seleccionar uma conta do calendário. Clique em Seleccionar conta para ir para o próximo passo</string>
+  <string name="no_visiable_calendar_select_account">Seleccionar conta</string>
+  <string name="no_visiable_calendar_title">Seleccionar conta do calendário</string>
   <string name="not_synced">Não sincronizado</string>
   <string name="olympic_rank">Posição</string>
   <string name="olympic_total">Total</string>
@@ -307,7 +307,8 @@
   <string name="preferences_holidays">Mostrar feriados</string>
   <string name="preferences_home_tz_default">Europa/Londres</string>
   <string name="preferences_home_tz_title">Fuso horário local</string>
-  <string name="preferences_import_credit_repayment">Importar pagamentos do cartão de crédito</string>
+  <string name="preferences_import_credit_repayment">Pagamentos do cartão de crédito</string>
+  <string name="preferences_import_travel">Bilhetes de comboio</string>
   <string name="preferences_notification_ringtone_title">Som</string>
   <string name="preferences_reminder_title">Notificação e lembretes</string>
   <string name="preferences_show_week_num_title">Mostrar número da semana</string>
@@ -407,6 +408,7 @@
   <string name="taishen">Filho de Deus</string>
   <string name="tardis">TARDIS</string>
   <string name="template_announce_item_index">Evento %1$s de %2$s</string>
+  <string name="template_week_num">Semana %1$s</string>
   <string name="text_year">Ano</string>
   <string name="ticket_card_date">Dia %2$s Mês %1$s</string>
   <string name="ticket_card_description">Reserva de hoje</string>

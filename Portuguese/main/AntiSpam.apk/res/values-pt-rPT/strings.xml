@@ -77,6 +77,7 @@
   <string name="close_callwait">Desligado</string>
   <string name="customizer_mode_user_define_name">As minhas regras</string>
   <string name="dlg_add_blacklist">Bloquear este número?</string>
+  <string name="dlg_add_blacklist_title">Adicionar à lista de bloqueio</string>
   <string name="dlg_add_blacklist_warn_conflict_content">%1$s e %2$s outros contactos já estão na sua lista de excepções</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Conflito nas excepções</string>
   <string name="dlg_add_keyword">Adicionar palavras-chave</string>
