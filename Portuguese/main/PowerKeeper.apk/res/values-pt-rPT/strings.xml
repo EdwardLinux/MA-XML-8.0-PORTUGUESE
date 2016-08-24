@@ -44,7 +44,7 @@
   <string name="high">Desempenho</string>
   <string name="hints_loading_text">Aguarde…</string>
   <string name="invalid_size_value">Não foi possível obter o tamanho do pacote</string>
-  <string name="location_disable_description">Aplicações em segundo plano apenas podem aceder aos serviços de localização por um breve período de tempo enquanto que o acesso contínuo está restricto</string>
+  <string name="location_disable_description">Aplicações em segundo plano apenas podem aceder aos serviços de localização por um breve período de tempo enquanto que o acesso contínuo está restrito</string>
   <string name="location_disable_title">Restringir</string>
   <string name="location_enable_description">Aplicações podem utilizar serviços de localização em segundo plano</string>
   <string name="location_enable_title">Permitir</string>

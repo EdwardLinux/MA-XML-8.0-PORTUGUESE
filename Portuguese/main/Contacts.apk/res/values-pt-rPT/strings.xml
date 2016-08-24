@@ -1019,7 +1019,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="scan">Verificar</string>
   <string name="scan_duplicate_message">%1$d contactos com informação idêntica</string>
   <string name="scan_merge">A pesquisar por contactos duplicados…</string>
-  <string name="scan_qrcode_card_hint1">Digitalizar código QR acima</string>
+  <string name="scan_qrcode_card_hint1">Digitalizar código QR</string>
   <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">Motivo: \"%s\"</string>
   <string name="scanning_sdcard_failed_title">O armazenamento não pode ser verificado</string>
