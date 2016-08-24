@@ -243,9 +243,15 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="card_main_paysafe_action">Ligar</string>
   <string name="card_main_paysafe_summary">Verificar potenciais riscos nos pagamentos</string>
   <string name="card_main_paysafe_title">Segurança dos pagamentos</string>
+  <string name="card_main_private_space_action">Criar</string>
+  <string name="card_main_private_space_summary">Utilizar o segundo espaço é como ter 2 dispositivos</string>
+  <string name="card_main_private_space_title">Segundo espaço</string>
   <string name="card_main_sectool_title">Ferramentas</string>
   <string name="card_main_speeddetail_title">Velocidade da ligação</string>
   <string name="card_main_speeddetailt_summary">Ver a velocidade da ligação de cada aplicação</string>
+  <string name="card_main_xspace_action">Criar</string>
+  <string name="card_main_xspace_summary">Criar várias contas para quaisquer aplicações</string>
+  <string name="card_main_xspace_title">Aplicações clonadas</string>
   <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">"Última carga "</string>
   <string name="charging_text_battery_nearly_full">Quase carregada</string>
@@ -729,7 +735,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="optimize_result_button_open_now">Ligar</string>
   <string name="optimize_result_button_operators_diagnose">Diagnósticos da operadora</string>
   <string name="optimize_result_button_purchase">Comprar</string>
-  <string name="optimize_result_button_purchase_flow">Comprar dados móveis</string>
+  <string name="optimize_result_button_purchase_flow">Classificação completa</string>
   <string name="optimize_result_button_see_detaills">Detalhes</string>
   <string name="optimize_result_button_to_open">Ligar</string>
   <string name="optimize_result_button_to_set">Definir</string>
