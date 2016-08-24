@@ -993,7 +993,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="date_picker_title">Data</string>
   <string name="date_time_24hour">Utilizar formato de 24 horas</string>
   <string name="date_time_24hour_title">Formato de 24 horas</string>
-  <string name="date_time_auto">Data e hora automática</string>
+  <string name="date_time_auto">Data e hora automáticas</string>
   <string name="date_time_auto_summaryOff">Utilizar a hora fornecida pela rede</string>
   <string name="date_time_auto_summaryOn">Utilizar a hora fornecida pela rede</string>
   <string name="date_time_set_date">Definir data</string>
@@ -3846,7 +3846,7 @@ As suas impressões digitais guardadas também são removidas deste dispositivo 
   <string name="usb_eject">Ejectar armazenamento USB</string>
   <string name="usb_eject_summary">Ejectar armazenamento USB para o remover com segurança</string>
   <string name="usb_format">Formatar armazenamento USB</string>
-  <string name="usb_format_summary">Eliminar todos os dados do armazenamento USB, como música e fotos</string>
+  <string name="usb_format_summary">Eliminar todos os dados no armazenamento USB (p.e. música e fotos)</string>
   <string name="usb_host_mode_subtext">Utilizar controladores de jogos e outros periféricos na porta USB pode consumir mais bateria</string>
   <string name="usb_host_mode_text">Modo de USB anfitrião</string>
   <string name="usb_insert_summary">Ligar armazenamento USB</string>

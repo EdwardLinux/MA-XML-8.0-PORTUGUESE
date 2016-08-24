@@ -993,7 +993,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="date_picker_title">Data</string>
   <string name="date_time_24hour">Utilizar formato de 24 horas</string>
   <string name="date_time_24hour_title">Formato de 24 horas</string>
-  <string name="date_time_auto">Data e hora automática</string>
+  <string name="date_time_auto">Data e hora automáticas</string>
   <string name="date_time_auto_summaryOff">Utilizar a hora fornecida pela rede</string>
   <string name="date_time_auto_summaryOn">Utilizar a hora fornecida pela rede</string>
   <string name="date_time_set_date">Definir data</string>
