@@ -2999,7 +2999,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_hint">Definições de pesquisa</string>
   <string name="search_home_key">Início</string>
   <string name="search_key">Botões;Chaves</string>
-  <string name="search_lab_functions_title">Funcionalidades Beta,Função laboratório</string>
+  <string name="search_lab_functions_title">Funcionalidades Beta;Função laboratório</string>
   <string name="search_label">Definições</string>
   <string name="search_language">Idioma e entrada</string>
   <string name="search_language_picker_title">Idioma</string>
@@ -3058,7 +3058,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_security_settings">Definições de privacidade</string>
   <string name="search_settings">Pesquisar</string>
   <string name="search_settings_summary">Gerir as definições da pesquisa e do histórico</string>
-  <string name="search_slot_status_title">IMEI information</string>
+  <string name="search_slot_status_title">Informação do IMEI;IMEI</string>
   <string name="search_sms_delivered_sound_title">Mensagem entregue</string>
   <string name="search_sms_received">Mensagem recebida</string>
   <string name="search_sound_effects_enable_title">Sons de toque</string>
@@ -3179,7 +3179,7 @@ Para utilizar a fixação no ecrã:
   <string name="security_settings_fingerprint_enroll_touch_dialog_title">Ups, isso não é o sensor</string>
   <string name="security_settings_fingerprint_preference_title">Impressão digital</string>
   <string name="security_settings_premium_sms_desc">Enviar SMS premium</string>
-  <string name="security_settings_summary">Definir A Minha Localização, ecrã de desbloqueio, bloqueio do cartão SIM, credêncial de bloqueio do armazenamento</string>
+  <string name="security_settings_summary">Definir A Minha Localização, ecrã de desbloqueio, bloqueio do cartão SIM, credencial de bloqueio do armazenamento</string>
   <string name="security_settings_title">Segurança</string>
   <string name="select_all">Seleccionar tudo</string>
   <string name="select_application">Seleccionar aplicação</string>
@@ -3502,7 +3502,7 @@ Todas as aplicações armazenadas neste ^1 são desinstaladas e os respectivos d
   <string name="storage_internal_title">Armazenamento do dispositivo</string>
   <string name="storage_internal_unmount_details"><b>"Quando ejectar este  ^1, , as aplicações armazenadas no mesmo deixam de funcionar e os ficheiros multimédia armazenados deixam de estar disponíveis até voltar a inseri-lo"</b>" 
 
-Este ^1 is está formatado para funcionar apenas neste dispositivo. Não funciona em mais nenhum"</string>
+Este ^1 está formatado para funcionar apenas neste dispositivo. Não funciona em mais nenhum"</string>
   <string name="storage_label">Armazenamento</string>
   <string name="storage_low_summary">Algumas funções do sistema, como a sincronização, poderão não funcionar correctamente. Tente obter espaço eliminando ou retirando ficheiros, como conteúdos multimédia ou aplicações</string>
   <string name="storage_low_title">O espaço de armazenamento está a chegar ao fim</string>
@@ -3780,7 +3780,7 @@ As suas impressões digitais guardadas também são removidas deste dispositivo 
 
 As suas impressões digitais guardadas também são removidas deste dispositivo e não pode desbloquear o telemóvel, autorizar compras ou iniciar sessão em aplicações com elas"</string>
   <string name="unlock_disable_frp_warning_ok">Sim, remover</string>
-  <string name="unlock_disable_frp_warning_title">Remover a proteção do dispositivo?</string>
+  <string name="unlock_disable_frp_warning_title">Remover a protecção do dispositivo?</string>
   <string name="unlock_disable_lock_pin_summary">Desligar PIN</string>
   <string name="unlock_disable_lock_title">Desligar bloqueio de ecrã</string>
   <string name="unlock_set_enter_system">Ignorar bloqueio de ecrã</string>
@@ -3866,7 +3866,7 @@ As suas impressões digitais guardadas também são removidas deste dispositivo 
   <string name="usb_tethering_button_text">Partilha de ligação USB</string>
   <string name="usb_tethering_errored_subtext">Erro na associação USB</string>
   <string name="usb_tethering_storage_active_subtext">Não é possível associar quando o armazenamento está em utilização</string>
-  <string name="usb_tethering_turnon_subtext">Ligar para ativar</string>
+  <string name="usb_tethering_turnon_subtext">Ligar para activar</string>
   <string name="usb_tethering_unavailable_subtext">USB não está ligado</string>
   <string name="usb_title">USB</string>
   <string name="usb_use">Utilizar USB para</string>
@@ -4147,7 +4147,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
 
 "<li>Não receberá actualizações de software até se ligar à Internet.</li>"
 
-"<li>Neste momento, não pode activar as funcionalidades de proteção do dispositivo."</li></string>
+"<li>Neste momento, não pode activar as funcionalidades de protecção do dispositivo."</li></string>
   <string name="wifi_ap_band_config">Seleccionar banda do PA</string>
   <string name="wifi_ap_choose_2G">Banda de 2,4 GHz</string>
   <string name="wifi_ap_choose_5G">Banda de 5 GHz</string>

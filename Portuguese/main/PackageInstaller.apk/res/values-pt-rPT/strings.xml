@@ -142,7 +142,7 @@ Todos os dados existentes da aplicação serão guardados"</string>
   <string name="uninstall_blocked_device_owner">Esta aplicação é exigida pelo administrador do disp. e não pode ser desinstalada</string>
   <string name="uninstall_blocked_profile_owner">O perfil de trabalho necessita desta aplicação e não é possível desinstalá-la</string>
   <string name="uninstall_done">Desinstalação concluída</string>
-  <string name="uninstall_failed">Desinstalação sem sucessp</string>
+  <string name="uninstall_failed">Desinstalação sem sucesso</string>
   <string name="uninstall_failed_device_policy_manager">Não é possível desinstalar porque este pacote é um admin. de aparelho activo</string>
   <string name="uninstall_failed_device_policy_manager_of_user">Não é possível desinstalar porque este pacote é um admin. de disp. activo para o utilizador %1$s</string>
   <string name="uninstall_failed_msg">Não foi possível desinstalar %1$s</string>

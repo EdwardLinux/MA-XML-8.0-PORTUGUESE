@@ -168,7 +168,7 @@
   <string name="resource_default_name">Temas</string>
   <string name="resource_delete">Eliminar</string>
   <string name="resource_delete_all">Eliminar %1$d tema(s) seleccionado(s)?</string>
-  <string name="resource_delete_confirm">Eliminar estes temas?</string>
+  <string name="resource_delete_confirm">Eliminar este(s) tema(s)?</string>
   <string name="resource_delta_update_failed">A transferir tema novamente…</string>
   <string name="resource_delta_update_successful">Tema actualizado</string>
   <string name="resource_delta_update_total">%1$d actualizações guardadas %2$s</string>

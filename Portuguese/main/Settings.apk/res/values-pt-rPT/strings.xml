@@ -2478,7 +2478,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="search_hint">Definições de pesquisa</string>
   <string name="search_home_key">Início</string>
   <string name="search_key">Botões;Chaves</string>
-  <string name="search_lab_functions_title">Funcionalidades Beta,Função laboratório</string>
+  <string name="search_lab_functions_title">Funcionalidades Beta;Função laboratório</string>
   <string name="search_label">Definições</string>
   <string name="search_language">Idioma e entrada</string>
   <string name="search_language_picker_title">Idioma</string>
@@ -2537,7 +2537,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="search_security_settings">Definições de privacidade</string>
   <string name="search_settings">Pesquisar</string>
   <string name="search_settings_summary">Gerir as definições da pesquisa e do histórico</string>
-  <string name="search_slot_status_title">IMEI information</string>
+  <string name="search_slot_status_title">Informação do IMEI;IMEI</string>
   <string name="search_sms_delivered_sound_title">Mensagem entregue</string>
   <string name="search_sms_received">Mensagem recebida</string>
   <string name="search_sound_effects_enable_title">Sons de toque</string>
@@ -2627,7 +2627,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="security_settings_desc">Esta aplicação pode aceder aos seguintes itens neste telefone:</string>
   <string name="security_settings_desc_multi">Esta aplicação pode aceder aos seguintes itens no telefone. A fim de melhorar o desempenho e reduzir utilização de memória, algumas dessas permissões estão disponíveis para %1$s, porque são executadas no mesmo processo que %2$s:</string>
   <string name="security_settings_premium_sms_desc">Enviar SMS premium</string>
-  <string name="security_settings_summary">Definir A Minha Localização, ecrã de desbloqueio, bloqueio do cartão SIM, credêncial de bloqueio do armazenamento</string>
+  <string name="security_settings_summary">Definir A Minha Localização, ecrã de desbloqueio, bloqueio do cartão SIM, credencial de bloqueio do armazenamento</string>
   <string name="security_settings_title">Segurança</string>
   <string name="select_all">Seleccionar tudo</string>
   <string name="select_application">Seleccionar aplicação</string>

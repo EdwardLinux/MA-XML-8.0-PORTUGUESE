@@ -951,7 +951,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="privacy_prompt_traffic_adjust_message">Esta funcionalidade necessita de encriptar e enviar o IMEI, número de telefone e dados da operadora para os servidores Mi para conseguir receber as estatísticas de utilização de dados da sua operadora</string>
   <string name="privacy_prompt_traffic_purchase_message">O seu número e detalhes de operadora serão encriptados e enviados para os servidores Mi para obter mais informação sobre as opções de compra de dados</string>
   <string name="privacy_prompt_upload">Enviar</string>
-  <string name="process_kernel_label">Android OS</string>
+  <string name="process_kernel_label">SO Android</string>
   <string name="process_mediaserver_label">Servidor de multimédia</string>
   <string name="promotion">Anúncios</string>
   <string name="prompt_input_time_illegal">Não é possível definir esta hora. Altere-a e tente novamente</string>
