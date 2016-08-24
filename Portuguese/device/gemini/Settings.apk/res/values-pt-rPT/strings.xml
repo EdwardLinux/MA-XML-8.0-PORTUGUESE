@@ -3660,7 +3660,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="tether_share_qrcode_title">Partilhar código QR</string>
   <string name="theme_settings_title">Temas</string>
   <string name="time_picker_title">Hora</string>
-  <string name="time_zone_auto_stub">Seleccionar Fuso Horário</string>
+  <string name="time_zone_auto_stub">Seleccionar fuso horário</string>
   <string name="timezone_settings">Fuso horário</string>
   <string name="title_color_calibration">Correcção de Cores</string>
   <string name="title_font">Tipo de letra</string>
@@ -3678,8 +3678,8 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="total_memory">Memória total</string>
   <string name="total_size_label">Total</string>
   <string name="touch_assistant">Menu de atalhos</string>
-  <string name="touch_filtered_warning">As definições não podem verificar a resposta, porque uma aplicação está a ocultar uma permissão</string>
-  <string name="touch_sensitive_summary">Faz com que a sensibilidade do ecrã seja maior, para poder funcionar quando utiliza luvas</string>
+  <string name="touch_filtered_warning">As definições não podem verificar a resposta, devido a uma aplicação estar a ocultar uma permissão</string>
+  <string name="touch_sensitive_summary">O ecrã fica mais sensível ao toque</string>
   <string name="touch_sensitive_title">Modo Luvas</string>
   <string name="touch_sensitive_turn_off_cancel">Cancelar</string>
   <string name="touch_sensitive_turn_off_confirm">OK</string>
@@ -4038,7 +4038,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="volume_bluetooth_description">Bluetooth</string>
   <string name="volume_category_title">Volume</string>
   <string name="volume_hifi_description">Definições Hi-Fi</string>
-  <string name="volume_media_description">Conteúdos multimédia</string>
+  <string name="volume_media_description">Música, vídeo, jogos e outros conteúdos multimédia</string>
   <string name="volume_media_mute">Silenciar música e outros conteúdos multimédia</string>
   <string name="volume_notification_description">Notificações</string>
   <string name="volume_notification_mute">Silenciar notificações</string>

@@ -3330,7 +3330,7 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="single_key_use">Utilização de botão único</string>
   <string name="single_key_use_summary">Utilizar o botão Início em vez dos outros dois para as operações normais</string>
   <string name="skip_label">Ignorar</string>
-  <string name="skip_lock_screen_confirm_msg">Notificações, controlos do leitor de música, e deslizar para a direita para aceder à lista de chamadas vão ser desligados no ecrã de bloqueio</string>
+  <string name="skip_lock_screen_confirm_msg">Notificações, controlos do leitor de música e deslizar para a direita para aceder à lista de chamadas vão ser desligados no ecrã de bloqueio</string>
   <string name="skip_step">Ignorar</string>
   <string name="slot_status_title">Informação do IMEI</string>
   <string name="small_font">Pequena</string>
@@ -3367,7 +3367,7 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="ssl_ca_cert_info_message">"Este dispositivo é gerido por:
 %s
 
-O seu administrador pode monitorizar a sua actividade da rede, incluindo emails, aplicações e páginas de Internet seguras.
+O seu administrador pode monitorizar a sua actividade na rede, incluindo emails, aplicações e páginas de Internet seguras.
 
 Para mais informações contacte o seu administrador"</string>
   <string name="ssl_ca_cert_settings_button">Verificar credenciais de confiança</string>
@@ -3660,7 +3660,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="tether_share_qrcode_title">Partilhar código QR</string>
   <string name="theme_settings_title">Temas</string>
   <string name="time_picker_title">Hora</string>
-  <string name="time_zone_auto_stub">Seleccionar Fuso horário</string>
+  <string name="time_zone_auto_stub">Seleccionar fuso horário</string>
   <string name="timezone_settings">Fuso horário</string>
   <string name="title_color_calibration">Correcção de Cores</string>
   <string name="title_font">Tipo de letra</string>
@@ -3679,7 +3679,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="total_size_label">Total</string>
   <string name="touch_assistant">Menu de atalhos</string>
   <string name="touch_filtered_warning">As definições não podem verificar a resposta, devido a uma aplicação estar a ocultar uma permissão</string>
-  <string name="touch_sensitive_summary">Faz com que a sensibilidade do ecrã seja mais sensível à pressão</string>
+  <string name="touch_sensitive_summary">O ecrã fica mais sensível ao toque</string>
   <string name="touch_sensitive_title">Modo Luvas</string>
   <string name="touch_sensitive_turn_off_cancel">Cancelar</string>
   <string name="touch_sensitive_turn_off_confirm">OK</string>
@@ -3846,7 +3846,7 @@ As suas impressões digitais guardadas também são removidas deste dispositivo 
   <string name="usb_eject">Ejectar armazenamento USB</string>
   <string name="usb_eject_summary">Ejectar armazenamento USB para o remover com segurança</string>
   <string name="usb_format">Formatar armazenamento USB</string>
-  <string name="usb_format_summary">Eliminar todos os dados no armazenamento USB (p.e. música e fotos)</string>
+  <string name="usb_format_summary">Eliminar todos os dados do armazenamento USB, como música e fotos</string>
   <string name="usb_host_mode_subtext">Utilizar controladores de jogos e outros periféricos na porta USB pode consumir mais bateria</string>
   <string name="usb_host_mode_text">Modo de USB anfitrião</string>
   <string name="usb_insert_summary">Ligar armazenamento USB</string>
@@ -3981,7 +3981,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="vibrate_input_devices">Utilizar vibração</string>
   <string name="vibrate_input_devices_summary">Redireccionar vibração para o controlador de jogo quando ligado</string>
   <string name="vibrate_on_touch_title">Vibrar ao tocar</string>
-  <string name="vibrate_when_ringing_title">Vibrar também para chamadas</string>
+  <string name="vibrate_when_ringing_title">Vibrar ao receber chamadas</string>
   <string name="virtual_sim_category_title">Roaming Mi</string>
   <string name="virtual_sim_description">Serviço de roaming de confiança</string>
   <string name="virtual_sim_global_category_title">SIM Mi</string>
@@ -4077,7 +4077,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="vpn_mppe">Encriptação PPP (MPPE)</string>
   <string name="vpn_name">Nome</string>
   <string name="vpn_no_ca_cert">(não verificar servidor)</string>
-  <string name="vpn_no_network">Não há nenhuma ligação de rede. Por favor tente novamente mais tarde</string>
+  <string name="vpn_no_network">Não há nenhuma ligação de rede. Por favor, tente novamente mais tarde</string>
   <string name="vpn_no_selected">Seleccionar VPN</string>
   <string name="vpn_no_server_cert">(recebido do servidor)</string>
   <string name="vpn_not_used">(não utilizado)</string>
@@ -4453,7 +4453,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_wapi_cert_delet_subdir">Seleccionar um certificado compatível</string>
   <string name="wifi_wapi_cert_install">Instalar certificados WAPI</string>
   <string name="wifi_wapi_cert_install_button">Instalar</string>
-  <string name="wifi_wapi_cert_mgmt_as_dont_exist">O armazenamento não tem o certificado AS. Por favor verifique</string>
+  <string name="wifi_wapi_cert_mgmt_as_dont_exist">O armazenamento não tem o certificado AS. Por favor, verifique</string>
   <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">O formato de certificado AS está errado! Por favor, instale o certificado AS correcto</string>
   <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Introduza o nome do certificado AS</string>
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Não foi possível criar uma pasta</string>
