@@ -2622,7 +2622,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="process_stats_bg_ram_use">Utilização de RAM (em segundo plano)</string>
   <string name="process_stats_os_cache">Caches</string>
   <string name="process_stats_os_kernel">Kernel</string>
-  <string name="process_stats_os_label">SO Android</string>
+  <string name="process_stats_os_label">Android OS</string>
   <string name="process_stats_os_native">Nativos</string>
   <string name="process_stats_os_zram">Z-Ram</string>
   <string name="process_stats_ram_use">Utilização de RAM</string>
