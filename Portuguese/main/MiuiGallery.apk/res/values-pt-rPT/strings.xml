@@ -72,7 +72,7 @@
   <string name="aspect_ratio_origin">Original</string>
   <string name="aspect_ratio_square">1:1</string>
   <string name="associate_face_album">Escolher um álbum</string>
-  <string name="auto_backup_introduce">Fazer cópia de fotos e vídeos automaticamente (É necessário uma Conta Mi)</string>
+  <string name="auto_backup_introduce">Fazer cópia de fotos e vídeos automaticamente (é necessária uma Conta Mi)</string>
   <string name="auto_update_face">Adicionar fotos automaticamente</string>
   <string name="auto_update_face_summary">Adicionar e corresponder fotos a um álbum de bebé automaticamente</string>
   <string name="auto_update_off">Desligado</string>
@@ -83,7 +83,7 @@
   <string name="auto_upload_disable_toast_long_press_menu">A sincronização com a Nuvem Mi está desligada. Vá a Outros álbuns para ver</string>
   <string name="auto_upload_enable_toast_long_press_menu">A sincronização com a Nuvem Mi está ligada. Vá a Álbuns para ver</string>
   <string name="autofix">Ajuste automático</string>
-  <string name="baby_album">Álbum do bébé</string>
+  <string name="baby_album">Álbum do bebé</string>
   <string name="baby_album_change_background">Alterar foto em segundo plano</string>
   <string name="baby_album_needs_auto_backup_tip">Não é possível desligar as cópias para os álbuns de bebé</string>
   <string name="baby_album_new_photo_remind">Existem fotos novas no seu álbum de bebé</string>
@@ -324,7 +324,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="frame_button">Moldura</string>
   <string name="frame_classic">Clássico</string>
   <string name="frame_movie">Filme</string>
-  <string name="frame_semicircle">Semi-círculo</string>
+  <string name="frame_semicircle">Semicírculo</string>
   <string name="frame_white">Branco</string>
   <string name="free">Personalizado</string>
   <string name="gallery_setting">Definições</string>

@@ -22,10 +22,10 @@
   <string name="fingerprint_not_identified_title">Introduzir palavra-passe</string>
   <string name="fingerprint_try_again_text">Tente novamente</string>
   <string name="forget_password_string">Esqueceu a palavra-passe</string>
-  <string name="incorrect_pincode">Código PIN errado</string>
-  <string name="incorrect_pincode_remaining_attempts">Código PIN errado %d tentativas restantes</string>
-  <string name="incorrect_pukcode">Código PUK errado</string>
-  <string name="incorrect_pukcode_remaining_attempts">Código PUK errado %d tentativas restantes</string>
+  <string name="incorrect_pincode">Código PIN incorrecto</string>
+  <string name="incorrect_pincode_remaining_attempts">Código PIN incorrecto, %d tentativas restantes</string>
+  <string name="incorrect_pukcode">Código PUK incorrecto</string>
+  <string name="incorrect_pukcode_remaining_attempts">Código PUK incorrecto, %d tentativas restantes</string>
   <string name="input_password_after_boot_msg">Para desbloquear o dispositivo, introduza a sua palavra-passe</string>
   <string name="input_password_hint_text">Introduzir palavra-passe</string>
   <string name="input_pattern_hint_text">Desenhar o seu padrão</string>
