@@ -2991,7 +2991,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="testing_sim_toolkit">Ferramentas do SIM</string>
   <string name="testing_usage_stats">Estatísticas de utilização</string>
   <string name="testing_wifi_info">Informação Wi-Fi</string>
-  <string name="tether_devices_management_title">Gerir dispositivos</string>
+  <string name="tether_devices_management_title">Gestão de dispositivos</string>
   <string name="tether_settings_disabled">PA Móvel está desligado</string>
   <string name="tether_settings_title_all">Partilha de ligação e PA Móvel</string>
   <string name="tether_settings_title_bluetooth">Partilha de ligação Bluetooth</string>

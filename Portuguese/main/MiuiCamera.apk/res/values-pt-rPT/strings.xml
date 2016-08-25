@@ -219,7 +219,7 @@ O objecto não pode estar a mais de dois metros</string>
   <string name="pref_camera_scenemode_entry_sunset">Pôr do sol</string>
   <string name="pref_camera_scenemode_title">Modo de Cena</string>
   <string name="pref_camera_settings">Dispositivo</string>
-  <string name="pref_camera_settings_category">Definições da câmara</string>
+  <string name="pref_camera_settings_category">Câmara</string>
   <string name="pref_camera_settings_title">Definições</string>
   <string name="pref_camera_sharpness_title">Nitidez</string>
   <string name="pref_camera_show_gender_age_entry_alias">Mostrar idade quando Embelezar estiver ligado</string>
