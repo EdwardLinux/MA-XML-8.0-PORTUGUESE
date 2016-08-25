@@ -26,7 +26,7 @@
   <string name="adjust_brightness">Brilho</string>
   <string name="adjust_contrast">Contraste</string>
   <string name="adjust_saturation">Saturação</string>
-  <string name="adjust_sharpen">Afinação</string>
+  <string name="adjust_sharpen">Nitidez</string>
   <string name="adjust_vignette">Esboço</string>
   <string name="album_already_exists">Já existe um álbum como o mesmo nome</string>
   <string name="album_already_forced_top">Já está no topo</string>
@@ -122,6 +122,7 @@
   <string name="by_others">Outro</string>
   <string name="by_sms">SMS</string>
   <string name="byteShort">B</string>
+  <string name="camera_360_description">Fornecido por Camera360</string>
   <string name="camera_black_white">Preto e Branco</string>
   <string name="camera_needs_auto_backup_tip">Tem de ser feita uma cópia às fotos da câmara</string>
   <string name="cancel">Cancelar</string>
@@ -309,7 +310,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="filter_skin_aki">Fade</string>
   <string name="filter_sweet">Blush</string>
   <string name="filter_velvia_film">Filme</string>
-  <string name="filter_vine">Rouge</string>
+  <string name="filter_vine">Vermelho</string>
   <string name="filter_vista_retro">Retro</string>
   <string name="finish">Concluído</string>
   <string name="filllight">Luz de preenchimento</string>
@@ -696,7 +697,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="video_editor_filter_old">Sépia</string>
   <string name="video_editor_filter_purple">Púrpura</string>
   <string name="video_editor_filter_rainy">Chuva</string>
-  <string name="video_editor_filter_rouge">Rouge</string>
+  <string name="video_editor_filter_rouge">Vermelho</string>
   <string name="video_editor_filter_sunny">Sol</string>
   <string name="video_editor_invalid_trim_arguments">Deve ter mais de um segundo</string>
   <string name="video_editor_loading_plugin">A carregar…</string>
@@ -713,7 +714,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="video_editor_template_sports">Rock</string>
   <string name="video_editor_text">Texto</string>
   <string name="video_editor_text_edit_end">Créditos</string>
-  <string name="video_editor_text_edit_input_end_hint">Introduzir crédito</string>
+  <string name="video_editor_text_edit_input_end_hint">Introduzir créditos</string>
   <string name="video_editor_text_edit_input_hint">Toque aqui para editar</string>
   <string name="video_editor_text_edit_input_open_hint">Introduzir título</string>
   <string name="video_editor_text_edit_start">Título</string>
