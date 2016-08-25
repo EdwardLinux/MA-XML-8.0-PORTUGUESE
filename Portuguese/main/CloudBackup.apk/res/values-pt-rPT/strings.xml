@@ -81,7 +81,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Nuvem
   <string name="device_xiaomi">Telefone Mi</string>
   <string name="download_settings">A transferir ecrã inicial: %s%%</string>
   <string name="download_settings_fail">"Não foi possível transferir o ecrã inicial"</string>
-  <string name="error_unknown">Algo está errado</string>
+  <string name="error_unknown">Erro</string>
   <string name="latest_backup_time_loading">A carregar…</string>
   <string name="managespace_delete_backup">Eliminar cópia</string>
   <string name="managespace_total_space">Espaço total: %s</string>

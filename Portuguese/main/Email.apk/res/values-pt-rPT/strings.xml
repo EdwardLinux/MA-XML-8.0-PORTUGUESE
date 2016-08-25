@@ -90,7 +90,7 @@
   <string name="account_setup_failed_dlg_todo2">Configure a conta como mostrado em baixo</string>
   <string name="account_setup_failed_dlg_unknown_auth_message">Erro desconhecido</string>
   <string name="account_setup_failed_ioerror">Não foi possível abrir a ligação com o servidor</string>
-  <string name="account_setup_failed_protocol_unsupported">Introduziu um endereço de servidor errado ou o servidor requer uma versão do protocolo que o Email não suporta</string>
+  <string name="account_setup_failed_protocol_unsupported">Introduziu um endereço de servidor incorrecto ou o servidor requer uma versão do protocolo que o Email não suporta</string>
   <string name="account_setup_failed_security">Não foi possível abrir a ligação com o servidor devido a um erro de segurança</string>
   <string name="account_setup_failed_security_policies_unsupported">Este servidor pede funcionalidades de segurança que o seu dispositivo Android não suporta, incluindo: %s</string>
   <string name="account_setup_failed_tls_required">É necessário TLS mas não é suportado pelo servidor</string>

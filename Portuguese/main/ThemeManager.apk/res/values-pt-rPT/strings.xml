@@ -78,7 +78,7 @@
   <string name="gift_unbind_fail_dlg_title">Não é possível criar código</string>
   <string name="gift_use">Oferecer</string>
   <string name="gift_use_confirmation_dlg_title">Enviar este presente?</string>
-  <string name="gift_use_fail_dlg_title">Aconteceu algo errado</string>
+  <string name="gift_use_fail_dlg_title">Erro</string>
   <string name="gift_used">Enviar</string>
   <string name="incompatible_dialog_message">Este tema não é totalmente compatível com MIUI 8. Alguns elementos podem ser mostrados incorrectamente</string>
   <string name="incompatible_dialog_ok">Percebi</string>

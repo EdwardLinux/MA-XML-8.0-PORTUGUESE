@@ -1694,7 +1694,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_headset_calibrate_success">Definições aplicadas</string>
   <string name="music_headset_calibrate_volume_down">Diminuir o volume</string>
   <string name="music_headset_calibrate_volume_up">Aumentar o volume</string>
-  <string name="music_headset_calibrate_wrong_key">Botão errado</string>
+  <string name="music_headset_calibrate_wrong_key">Botão incorrecto</string>
   <string name="music_headset_mode_music">Controlar leitor de música</string>
   <string name="music_headset_mode_settings">Botões remotos do auricular</string>
   <string name="music_headset_mode_volume">Controlo do volume</string>
@@ -3637,14 +3637,14 @@ A configuração do telefone pode exigir um consumo significativo de dados móve
   <string name="wifi_wapi_cert_install">Instalar certificados WAPI</string>
   <string name="wifi_wapi_cert_install_button">Instalar</string>
   <string name="wifi_wapi_cert_mgmt_as_dont_exist">O armazenamento não tem o certificado AS. Por favor, verifique</string>
-  <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">O formato de certificado AS está errado! Por favor, instale o certificado AS correcto</string>
+  <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">O formato de certificado AS está incorrecto! Por favor, instale o certificado AS correcto</string>
   <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Introduza o nome do certificado AS</string>
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Não foi possível criar uma pasta</string>
   <string name="wifi_wapi_cert_mgmt_subdir_exist">Já existe uma pasta com este nome</string>
   <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Introduzir nome da pasta</string>
   <string name="wifi_wapi_cert_mgmt_titlebar">Gestão de certificados WAPI</string>
   <string name="wifi_wapi_cert_mgmt_user_dont_exist">Insira o nome do certificado de utilizador</string>
-  <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">O certificado de utilizador está errado! Por favor, instale o certificado de utilizador correcto</string>
+  <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">O certificado de utilizador está incorrecto! Por favor, instale o certificado de utilizador correcto</string>
   <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Insira o nome do certificado de utilizador</string>
   <string name="wifi_wapi_cert_uninstall">Desinstalar certificados WAPI</string>
   <string name="wifi_wapi_cert_uninstall_button">Desinstalar</string>
