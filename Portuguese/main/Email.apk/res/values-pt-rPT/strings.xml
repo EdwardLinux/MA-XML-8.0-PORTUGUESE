@@ -231,6 +231,7 @@
   <string name="colon">:</string>
   <string name="compose">Escrever</string>
   <string name="compose_attachment_number_limit">Não pode adicionar mais do que 10 anexos</string>
+  <string name="compose_paste_address_oob">O conteúdo colado é demasiado longo</string>
   <string name="compose_picturesexceedlimits">Não pode exceder as 5 imagens inline na mensagem</string>
   <string name="compose_send">Enviar</string>
   <string name="compose_sent">Enviado com sucesso</string>

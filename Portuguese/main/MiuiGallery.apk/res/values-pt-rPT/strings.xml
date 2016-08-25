@@ -72,7 +72,7 @@
   <string name="aspect_ratio_origin">Original</string>
   <string name="aspect_ratio_square">1:1</string>
   <string name="associate_face_album">Escolher um álbum</string>
-  <string name="auto_backup_introduce">Fazer cópia de fotos e vídeos automaticamente (é necessária uma Conta Mi)</string>
+  <string name="auto_backup_introduce">Fazer cópia de fotos e vídeos automaticamente (é necessário uma Conta Mi)</string>
   <string name="auto_update_face">Adicionar fotos automaticamente</string>
   <string name="auto_update_face_summary">Adicionar e corresponder fotos a um álbum de bebé automaticamente</string>
   <string name="auto_update_off">Desligado</string>
