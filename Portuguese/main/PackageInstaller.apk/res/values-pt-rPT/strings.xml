@@ -127,6 +127,7 @@ Todos os dados existentes da aplicação serão guardados"</string>
   <string name="permission_warning_template">Permitir que %1$s possa %2$s?</string>
   <string name="permlab_togglePermissions">alternar permissões</string>
   <string name="privacyPerms">Privacidade</string>
+  <string name="privacy_relative">Privacidade</string>
   <string name="safe_relative">Segurança</string>
   <string name="screen_overlay_button">Abrir definições</string>
   <string name="screen_overlay_message">Para alterar esta definição de permissão, primeiro tem de desactivar a sobreposição do ecrã em Definições &gt; Aplicações</string>
