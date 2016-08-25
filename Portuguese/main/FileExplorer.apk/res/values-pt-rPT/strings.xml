@@ -352,7 +352,7 @@
   <string name="midrop_msg_1">Ligar Mi Drop nos outros dispositivos</string>
   <string name="midrop_msg_2">Quando Mi Drop estiver ligado, pode pesquisar dispositivos próximos e enviar ficheiros</string>
   <string name="midrop_send_files">Escolher ficheiros para enviar</string>
-  <string name="migrate_announcement_msg">O KuaiPan vai parar de funcionar no dia 30 de Junho de 2016. Nós sugerimos que mova os seu ficheiros para o Mi Drive agora. Não é necessária uma ligação de dados porque a transferência vai ocorrer nos nossos servidores. Durante a migração, vão ser paradas todas as transferências. O Mi Drive e a Nuvem Mi vão partilhar o armazenamento</string>
+  <string name="migrate_announcement_msg">O KuaiPan vai parar de funcionar no dia 30 de Junho de 2016. Nós sugerimos que mova os seu ficheiros para o Mi Drive agora. Não é necessário uma ligação de dados porque a transferência vai ocorrer nos nossos servidores. Durante a migração, vão ser paradas todas as transferências. O Mi Drive e a Nuvem Mi vão partilhar o armazenamento</string>
   <string name="migrate_announcement_title">KuaiPan está a ser substituído pelo Mi Drive</string>
   <string name="migrate_cancel">Cancelar</string>
   <string name="migrate_confirm">Transferir</string>
