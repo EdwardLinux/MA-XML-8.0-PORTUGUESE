@@ -99,7 +99,7 @@
   <string name="outbound_noti_title">Bluetooth: Ficheiros enviados</string>
   <string name="pbap_acceptance_timeout_message">Expirou o tempo para aceitar a ligação com %1$s</string>
   <string name="pbap_authentication_timeout_message">Expirou o tempo para a introdução da chave de sessão com %1$s</string>
-  <string name="pbap_session_key_dialog_header">Necessário chave da sessão Bluetooth</string>
+  <string name="pbap_session_key_dialog_header">Necessária chave da sessão Bluetooth</string>
   <string name="pbap_session_key_dialog_title">Introduzir a chave da sessão para %1$s</string>
   <string name="permdesc_bluetoothShareManager">Permite que a aplicação aceda ao gestor de partilha Bluetooth e o utilize para transferir ficheiros</string>
   <string name="permdesc_bluetoothWhitelist">Permite que a aplicação adicione temporariamente um dispositivo Bluetooth às excepções e envie ficheiros para esse dispositivo sem confirmação do utilizador</string>

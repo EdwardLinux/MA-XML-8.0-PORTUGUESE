@@ -622,7 +622,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="noApplications">Nenhuma aplicação pode efectuar esta acção</string>
   <string name="no_file_chosen">Não foi escolhido nenhum ficheiro</string>
   <string name="no_matches">Sem correspondências</string>
-  <string name="no_permissions">Não é necessária nenhuma permissão</string>
+  <string name="no_permissions">Não é necessário nenhuma permissão</string>
   <string name="no_recent_tasks">Sem aplicações recentes</string>
   <string name="noon">meio-dia</string>
   <string name="notification_listener_binding_label">Serviço de escuta de notificações</string>

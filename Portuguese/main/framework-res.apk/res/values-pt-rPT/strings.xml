@@ -794,7 +794,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="noApplications">Nenhuma aplicação pode efectuar esta acção</string>
   <string name="no_file_chosen">Não foi escolhido nenhum ficheiro</string>
   <string name="no_matches">Sem correspondências</string>
-  <string name="no_permissions">Não é necessária nenhuma permissão</string>
+  <string name="no_permissions">Não é necessário nenhuma permissão</string>
   <string name="no_recent_tasks">Sem aplicações recentes</string>
   <string name="noon">meio-dia</string>
   <string name="notification_listener_binding_label">Serviço de escuta de notificações</string>
@@ -952,7 +952,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permdesc_movePackage">Permite que a aplicação mova recursos de aplicações de meios internos para meios externos e vice-versa</string>
   <string name="permdesc_nfc">Permite que a aplicação comunique com etiquetas, cartões e leitores Near Field Communication (NFC)</string>
   <string name="permdesc_packageVerificationAgent">Permite que a aplicação verifique se um pacote é instalável</string>
-  <string name="permdesc_performCdmaProvisioning">Permite que a aplicação inicie a administração CDMA. As aplicações maliciosas podem iniciar a administração CDMA desnecessáriamente</string>
+  <string name="permdesc_performCdmaProvisioning">Permite que a aplicação inicie a administração CDMA. As aplicações maliciosas podem iniciar a administração CDMA desnecessariamente</string>
   <string name="permdesc_persistentActivity">Permite que a aplicação torne partes de si mesma persistentes na memória. Isto pode limitar a disponibilidade da memória para outras aplicações, tornando o telefone mais lento</string>
   <string name="permdesc_pkgUsageStats">Permite que a aplicação modifique as estatísticas de utilização recolhidas dos componentes. Não deve ser utilizado por aplicações normais</string>
   <string name="permdesc_processOutgoingCalls">Permite que a aplicação veja o número que é marcado durante uma chamada efectuada, com a opção de redirecionar a chamada para um número diferente ou terminar a chamada</string>

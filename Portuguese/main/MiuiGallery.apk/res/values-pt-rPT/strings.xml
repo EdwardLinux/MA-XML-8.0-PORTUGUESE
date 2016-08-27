@@ -412,7 +412,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="merge_album">Unir</string>
   <string name="merge_album_title">Unir álbuns</string>
   <string name="messagelist_sender_self">Eu</string>
-  <string name="micloud_introduce">Fazer cópias de fotos e vídeos automaticamente (É necessário uma Conta Mi)</string>
+  <string name="micloud_introduce">Fazer cópias de fotos e vídeos automaticamente (é necessário uma Conta Mi)</string>
   <string name="more_album_hint">", etc."</string>
   <string name="more_face_album_name">Mais pessoas</string>
   <string name="move_to_other_albums_tip">Se mover este álbum para a lista de Outros álbuns, a sincronização do álbum com a Nuvem Mi vai ser desligada. Pretende mover agora?</string>
@@ -610,7 +610,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="slim_after_backuped_summary">Substituir as fotos em alta resolução por versões optimizadas após terem sido copiadas para a Nuvem Mi. As fotos em alta resolução ainda vão estar disponíveis na Nuvem Mi. Isto pode poupar muito espaço de armazenamento</string>
   <string name="slim_after_backuped_title">Optimizar armazenamento interno após cópias</string>
   <string name="slim_introduce">Substituir as fotos em alta resolução no dispositivo por versões optimizadas após terem sido copiadas para a Nuvem Mi. Os itens em alta resolução ainda vão estar disponíveis na Nuvem Mi</string>
-  <string name="slim_introduce_with_specific_size">Substituir as fotos em alta resolução no dispositivo por versões optimizadas após terem sido copiadas para a Nuvem Mi. Os itens em alta resolução ainda vão estar disponíveis na Nuvem Mi. Isto pode poupar até %1$s de armazenamento interno (É necessário uma Conta Mi)</string>
+  <string name="slim_introduce_with_specific_size">Substituir as fotos em alta resolução no dispositivo por versões optimizadas após terem sido copiadas para a Nuvem Mi. Os itens em alta resolução ainda vão estar disponíveis na Nuvem Mi. Isto pode poupar até %1$s de armazenamento interno (é necessário uma Conta Mi)</string>
   <string name="slim_now">Optimizar agora</string>
   <string name="slim_result_size">Poupados %1$s</string>
   <string name="slim_result_title">Optimizado com sucesso</string>
