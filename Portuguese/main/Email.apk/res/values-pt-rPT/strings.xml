@@ -879,7 +879,7 @@
   <string name="too_large_to_attach_additional">O tamanho do ficheiro não pode exceder %1$s</string>
   <string name="too_large_to_attach_multiple">Um ou mais ficheiros não foram anexados. O tamanho não pode exceder %1$s</string>
   <string name="too_large_to_attach_single">Não é possível anexar ficheiros maiores que %1$s</string>
-  <string name="topic_merge">Agrupar e-mails em conversas</string>
+  <string name="topic_merge">Agrupar emails em conversas</string>
   <string name="trash_folder_selection_title">Seleccione a pasta de lixo do servidor para %s</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
