@@ -159,7 +159,7 @@
   <string name="dialog_not_show_again">Não mostrar novamente</string>
   <string name="dialog_queued_body">Este ficheiro foi adicionado à lista de transferências pendentes</string>
   <string name="dialog_title_add_playlist">Adicionar à lista de reprodução</string>
-  <string name="dialog_title_delete_tracks">Eliminar</string>
+  <string name="dialog_title_delete_tracks">Eliminar músicas</string>
   <string name="dialog_title_name_playlist">Nome da lista de reprodução</string>
   <string name="dialog_title_not_available">Erro na transferência</string>
   <string name="dialog_title_queued_body">Ficheiro ainda não disponível</string>
