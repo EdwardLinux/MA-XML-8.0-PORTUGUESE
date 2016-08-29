@@ -29,7 +29,7 @@
   <string name="confirm_delete_locked_message">Eliminar esta mensagem bloqueada?</string>
   <string name="confirm_delete_message">Eliminar esta mensagem?</string>
   <string name="confirm_dialog_locked_title">Eliminar mensagem bloqueada?</string>
-  <string name="confirm_dialog_title">Eliminar?</string>
+  <string name="confirm_dialog_title">Eliminar conversas</string>
   <string name="confirm_export_dialog_description">Conversas anteriores com este contacto não serão mais ocultadas</string>
   <string name="confirm_rate_limit">Um grande número de mensagens multimédia está a ser enviado</string>
   <string name="context_menu_add_contact">Adicionar a um contacto existente</string>

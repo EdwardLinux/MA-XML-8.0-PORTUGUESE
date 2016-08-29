@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="achieve_condition">Premiado por:</string>
   <string name="achieved">GANHOU</string>
@@ -81,7 +81,7 @@
   <string name="no_app">Instale primeiro a aplicação</string>
   <string name="no_award">Sem prémios</string>
   <string name="no_network">"Não é possível ligar à rede"</string>
-  <string name="no_task">Todas os desafios foram concluídos</string>
+  <string name="no_task">Todos os desafios foram concluídos</string>
   <string name="passive_task">Desafios em segundo plano</string>
   <string name="personal_info">Perfil</string>
   <string name="privilege">Privilégios</string>
