@@ -272,9 +272,9 @@
   <string name="no_network">Sem rede. Actualize novamente a rede</string>
   <string name="no_network_btn">Tente novamente</string>
   <string name="no_title_label">(Sem título)</string>
-  <string name="no_visiable_calendar_message">É necessário seleccionar uma conta do calendário. Clique em Seleccionar conta para ir para o próximo passo</string>
+  <string name="no_visiable_calendar_message">É necessário seleccionar uma conta do calendário. Clique em Seleccionar conta para continuar</string>
   <string name="no_visiable_calendar_select_account">Seleccionar conta</string>
-  <string name="no_visiable_calendar_title">Seleccionar conta do calendário</string>
+  <string name="no_visiable_calendar_title">Seleccionar uma conta do calendário</string>
   <string name="not_synced">Não sincronizado</string>
   <string name="olympic_rank">Posição</string>
   <string name="olympic_total">Total</string>

@@ -24,6 +24,8 @@
   <string name="activity_title_uninstall_apps">Aplicações</string>
   <string name="activity_title_video">Eliminar vídeos</string>
   <string name="activity_title_white_list">Excepções</string>
+  <string name="ad_install_success_dialog_lunch">Abrir</string>
+  <string name="ad_install_success_dialog_title">%1$s instalado com sucesso. Abrir agora?</string>
   <string name="apk_status_damage">Corrompida</string>
   <string name="apk_status_duplicate">Duplicada</string>
   <string name="apk_status_install">Instalado</string>
@@ -44,6 +46,10 @@
   <string name="browser_search_history_desc">Itens pesquisados</string>
   <string name="btn_text_done">Concluído</string>
   <string name="btn_text_quick_cleanup">Limpar</string>
+  <string name="btn_text_quick_cleanup_apk">Eliminar APKs seleccionados %1$s</string>
+  <string name="btn_text_quick_cleanup_appdata">Eliminar dados seleccionados %1$s</string>
+  <string name="btn_text_quick_cleanup_large_file">Eliminar ficheiros seleccionados %1$s</string>
+  <string name="btn_text_quick_cleanup_video">Eliminar vídeos seleccionados %1$s</string>
   <string name="btn_text_quick_scan">Verificar</string>
   <string name="btn_text_stop">Parar</string>
   <string name="button_optimizer">OK</string>
@@ -95,8 +101,10 @@
   <string name="confirm_auto_cleaner">OK</string>
   <string name="conn_of_function_safe">Ligação de rede para segurança</string>
   <string name="connecting">A ligar…</string>
+  <string name="deep_clean_completed_tips">Limpo com sucesso</string>
   <string name="deep_clean_data_path_clean_title">Limpar cache</string>
   <string name="deep_clean_normal_clean_progress_desc">Foram limpos %1$s ficheiros</string>
+  <string name="deep_clean_uninstall_completed_tips">Desinstalado com sucesso</string>
   <string name="deepclean_1_k_clean">Limpeza rápida</string>
   <string name="deepclean_apk_content">Eliminar APKs ou aplicações desnecessárias</string>
   <string name="deepclean_apk_summary_empty">Verificação concluída. Sem APKs para eliminar</string>
@@ -106,6 +114,8 @@
   <string name="deepclean_cache_content">Limpar dados gerados pelas aplicações</string>
   <string name="deepclean_cache_header_left">Ficheiros de dados: %d</string>
   <string name="deepclean_cache_summary_empty">Verificação concluída. Sem dados para limpar</string>
+  <string name="deepclean_empty">Verificação concluída</string>
+  <string name="deepclean_install_info_desc2">Eliminar aplicações para libertar espaço</string>
   <string name="deepclean_large_content">Eliminar ficheiros maiores que 10MB</string>
   <string name="deepclean_large_summary_empty">Verificação concluída. Sem ficheiros para eliminar</string>
   <string name="deepclean_list_item_from_app">Loja de Aplicações</string>
@@ -131,7 +141,6 @@
   <string name="deepclean_video_summary_empty">Verificação concluída. Não foram encontrados vídeos</string>
   <string name="default_cache_type">Ficheiros de dados</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Eliminar também as fotos da Nuvem Mi</string>
-  <string name="dialog_content_delete_image_confirm">Eliminar %d foto(s)?</string>
   <string name="dialog_content_select_all_confirm">Manter uma cópia desta foto?</string>
   <string name="dialog_msg_add_white_list_error">Não é possível adicionar este ficheiro às excepções</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Copiar e desinstalar as aplicações seleccionadas?</string>
@@ -173,7 +182,7 @@
   <string name="grabage_rank_title">Limpo hoje</string>
   <string name="harass_detail">Bloqueadas %1$d SMS e %2$d chamadas</string>
   <string name="header_optimizer">Ao utilizar esta funcionalidade está a concordar com %s</string>
-  <string name="hint_clean_select_similar_image">A eliminar duplicados…</string>
+  <string name="hint_clean_select_items">A eliminar duplicados…</string>
   <string name="hints_ad_header_left">Ficheiros de anúncios</string>
   <string name="hints_apk_header_left">Pacotes</string>
   <string name="hints_apk_version">Versão %s</string>
@@ -343,6 +352,7 @@
   <string name="safety_rank">À frente de %d%% utilizadores MIUI em Termos de Segurança</string>
   <string name="sc_allow_network_dialog_button">Permitir</string>
   <string name="sc_allow_network_dialog_message">Permitir que esta aplicação se ligue à Internet para obter actualizações?</string>
+  <string name="scanning">A verificar…</string>
   <string name="search_history">Pesquisar histórico</string>
   <string name="see_more">Mais</string>
   <string name="set_immediately">Definir</string>

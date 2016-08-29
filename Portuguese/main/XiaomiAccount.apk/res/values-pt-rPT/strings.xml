@@ -362,9 +362,7 @@ Certifique-se que memoriza as respostas a estas perguntas"</string>
   <string name="turn_off_find_device_failed_title">Não é possível desligar Localizar Dispositivo</string>
   <string name="turning_off_find_device">A desligar Localizar Dispositivo…</string>
   <string name="unbind_sns_description">Depois de desassociar esta conta não vai poder utilizar as suas informações da Conta %s para iniciar sessão na sua Conta Mi</string>
-  <string name="unbind_weibo_description">Depois de desassociar esta conta não vai poder sincronizar os seus contactos de Weibo ou utilizar sua conta Sina Weibo para iniciar sessão</string>
   <string name="update_contacts">Actualizar livro de endereços</string>
-  <string name="update_contacts_description">Deixar Sina Weibo utilizar a sua Conta Mi para sincronizar os seus contactos entre plataformas</string>
   <string name="update_email_address_dialog_message">É necessário verificar a sua identidade antes de poder actualizar o seu email</string>
   <string name="update_email_address_dialog_title">Actualizar email</string>
   <string name="update_phone_number_notice_message">É necessário verificar a sua identidade antes de poder actualizar o seu número de telefone</string>
