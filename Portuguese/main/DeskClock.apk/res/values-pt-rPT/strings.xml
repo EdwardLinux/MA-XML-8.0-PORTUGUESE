@@ -58,7 +58,7 @@
   <string name="hours">%s horas</string>
   <string name="keep_screen_on">Manter ecrã ligado</string>
   <string name="label">Definir nome</string>
-  <string name="label_pref_summary">Definir nome deste alarme</string>
+  <string name="label_pref_summary">Nome</string>
   <string name="lap">Volta</string>
   <string name="lap_num">Volta</string>
   <string name="legal_off_day">Dias não úteis</string>

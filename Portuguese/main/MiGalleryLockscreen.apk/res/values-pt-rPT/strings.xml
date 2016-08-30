@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Carrossel de Papéis de Parede</string>
+  <string name="apply">Aplicar</string>
   <string name="at_least_one">Escolher pelo menos uma categoria</string>
   <string name="auto_interval">Auto</string>
   <string name="cancel">Cancelar</string>
@@ -11,26 +12,38 @@
   <string name="declaration">Obter novos papéis de parede entregues directamente no seu ecrã de bloqueio todos os dias gratuitamente</string>
   <string name="declaration_lockscreen_title">Carrossel de Papéis de Parede</string>
   <string name="declaration_title">Termos e Condições</string>
+  <string name="dislike">Eliminar</string>
+  <string name="from_migallerylockscreen">" "</string>
   <string name="hour_1">A cada hora</string>
   <string name="hour_3">A cada 3 horas</string>
+  <string name="like">Gostar</string>
+  <string name="liked">gostou</string>
   <string name="lockscreen_magazine_summary">Categorias</string>
   <string name="lockscreen_magazine_system_title">Offline</string>
   <string name="lockscreen_magazine_title">Carrossel de Papéis de Parede</string>
+  <string name="lockscreen_wallpaper_changed">papel de parede alterado</string>
   <string name="minutes_15">15 minutos</string>
   <string name="no_long_show">Não mostrar novamente</string>
   <string name="ok_enable_network_prov">Concordar</string>
   <string name="ok_international">Concordar</string>
   <string name="ok_lockscreen">OK</string>
   <string name="ok_network">Concordar</string>
+  <string name="platform_unavailable_qq">Instale QQ</string>
+  <string name="platform_unavailable_qzone">Instale Qzone</string>
+  <string name="platform_unavailable_wechat">Instale WeChat</string>
+  <string name="platform_unavailable_wechatmoment">Instale WeChat</string>
+  <string name="platform_unavailable_weibo">Instale Weibo</string>
   <string name="resource_apply">Aplicar</string>
   <string name="resource_no_network_text">Não é possível ligar à rede</string>
   <string name="setting_head">Definições</string>
+  <string name="settings">Definições</string>
+  <string name="share">Partilhar</string>
   <string name="sst_favor_desc">Ver papéis de parede favoritos</string>
   <string name="sst_favor_title">Favoritos</string>
   <string name="sst_grid_view_select_all">Seleccionar tudo</string>
   <string name="sst_grid_view_unselect_all">Cancelar tudo</string>
   <string name="sst_no_favor_wallpaper_hint">Sem papéis de parede nos favoritos</string>
-  <string name="sst_prov_enable_desc">Ligar Carrossel de Papéis de Parede no ecrã de bloqueio</string>
+  <string name="sst_prov_enable_desc">Ligar Carrossel de Papéis de Parede no ecrã de bloqueio. Adicione o seu papel de parede na pasta Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
   <string name="sst_prov_enable_title">Ligar Carrossel de Papéis de Parede</string>
   <string name="sst_require_one_category_hint">Seleccione pelo menos 1 categoria</string>
   <string name="sst_sti_desc">Definir a frequência de actualização dos papéis de parede</string>

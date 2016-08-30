@@ -536,7 +536,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="share">Partilhar</string>
   <string name="share_album">Partilhar álbum</string>
   <string name="share_album_needs_auto_upload_tip">Não é possível desligar a cópia automática para álbuns partilhados</string>
-  <string name="share_app_is_launching">A iniciar aplicação…</string>
+  <string name="share_app_is_launching">{0,choice,0#A iniciar app…|1#%s está a iniciar…}</string>
   <string name="share_by_email_start">Partilhar %1$s em segundo plano</string>
   <string name="share_by_email_successfully">Partilhado %1$s</string>
   <string name="share_public_url_text">Partilhei o álbum %1$s consigo. Veja-o em %2$s</string>

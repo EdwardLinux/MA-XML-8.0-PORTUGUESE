@@ -39,6 +39,7 @@
   <string name="fragment_tab_title_sys">Aplicações de sistema</string>
   <string name="full_screen_enter">Entrar no modo ecrã inteiro</string>
   <string name="full_screen_exit">Sair do modo ecrã inteiro</string>
+  <string name="google_base_app_install_choice">\"%s\" necessita dos serviços Google para funcionar normalmente. Transferir e instalá-los?</string>
   <string name="hide_mode_desc">Quando uma aplicação estiver em execução em segundo plano, as suas actividades vão ser monitorizadas para reduzir a utilização de bateria</string>
   <string name="hide_mode_ultimate_desc">O Modo Ultimate está ligado. As aplicações em segundo plano vão ser paradas. Desligue a poupança de bateria para sair do Modo Ultimate</string>
   <string name="high">Desempenho</string>

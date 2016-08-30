@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Pesquisar</string>
+  <string name="application_desc">Aplicação</string>
+  <string name="applications_search_label">Aplicações</string>
   <string name="apps_search_activity"/>
   <string name="baidu_search_url_from_default">https://www.google.pt/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_input">https://www.google.pt/search?q=%s&amp;tn=ins</string>
@@ -69,6 +71,7 @@ Para limpar o histórico do Navegador, utilize as definições do Navegador"</st
   <string name="search_videos_url">https://www.youtube.com/results?search_query=%s</string>
   <string name="search_widget">Pesquisar</string>
   <string name="send_secret_code">Enviar código</string>
+  <string name="settings_description">Nomes das aplicações instaladas</string>
   <string name="show_more">Mostrar mais</string>
   <string name="suggest_open_app_failed">Não foi possível abrir esta aplicação</string>
   <string name="system_search_category_title">Telefone</string>
