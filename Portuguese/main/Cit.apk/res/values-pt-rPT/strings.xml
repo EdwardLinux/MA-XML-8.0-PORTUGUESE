@@ -201,6 +201,8 @@ Toque no ecrã para iniciar o GPS…"</string>
   <string name="cit_proximity_sensor_check_summary">"Tape o sensor de proximidade com a mão (o sensor está localizado no topo do dispositivo, perto do altifalante). Depois retire a mão. O valor deve aumentar de 0.0 quando afastar a mão do dispositivo.
 Durante a calibração, verifique que não está nada entre o sensor e a sua mão (p.e. película protectora do ecrã ou luvas)"</string>
   <string name="cit_proximity_sensor_check_title">Sensor de proximidade</string>
+  <string name="cit_rear_dual_camera_check_title">Câmara traseira dupla</string>
+  <string name="cit_rear_sub_camera_check_title">Câmara traseira inferior</string>
   <string name="cit_recovery_signature_failed">Assinatura do modo restauro FALHOU</string>
   <string name="cit_recovery_signature_passed">Assinatura do modo restauro PASSOU</string>
   <string name="cit_reset_check_summary">Este teste vai reiniciar o dispositivo. Todos os dados dos testes anteriores serão eliminados</string>
