@@ -53,15 +53,15 @@ Se o dispositivo tiver vários utilizadores, ao utilizar este atalho no ecrã de
   <string name="accessibility_personal_account_title">Conta pessoal - %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Botão Ligar/Desligar termina chamada</string>
   <string name="accessibility_screen_magnification_enable">Gestos de ampliação</string>
-  <string name="accessibility_screen_magnification_summary">Quando esta funcionalidade está ligada, pode aumentar e diminuir zoom por triplo toque no ecrã.
+  <string name="accessibility_screen_magnification_summary">Quando esta funcionalidade está ligada, pode aumentar e diminuir zoom por triplo toque no ecrã
 
 Quando ampliado, pode:
-<ul><li>Mover: Arraste dois ou mais dedos pelo ecrã.
-<li>Ajustar o nível do zoom: Junte ou afaste dois ou mais dedos.</li></li></ul>
+<ul><li>Mover: Arraste dois ou mais dedos pelo ecrã
+<li>Ajustar o nível do zoom: Junte ou afaste dois ou mais dedos</li></li></ul>
 
-Também pode aumentar temporariamente o que estiver sobre o seu dedo com um triplo toque e segurar. Neste modo, pode mover o dedo ampliando para explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
+Também pode aumentar temporariamente o que estiver sobre o seu dedo com um triplo toque e segurar. Neste modo, pode mover o dedo ampliando para explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior
 
-Nota: Tocar três vezes para ampliar funciona em todo o sistema excepto na barra de navegação e no teclado</string>
+Nota: O triplo toque para ampliar funciona em todo o sistema excepto na barra de navegação e no teclado</string>
   <string name="accessibility_screen_magnification_title">Gestos de ampliação</string>
   <string name="accessibility_service_default_description">Sem descrição fornecida</string>
   <string name="accessibility_services_title">Serviços</string>
@@ -112,7 +112,7 @@ Nota: Tocar três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="add_fingerprint_finished_button_text">OK</string>
   <string name="add_fingerprint_instruction_msg">Desbloquear o dispositivo ou verificar pagamentos com a sua impressão digital</string>
   <string name="add_fingerprint_instruction_title">Adicionar a sua impressão digital</string>
-  <string name="add_fingerprint_put_finger_edge_msg">Mova o seu dedo levemente e coloque-o no sensor novamente para adicionar todas as diferentes partes da sua impressão digital</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Mova o seu dedo lentamente e coloque-o no sensor novamente para adicionar todas as diferentes partes da sua impressão digital</string>
   <string name="add_fingerprint_put_finger_msg">Coloque o seu dedo no sensor e retire após sentir uma vibração</string>
   <string name="add_fingerprint_put_finger_title">Adicionar impressão digital</string>
   <string name="add_fingerprint_similar_fingerprint_input_error_msg">Mova o seu dedo lentamente</string>
@@ -456,7 +456,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="bluetooth_ask_enablement_and_lasting_discovery">Uma aplicação quer ligar o Bluetooth e tornar este telefone visível para outros dispositivos. Pode alterar esta opção posteriormente nas definições de Bluetooth</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">"quer ligar o Bluetooth e tornar este telefone visível para outros dispositivos. Pode alterar esta opção posteriormente nas definições de Bluetooth"</string>
   <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s pretende ligar o Bluetooth e a difusão via Bluetooth para comunicar com outros dispositivos próximos. Pode alterar esta opção posteriormente nas definições de Bluetooth</string>
-  <string name="bluetooth_ask_enablement_detected">" quer ligar o Bluetooth"</string>
+  <string name="bluetooth_ask_enablement_detected">" pretende ligar o Bluetooth"</string>
   <string name="bluetooth_ask_lasting_discovery">Uma aplicação quer tornar o telefone visível para outros dispositivos Bluetooth. Pode alterar esta opção posteriormente nas definições de Bluetooth</string>
   <string name="bluetooth_ask_start_broadcast">%1$s pretende ligar a difusão via Bluetooth para comunicar com outros dispositivos próximos. Pode alterar esta opção posteriormente nas definições de Bluetooth</string>
   <string name="bluetooth_auto_connect">Ligação automática</string>
@@ -559,7 +559,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="bluetooth_pairing_dialog_title">Emparelhar com este dispositivo?</string>
   <string name="bluetooth_pairing_error_message">Não foi possível emparelhar com %1$s</string>
   <string name="bluetooth_pairing_key_msg">Código de emparelhamento Bluetooth</string>
-  <string name="bluetooth_pairing_pin_error_message">Não foi possível emparelhar com %1$s porque o PIN ou a palavra-chave estão incorrectos</string>
+  <string name="bluetooth_pairing_pin_error_message">Não foi possível emparelhar com %1$s. O tempo limite expirou ou o PIN ou a palavra-chave estão incorrectos</string>
   <string name="bluetooth_pairing_rejected_error_message">Emparelhamento rejeitado por %1$s</string>
   <string name="bluetooth_pairing_request">Emparelhar com %1$s?</string>
   <string name="bluetooth_pairing_shares_phonebook">Permitir que %1$s aceda aos contactos e registo de chamadas</string>
@@ -1016,7 +1016,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="debug_input_category">Entrada</string>
   <string name="debug_intent_sender_label">Intenção de depuração do remetente</string>
   <string name="debug_layout">Mostrar limites de desenho</string>
-  <string name="debug_layout_summary">Mostrar limites de clipe, margens, etc</string>
+  <string name="debug_layout_summary">Mostrar limites de clipe, margens, etc.</string>
   <string name="debug_monitoring_category">Monitorização</string>
   <string name="debug_networking_category">Redes</string>
   <string name="debug_view_attributes">Activar a inspecção do atributo de visualização</string>
@@ -1124,7 +1124,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="dndm_alarm_content_not_all">Silenciar tudo</string>
   <string name="dndm_alarm_content_sms">Mensagens</string>
   <string name="dndm_auto_button_title">Repetir hora de Não incomodar</string>
-  <string name="dndm_auto_setting_group">Programado</string>
+  <string name="dndm_auto_setting_group">Programar</string>
   <string name="dndm_auto_time_setting">Definir hora</string>
   <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">Até</string>
@@ -1448,7 +1448,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="handy_mode">Modo Uma Mão</string>
   <string name="handy_mode_enter_ask">Perguntar antes de entrar no Modo Uma Mão</string>
   <string name="handy_mode_size">Tamanho do ecrã</string>
-  <string name="handy_mode_tips">Deslize para a esquerda ou para a direita desde o botão Início para puxar o ecrã para mais perto de um dos lados</string>
+  <string name="handy_mode_tips">Deslize para a esquerda ou para a direita desde o botão Início para puxar a imagem para um dos lados</string>
   <string name="haptic_feedback_enable_title">Vibrar ao tocar</string>
   <string name="haptic_feedback_level">Vibração</string>
   <string name="hardkeyboard_category">Definições de teclado físico</string>
@@ -1664,7 +1664,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="launch_defaults_none">Nenhuma predefinição definida</string>
   <string name="launch_defaults_some">Algumas predefinições definidas</string>
   <string name="launching_cit">A iniciar testes de hardware</string>
-  <string name="launching_pho">A iniciar informações do telefone. Por favor aguarde</string>
+  <string name="launching_pho">A iniciar informações do telefone. Por favor, aguarde</string>
   <string name="launching_rep">A reportar…</string>
   <string name="layout_size_exhuge">XXL</string>
   <string name="layout_size_exhuge_text">Enorme</string>
@@ -1837,11 +1837,11 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="lockpattern_need_to_confirm">Desenhar padrão novamente para confirmar</string>
   <string name="lockpattern_need_to_unlock_wrong">Tente novamente</string>
   <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio</string>
-  <string name="lockpattern_pattern_entered_header">Padrão guardado</string>
+  <string name="lockpattern_pattern_entered_header">Padrão adicionado</string>
   <string name="lockpattern_pattern_same_with_owner">Deve ser diferente da palavra-passe do primeiro espaço</string>
   <string name="lockpattern_pattern_same_with_security_space">Deve ser diferente da palavra-passe do segundo espaço</string>
   <string name="lockpattern_recording_incorrect_too_short">Ligue pelo menos %d pontos. Tente novamente</string>
-  <string name="lockpattern_recording_inprogress">Solte o dedo quando terminar</string>
+  <string name="lockpattern_recording_inprogress">Levante o dedo quando terminar</string>
   <string name="lockpattern_recording_intro_footer">Premir Menu para obter ajuda</string>
   <string name="lockpattern_recording_intro_header">Desenhar um padrão de desbloqueio</string>
   <string name="lockpattern_recording_intro_header_second_space">Desenhar um padrão de desbloqueio para o segundo espaço</string>
@@ -1919,12 +1919,12 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>armazenament
   <string name="master_clear_not_available">A reposição de fábrica não está disponível para este utilizador</string>
   <string name="master_clear_other_users_present">"
 
-Existem outros utilizadores presentes neste dispositivo.
+Existem outros utilizadores presentes neste dispositivo
 "</string>
   <string name="master_clear_personal_data">Eliminar toda a sua informação pessoal? Não pode reverter esta acção!</string>
   <string name="master_clear_personal_data_application">Eliminar toda a sua informação pessoal e aplicações transferidas? Não pode reverter esta acção!</string>
   <string name="master_clear_personal_data_sdcard">Eliminar a sua informação pessoal? Não pode reverter esta acção!</string>
-  <string name="master_clear_progress_text">Por favor aguarde…</string>
+  <string name="master_clear_progress_text">Por favor, aguarde…</string>
   <string name="master_clear_progress_title">A eliminar</string>
   <string name="master_clear_summary">Formatar todos os dados do telefone</string>
   <string name="master_clear_title">Repor definições de fábrica</string>
@@ -1950,7 +1950,7 @@ Existem outros utilizadores presentes neste dispositivo.
   <string name="mem_use_total">Total</string>
   <string name="mem_use_zram_type">Troca de ZRam</string>
   <string name="memory">RAM</string>
-  <string name="memory_apps_usage">Aplicações e respectivos dados</string>
+  <string name="memory_apps_usage">Aplicações (dados e conteúdo multimédia)</string>
   <string name="memory_available">Disponível</string>
   <string name="memory_available_read_only">Disponível (apenas leitura)</string>
   <string name="memory_avg_desc">%1$s em média</string>
@@ -2064,7 +2064,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_dirac_mode_earbuds">Auriculares Mi</string>
   <string name="music_dirac_mode_general">Genéricos</string>
   <string name="music_dirac_mode_general_earbuds">Auriculares genéricos</string>
-  <string name="music_dirac_mode_general_inear">Intra-auriculares genéricos</string>
+  <string name="music_dirac_mode_general_inear">Intra-Auriculares genéricos</string>
   <string name="music_dirac_mode_headset">Auscultadores Mi</string>
   <string name="music_dirac_mode_in_ear">Intra-Auriculares Mi</string>
   <string name="music_dirac_mode_in_ear_pro">Intra-Auriculares Mi Pro</string>
@@ -2101,7 +2101,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_hifi_summary">Reduzir o ruído e distorção e aumentar a qualidade de áudio</string>
   <string name="music_hifi_title">Áudio Hi-Fi</string>
   <string name="music_hifi_volume">Volume Hi-Fi</string>
-  <string name="music_mi_effect_summary">Utilizar o melhoramento de Som Mi quando utilizar auriculares</string>
+  <string name="music_mi_effect_summary">Utilizar o melhoramento de Som Mi quando usar auriculares</string>
   <string name="music_mi_effect_title">Melhoramento de Som Mi</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="musicfx_title">Efeitos da música</string>
@@ -2691,7 +2691,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="radioInfo_service_off">Rádio desligado</string>
   <string name="radioInfo_service_out">Fora de serviço</string>
   <string name="radioInfo_unknown">desconhecido</string>
-  <string name="radio_controls_summary">Gerir Wi-Fi, Bluetooth, Modo Avião, Redes móveis e VPNs</string>
+  <string name="radio_controls_summary">Gerir Wi-Fi, Bluetooth, Modo Avião, Redes Móveis e VPNs</string>
   <string name="radio_controls_title">Mais</string>
   <string name="radio_info_asdiv_switch_label">Estado ASDiv:</string>
   <string name="radio_info_band_mode_label">Seleccionar a banda do rádio</string>
@@ -2855,7 +2855,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_on_proximity_sensor_summary">Bloquear o telefone automaticamente quando colocado no bolso</string>
   <string name="screen_on_proximity_sensor_title">Prevenir uso inadvertido no bolso</string>
   <string name="screen_optimize">Contraste</string>
-  <string name="screen_paper_mode_adjust_level">Intensidade</string>
+  <string name="screen_paper_mode_adjust_level">Ajustar intensidade</string>
   <string name="screen_paper_mode_apps_loading">Aguarde…</string>
   <string name="screen_paper_mode_apps_title">Utilizar Modo de Leitura</string>
   <string name="screen_paper_mode_global_summary">Utilizar Modo de Leitura para todas as aplicações</string>
@@ -2879,13 +2879,13 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
 
 Para utilizar a fixação no ecrã:
 
-1. Certifique-se de que a fixação no ecrã está activada.
+1. Certifique-se de que a fixação no ecrã está activada
 
 2. Abra o ecrã que pretende fixar
 
-3. Toque em Vista geral.
+3. Toque em Vista geral
 
-4. Deslize rapidamente para cima e, em seguida, toque no ícone Pin."</string>
+4. Deslize rapidamente para cima e, em seguida, toque no ícone Pin"</string>
   <string name="screen_pinning_title">Fixação do ecrã</string>
   <string name="screen_pinning_unlock_none">Bloquear dispositivo ao soltar</string>
   <string name="screen_pinning_unlock_password">Pedir palavra-passe antes de soltar</string>
@@ -3220,8 +3220,8 @@ Para utilizar a fixação no ecrã:
   <string name="settings_label">Definições</string>
   <string name="settings_label_launcher">Definições</string>
   <string name="settings_license_activity_loading">A carregar…</string>
-  <string name="settings_license_activity_title">Licenças de código aberto</string>
-  <string name="settings_license_activity_unavailable">Há um problema ao carregar as licenças</string>
+  <string name="settings_license_activity_title">Licenças open source</string>
+  <string name="settings_license_activity_unavailable">Ocorreu um erro ao carregar as licenças</string>
   <string name="settings_safetylegal_activity_loading">A carregar…</string>
   <string name="settings_safetylegal_activity_title">Informações de segurança</string>
   <string name="settings_safetylegal_activity_unreachable">Não tem uma ligação de dados. Para ver esta informação agora, vá a %s em qualquer computador ligado à Internet</string>
@@ -3243,7 +3243,7 @@ Para utilizar a fixação no ecrã:
   <string name="show_connected_devices_title">Dispositivos ligados</string>
   <string name="show_cpu_usage">Mostrar utilização do CPU</string>
   <string name="show_cpu_usage_summary">Sobreposição de ecrã ao mostrar a utilização do CPU actual</string>
-  <string name="show_dev_already">Não é necessário, já é um programador</string>
+  <string name="show_dev_already">Não é necessário, já é um programador!</string>
   <string name="show_dev_on">Agora é um programador!</string>
   <string name="show_fc">Forçar o encerramento das aplicações</string>
   <string name="show_fc_summary">Mostrar as aplicações que foram forçadas a encerrar</string>

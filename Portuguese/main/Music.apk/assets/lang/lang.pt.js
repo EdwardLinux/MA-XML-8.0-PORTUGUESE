@@ -477,7 +477,7 @@
   "more_online_song": "Mais",
   "more_online_suggest": "Mais",
   "more_settings": "Definições avançadas",
-  "more_settings_summary": "Temporizador, filtrar ficheiros de áudio, etc",
+  "more_settings_summary": "Temporizador, filtrar ficheiros de áudio, etc.",
   "multichoice": "Seleccionar",
   "music_browser_label": "Música",
   "music_filter": "Filtrar ficheiros de áudio",
