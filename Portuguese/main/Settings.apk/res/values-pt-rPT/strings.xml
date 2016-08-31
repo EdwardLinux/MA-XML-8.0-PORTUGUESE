@@ -839,7 +839,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="debug_input_category">Entrada</string>
   <string name="debug_intent_sender_label">Intenção de depuração do remetente</string>
   <string name="debug_layout">Mostrar limites de desenho</string>
-  <string name="debug_layout_summary">Mostrar limites de clipe, margens, etc</string>
+  <string name="debug_layout_summary">Mostrar limites de clipe, margens, etc.</string>
   <string name="debug_log">Programa de Experiência do Utilizador</string>
   <string name="debug_monitoring_category">Monitorização</string>
   <string name="debug_view_attributes">Activar a inspecção do atributo de visualização</string>
@@ -889,7 +889,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="device_security_settings_title">Segurança</string>
   <string name="device_status">Estado</string>
   <string name="device_status_activity_title">Estado</string>
-  <string name="device_status_summary">Número de telefone, sinal, etc</string>
+  <string name="device_status_summary">Número de telefone, sinal, etc.</string>
   <string name="dialog_content_login">Iniciar sessão na sua Conta Mi para actualizar?</string>
   <string name="dialog_no">Não</string>
   <string name="dialog_title_color_calibration">Correcção de cores predefinido</string>
@@ -2679,7 +2679,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="show_connected_devices_title">Dispositivos ligados</string>
   <string name="show_cpu_usage">Mostrar utilização do CPU</string>
   <string name="show_cpu_usage_summary">Sobreposição de ecrã ao mostrar a utilização do CPU actual</string>
-  <string name="show_dev_already">Não é necessário. Já é um programador!</string>
+  <string name="show_dev_already">Não é necessário, já é um programador!</string>
   <string name="show_dev_on">Agora é um programador!</string>
   <string name="show_fc">Forçar o encerramento das aplicações</string>
   <string name="show_fc_summary">Mostrar as aplicações que foram forçadas a encerrar</string>
@@ -2943,7 +2943,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="title_system_resource">Recursos do sistema</string>
   <string name="toast_lockscreen_glogin_empty_password">Introduzir palavra-passe</string>
   <string name="toast_need_login">Iniciar sessão na sua Conta Mi</string>
-  <string name="total_size">Total: %s</string>
+  <string name="total_size">%s no total</string>
   <string name="total_size_label">Total</string>
   <string name="touch_assistant">Menu de atalhos</string>
   <string name="touch_sensitive_summary">O ecrã fica mais sensível ao toque</string>

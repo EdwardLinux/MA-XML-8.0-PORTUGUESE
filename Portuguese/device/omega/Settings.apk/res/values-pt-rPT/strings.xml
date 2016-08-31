@@ -1016,7 +1016,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="debug_input_category">Entrada</string>
   <string name="debug_intent_sender_label">Intenção de depuração do remetente</string>
   <string name="debug_layout">Mostrar limites de desenho</string>
-  <string name="debug_layout_summary">Mostrar limites de clipe, margens, etc</string>
+  <string name="debug_layout_summary">Mostrar limites de clipe, margens, etc.</string>
   <string name="debug_monitoring_category">Monitorização</string>
   <string name="debug_networking_category">Redes</string>
   <string name="debug_view_attributes">Activar a inspecção do atributo de visualização</string>
@@ -1076,7 +1076,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_sd_memory">Cartão SD</string>
   <string name="device_status">Estado</string>
   <string name="device_status_activity_title">Estado</string>
-  <string name="device_status_summary">Número de telefone, sinal, etc</string>
+  <string name="device_status_summary">Número de telefone, sinal, etc.</string>
   <string name="dial_pad_tones_title">Sons do teclado</string>
   <string name="dial_application_title">Marcar</string>
   <string name="dialog_content_login">Iniciar sessão na sua Conta Mi para actualizar?</string>
@@ -3243,7 +3243,7 @@ Para utilizar a fixação no ecrã:
   <string name="show_connected_devices_title">Dispositivos ligados</string>
   <string name="show_cpu_usage">Mostrar utilização do CPU</string>
   <string name="show_cpu_usage_summary">Sobreposição de ecrã ao mostrar a utilização do CPU actual</string>
-  <string name="show_dev_already">Não é necessário. Já é um programador!</string>
+  <string name="show_dev_already">Não é necessário, já é um programador!</string>
   <string name="show_dev_on">Agora é um programador!</string>
   <string name="show_fc">Forçar o encerramento das aplicações</string>
   <string name="show_fc_summary">Mostrar as aplicações que foram forçadas a encerrar</string>
@@ -3681,6 +3681,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="toast_lockscreen_glogin_empty_password">Introduzir palavra-passe</string>
   <string name="toast_need_login">Iniciar sessão na sua Conta Mi</string>
   <string name="total_memory">Memória total</string>
+  <string name="total_size">%s no total</string>
   <string name="total_size_label">Total</string>
   <string name="touch_assistant">Menu de atalhos</string>
   <string name="touch_filtered_warning">As definições não podem verificar a resposta, devido a uma aplicação estar a ocultar uma permissão</string>
