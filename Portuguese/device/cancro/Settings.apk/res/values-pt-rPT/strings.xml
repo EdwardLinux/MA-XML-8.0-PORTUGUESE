@@ -3681,6 +3681,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="toast_lockscreen_glogin_empty_password">Introduzir palavra-passe</string>
   <string name="toast_need_login">Iniciar sessão na sua Conta Mi</string>
   <string name="total_memory">Memória total</string>
+  <string name="total_size">%s no total</string>
   <string name="total_size_label">Total</string>
   <string name="touch_assistant">Menu de atalhos</string>
   <string name="touch_filtered_warning">As definições não podem verificar a resposta, devido a uma aplicação estar a ocultar uma permissão</string>
