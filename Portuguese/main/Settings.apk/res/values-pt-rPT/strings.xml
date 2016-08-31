@@ -1183,6 +1183,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="haptic_feedback_enable_title">Vibrar ao tocar</string>
   <string name="haptic_feedback_level">Vibração</string>
   <string name="hardkeyboard_category">Definições de teclado físico</string>
+  <string name="has_screenshot_sound">Som de captura de ecrã</string>
   <string name="hdcp_checking_dialog_title">Definir comportamento de verificação HDCP</string>
   <string name="hdcp_checking_title">Verificação HDCP</string>
   <string name="hdmi_3d_display_enable_summary">Suporte jogos 3D</string>
@@ -2388,6 +2389,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screensaver_settings_when_to_dream">Quando em DayDream</string>
   <string name="screenshot">Capturas de ecrã</string>
   <string name="screenshot_three_gesture">Deslizar três dedos simultaneamente para tirar uma captura de ecrã</string>
+  <string name="screenshot_three_gesture_summary">Os outros gestos de três dedos vão ser desligados</string>
   <string name="sd_card_settings_label">Armazenamento USB</string>
   <string name="sd_card_storage">Armazenamento USB</string>
   <string name="sd_eject">Desmontar partilha de armazenamento</string>
