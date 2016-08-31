@@ -2349,14 +2349,14 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_on_proximity_sensor_summary">Bloquear o telefone automaticamente quando colocado no bolso</string>
   <string name="screen_on_proximity_sensor_title">Prevenir uso inadvertido no bolso</string>
   <string name="screen_optimize">Contraste</string>
-  <string name="screen_paper_mode_adjust_level">Ajustar intensidade</string>
+  <string name="screen_paper_mode_adjust_level">Intensidade</string>
   <string name="screen_paper_mode_apps_loading">Aguarde…</string>
   <string name="screen_paper_mode_apps_title">Utilizar Modo de Leitura</string>
   <string name="screen_paper_mode_global_summary">Utilizar Modo de Leitura para todas as aplicações</string>
   <string name="screen_paper_mode_global_title">Todas as aplicações</string>
   <string name="screen_paper_mode_local_summary">Utilizar Modo de Leitura nas aplicações que seleccionou</string>
   <string name="screen_paper_mode_local_title">Aplicações seleccionadas</string>
-  <string name="screen_paper_mode_off_apps_title">"Não utilizar Modo de Leitura"</string>
+  <string name="screen_paper_mode_off_apps_title">Não utilizar Modo de Leitura</string>
   <string name="screen_paper_mode_range_title">Definições</string>
   <string name="screen_paper_mode_set_apps_title">Aplicações em Modo de Leitura</string>
   <string name="screen_paper_mode_summary">Reduzir brilho de fundo do ecrã</string>
