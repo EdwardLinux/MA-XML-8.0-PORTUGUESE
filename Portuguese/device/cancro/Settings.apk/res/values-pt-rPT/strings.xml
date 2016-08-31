@@ -455,10 +455,10 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="bluetooth_ask_enablement_and_discovery_detected">" quer ligar o Bluetooth e tornar este telefone visível para outros dispositivos por %1$d segundos"</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">Uma aplicação quer ligar o Bluetooth e tornar este telefone visível para outros dispositivos. Pode alterar esta opção posteriormente nas definições de Bluetooth</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">"quer ligar o Bluetooth e tornar este telefone visível para outros dispositivos. Pode alterar esta opção posteriormente nas definições de Bluetooth"</string>
-  <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s pretende ligar o Bluetooth e a difusão via Bluetooth para comunicar com outros dispositivos próximos. Pode alterar esta opção posteriormente nas definições de Bluetooth</string>
-  <string name="bluetooth_ask_enablement_detected">" pretende ligar o Bluetooth"</string>
+  <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s quer ligar o Bluetooth e a difusão via Bluetooth para comunicar com outros dispositivos próximos. Pode alterar esta opção posteriormente nas definições de Bluetooth</string>
+  <string name="bluetooth_ask_enablement_detected">" quer ligar o Bluetooth"</string>
   <string name="bluetooth_ask_lasting_discovery">Uma aplicação quer tornar o telefone visível para outros dispositivos Bluetooth. Pode alterar esta opção posteriormente nas definições de Bluetooth</string>
-  <string name="bluetooth_ask_start_broadcast">%1$s pretende ligar a difusão via Bluetooth para comunicar com outros dispositivos próximos. Pode alterar esta opção posteriormente nas definições de Bluetooth</string>
+  <string name="bluetooth_ask_start_broadcast">%1$s quer ligar a difusão via Bluetooth para comunicar com outros dispositivos próximos. Pode alterar esta opção posteriormente nas definições de Bluetooth</string>
   <string name="bluetooth_auto_connect">Ligação automática</string>
   <string name="bluetooth_broadcasting">Difusão</string>
   <string name="bluetooth_broadcasting_explaination">"Com esta funcionalidade ligada, o seu telefone pode comunicar com outros dispositivos próximos.
@@ -559,7 +559,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="bluetooth_pairing_dialog_title">Emparelhar com este dispositivo?</string>
   <string name="bluetooth_pairing_error_message">Não foi possível emparelhar com %1$s</string>
   <string name="bluetooth_pairing_key_msg">Código de emparelhamento Bluetooth</string>
-  <string name="bluetooth_pairing_pin_error_message">Não foi possível emparelhar com %1$s. O tempo limite expirou ou o PIN ou a palavra-chave estão incorrectos</string>
+  <string name="bluetooth_pairing_pin_error_message">Não foi possível emparelhar com %1$s. O PIN ou a palavra-chave estão incorrectos</string>
   <string name="bluetooth_pairing_rejected_error_message">Emparelhamento rejeitado por %1$s</string>
   <string name="bluetooth_pairing_request">Emparelhar com %1$s?</string>
   <string name="bluetooth_pairing_shares_phonebook">Permitir que %1$s aceda aos contactos e registo de chamadas</string>
@@ -1124,7 +1124,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="dndm_alarm_content_not_all">Silenciar tudo</string>
   <string name="dndm_alarm_content_sms">Mensagens</string>
   <string name="dndm_auto_button_title">Repetir hora de Não incomodar</string>
-  <string name="dndm_auto_setting_group">Programar</string>
+  <string name="dndm_auto_setting_group">Programado</string>
   <string name="dndm_auto_time_setting">Definir hora</string>
   <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">Até</string>
@@ -1950,7 +1950,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="mem_use_total">Total</string>
   <string name="mem_use_zram_type">Troca de ZRam</string>
   <string name="memory">RAM</string>
-  <string name="memory_apps_usage">Aplicações (dados e conteúdo multimédia)</string>
+  <string name="memory_apps_usage">Aplicações e respectivos dados</string>
   <string name="memory_available">Disponível</string>
   <string name="memory_available_read_only">Disponível (apenas leitura)</string>
   <string name="memory_avg_desc">%1$s em média</string>
@@ -2691,7 +2691,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="radioInfo_service_off">Rádio desligado</string>
   <string name="radioInfo_service_out">Fora de serviço</string>
   <string name="radioInfo_unknown">desconhecido</string>
-  <string name="radio_controls_summary">Gerir Wi-Fi, Bluetooth, Modo Avião, Redes Móveis e VPNs</string>
+  <string name="radio_controls_summary">Gerir Wi-Fi, Bluetooth, Modo Avião, Redes móveis e VPNs</string>
   <string name="radio_controls_title">Mais</string>
   <string name="radio_info_asdiv_switch_label">Estado ASDiv:</string>
   <string name="radio_info_band_mode_label">Seleccionar a banda do rádio</string>
@@ -2855,14 +2855,14 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_on_proximity_sensor_summary">Bloquear o telefone automaticamente quando colocado no bolso</string>
   <string name="screen_on_proximity_sensor_title">Prevenir uso inadvertido no bolso</string>
   <string name="screen_optimize">Contraste</string>
-  <string name="screen_paper_mode_adjust_level">Ajustar intensidade</string>
+  <string name="screen_paper_mode_adjust_level">Intensidade</string>
   <string name="screen_paper_mode_apps_loading">Aguarde…</string>
   <string name="screen_paper_mode_apps_title">Utilizar Modo de Leitura</string>
   <string name="screen_paper_mode_global_summary">Utilizar Modo de Leitura para todas as aplicações</string>
   <string name="screen_paper_mode_global_title">Todas as aplicações</string>
   <string name="screen_paper_mode_local_summary">Utilizar Modo de Leitura nas aplicações que seleccionou</string>
   <string name="screen_paper_mode_local_title">Aplicações seleccionadas</string>
-  <string name="screen_paper_mode_off_apps_title">"Não utilizar Modo de Leitura"</string>
+  <string name="screen_paper_mode_off_apps_title">Não utilizar Modo de Leitura</string>
   <string name="screen_paper_mode_range_title">Definições</string>
   <string name="screen_paper_mode_set_apps_title">Aplicações em Modo de Leitura</string>
   <string name="screen_paper_mode_summary">Reduzir brilho de fundo do ecrã</string>
