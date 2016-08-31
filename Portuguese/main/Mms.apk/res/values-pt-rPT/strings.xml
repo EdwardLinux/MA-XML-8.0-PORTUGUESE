@@ -351,6 +351,7 @@
   <string name="no">Cancelar</string>
   <string name="no_block_button_msg">Desbloquear este número</string>
   <string name="no_conversations">Sem conversas</string>
+  <string name="no_delivery_report">Sem relatórios de entrega</string>
   <string name="no_subject">(Sem assunto)</string>
   <string name="no_subject_view">(Sem assunto)</string>
   <string name="non_english_subject_limit">Limite de 13 caracteres</string>
@@ -534,6 +535,7 @@
   <string name="set">Definir</string>
   <string name="share_img">Partilhar</string>
   <string name="show_all_messages">Mostrar todas as mensagens</string>
+  <string name="show_delivery_status">Mostrar o estado de entrega</string>
   <string name="show_sender">Mostrar informação do remetente</string>
   <string name="sim_card1">Cartão SIM 1</string>
   <string name="sim_card2">Cartão SIM 2</string>

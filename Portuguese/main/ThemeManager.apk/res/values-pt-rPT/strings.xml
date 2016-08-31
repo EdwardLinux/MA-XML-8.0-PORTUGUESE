@@ -39,7 +39,7 @@
   <string name="description_version">Versão</string>
   <string name="description_version_szie">Versão: %1$s Tamanho: %2$s</string>
   <string name="desktop_wallpaper">Ecrã inicial</string>
-  <string name="dev_options">Opções de programador</string>
+  <string name="dev_options">Opções de desenvolvimento</string>
   <string name="dev_options_summary">Recursos web</string>
   <string name="download_failed">Erro ao transferir</string>
   <string name="download_preview_failed">Não é possível carregar pré-visualização</string>

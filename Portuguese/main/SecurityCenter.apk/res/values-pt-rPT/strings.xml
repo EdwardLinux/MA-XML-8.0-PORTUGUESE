@@ -481,7 +481,7 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="international_roaming_whitelist_count">%d aplicações podem utilizar dados móveis em roaming</string>
   <string name="ip_address_exception_summary">Não foi possível obter o endereço IP. Se voltar novamente a ter este problema utilize um endereço IP estático</string>
   <string name="item_app_permission">Permissões de aplicação</string>
-  <string name="item_dev_mode">Opções de programador</string>
+  <string name="item_dev_mode">Opções de desenvolvimento</string>
   <string name="item_install_monitor">Monitor de instalação</string>
   <string name="item_mms">Filtrar mensagens indesejadas</string>
   <string name="item_usb_debug">Depuração USB</string>
@@ -1254,8 +1254,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="title_consume_power_rank">Utilização de bateria</string>
   <string name="title_data_flow">Controlar dados móveis</string>
   <string name="title_default_app">%s MIUI não está como predefinido</string>
-  <string name="title_dev_no">Opções de programador ligadas</string>
-  <string name="title_dev_yes">Opções de programador desligadas</string>
+  <string name="title_dev_no">Opções de desenvolvimento ligadas</string>
+  <string name="title_dev_yes">Opções de desenvolvimento desligadas</string>
   <string name="title_find_device">Localizar Dispositivo</string>
   <string name="title_flow_notification">Notificações de dados móveis</string>
   <string name="title_flow_purchase">Comprar dados móveis</string>
