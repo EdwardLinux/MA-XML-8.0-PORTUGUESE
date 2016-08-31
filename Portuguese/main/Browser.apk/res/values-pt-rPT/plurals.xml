@@ -26,6 +26,10 @@
     <plurals name="video_download_clear_info">
         <item quantity="other">Removido %1$d vídeos com sucesso</item>
         <item quantity="one">Removido %1$d vídeo com sucesso</item>
+	</plurals>
+	<plurals name="video_subtitle_last_message">
+        <item quantity="other">Faltam %d minutos</item>
+        <item quantity="one">Falta 1 minuto</item>
     </plurals>
     <plurals name="video_history_clear_prompt">
         <item quantity="other">Eliminar %1$d itens do histórico?</item>
