@@ -26,9 +26,9 @@
   <string name="ad_card_downloading">A transferir…</string>
   <string name="ad_card_install">Instalar agora</string>
   <string name="ad_card_installed">Instalado</string>
-  <string name="ad_card_installing">Instalação</string>
+  <string name="ad_card_installing">A instalar</string>
   <string name="ad_card_network_error">Sem ligação à Internet. Por favor, tente novamente</string>
-  <string name="ad_card_spread">Taxa de juro</string>
+  <string name="ad_card_spread">Propaganda</string>
   <string name="add_calendar">Subscrição</string>
   <string name="add_card">Adicionar cartão</string>
   <string name="add_topic_success">Subscrição de \"%s\" sucesso</string>
@@ -96,7 +96,7 @@
   <string name="copy_db">Enviar base de dados</string>
   <string name="copy_email">Copiar endereço de email</string>
   <string name="copy_number">Copiar número de telefone</string>
-  <string name="create_an_account_desc">"Calendário funciona melhor com uma Conta Mi.
+  <string name="create_an_account_desc">"Calendário funciona melhor com uma Conta Mi
 
 • Aceda-o de qualquer navegador
 • Faça cópia dos seus eventos de forma segura"</string>
