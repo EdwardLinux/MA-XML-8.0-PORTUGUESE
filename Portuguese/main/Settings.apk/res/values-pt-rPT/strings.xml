@@ -1982,7 +1982,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_tether_settings_title_usb">Definições/Mais/Partilha de ligação USB</string>
   <string name="path_theme_settings">Definições/Temas</string>
   <string name="path_toggle_position_settings">Definições/Notificações e barra de estado/Posição dos atalhos</string>
-  <string name="path_touch_assistant_settings">Definições/Definições adicionais/Menu de atalhos</string>
+  <string name="path_touch_assistant_settings">Definições/Definições adicionais/Menu flutuante</string>
   <string name="path_touch_sensitive_title">Definições/Ecrã/Modo Luvas</string>
   <string name="path_trusted_credentials">Definições/Definições adicionais/Privacidade/Credenciais fiáveis</string>
   <string name="path_tts_settings_title">Definições/Definições adicionais/Idioma e entrada/Saída de texto para voz</string>
@@ -2563,7 +2563,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="search_tether_settings_title_usb">Partilha de ligação USB</string>
   <string name="search_theme_settings">Temas</string>
   <string name="search_toggle_position">Posição dos atalhos</string>
-  <string name="search_touch_assistant">Menu de atalhos</string>
+  <string name="search_touch_assistant">Menu flutuante</string>
   <string name="search_touch_sensitive_title">Modo Luvas</string>
   <string name="search_trusted_credentials">Credenciais fiáveis</string>
   <string name="search_tts_settings_title">Saída de texto para voz</string>
@@ -2945,7 +2945,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="toast_need_login">Iniciar sessão na sua Conta Mi</string>
   <string name="total_size">%s no total</string>
   <string name="total_size_label">Total</string>
-  <string name="touch_assistant">Menu de atalhos</string>
+  <string name="touch_assistant">Menu flutuante</string>
   <string name="touch_sensitive_summary">O ecrã fica mais sensível ao toque</string>
   <string name="touch_sensitive_title">Modo Luvas</string>
   <string name="touch_sensitive_turn_off_cancel">Cancelar</string>
