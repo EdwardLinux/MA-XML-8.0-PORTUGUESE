@@ -388,6 +388,7 @@
   <string name="pref_show_blocked_messages_summary">Mostrar SMS bloqueadas na lista de conversas</string>
   <string name="pref_show_sms_template_summary">Copiar e preencher códigos de verificação automaticamente</string>
   <string name="pref_show_sms_template_in_summary">Detectar automaticamente OTP nas mensagens SMS</string>
+  <string name="pref_smart_messages_settings">Mensagens inteligentes</string>
   <string name="pref_sms_theme_title">Visualização</string>
   <string name="pref_summary_allow_si_sl_push">Permitir mensagens WAP (SI/SL)</string>
   <string name="pref_summary_delete_limit">%1$s mensagens por conversa</string>
