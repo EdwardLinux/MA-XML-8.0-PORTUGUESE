@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_airplane_mode">Modo Avião</string>
-  <string name="accessibility_assistant">Menu de atalhos</string>
+  <string name="accessibility_assistant">Menu flutuante</string>
   <string name="accessibility_back">Voltar</string>
   <string name="accessibility_battery_level">Bateria a %d por cento</string>
   <string name="accessibility_bluetooth_connected">Bluetooth ligado</string>

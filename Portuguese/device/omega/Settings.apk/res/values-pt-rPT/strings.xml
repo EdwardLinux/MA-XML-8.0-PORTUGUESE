@@ -1384,7 +1384,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="force_touch">3D Touch</string>
   <string name="force_touch_demo">Demonstração</string>
   <string name="force_touch_enable">Activar 3D Touch</string>
-  <string name="force_touch_enable_tips">Com o 3D Touch activo, a pressão longa no ícone da aplicação vai mostrar o menu de atalhos da aplicação</string>
+  <string name="force_touch_enable_tips">Com o 3D Touch activo, a pressão longa no ícone da aplicação vai mostrar o atalho da aplicação no menu flutuante</string>
   <string name="forget">Esquecer</string>
   <string name="forget_password_button_text"><u>Recuperar acesso?</u></string>
   <string name="forget_wifi_message">O seu telefone vai deixar de ligar a esta rede automaticamente</string>
@@ -2433,7 +2433,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_tether_settings_title_usb">Definições/Mais/Partilha de ligação USB</string>
   <string name="path_theme_settings">Definições/Temas</string>
   <string name="path_toggle_position_settings">Definições/Notificações e barra de estado/Posição dos atalhos</string>
-  <string name="path_touch_assistant_settings">Definições/Definições adicionais/Menu de atalhos</string>
+  <string name="path_touch_assistant_settings">Definições/Definições adicionais/Menu flutuante</string>
   <string name="path_touch_sensitive_title">Definições/Ecrã/Modo Luvas</string>
   <string name="path_trusted_credentials">Definições/Definições adicionais/Privacidade/Credenciais fiáveis</string>
   <string name="path_tts_settings_title">Definições/Definições adicionais/Idioma e entrada/Saída de texto para voz</string>
@@ -3086,7 +3086,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_tether_settings_title_usb">Partilha de ligação USB</string>
   <string name="search_theme_settings">Temas</string>
   <string name="search_toggle_position">Posição dos atalhos</string>
-  <string name="search_touch_assistant">Menu de atalhos</string>
+  <string name="search_touch_assistant">Menu flutuante</string>
   <string name="search_touch_sensitive_title">Modo Luvas</string>
   <string name="search_trusted_credentials">Credenciais fiáveis</string>
   <string name="search_tts_settings_title">Saída de texto para voz</string>
@@ -3683,7 +3683,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="total_memory">Memória total</string>
   <string name="total_size">%s no total</string>
   <string name="total_size_label">Total</string>
-  <string name="touch_assistant">Menu de atalhos</string>
+  <string name="touch_assistant">Menu flutuante</string>
   <string name="touch_filtered_warning">As definições não podem verificar a resposta, devido a uma aplicação estar a ocultar uma permissão</string>
   <string name="touch_sensitive_summary">O ecrã fica mais sensível ao toque</string>
   <string name="touch_sensitive_title">Modo Luvas</string>
