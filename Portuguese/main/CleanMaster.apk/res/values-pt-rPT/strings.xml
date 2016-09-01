@@ -32,7 +32,7 @@
   <string name="apk_status_installed_old">Versão antiga</string>
   <string name="apk_status_uninstalled">Não instalado</string>
   <string name="app_install_tips_go_to">Abrir</string>
-  <string name="app_install_tips_install_success">Instalado %1$s com sucesso</string>
+  <string name="app_install_tips_install_success">%1$s instalado com sucesso</string>
   <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
   <string name="apps_sort_type_item_size">Tamanho</string>
   <string name="apps_sort_type_item_time">Frequentemente utilizado</string>

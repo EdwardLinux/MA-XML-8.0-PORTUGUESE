@@ -1384,7 +1384,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="force_touch">3D Touch</string>
   <string name="force_touch_demo">Demonstração</string>
   <string name="force_touch_enable">Activar 3D Touch</string>
-  <string name="force_touch_enable_tips">Com o 3D Touch activo, a pressão longa no ícone da aplicação vai mostrar o atalho da aplicação no menu flutuante</string>
+  <string name="force_touch_enable_tips">Com o 3D Touch activo, a pressão longa no ícone da aplicação vai mostrar o menu de atalhos da aplicação</string>
   <string name="forget">Esquecer</string>
   <string name="forget_password_button_text"><u>Recuperar acesso?</u></string>
   <string name="forget_wifi_message">O seu telefone vai deixar de ligar a esta rede automaticamente</string>
