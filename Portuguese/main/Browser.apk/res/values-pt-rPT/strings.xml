@@ -319,6 +319,7 @@ janela privada ​"</string>
   <string name="is_last_tab">Esta é a última janela</string>
   <string name="is_page_bottom">Está no fim da página</string>
   <string name="is_page_top">Está no início da página</string>
+  <string name="isreplace">O ficheiro já existe. Deseja substituí-lo?</string>
   <string name="js_dialog_before_unload">"%s
 
 Tem a certeza que quer sair desta página?"</string>
@@ -438,6 +439,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="no_space_alert_text">Sem espaço suficiente</string>
   <string name="no_space_alert_title">Transferência em pausa</string>
   <string name="no_space_clean_failed">Não foi possível libertar espaço no seu dispositivo​</string>
+  <string name="not_allowed_open">"Não foi possível iniciar o navegador"</string>
   <string name="not_remind_again">Não me lembrar novamente</string>
   <string name="notif_install_successful">Transferência concluída</string>
   <string name="ok">OK</string>
@@ -594,6 +596,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="remove_history_item">Remover do histórico</string>
   <string name="remove_snapshot">Eliminar página guardada</string>
   <string name="removed_from_bookmarks">Eliminado dos marcadores</string>
+  <string name="replace">Substituir</string>
   <string name="reply_comment_title">responder: %s</string>
   <string name="resume_download">Iniciar</string>
   <string name="retry_after_network_available">Não é possível ligar à rede</string>
@@ -608,7 +611,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="same_folder_name_warning">Já existe uma pasta com este nome</string>
   <string name="save_button_text">Gravar</string>
   <string name="save_dialog_title">Gravar</string>
-  <string name="save_file_already_exist_alert_message">O ficheiro já existe, deseja substituí-lo?</string>
+  <string name="save_file_already_exist_alert_message">Já existe um ficheiro com este nome. Deseja substituí-lo?</string>
   <string name="save_file_already_exist_alert_title">Substituir ficheiro?</string>
   <string name="save_form_data_confirm_message">Desligar esta funcionalidade pode afectar utilização</string>
   <string name="save_image_failed">Não foi possível guardar imagem</string>
@@ -748,6 +751,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="video_download_exists">A transferência já existe</string>
   <string name="video_download_fail">Erro</string>
   <string name="video_download_failed">Não foi possível transferir</string>
+  <string name="video_download_finding_address">A procurar endereço</string>
   <string name="video_download_pause">Em pausa</string>
   <string name="video_download_start">A transferir…</string>
   <string name="video_download_success">Concluído</string>
@@ -765,6 +769,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="video_group_noupdates_list">Sem actualizações disponíveis</string>
   <string name="video_group_updates_list">Actualizações</string>
   <string name="video_history_empty">Sem histórico</string>
+  <string name="video_manager_action_bar_end_view">Vídeos</string>
   <string name="video_play_error">Não foi possível reproduzir vídeo</string>
   <string name="video_project_button">Parar</string>
   <string name="video_project_msg">O vídeo está a ser projectado no %s</string>
@@ -772,10 +777,13 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="video_push_multi_message">%1$d actualizações existentes</string>
   <string name="video_push_multi_title">Actualizações disponíveis</string>
   <string name="video_push_single_message">Toque para actualizar para %1$d</string>
-  <string name="video_subtitle_prefix_message">"Visto: "</string>
+  <string name="video_subtitle_last_message1">Resta menos de um minuto</string>
+  <string name="video_subtitle_prefix1">Visto</string>
+  <string name="video_subtitle_prefix2">"Visto: "</string>
   <string name="video_title_prefix_message">"Offline: "</string>
+  <string name="video_unknown_duration">Duração desconhecida</string>
   <string name="view_certificate">Ver certificado</string>
-  <string name="voice_sub_title">Não sei o que dizer? Tente abrir mi.com!</string>
+  <string name="voice_sub_title">Não sabe o que dizer? Tente abrir mi.com!</string>
   <string name="voice_title">Diga o seu comando…</string>
   <string name="voice_title_distinguish">A processar…</string>
   <string name="voice_title_listening">A ouvir…</string>
