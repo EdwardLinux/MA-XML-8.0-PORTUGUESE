@@ -1152,7 +1152,7 @@ O cartão SIM será bloqueado após nova tentativa falhada"</string>
   <string name="sip_call_options_entry_3">Perguntar em cada chamada</string>
   <string name="sip_call_options_title">Utilizar chamadas SIP</string>
   <string name="sip_call_options_wifi_only_entry_1">Para todas as chamadas</string>
-  <string name="sip_call_options_wifi_only_title">Utilizar chamadas SIP (apenas Wi-Fi)</string>
+  <string name="sip_call_options_wifi_only_title">Utilizar chamadas SIP (apenas em Wi-Fi)</string>
   <string name="sip_connection_service_label">Chamadas SIP incorporadas</string>
   <string name="sip_edit_new_title">Detalhes da conta SIP</string>
   <string name="sip_edit_title">Detalhes da conta SIP</string>
