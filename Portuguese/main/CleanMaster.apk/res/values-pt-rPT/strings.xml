@@ -115,7 +115,7 @@
   <string name="deepclean_cache_header_left">Ficheiros de dados: %d</string>
   <string name="deepclean_cache_summary_empty">Verificação concluída. Sem dados para limpar</string>
   <string name="deepclean_empty">Verificação concluída</string>
-  <string name="deepclean_install_info_desc2">Eliminar aplicações para libertar espaço</string>
+  <string name="deepclean_install_info_desc2">Desinstalar aplicações para libertar espaço</string>
   <string name="deepclean_large_content">Eliminar ficheiros maiores que 10MB</string>
   <string name="deepclean_large_summary_empty">Verificação concluída. Sem ficheiros para eliminar</string>
   <string name="deepclean_list_item_from_app">Loja de Aplicações</string>
@@ -374,7 +374,7 @@
   <string name="summary_optimizer">Esta funcionalidade envia os nomes das pastas para actualizar a base de dados online do Cheetah Mobile e requer o ID do seu dispositivo</string>
   <string name="text_optimizer">Enviar nomes das pastas</string>
   <string name="there_is_no">Limpeza concluída. Volte mais tarde</string>
-  <string name="tips_of_app_manage">Eliminar aplicações raramente utilizadas para poupar espaço</string>
+  <string name="tips_of_app_manage">Desinstalar aplicações raramente utilizadas</string>
   <string name="tips_of_auto_launch_manage">Prevenir aplicações raramente utilizadas de iniciar automaticamente</string>
   <string name="tips_of_cloud_service">Inicie sessão na sua Conta Mi para utilizar mais serviços Mi</string>
   <string name="tips_of_connect">Ligar à Internet para utilizar um conjunto completo de funcionalidades de segurança</string>
