@@ -2558,7 +2558,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="search_status_sim">Estado do SIM</string>
   <string name="search_storage">Armazenamento</string>
   <string name="search_storage_settings">Limpeza</string>
-  <string name="search_sync_settings">Sincronização;Auto;Apenas Wi-Fi</string>
+  <string name="search_sync_settings">Sincronização;Auto;Apenas em Wi-Fi</string>
   <string name="search_system_app_settings">Aplicações de sistema</string>
   <string name="search_tether">Partilha de ligação e PA Móvel;PA Móvel;PA Móvel</string>
   <string name="search_tether_settings_title_bluetooth">Partilha de ligação Bluetooth</string>
@@ -2901,7 +2901,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
 Uma abordagem da Google à sincronização de dados, que permite aceder aos contactos, compromissos e outros itens a partir de qualquer local onde se encontre. "</string>
   <string name="sync_settings">Sincronização</string>
   <string name="sync_wifi_label">Wi-Fi</string>
-  <string name="sync_wifi_only">Apenas Wi-Fi</string>
+  <string name="sync_wifi_only">Apenas em Wi-Fi</string>
   <string name="system">Sistema</string>
   <string name="system_app_settings">Aplicações de sistema</string>
   <string name="system_and_device_section_title">Sistema e dispositivo</string>

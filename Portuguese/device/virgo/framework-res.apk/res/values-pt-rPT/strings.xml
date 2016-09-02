@@ -1206,7 +1206,7 @@ Pretende fechá-la?"</string>
   <string name="wfcRegErrorTitle">Chamadas Wi-Fi</string>
   <string name="wfcSpnFormat">%s</string>
   <string name="wfc_mode_cellular_preferred_summary">Rede móvel preferida</string>
-  <string name="wfc_mode_wifi_only_summary">Apenas Wi-Fi</string>
+  <string name="wfc_mode_wifi_only_summary">Apenas em Wi-Fi</string>
   <string name="wfc_mode_wifi_preferred_summary">Rede Wi-Fi preferida</string>
   <string name="whichApplication">Concluir acção utilizando</string>
   <string name="whichApplicationNamed">Concluir acção utilizando %1$s</string>
