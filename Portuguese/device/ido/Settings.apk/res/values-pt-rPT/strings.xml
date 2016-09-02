@@ -265,6 +265,8 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="auto_restore_title">Restauro automático</string>
   <string name="auto_startup_application_manage">Iniciar automático</string>
   <string name="auto_startup_count">%d aplicações estão autorizadas a iniciar automaticamente</string>
+  <string name="auto_upload_debug_log_summary">Os dados de diagnóstico podem conter informações sobre a utilização do seu dispositivo. Os dados vão ser utilizados para localizar e analizar problemas no sistema</string>
+  <string name="auto_upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
   <string name="automatic_brightness">Brilho automático</string>
   <string name="available_size">%s disponíveis</string>
   <string name="awake">Tempo activo do dispositivo</string>
@@ -863,7 +865,6 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="debug_intent_sender_label">Intenção de depuração do remetente</string>
   <string name="debug_layout">Mostrar limites de desenho</string>
   <string name="debug_layout_summary">Mostrar limites de clipe, margens, etc.</string>
-  <string name="debug_log">Programa de Experiência do Utilizador</string>
   <string name="debug_monitoring_category">Monitorização</string>
   <string name="debug_view_attributes">Activar a inspecção do atributo de visualização</string>
   <string name="default_date_format">dd/MM/yyyy</string>
@@ -1392,7 +1393,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="locale_settings">Localização</string>
   <string name="location_access_off">Desligado</string>
   <string name="location_access_on">Ligado</string>
-  <string name="location_access_summary">Aplicações podem obter a informação da sua localização</string>
+  <string name="location_access_summary">As aplicações podem obter a informação da sua localização</string>
   <string name="location_access_title">Acesso à localização</string>
   <string name="location_agps_apn_choose_dialog_title">Tipos APN</string>
   <string name="location_agps_apn_summary">Escolher tipo de APN preferido</string>
@@ -2123,6 +2124,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="preference_change_password_title">Alterar a palavra-passe</string>
   <string name="preferred_app_settings">Predefinidas</string>
   <string name="preferred_app_settings_default">Predefinida</string>
+  <string name="preferred_app_settings_not_selected">Não seleccionada</string>
   <string name="preferred_app_settings_reset">Repor predefinições</string>
   <string name="preferred_app_settings_reset_button">Repor</string>
   <string name="preferred_app_settings_reset_message">Todas as aplicações vão ser repostas para as definições de fábrica</string>
@@ -2996,6 +2998,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="testing_sim_toolkit">Ferramentas do SIM</string>
   <string name="testing_usage_stats">Estatísticas de utilização</string>
   <string name="testing_wifi_info">Informação Wi-Fi</string>
+  <string name="tether_and_hotspot_title">Partilha de ligação e Ponto de Acesso</string>
   <string name="tether_devices_management_title">Gestão de dispositivos</string>
   <string name="tether_settings_disabled">PA Móvel está desligado</string>
   <string name="tether_settings_title_all">Partilha de ligação e PA Móvel</string>
@@ -3143,8 +3146,6 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="unmount_inform_text">O armazenamento USB será desmontado</string>
   <string name="untitled_apn">Sem título</string>
   <string name="update_progress_for_updates">A actualizar (%s)</string>
-  <string name="upload_debug_log_summary">Ajude a melhorar a MIUI enviando dados de utilização anónimos</string>
-  <string name="upload_debug_log_title">Programa de Experiência do Utilizador</string>
   <string name="usage_access_title">Aplicações com acesso de utilização</string>
   <string name="usage_log">Estatísticas de utilização das aplicações</string>
   <string name="usage_name_percent">%1$s - %2$s%%</string>
@@ -3269,6 +3270,9 @@ Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
   <string name="user_exit_guest_confirm_title">Remover convidado?</string>
   <string name="user_exit_guest_dialog_remove">Remover</string>
   <string name="user_exit_guest_title">Remover convidado</string>
+  <string name="user_experience_program">Programa de Experiência do Utilizador</string>
+  <string name="user_experience_program_summary">Ajude a melhorar a MIUI enviando dados de utilização anónimos</string>
+  <string name="user_experience_program_title">Programa de Experiência do Utilizador</string>
   <string name="user_guest">Convidado</string>
   <string name="user_image_choose_photo">Escolher foto da Galeria</string>
   <string name="user_image_photo_selector">Seleccionar foto</string>
