@@ -3252,7 +3252,7 @@ Qualquer utilizador pode actualizar aplicações para todos os outros utilizador
   <string name="user_dict_settings_context_menu_delete_title">Eliminar</string>
   <string name="user_dict_settings_context_menu_edit_title">Editar</string>
   <string name="user_dict_settings_edit_dialog_title">Editar palavra</string>
-  <string name="user_dict_settings_empty_text">"Não tem palavras no dicionário do utilizador.
+  <string name="user_dict_settings_empty_text">"Não tem palavras no dicionário pessoal.
 Toque no botão (+) para adicionar palavras"</string>
   <string name="user_dict_settings_more_languages">Mais idiomas…</string>
   <string name="user_dict_settings_summary"/>
