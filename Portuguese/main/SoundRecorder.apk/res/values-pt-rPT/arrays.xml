@@ -18,9 +18,15 @@
         <item>Normal</item>
         <item>Baixa</item>
      </string-array>
+     <string-array name="hd_record_scenes_entries">
+         <item>Música</item>
+         <item>Voz</item>
+         <item>Entrevistas</item>
+         <item>HD</item>
+     </string-array>
      <string-array name="record_quality_summaries">
         <item>MP3 - 192kbit/s - 90MB/h</item>
         <item>MP3 - 100kbit/s - 45MB/h</item>
         <item>MP3 - 75kbit/s - 32MB/h</item>
-     </string-array>	 
+     </string-array>
 </resources>

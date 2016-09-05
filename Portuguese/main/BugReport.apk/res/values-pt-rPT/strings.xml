@@ -60,6 +60,7 @@
   <string name="feedback_empty_report_list">Sem relatórios ainda</string>
   <string name="feedback_history_remind_login_desc">Iniciar sessão na sua Conta Mi para ver os detalhes e o estado dos seus relatórios</string>
   <string name="feedback_id">ID: %d</string>
+  <string name="feedback_jira_key">Chave JIRA: %s</string>
   <string name="feedback_package_log_failed">Não foi possível comprimir registos</string>
   <string name="feedback_phone_model_label">Modelo do telefone</string>
   <string name="feedback_probability_label">Probabilidade</string>

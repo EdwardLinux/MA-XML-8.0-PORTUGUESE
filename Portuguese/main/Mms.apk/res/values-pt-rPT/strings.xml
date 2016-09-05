@@ -231,7 +231,7 @@
   <string name="menu_delete_messages">Eliminar mensagens</string>
   <string name="menu_edit">Editar</string>
   <string name="menu_forward">Reencaminhar</string>
-  <string name="menu_lock">Adicionar aos Favoritos</string>
+  <string name="menu_lock">Adicionar aos favoritos</string>
   <string name="menu_mark">Marcar</string>
   <string name="menu_more">Mais</string>
   <string name="menu_new_contact">Novo contacto</string>
@@ -239,7 +239,7 @@
   <string name="menu_pick_from_contact">Seleccionar de contactos</string>
   <string name="menu_preferences">Definições</string>
   <string name="menu_send_as_common">Enviar como SMS</string>
-  <string name="menu_unlock">Remover dos Favoritos</string>
+  <string name="menu_unlock">Remover dos favoritos</string>
   <string name="menu_view_contact">Ver contacto</string>
   <string name="menu_yellowpage">Ver %s</string>
   <string name="message_class_label">"Classe da mensagem: "</string>
@@ -451,7 +451,7 @@
   <string name="prvate_contact">Contacto privado</string>
   <string name="quick_reply">Responder</string>
   <string name="rate_limit_surpassed">Confirmar</string>
-  <string name="received_label">Recebido: </string>
+  <string name="received_label">"Recebida: "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">Destinatário: </string>
   <string name="recipients_over_size">Demasiados destinatários</string>
@@ -529,7 +529,7 @@
   <string name="send_to">Para:</string>
   <string name="send_to_count">Enviadas %1$s mensagens</string>
   <string name="send_to_index_contact">%1$s/%2$s</string>
-  <string name="sent_label">"Enviado: "</string>
+  <string name="sent_label">"Enviada: "</string>
   <string name="service_message_not_found">Mensagem expirou ou não está disponível</string>
   <string name="service_network_problem">Não foi possível enviar devido a um problema de rede</string>
   <string name="service_not_activated">Serviço não activo na rede</string>

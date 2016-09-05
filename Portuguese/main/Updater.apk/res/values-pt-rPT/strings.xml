@@ -158,9 +158,9 @@
   <string name="recovery_failed_button">OK</string>
   <string name="recovery_failed_msg">O dispositivo não tem memória suficiente para entrar no modo de restauro e actualizar o seu sistema. Tente usar outra vez o Mi PC Suite: http://zhushou.xiaomi.com</string>
   <string name="recovery_failed_notification_msg">Não é possível iniciar o modo de restauro</string>
-  <string name="recovery_failed_title">Use Mi PC Suite para actualizar o seu sistema</string>
+  <string name="recovery_failed_title">Utilize o Mi PC Suite para actualizar o seu sistema</string>
   <string name="recovery_power_not_enough_msg">Ligar carregador para actualizar se a bateria estiver a menos de 30%</string>
-  <string name="recovery_power_not_enough_msg_plugged">Bateria tem de estar acima dos 30% para poder actualizar</string>
+  <string name="recovery_power_not_enough_msg_plugged">A bateria tem de estar acima dos 30% para poder actualizar</string>
   <string name="recovery_power_not_enough_title">Bateria fraca</string>
   <string name="repeat">Tente novamente</string>
   <string name="root_acquired">Permitir acesso root</string>

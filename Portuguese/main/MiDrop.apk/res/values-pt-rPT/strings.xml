@@ -20,7 +20,7 @@
   <string name="notif_receive_cancel">%1$s ficheiros não transferidos</string>
   <string name="notif_receive_lockscreen">Toque para ver detalhes</string>
   <string name="notif_receive_progress">A receber %1$s ficheiros…</string>
-  <string name="notif_receive_success">Recebido por %1$s</string>
+  <string name="notif_receive_success">Ficheiros recebidos de %1$s</string>
   <string name="notif_send_cancel">Transferência para %1$s interrompida</string>
   <string name="notif_send_cancel_multi">Transferência para %1$s+%2$ interrompida</string>
   <string name="notif_send_progress">A enviar para %1$s…</string>

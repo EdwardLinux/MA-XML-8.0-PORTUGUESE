@@ -1383,8 +1383,8 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="force_stop_dlg_title">Forçar paragem</string>
   <string name="force_touch">3D Touch</string>
   <string name="force_touch_demo">Demonstração</string>
-  <string name="force_touch_enable">Activar 3D Touch</string>
-  <string name="force_touch_enable_tips">Com o 3D Touch activo, a pressão longa no ícone da aplicação vai mostrar o menu de atalhos da aplicação</string>
+  <string name="force_touch_enable">Ligar 3D Touch</string>
+  <string name="force_touch_enable_tips">Com o 3D Touch ligado, a pressão longa no ícone da aplicação vai mostrar o menu de atalhos da aplicação</string>
   <string name="forget">Esquecer</string>
   <string name="forget_password_button_text"><u>Recuperar acesso?</u></string>
   <string name="forget_wifi_message">O seu telefone vai deixar de ligar a esta rede automaticamente</string>
@@ -1452,6 +1452,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="haptic_feedback_enable_title">Vibrar ao tocar</string>
   <string name="haptic_feedback_level">Vibração</string>
   <string name="hardkeyboard_category">Definições de teclado físico</string>
+  <string name="hardware_version">Versão de hardware</string>
   <string name="has_screenshot_sound">Som de captura de ecrã</string>
   <string name="hdcp_checking_dialog_title">Definir comportamento de verificação HDCP</string>
   <string name="hdcp_checking_title">Verificação HDCP</string>
@@ -1557,14 +1558,14 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="input_methods_settings_label_format">Definições de %1$s</string>
   <string name="input_methods_settings_title">Entrada de texto</string>
   <string name="input_settings">Definições de entrada</string>
-  <string name="install_all_warning">Os dados deste telefone e os dados pessoais estão mais vulneráveis a ataques de aplicações de fontes desconhecidas. Concorda que é o único responsável por qualquer dano causado a este telefone ou pela perda de dados que possa resultar do uso dessas aplicações?</string>
+  <string name="install_all_warning">Os dados deste telefone e os dados pessoais estão mais vulneráveis a ataques de aplicações de fontes desconhecidas. Concorda que é o único responsável por qualquer dano causado a este telefone ou pela perda de dados que possa resultar da utilização dessas aplicações?</string>
   <string name="install_applications">Fontes desconhecidas</string>
   <string name="install_applications_title">Permitir todas as fontes de aplicações</string>
   <string name="install_no_market_app_summary">Verificar aplicações de terceiros por vírus antes de instalar</string>
   <string name="install_no_market_app_title">Verificar aplicações de terceiros</string>
   <string name="install_preinstall_app">A carregar aplicações…</string>
   <string name="install_text">Instalar</string>
-  <string name="install_unknown_applications">Permite a instalação de aplicações a partir de fontes desconhecidas</string>
+  <string name="install_unknown_applications">Permitir a instalação de aplicações a partir de fontes desconhecidas</string>
   <string name="install_unknown_applications_title">Permite-lhe instalar aplicações de fontes que não sejam o Google Play</string>
   <string name="install_whole_rom">Transferir ROM</string>
   <string name="insufficient_storage">Não há espaço de armazenamento suficiente</string>
@@ -2852,7 +2853,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_key_press_action">Premir o botão</string>
   <string name="screen_locking_sounds_title">Sons de bloqueio de ecrã</string>
   <string name="screen_never_timeout_title">Nunca suspender</string>
-  <string name="screen_on_proximity_sensor_summary">Bloquear o telefone automaticamente quando colocado no bolso</string>
+  <string name="screen_on_proximity_sensor_summary">Prevenir o atendimento de chamadas quando colocado no bolso</string>
   <string name="screen_on_proximity_sensor_title">Prevenir uso inadvertido no bolso</string>
   <string name="screen_optimize">Contraste</string>
   <string name="screen_paper_mode_adjust_level">Intensidade</string>
@@ -3331,14 +3332,14 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="sim_slot_empty">SIM vazio</string>
   <string name="sim_status_title">Estado do SIM</string>
   <string name="simulate_color_space">Simular espaço de cor</string>
-  <string name="single_key_use">Utilização de botão único</string>
+  <string name="single_key_use">Botão único</string>
   <string name="single_key_use_summary">Utilizar o botão Início em vez dos outros dois para as operações normais</string>
   <string name="skip_label">Ignorar</string>
   <string name="skip_lock_screen_confirm_msg">Notificações, controlos do leitor de música e deslizar para a direita para aceder à lista de chamadas vão ser desligados no ecrã de bloqueio</string>
   <string name="skip_step">Ignorar</string>
   <string name="slot_status_title">Informação do IMEI</string>
   <string name="small_font">Pequena</string>
-  <string name="smallwindow_smartcover_title">Capa com frente transparente</string>
+  <string name="smallwindow_smartcover_title">Janela transparente</string>
   <string name="smartcover_sensitive_title">Modo de capa inteligente</string>
   <string name="sms_application_title">Aplicação de SMS</string>
   <string name="sms_change_default_dialog_text" formatted="false">Utilizar %s em vez de %s como aplicação de SMS?</string>
@@ -3652,7 +3653,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="testing_sim_toolkit">Ferramentas do SIM</string>
   <string name="testing_usage_stats">Estatísticas de utilização</string>
   <string name="testing_wifi_info">Informação Wi-Fi</string>
-  <string name="tether_and_hotspot_title">Partilha de ligação e Ponto de Acesso</string>
+  <string name="tether_and_hotspot_title">Partilha de ligação e Ponto de Acesso Móvel</string>
   <string name="tether_devices_management_title">Gestão de dispositivos</string>
   <string name="tether_settings_disabled">PA Móvel está desligado</string>
   <string name="tether_settings_title_all">Partilha de ligação e PA Móvel</string>
@@ -3931,7 +3932,7 @@ Qualquer utilizador pode actualizar aplicações para todos os outros utilizador
   <string name="user_dict_settings_context_menu_edit_title">Editar</string>
   <string name="user_dict_settings_edit_dialog_title">Editar palavra</string>
   <string name="user_dict_settings_empty_text">"Não tem palavras no dicionário do utilizador.
-Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
+Toque no botão + para adicionar palavras"</string>
   <string name="user_dict_settings_more_languages">Mais idiomas…</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Dicionário pessoal</string>

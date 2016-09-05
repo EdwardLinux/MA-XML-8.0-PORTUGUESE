@@ -396,6 +396,14 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="provision_arrow_next">&gt;</string>
   <string name="remind_later">Agora não</string>
   <string name="restoreSync">Sincronizar agora</string>
+  <string name="search_cloudbackup_pref">Cópias da Nuvem Mi</string>
+  <string name="search_cloudbackup_pref_desc">Ligar/desligar Cópias da Nuvem Mi</string>
+  <string name="search_cloudbackup_pref_key_words">Cópias da Nuvem Mi, Cópias da Nuvem Mi</string>
+  <string name="search_cloudbackup_pref_path">Conta Mi/Nuvem Mi/Cópia e restauro</string>
+  <string name="search_finddevice_pref">Localizar Dispositivo</string>
+  <string name="search_finddevice_pref_desc">Ligar/desligar Localizar Dispositivo</string>
+  <string name="search_finddevice_pref_key_words">Localizar Dispositivo, Localizar Dispositivo</string>
+  <string name="search_finddevice_pref_path">Conta Mi/Nuvem Mi/Localizar Dispositivo</string>
   <string name="setting">Definições</string>
   <string name="settings_backup_title">Cópia das definições de sistema</string>
   <string name="share_cancel">Partilha cancelada</string>
