@@ -1,28 +1,28 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
- <resources>
-   <string name="activity_not_found">Sem aplicações para executar esta acção</string>
-   <string name="back_to_message_list">Voltar à lista</string>
-   <string name="confirm_delete_all_conversations">Eliminar todas as conversas?</string>
-   <string name="confirm_delete_conversation">Eliminar esta conversa?</string>
-   <string name="confirm_delete_group_message">Eliminar mensagens do grupo?</string>
-   <string name="confirm_delete_locked_message">Eliminar esta mensagem bloqueada?</string>
-   <string name="confirm_delete_message">Eliminar esta mensagem?</string>
-   <string name="confirm_dialog_locked_title">Eliminar mensagem bloqueada?</string>
-   <string name="confirm_dialog_title">Eliminar conversas</string>
-   <string name="copy_message_text">Copiar</string>
-   <string name="copy_message_text_success">Texto copiado</string>
-   <string name="delete">Eliminar</string>
-   <string name="delete_message">Eliminar</string>
-   <string name="from_label">"De: "</string>
-   <string name="menu_forward">Reencaminhar</string>
-   <string name="menu_lock">Adicionar aos favoritos</string>
-   <string name="menu_unlock">Remover dos favoritos</string>
-   <string name="message_details_title">Detalhes da mensagem</string>
-   <string name="message_type_label">"Tipo: "</string>
-   <string name="received_label">"Recebida: "</string>
-   <string name="sent_label">"Enviada: "</string>
-   <string name="sms_card_partner_label">"Cartão SMS de parceiro "</string>
-   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
-   <string name="text_message">Mensagem de texto</string>
-   <string name="view_message_details">Ver detalhes</string>
- </resources>
+<resources>
+    <string name="activity_not_found">Sem aplicações para executar esta acção</string>
+    <string name="back_to_message_list">Voltar à lista</string>
+    <string name="confirm_delete_all_conversations">Eliminar todas as conversas?</string>
+    <string name="confirm_delete_conversation">Eliminar esta conversa?</string>
+    <string name="confirm_delete_group_message">Eliminar mensagens do grupo?</string>
+    <string name="confirm_delete_locked_message">Eliminar esta mensagem bloqueada?</string>
+    <string name="confirm_delete_message">Eliminar esta mensagem?</string>
+    <string name="confirm_dialog_locked_title">Eliminar mensagem bloqueada?</string>
+    <string name="confirm_dialog_title">Eliminar conversas</string>
+    <string name="copy_message_text">Copiar</string>
+    <string name="copy_message_text_success">Texto copiado</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_message">Eliminar</string>
+    <string name="from_label">"De: "</string>
+    <string name="menu_forward">Reencaminhar</string>
+    <string name="menu_lock">Adicionar aos favoritos</string>
+    <string name="menu_unlock">Remover dos favoritos</string>
+    <string name="message_details_title">Detalhes da mensagem</string>
+    <string name="message_type_label">"Tipo: "</string>
+    <string name="received_label">"Recebida: "</string>
+    <string name="sent_label">"Enviada: "</string>
+    <string name="sms_card_partner_label">"Cartão SMS de parceiro "</string>
+    <string name="sms_card_teddy_mobile">Teddy Mobile</string>
+    <string name="text_message">Mensagem de texto</string>
+    <string name="view_message_details">Ver detalhes</string>
+</resources>

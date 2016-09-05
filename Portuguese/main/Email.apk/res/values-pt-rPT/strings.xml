@@ -737,7 +737,7 @@
   <string name="quick_reply_hint">Responder a %1$d pessoas</string>
   <string name="quick_reply_hint_bcc">(Em BCC)</string>
   <string name="quick_reply_hint_cc">(Em CC)</string>
-  <string name="quick_reply_hint_reply_only_from">Resposta rápida (Apenas remetente)</string>
+  <string name="quick_reply_hint_reply_only_from">Resposta rápida (apenas remetente)</string>
   <string name="quick_responses_empty_view">Sem respostas rápidas</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">-------- a mensagem original --------</string>

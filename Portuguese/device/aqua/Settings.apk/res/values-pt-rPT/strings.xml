@@ -265,7 +265,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="auto_restore_title">Restauro automático</string>
   <string name="auto_startup_application_manage">Iniciar automático</string>
   <string name="auto_startup_count">%d aplicações estão autorizadas a iniciar automaticamente</string>
-  <string name="auto_upload_debug_log_summary">Os dados de diagnóstico podem conter informações sobre a utilização do seu dispositivo. Os dados vão ser utilizados para localizar e analizar problemas no sistema</string>
+  <string name="auto_upload_debug_log_summary">Os dados de diagnóstico podem incluir informação acerca da utilização do sistema operativo e aplicações. Os dados vão ser utilizados para localizar e analisar os problemas no sistema e nunca vão ser utilizados para o identificar pessoalmente</string>
   <string name="auto_upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
   <string name="automatic_brightness">Brilho automático</string>
   <string name="available_size">%s disponíveis</string>
@@ -1292,13 +1292,13 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="input_methods_settings_label_format">Definições de %1$s</string>
   <string name="input_methods_settings_title">Entrada de texto</string>
   <string name="input_settings">Definições de entrada</string>
-  <string name="install_all_warning">Os dados deste telefone e os dados pessoais estão mais vulneráveis a ataques de aplicações de fontes desconhecidas. Concorda que é o único responsável por qualquer dano causado a este telefone ou pela perda de dados que possa resultar do uso dessas aplicações?</string>
+  <string name="install_all_warning">Os dados deste telefone e os dados pessoais estão mais vulneráveis a ataques de aplicações de fontes desconhecidas. Concorda que é o único responsável por qualquer dano causado a este telefone ou pela perda de dados que possa resultar da utilização dessas aplicações?</string>
   <string name="install_applications">Fontes desconhecidas</string>
   <string name="install_no_market_app_summary">Verificar aplicações de terceiros por vírus antes de instalar</string>
   <string name="install_no_market_app_title">Verificar aplicações de terceiros</string>
   <string name="install_preinstall_app">A carregar aplicações…</string>
   <string name="install_text">Instalar</string>
-  <string name="install_unknown_applications">Permite a instalação de aplicações a partir de fontes desconhecidas</string>
+  <string name="install_unknown_applications">Permitir a instalação de aplicações a partir de fontes desconhecidas</string>
   <string name="install_whole_rom">Transferir ROM</string>
   <string name="insufficient_storage">Não há espaço de armazenamento suficiente</string>
   <string name="intent_sender_account_label">Conta:</string>
@@ -2394,7 +2394,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_key_press_action">Premir o botão</string>
   <string name="screen_locking_sounds_title">Sons de bloqueio de ecrã</string>
   <string name="screen_never_timeout_title">Nunca suspender</string>
-  <string name="screen_on_proximity_sensor_summary">Prevenir o atendimento de chamadas quando colocado no bolso</string>
+  <string name="screen_on_proximity_sensor_summary">Bloquear o telefone automaticamente quando colocado no bolso</string>
   <string name="screen_on_proximity_sensor_title">Prevenir uso inadvertido no bolso</string>
   <string name="screen_optimize">Contraste</string>
   <string name="screen_paper_mode_adjust_level">Intensidade</string>
@@ -2823,7 +2823,7 @@ Tentativas restantes :"</string>
   <string name="skip_step">Ignorar</string>
   <string name="slot_status_title">Informação do IMEI</string>
   <string name="small_font">Pequena</string>
-  <string name="smallwindow_smartcover_title">Capa com frente transparente</string>
+  <string name="smallwindow_smartcover_title">Capa com janela transparente</string>
   <string name="smartcover_sensitive_title">Modo de capa inteligente</string>
   <string name="sms_application_title">Aplicação de SMS</string>
   <string name="sms_change_default_dialog_text" formatted="false">Utilizar %s em vez de %s como aplicação de SMS?</string>
@@ -2998,7 +2998,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="testing_sim_toolkit">Ferramentas do SIM</string>
   <string name="testing_usage_stats">Estatísticas de utilização</string>
   <string name="testing_wifi_info">Informação Wi-Fi</string>
-  <string name="tether_and_hotspot_title">Partilha de ligação e Ponto de Acesso</string>
+  <string name="tether_and_hotspot_title">Partilha de ligação e Ponto de Acesso Móvel</string>
   <string name="tether_devices_management_title">Gestão de dispositivos</string>
   <string name="tether_settings_disabled">PA Móvel está desligado</string>
   <string name="tether_settings_title_all">Partilha de ligação e PA Móvel</string>
@@ -3256,7 +3256,7 @@ Qualquer utilizador pode actualizar aplicações para todos os outros utilizador
   <string name="user_dict_settings_context_menu_edit_title">Editar</string>
   <string name="user_dict_settings_edit_dialog_title">Editar palavra</string>
   <string name="user_dict_settings_empty_text">"Não tem palavras no dicionário do utilizador.
-Para adicionar uma palavra, toque no botão Adicionar (+)"</string>
+Toque no botão (+) para adicionar palavras"</string>
   <string name="user_dict_settings_more_languages">Mais idiomas…</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Dicionário pessoal</string>
