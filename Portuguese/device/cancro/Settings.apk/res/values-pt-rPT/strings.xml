@@ -1568,7 +1568,6 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="install_unknown_applications">Permitir a instalação de aplicações a partir de fontes desconhecidas</string>
   <string name="install_unknown_applications_title">Permite-lhe instalar aplicações de fontes que não sejam o Google Play</string>
   <string name="install_whole_rom">Transferir ROM</string>
-  <string name="instruction_title">Instruções</string>
   <string name="insufficient_storage">Não há espaço de armazenamento suficiente</string>
   <string name="intent_sender_account_label">Conta:</string>
   <string name="intent_sender_action_label">Acção:</string>
@@ -2693,7 +2692,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="radioInfo_service_off">Rádio desligado</string>
   <string name="radioInfo_service_out">Fora de serviço</string>
   <string name="radioInfo_unknown">desconhecido</string>
-  <string name="radio_controls_summary">Gerir Wi-Fi, Bluetooth, Modo Avião, Redes Móveis e VPNs</string>
+  <string name="radio_controls_summary">Gerir Wi-Fi, Bluetooth, Modo Avião, Redes móveis e VPNs</string>
   <string name="radio_controls_title">Mais</string>
   <string name="radio_info_asdiv_switch_label">Estado ASDiv:</string>
   <string name="radio_info_band_mode_label">Seleccionar a banda do rádio</string>
@@ -3340,7 +3339,7 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="skip_step">Ignorar</string>
   <string name="slot_status_title">Informação do IMEI</string>
   <string name="small_font">Pequena</string>
-  <string name="smallwindow_smartcover_title">Capa com janela transparente</string>
+  <string name="smallwindow_smartcover_title">Janela transparente</string>
   <string name="smartcover_sensitive_title">Modo de capa inteligente</string>
   <string name="sms_application_title">Aplicação de SMS</string>
   <string name="sms_change_default_dialog_text" formatted="false">Utilizar %s em vez de %s como aplicação de SMS?</string>
@@ -3932,7 +3931,7 @@ Qualquer utilizador pode actualizar aplicações para todos os outros utilizador
   <string name="user_dict_settings_context_menu_delete_title">Eliminar</string>
   <string name="user_dict_settings_context_menu_edit_title">Editar</string>
   <string name="user_dict_settings_edit_dialog_title">Editar palavra</string>
-  <string name="user_dict_settings_empty_text">"Não tem palavras no dicionário do utilizador.
+  <string name="user_dict_settings_empty_text">"Não tem nenhum dicionário
 Toque no botão (+) para adicionar palavras"</string>
   <string name="user_dict_settings_more_languages">Mais idiomas…</string>
   <string name="user_dict_settings_summary"/>
