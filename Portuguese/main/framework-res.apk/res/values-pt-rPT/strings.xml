@@ -960,7 +960,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permdesc_readCallLog">Permite que a aplicação leia o registo de chamadas do telefone, incluindo dados acerca de chamadas recebidas e efectuadas. Esta permissão permite que as aplicações guardem os dados do registo de chamadas e as aplicações maliciosas podem partilhar dados do registo de chamadas sem o seu conhecimento</string>
   <string name="permdesc_readCellBroadcasts">Permite que a aplicação leia mensagens de transmissão móvel recebidas pelo seu dispositivo. Os alertas de transmissão móvel são fornecidos em algumas localizações para avisá-lo sobre situações de emergência. As aplicações maliciosas podem interferir com o desempenho ou funcionamento do seu dispositivo quando for recebida uma transmissão móvel de emergência</string>
   <string name="permdesc_readContacts">Permite que a aplicação leia dados acerca de contactos guardados no telefone, incluindo a frequência com que telefonou, enviou emails ou comunicou através de outras formas com determinadas pessoas. Esta permissão permite que a aplicação guarde dados de contactos e as aplicações maliciosas podem partilhar dados de contactos sem o seu conhecimento</string>
-  <string name="permdesc_readDictionary">Permite que a aplicação leia todas as palavras, nomes e expressões que o utilizador possa ter guardado no dicionário do utilizador</string>
+  <string name="permdesc_readDictionary">Permite que a aplicação leia todas as palavras, nomes e expressões que o utilizador possa ter guardado no dicionário pessoal</string>
   <string name="permdesc_readFrameBuffer">Permite à aplicação ler o conteúdo da memória intermédia de fotogramas</string>
   <string name="permdesc_readHistoryBookmarks">Permite que a aplicação leia o histórico de todos os URLs visitados pelo navegador e todos os marcadores do navegador. Nota: esta permissão pode não ser aplicada por navegadores de terceiros ou outras aplicações com capacidades de navegação na web</string>
   <string name="permdesc_readInputState">Permite que a aplicação monitorize as teclas que o utilizador prime, mesmo ao interagir com outra aplicação, como por exemplo, ao introduzir uma palavra-passe. Nunca deve ser necessário para aplicações normais</string>
@@ -1029,7 +1029,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permdesc_writeCalendar">Permite que a aplicação adicione, remova e altere eventos que pode modificar no telefone, incluindo eventos relacionados com amigos ou colegas de trabalho. Pode permitir que a aplicação envie mensagens que parecem ser enviadas pelos proprietários dos calendários ou modifique eventos sem o conhecimento do proprietário</string>
   <string name="permdesc_writeCallLog">Permite à aplicação modificar o registo de chamadas do telefone, incluindo os dados sobre as chamadas recebidas e efectuadas. As aplicações maliciosas podem utilizar esta funcionalidade para eliminar ou modificar o seu registo de chamadas</string>
   <string name="permdesc_writeContacts">Permite que a aplicação modifique dados acerca dos contactos guardados no telefone, incluindo a frequência com que telefonou, enviou emails ou comunicou através de outras formas com determinadas pessoas. Esta permissão permite que as aplicações eliminem dados de contactos</string>
-  <string name="permdesc_writeDictionary">Permite à aplicação escrever novas palavras no dicionário do utilizador</string>
+  <string name="permdesc_writeDictionary">Permite à aplicação escrever novas palavras no dicionário pessoal</string>
   <string name="permdesc_writeGeolocationPermissions">Permite que a aplicação modifique as permissões de geolocalização do navegador. As aplicações maliciosas podem utilizar isto para permitir o envio de informações de localização para Websites arbitrários</string>
   <string name="permdesc_writeGservices">Permite que a aplicação modifique o mapa de serviços do Google. Não se destina a utilização por aplicações normais</string>
   <string name="permdesc_writeHistoryBookmarks">Permite que a aplicação modifique o histórico do navegador ou marcadores guardados no telefone. Isto pode permitir que a aplicação elimine ou modifique dados do navegador. Nota: esta permissão pode não ser aplicada por navegadores de terceiros ou outras aplicações com capacidades de navegação na web</string>
@@ -1051,7 +1051,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permgroupdesc_costMoney">fazer pagamentos</string>
   <string name="permgroupdesc_developmentTools">recursos apenas necessários para programadores de aplicações</string>
   <string name="permgroupdesc_deviceAlarms">definir o alarme</string>
-  <string name="permgroupdesc_dictionary">ler as palavras no dicionário do utilizador</string>
+  <string name="permgroupdesc_dictionary">ler as palavras no dicionário pessoal</string>
   <string name="permgroupdesc_display">efeito da UI de outras aplicações</string>
   <string name="permgroupdesc_hardwareControls">aceder directamente ao hardware no telefone</string>
   <string name="permgroupdesc_location">aceder à localização do seu dispositivo</string>
@@ -1069,7 +1069,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permgroupdesc_systemTools">acesso e controlo de nível inferior do sistema</string>
   <string name="permgroupdesc_voicemail">acesso directo ao Voice Mail</string>
   <string name="permgroupdesc_wallpaper">alterar as definições do papel de parede do dispositivo</string>
-  <string name="permgroupdesc_writeDictionary">adicionar palavras ao dicionário do utilizador</string>
+  <string name="permgroupdesc_writeDictionary">adicionar palavras ao dicionário pessoal</string>
   <string name="permgrouplab_accessibilityFeatures">Funcionalidades de acessibilidade</string>
   <string name="permgrouplab_accounts">Às suas contas</string>
   <string name="permgrouplab_affectsBattery">Afectam a bateria</string>
@@ -1082,7 +1082,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permgrouplab_costMoney">Serviços que implicam pagamento</string>
   <string name="permgrouplab_developmentTools">Ferramentas de administrador</string>
   <string name="permgrouplab_deviceAlarms">Alarme</string>
-  <string name="permgrouplab_dictionary">Ler o dicionário do utilizador</string>
+  <string name="permgrouplab_dictionary">Ler o dicionário pessoal</string>
   <string name="permgrouplab_display">Outra aplicação UI</string>
   <string name="permgrouplab_hardwareControls">Controlos de hardware</string>
   <string name="permgrouplab_location">Localização</string>
@@ -1100,7 +1100,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permgrouplab_systemTools">Ferramentas do sistema</string>
   <string name="permgrouplab_voicemail">Voice Mail</string>
   <string name="permgrouplab_wallpaper">Papel de parede</string>
-  <string name="permgrouplab_writeDictionary">Escrever no dicionário do utilizador</string>
+  <string name="permgrouplab_writeDictionary">Escrever no dicionário pessoal</string>
   <string name="permission">Permissão</string>
   <string name="permission_remember_choice">Memorizar preferência</string>
   <string name="permission_request_notification_title">Permissão pedida</string>
