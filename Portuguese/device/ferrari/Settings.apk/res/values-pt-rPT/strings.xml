@@ -2264,7 +2264,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="radioInfo_service_off">Rádio desligado</string>
   <string name="radioInfo_service_out">Fora de serviço</string>
   <string name="radioInfo_unknown">desconhecido</string>
-  <string name="radio_controls_summary">Gerir Wi-Fi, Bluetooth, Modo Avião, Redes Móveis e VPNs</string>
+  <string name="radio_controls_summary">Gerir Wi-Fi, Bluetooth, Modo Avião, Redes móveis e VPNs</string>
   <string name="radio_controls_title">Mais</string>
   <string name="radio_info_band_mode_label">Seleccionar a banda do rádio</string>
   <string name="radio_info_call_redirect_label">Reencaminhamento da chamada:</string>
@@ -2342,7 +2342,7 @@ Não vai perder quaisquer dados das aplicações"</string>
   <string name="restriction_nfc_enable_title">NFC</string>
   <string name="restriction_settings_title">Restrições</string>
   <string name="restriction_wifi_config_summary">Permitir modificações às definições de Wi-Fi e redes móveis</string>
-  <string name="restriction_wifi_config_title">Wi-Fi e Redes Móveis</string>
+  <string name="restriction_wifi_config_title">Wi-Fi e Redes móveis</string>
   <string name="retry">Tentar novamente</string>
   <string name="ring_volume_option_title">Volume do toque</string>
   <string name="ring_volume_title">Volume do toque</string>
