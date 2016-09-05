@@ -3339,7 +3339,7 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="skip_step">Ignorar</string>
   <string name="slot_status_title">Informação do IMEI</string>
   <string name="small_font">Pequena</string>
-  <string name="smallwindow_smartcover_title">Janela transparente</string>
+  <string name="smallwindow_smartcover_title">Capa com janela transparente</string>
   <string name="smartcover_sensitive_title">Modo de capa inteligente</string>
   <string name="sms_application_title">Aplicação de SMS</string>
   <string name="sms_change_default_dialog_text" formatted="false">Utilizar %s em vez de %s como aplicação de SMS?</string>
@@ -3931,7 +3931,7 @@ Qualquer utilizador pode actualizar aplicações para todos os outros utilizador
   <string name="user_dict_settings_context_menu_delete_title">Eliminar</string>
   <string name="user_dict_settings_context_menu_edit_title">Editar</string>
   <string name="user_dict_settings_edit_dialog_title">Editar palavra</string>
-  <string name="user_dict_settings_empty_text">"Não tem nenhum dicionário
+  <string name="user_dict_settings_empty_text">"Não tem palavras no dicionário pessoal.
 Toque no botão (+) para adicionar palavras"</string>
   <string name="user_dict_settings_more_languages">Mais idiomas…</string>
   <string name="user_dict_settings_summary"/>
