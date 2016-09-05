@@ -2790,7 +2790,7 @@ Não vai perder quaisquer dados das aplicações"</string>
   <string name="restriction_nfc_enable_title">NFC</string>
   <string name="restriction_settings_title">Restrições</string>
   <string name="restriction_wifi_config_summary">Permitir modificações às definições de Wi-Fi e redes móveis</string>
-  <string name="restriction_wifi_config_title">Wi-Fi e Redes Móveis</string>
+  <string name="restriction_wifi_config_title">Wi-Fi e Redes móveis</string>
   <string name="retry">Tentar novamente</string>
   <string name="ring_volume_option_title">Volume do toque</string>
   <string name="ring_volume_title">Volume do toque</string>
