@@ -744,7 +744,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="network_settings_sel_sub">Definições SUBS</string>
   <string name="network_settings_select_automatic_hint">"Não foi possível registar na rede seleccionada.
 Será utilizada a rede preferida"</string>
-  <string name="network_settings_turn_off">Desligar</string>
+  <string name="network_settings_turn_off">Desligado</string>
   <string name="network_settings_warn_message">Utilizar apenas a rede que seleccionou manualmente</string>
   <string name="network_unconnected_message_livetalk">Erro de rede. Tente fazer uma chamada normal. Irá ser cobrado um valor adicional pela sua operadora</string>
   <string name="network_unconnected_title">Erro de rede</string>

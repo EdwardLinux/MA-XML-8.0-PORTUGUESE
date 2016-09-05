@@ -655,7 +655,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="network_settings_select_automatic_hint">"Não foi possível registar na rede seleccionada.
 Será utilizada a rede preferida"</string>
   <string name="network_settings_title">Redes móveis</string>
-  <string name="network_settings_turn_off">Desligar</string>
+  <string name="network_settings_turn_off">Desligado</string>
   <string name="network_settings_warn_message">O dispositivo apenas vai ligar a redes que seleccionou manualmente</string>
   <string name="network_unlock">Desbloquear</string>
   <string name="networks">Operadores de rede</string>

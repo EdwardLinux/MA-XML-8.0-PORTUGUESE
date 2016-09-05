@@ -458,13 +458,13 @@
   <string name="noon">PM</string>
   <string name="note">Nota</string>
   <string name="organization">Organização</string>
-  <string name="perm_payment_dspt">Permite que a aplicação pague através do serviço de Pagamentos Mi.</string>
+  <string name="perm_payment_dspt">Permite que a aplicação pague através do serviço de Pagamentos Mi</string>
   <string name="perm_payment_lab">pagamentos Mi</string>
-  <string name="permdesc_sendSmsNoConfirmation">A aplicação pode enviar mensagens SMS sem pedir permissão. Isto pode resultar em custos inesperados.</string>
+  <string name="permdesc_sendSmsNoConfirmation">A aplicação pode enviar mensagens SMS sem pedir permissão. Isto pode resultar em custos inesperados</string>
   <string name="permlab_sendSmsNoConfirmation">permitir mensagens SMS em segundo plano</string>
   <string name="phone">Telefone</string>
   <string name="pm">PM</string>
-  <string name="privacy_policy">Política de Privacidade</string>
+  <string name="privacy_policy">Política de privacidade</string>
   <string name="saturday">Sábado</string>
   <string name="saturday_short">Sáb</string>
   <string name="saturday_shortest">S</string>
@@ -566,7 +566,7 @@
   <string name="tuesday">Terça-feira</string>
   <string name="tuesday_short">Ter</string>
   <string name="tuesday_shortest">T</string>
-  <string name="user_agreement">Termos de Serviço</string>
+  <string name="user_agreement">Termos de serviço</string>
   <string name="user_manual">Guia de utilizador</string>
   <string name="web_sso_login_fail">É necessário iniciar sessão novamente</string>
   <string name="web_sso_login_message">A iniciar sessão…</string>

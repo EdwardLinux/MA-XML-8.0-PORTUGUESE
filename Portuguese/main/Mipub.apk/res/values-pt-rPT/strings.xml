@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activity_not_found_uri">Não foi encontrada nenhuma aplicação para concluir esta acção</string>
+  <string name="activity_not_found_uri">Sem aplicações para executar esta acção</string>
   <string name="add_attachment">Adicionar anexos</string>
   <string name="add_contact">Contacto</string>
   <string name="add_festival">Saudações</string>
