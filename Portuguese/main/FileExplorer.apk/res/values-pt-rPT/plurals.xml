@@ -288,4 +288,12 @@
     <item quantity="few">%1$s seguidores</item>
     <item quantity="many">%1$s seguidores</item>
   </plurals>
+  <plurals name="number_of_comment_flow">
+    <item quantity="other">%1$s comentários</item>
+    <item quantity="one">%1$s comentário</item>
+  </plurals>
+  <plurals name="user_sign_limt">
+    <item quantity="other">Pode introduzir %d caracteres</item>
+    <item quantity="one">Pode introduzir %d caracter</item>
+  </plurals>
 </resources>

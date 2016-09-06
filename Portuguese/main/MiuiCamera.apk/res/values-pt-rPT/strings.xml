@@ -6,7 +6,6 @@
   <string name="accessibility_effect_mode_button">Botão de efeitos</string>
   <string name="accessibility_hdr">Botão trocar HDR</string>
   <string name="accessibility_mode_dismiss_button">Fechar o modo de selecção de botões</string>
-  <string name="accessibility_panorama_review_cancel">Cancelar gravação de panorama</string>
   <string name="accessibility_peak">Botão foco máximo</string>
   <string name="accessibility_review_thumbnail">Foto mais recente</string>
   <string name="accessibility_setting_button">Botão de definições adicionais</string>
@@ -68,15 +67,10 @@ O objecto não pode estar a mais de dois metros</string>
   <string name="no_storage">Inserir cartão SD antes de utilizar a câmara</string>
   <string name="not_enough_space">Armazenamento interno está cheio</string>
   <string name="object_track_enable_toast">Para seleccionar um objecto toque simultaneamente nos dois pontos diagonais à volta do seu limite</string>
-  <string name="pano_dialog_panorama_failed">Não foi possível guardar panorama</string>
-  <string name="pano_dialog_title">Panorama</string>
-  <string name="pano_dialog_waiting_previous">A aguardar que o panorama anterior termine</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Alinhe a seta com a linha de referência</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Continue…</string>
   <string name="pano_how_to_use_prompt_slow_down">Mais devagar</string>
   <string name="pano_how_to_use_prompt_to_move">Comece a mover devagar</string>
-  <string name="pano_review_saving_indication_str">A guardar…</string>
-  <string name="pano_too_fast_prompt">Muito rápido</string>
   <string name="path_settings">Aplicações de sistema/Câmara/Definições</string>
   <string name="pref_advance_settings">Definições adicionais</string>
   <string name="pref_audio_focus_entry_front">Frente</string>

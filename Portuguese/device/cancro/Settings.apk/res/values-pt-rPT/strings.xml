@@ -1867,6 +1867,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="login_account_dialog_message">Iniciar sessão com a sua Conta Mi e ligue a sincronização com a Nuvem Mi</string>
   <string name="login_account_dialog_title">Iniciar sessão com a sua Conta Mi</string>
   <string name="login_action">Iniciar sessão</string>
+  <string name="long_press_volume_down">Pressão longa no botão Volume baixo</string>
   <string name="lte_ram_dump_off">Desactivar o esvaziamento da memória RAM LTE</string>
   <string name="lte_ram_dump_on">Activar o esvaziamento da memória RAM LTE</string>
   <string name="macaddr_label">Endereço MAC:</string>

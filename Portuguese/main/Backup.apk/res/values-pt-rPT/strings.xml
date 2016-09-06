@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abort_backup_confirm">A cópia não terminou. Deseja parar na mesma?</string>
+  <string name="abort_backup_confirm">A cópia ainda não terminou. Deseja parar?</string>
+  <string name="abort_restore_confirm">O restauro ainda não terminou. Deseja parar?</string>
   <string name="account_contact_backup_info">Conta Google, Conta Mi e dados de contactos</string>
   <string name="account_login">Iniciar a sessão</string>
   <string name="account_summary">Cópia da conta Gmail, Conta Mi e outros dados do utilizador</string>
