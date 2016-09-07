@@ -21,7 +21,7 @@
     <string-array name="hd_record_scenes_entries">
         <item>Música</item>
         <item>Voz</item>
-        <item>Entrevistas</item>
+        <item>Entrevista</item>
         <item>HD</item>
     </string-array>
     <string-array name="record_quality_summaries">
