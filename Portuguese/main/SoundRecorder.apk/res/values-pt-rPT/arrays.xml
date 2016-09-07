@@ -14,9 +14,9 @@
         <item>AMR</item>
     </string-array>
     <string-array name="record_scenes_summaries">
-        <item>Grave através de 2 canais e ouvir som em estéreo nos auriculares</item>
-        <item>Mova o micro para perto do som para obter melhor qualidade</item>
-        <item>Coloque o telefone entre 2 pessoas para as gravar claramente</item>
+        <item>Grave através de dois canais para ouvir em som estéreo nos auriculares</item>
+        <item>Coloque o micro junto à saida de som para obter melhor qualidade de gravação</item>
+        <item>Coloque o telefone entre as duas pessoas para obter melhor qualidade de gravação</item>
         <item>A distância máxima do micro é de 10 metros</item>
     </string-array>
     <string-array name="record_quality_entries">
