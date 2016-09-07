@@ -65,6 +65,7 @@
   <string name="already_create_baby_album">Álbum do bebé já existe na Nuvem Mi</string>
   <string name="app_name">Galeria</string>
   <string name="app_name_view_picture">Ver fotos</string>
+  <string name="app_name_view_video">Ver vídeos</string>
   <string name="apply">Aplicar</string>
   <string name="aspect_ratio_format" formatted="false">%d:%d</string>
   <string name="aspect_ratio_free">Personalizar</string>
@@ -353,6 +354,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="kilobyteShort">KB</string>
   <string name="limit_height">A altura deve ser &gt; 0</string>
   <string name="limit_width">A largura deve ser &gt; 0</string>
+  <string name="loading_dual_tip">A carregar…</string>
   <string name="loading_fail">Não foi possível transferir</string>
   <string name="loading_gif">A transferir GIF…</string>
   <string name="loading_gif_thumbnail">A transferir miniatura GIF…</string>
