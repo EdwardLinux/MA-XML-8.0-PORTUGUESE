@@ -1201,9 +1201,9 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="header_add_an_account">Adicionar uma conta</string>
   <string name="header_application_sync_settings">Definições de sincronização das aplicações</string>
   <string name="header_category_accounts">Contas</string>
-  <string name="header_category_device">DISPOSITIVO</string>
-  <string name="header_category_personal">PESSOAL</string>
-  <string name="header_category_system">SISTEMA</string>
+  <string name="header_category_device">Dispositivo</string>
+  <string name="header_category_personal">Pessoal</string>
+  <string name="header_category_system">Sistema</string>
   <string name="header_category_wireless_networks">Redes</string>
   <string name="header_data_and_synchronization">Dados e sincronização</string>
   <string name="heavy_weight_stop_description">Esta aplicação não pode ser interrompida em segurança. Se o fizer, pode perder alguns dos trabalhos actuais</string>
@@ -1506,6 +1506,10 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lockscreen_glogin_checking_password">A verificar…</string>
   <string name="lockscreen_glogin_password_hint">Palavra-passe</string>
   <string name="lockscreen_glogin_submit_button">Iniciar sessão</string>
+  <string name="login_account_dialog_message">Iniciar sessão com a sua Conta Mi e ligue a sincronização com a Nuvem Mi</string>
+  <string name="login_account_dialog_title">Iniciar sessão com a sua Conta Mi</string>
+  <string name="login_action">Iniciar sessão</string>
+  <string name="long_press_volume_down">Pressão longa no botão Volume Menos</string>
   <string name="lte_ram_dump_off">Desactivar o esvaziamento da memória RAM LTE</string>
   <string name="lte_ram_dump_on">Activar o esvaziamento da memória RAM LTE</string>
   <string name="macaddr_label">Endereço MAC:</string>
