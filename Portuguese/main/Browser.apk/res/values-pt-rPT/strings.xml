@@ -604,8 +604,8 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="return_to_homepage">Voltar à página inicial</string>
   <string name="rlz_access_point">Y1</string>
   <string name="root_folder_lable">Nenhum</string>
-  <string name="router_download_exist">O ficheiro a transferir já existe</string>
-  <string name="router_download_failed">A transferência falhou</string>
+  <string name="router_download_exist">O ficheiro já existe</string>
+  <string name="router_download_failed">Não foi possível transferir</string>
   <string name="router_download_success">Transferência concluída</string>
   <string name="same_bookmarks_warning">Esta página já foi adicionada</string>
   <string name="same_folder_name_warning">Já existe uma pasta com este nome</string>
@@ -751,7 +751,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="video_download_exists">A transferência já existe</string>
   <string name="video_download_fail">Erro</string>
   <string name="video_download_failed">Não foi possível transferir</string>
-  <string name="video_download_finding_address">A procurar endereço</string>
+  <string name="video_download_finding_address">A procurar endereço URL</string>
   <string name="video_download_pause">Em pausa</string>
   <string name="video_download_start">A transferir…</string>
   <string name="video_download_success">Concluído</string>
@@ -764,7 +764,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="video_edit">Editar</string>
   <string name="video_fragment_name_collections">As minhas colecções</string>
   <string name="video_fragment_name_download">Vídeo Offline</string>
-  <string name="video_fragment_name_historys">Ver Histórico</string>
+  <string name="video_fragment_name_historys">Histórico</string>
   <string name="video_fragment_name_offine">Offline</string>
   <string name="video_group_noupdates_list">Sem actualizações disponíveis</string>
   <string name="video_group_updates_list">Actualizações</string>
@@ -783,6 +783,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="video_title_prefix_message">"Offline: "</string>
   <string name="video_unknown_duration">Duração desconhecida</string>
   <string name="view_certificate">Ver certificado</string>
+  <string name="view_document_downloaded_files">Veja os ficheiros transferidos nas Transferências</string>
   <string name="voice_sub_title">Não sabe o que dizer? Tente abrir mi.com!</string>
   <string name="voice_title">Diga o seu comando…</string>
   <string name="voice_title_distinguish">A processar…</string>

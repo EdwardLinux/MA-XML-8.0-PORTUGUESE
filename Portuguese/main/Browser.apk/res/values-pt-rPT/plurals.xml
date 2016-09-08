@@ -36,7 +36,7 @@
         <item quantity="one">Eliminar %1$d item do histórico?</item>
     </plurals>
     <plurals name="video_history_clear_info">
-        <item quantity="other">%1$d itens removidos do histórico</item>
-        <item quantity="one">%1$d item removido do histórico</item>
+        <item quantity="other">%1$d itens eliminados do histórico</item>
+        <item quantity="one">%1$d item eliminado do histórico</item>
     </plurals>	
 </resources>
