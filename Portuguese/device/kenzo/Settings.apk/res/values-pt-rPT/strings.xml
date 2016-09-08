@@ -269,6 +269,10 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="auto_upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
   <string name="automatic_brightness">Brilho automático</string>
   <string name="available_size">%s disponíveis</string>
+  <string name="available_via_passpoint">Disponível via %1$s</string>
+  <string name="average_memory_use">Utilização média de memória</string>
+  <string name="average_used">Utilização média (%)</string>
+  <string name="avoid_ui">Bloqueio de toque</string>
   <string name="awake">Tempo activo do dispositivo</string>
   <string name="back_key">Voltar</string>
   <string name="background_data">Dados em segundo plano</string>
@@ -749,6 +753,8 @@ Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. 
   <string name="current_backup_pw_prompt">Introduza a sua palavra-passe actual para cópia de segurança completa</string>
   <string name="current_input_method">Teclado actual</string>
   <string name="current_use_ese">A utilizar elemento de segurança integrado</string>
+  <string name="current_use_ese_wallet">Está a utilizar a Carteira Mi. Isto permite efectuar Pagamentos Mi e utilizar o seu telefone como um cartão</string>
+  <string name="current_use_hce_wallet">Está a utilizar a Carteira HCE</string>
   <string name="current_use_uicc_se">A utilizar elemento de segurança no cartão SIM</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermelho-verde)</string>
   <string name="daltonizer_mode_disabled">Desactivado</string>
@@ -1163,6 +1169,11 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="force_stop">Forçar paragem</string>
   <string name="force_stop_dlg_text">Se forçar a paragem desta aplicação, esta pode funcionar mal. Continuar?</string>
   <string name="force_stop_dlg_title">Forçar paragem</string>
+  <string name="force_touch">3D Touch</string>
+  <string name="force_touch_demo">Demonstração</string>
+  <string name="force_touch_enable">Ligar 3D Touch</string>
+  <string name="force_touch_enable_tips">Com o 3D Touch ligado, a pressão longa no ícone da aplicação vai mostrar o menu de atalhos da aplicação</string>
+  <string name="forget">Esquecer</string>
   <string name="forget_password_button_text"><u>Recuperar acesso?</u></string>
   <string name="forget_wifi_message">O seu telefone vai deixar de ligar a esta rede automaticamente</string>
   <string name="found_new_version">Actualização disponível</string>
@@ -1780,6 +1791,12 @@ Seleccione o seu sistema operativo:"</string>
   <string name="nfc_quick_toggle_summary">Permitir a troca de dados quando o telefone toca noutro dispositivo</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">Posição do elemento de segurança</string>
+  <string name="nfc_se_wallet_title">Carteira predefinida</string>
+  <string name="night_mode_auto">Automático</string>
+  <string name="night_mode_no">Claro</string>
+  <string name="night_mode_summary">%s</string>
+  <string name="night_mode_title">Tema</string>
+  <string name="night_mode_yes">Escuro</string>
   <string name="no">Não</string>
   <string name="no_application">Nenhuma</string>
   <string name="no_applications">Não existem aplicações</string>
@@ -2483,6 +2500,8 @@ Para utilizar a fixação no ecrã:
   <string name="sdcard_unmount">Desmontar armazenamento USB</string>
   <string name="se_route_ese">Elemento de segurança integrado</string>
   <string name="se_route_uicc">Elemento de segurança do cartão SIM</string>
+  <string name="se_wallet_ese">A Carteira Mi permite efectuar Pagamentos Mi e utilizar o seu telefone como um cartão</string>
+  <string name="se_wallet_hce">Utilizar Carteira HCE</string>
   <string name="search_about">"Acerca do telefone;Nome do dispositivo;Modelo do dispositivo;Versão Android;Versão MIUI;CPU;RAM;Armazenamento interno;Versão da banda base;Versão de kernel;Número de compilação;Estado;Informações legais "</string>
   <string name="search_accelerometer">Rodar o ecrã automaticamente;Rodar o ecrã;Orientação;Retrato;Paisagem</string>
   <string name="search_access_control">Definições de privacidade;Privacidade;Convidado;Modo Convidado</string>
