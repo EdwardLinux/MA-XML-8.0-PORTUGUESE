@@ -1184,6 +1184,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="haptic_feedback_enable_title">Vibrar ao tocar</string>
   <string name="haptic_feedback_level">Vibração</string>
   <string name="hardkeyboard_category">Definições de teclado físico</string>
+  <string name="hardware_version">Versão de hardware</string>
   <string name="has_screenshot_sound">Som de captura de ecrã</string>
   <string name="hdcp_checking_dialog_title">Definir comportamento de verificação HDCP</string>
   <string name="hdcp_checking_title">Verificação HDCP</string>
