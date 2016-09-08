@@ -2823,6 +2823,8 @@ Tentativas restantes :"</string>
   <string name="sim_slot_empty">SIM vazio</string>
   <string name="sim_status_title">Estado do SIM</string>
   <string name="simulate_color_space">Simular espaço de cor</string>
+  <string name="single_key_use">Botão único</string>
+  <string name="single_key_use_summary">Utilizar o botão Início em vez dos outros dois para as operações normais</string>
   <string name="skip_label">Ignorar</string>
   <string name="skip_lock_screen_confirm_msg">Notificações, controlos do leitor de música e deslizar para a direita para aceder à lista de chamadas vão ser desligados no ecrã de bloqueio</string>
   <string name="skip_step">Ignorar</string>
