@@ -3823,6 +3823,8 @@ As suas impressões digitais guardadas também são removidas deste dispositivo 
   <string name="unmount_inform_text">O armazenamento USB será desmontado</string>
   <string name="untitled_apn">Sem título</string>
   <string name="update_progress_for_updates">A actualizar (%s)</string>
+  <string name="upload_debug_log_summary">Ajude a melhorar a MIUI enviando dados de utilização anónimos</string>
+  <string name="upload_debug_log_title">Programa de Experiência do Utilizador</string>
   <string name="usage_access">Acesso de utilização</string>
   <string name="usage_access_description">O acesso de utilização permite a uma aplicação monitorizar que outras aplicações está a utilizar e com que frequência, bem como o operador e as definições de idioma, entre outros detalhes</string>
   <string name="usage_access_title">Aplicações com acesso de utilização</string>
