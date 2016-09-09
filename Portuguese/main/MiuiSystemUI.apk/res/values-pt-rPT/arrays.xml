@@ -56,7 +56,7 @@
         <item>%1$s</item>
     </string-array>
     <string-array name="weather_type">
-        <item>Sol</item>
+        <item>Céu limpo</item>
         <item>Com nuvens</item>
         <item>Nublado</item>
         <item>Nevoeiro</item>
@@ -64,7 +64,7 @@
         <item>Chuvas torrenciais</item>
         <item>Tempestade</item>
         <item>Trovoada</item>
-        <item>Chuviscos</item>
+        <item>Aguaceiros</item>
         <item>Chuvas fortes</item>
         <item>Chuva moderada</item>
         <item>Chuva fraca</item>
