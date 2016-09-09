@@ -220,6 +220,16 @@ janela privada ​"</string>
   <string name="dialog_queued_body">O ficheiro está colocado em fila para uma futura transferência</string>
   <string name="dialog_title_not_available">A transferência falhou</string>
   <string name="dialog_title_queued_body">Ficheiro ainda não disponível</string>
+  <string name="document_download_background_btn">Transferir em segundo plano</string>
+  <string name="document_download_cancel_btn">Cancelar</string>
+  <string name="document_download_failed">Não foi possível transferir</string>
+  <string name="document_download_official">Transferir versão oficial</string>
+  <string name="document_download_open_direct">Abrir directamente</string>
+  <string name="document_download_title">A transferir</string>
+  <string name="document_open_file">Abrir %s</string>
+  <string name="document_open_message">Para melhorar a experiência de leitura e garantir uma melhor segurança, personalize o WPS no Wi-Fi</string>
+  <string name="document_open_other">Outras aplicações</string>
+  <string name="document_open_title">Abrir com</string>
   <string name="dont_remind_again">Memorizar preferência</string>
   <string name="download_btn_select_all">Seleccionar tudo</string>
   <string name="download_btn_select_none">Desmarcar tudo</string>
@@ -611,6 +621,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="same_folder_name_warning">Já existe uma pasta com este nome</string>
   <string name="save_button_text">Gravar</string>
   <string name="save_dialog_title">Gravar</string>
+  <string name="save_file">Gravar %s ficheiro(s)</string>
   <string name="save_file_already_exist_alert_message">Já existe um ficheiro com este nome. Deseja substituí-lo?</string>
   <string name="save_file_already_exist_alert_title">Substituir ficheiro?</string>
   <string name="save_form_data_confirm_message">Desligar esta funcionalidade pode afectar utilização</string>
@@ -751,7 +762,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="video_download_exists">A transferência já existe</string>
   <string name="video_download_fail">Erro</string>
   <string name="video_download_failed">Não foi possível transferir</string>
-  <string name="video_download_finding_address">A procurar endereço URL</string>
+  <string name="video_download_finding_address">A obter endereço URL</string>
   <string name="video_download_pause">Em pausa</string>
   <string name="video_download_start">A transferir…</string>
   <string name="video_download_success">Concluído</string>
