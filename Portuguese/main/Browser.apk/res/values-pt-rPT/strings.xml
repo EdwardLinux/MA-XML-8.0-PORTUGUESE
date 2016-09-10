@@ -701,7 +701,10 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="suggest_access_item_singer_albums">%d álbuns</string>
   <string name="suggest_access_item_singer_pop">%d músicas populares</string>
   <string name="suggest_access_music">Música Mi</string>
+  <string name="suggest_item_delete_text">Eliminar</string>
   <string name="suggest_open_app_failed">Não foi possível abrir esta aplicação</string>
+  <string name="switch_proxy_dialog_msg">"Foi detectada uma ameaça à rede. Utilize a aplicação de segurança predefinida da MIUI ou informe a sua operadora"</string>
+  <string name="switch_proxy_dialog_title">Ameaça à rede</string>
   <string name="tab_hotpage">Mais vistos</string>
   <string name="tab_quicklinks">Mais utilizados</string>
   <string name="tab_yellowpage">Páginas amarelas</string>
