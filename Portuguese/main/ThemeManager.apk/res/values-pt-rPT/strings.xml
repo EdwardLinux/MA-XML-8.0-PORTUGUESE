@@ -52,7 +52,7 @@
   <string name="gift_operation_fail_dlg_abandon">Cancelar</string>
   <string name="gift_operation_fail_dlg_retry">Tente novamente</string>
   <string name="gift_operation_waiting">Aguarde…</string>
-  <string name="gift_owned">Comprados</string>
+  <string name="gift_owned">Adquiridos</string>
   <string name="gift_present">Oferecer</string>
   <string name="gift_present_dlg_anonymous">Prenda anónima</string>
   <string name="gift_present_dlg_input_hint">ID/Telefone da Conta Mi</string>
@@ -97,7 +97,7 @@
   <string name="lockstyle_personal_settings">Personalizar</string>
   <string name="mi_wallpaper">Papéis de parede MIUI</string>
   <string name="my_gifts">Presentes</string>
-  <string name="my_gifts_purchased">Comprados</string>
+  <string name="my_gifts_purchased">Adquiridos</string>
   <string name="my_gifts_received">Recebidos</string>
   <string name="no_data">Não é possível ligar à rede</string>
   <string name="online_no_network">Não é possível ligar à Internet</string>
@@ -108,8 +108,8 @@
   <string name="provision_loading_tips">Aguarde…</string>
   <string name="provision_second_title">Seleccionar um dos 5 temas predefinidos</string>
   <string name="provision_title">Escolher um tema</string>
-  <string name="purchased_list">Comprados</string>
-  <string name="purchased_list_format">%1$s comprado</string>
+  <string name="purchased_list">Adquiridos</string>
+  <string name="purchased_list_format">%1$s transferidos</string>
   <string name="reload">Tentar novamente</string>
   <string name="resource_account_abnormal_state">Erro na conta. Aguarde alguns minutos e tente novamente</string>
   <string name="resource_account_fail_to_add">Não é possível adicionar conta</string>
