@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Papéis de Parede Aleatórios</string>
+  <string name="app_name">Papéis de parede aleatórios</string>
   <string name="apply">Aplicar</string>
   <string name="at_least_one">Seleccionar pelo menos uma categoria</string>
   <string name="auto_interval">Auto</string>
@@ -10,7 +10,7 @@
   <string name="change_time">Alterar papéis de parede</string>
   <string name="day">Uma vez por dia</string>
   <string name="declaration">Obter novos papéis de parede entregues directamente no seu ecrã de bloqueio todos os dias gratuitamente</string>
-  <string name="declaration_lockscreen_title">Papéis de Parede Aleatórios</string>
+  <string name="declaration_lockscreen_title">Papéis de parede aleatórios</string>
   <string name="declaration_title">Termos e Condições</string>
   <string name="dislike">Eliminar</string>
   <string name="from_migallerylockscreen">" "</string>
@@ -20,7 +20,7 @@
   <string name="liked">Gostou</string>
   <string name="lockscreen_magazine_summary">Categorias</string>
   <string name="lockscreen_magazine_system_title">Offline</string>
-  <string name="lockscreen_magazine_title">Papéis de Parede Aleatórios</string>
+  <string name="lockscreen_magazine_title">Papéis de parede aleatórios</string>
   <string name="lockscreen_wallpaper_changed">Papel de parede alterado</string>
   <string name="minutes_15">15 minutos</string>
   <string name="no_long_show">Não mostrar novamente</string>
@@ -43,8 +43,8 @@
   <string name="sst_grid_view_select_all">Seleccionar tudo</string>
   <string name="sst_grid_view_unselect_all">Cancelar tudo</string>
   <string name="sst_no_favor_wallpaper_hint">Sem papéis de parede nos favoritos</string>
-  <string name="sst_prov_enable_desc">Ligar Papéis de Parede Aleatórios no ecrã de bloqueio. Adicione o seu papel de parede na pasta Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
-  <string name="sst_prov_enable_title">Ligar Papéis de Parede Aleatórios</string>
+  <string name="sst_prov_enable_desc">Ligar Papéis de parede aleatórios no ecrã de bloqueio. Adicione o seu papel de parede na pasta Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
+  <string name="sst_prov_enable_title">Ligar Papéis de parede aleatórios</string>
   <string name="sst_require_one_category_hint">Seleccione pelo menos uma categoria</string>
   <string name="sst_sti_desc">Definir a frequência de actualização</string>
   <string name="sst_sti_title">Frequência de actualização</string>
