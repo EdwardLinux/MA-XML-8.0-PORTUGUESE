@@ -2919,15 +2919,15 @@ Para utilizar a fixação no ecrã:
   <string name="screenshot_three_gesture_summary">Os outros gestos de três dedos vão ser desligados</string>
   <string name="sd_card_settings_label">Armazenamento USB</string>
   <string name="sd_card_storage">Armazenamento USB</string>
-  <string name="sd_eject">Desmontar partilha de armazenamento</string>
-  <string name="sd_eject_summary">Desmontar o armazenamento USB para o remover em segurança</string>
+  <string name="sd_eject">Desmontar cartão SD</string>
+  <string name="sd_eject_summary">Desmontar o cartão SD para o remover em segurança</string>
   <string name="sd_ejecting_summary">Desmontagem em curso…</string>
   <string name="sd_ejecting_title">A desmontar</string>
-  <string name="sd_format">Formatar armazenamento USB</string>
-  <string name="sd_format_summary">Eliminar todos os dados do armazenamento USB interno, como música e fotos</string>
+  <string name="sd_format">Formatar cartão SD</string>
+  <string name="sd_format_summary">Eliminar todos os dados do cartão SD, como música e fotos</string>
   <string name="sd_insert_summary">Insira um armazenamento USB para montar</string>
   <string name="sd_memory">Armazenamento USB</string>
-  <string name="sd_mount">Montar armazenamento USB</string>
+  <string name="sd_mount">Montar cartão SD</string>
   <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">As alterações têm efeito quando o cabo USB voltar a ser ligado</string>
   <string name="sdcard_format">Formatar armazenamento USB</string>
@@ -3472,20 +3472,20 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="storage_detail_dialog_other">"Diversos incluem ficheiros guardados pelas aplicações, ficheiros transferidos da Internet ou do Bluetooth, ficheiros Android, etc. 
 
 Para ver todos os conteúdos deste ^1, toque em Explorar"</string>
-  <string name="storage_detail_dialog_user">"^1 pode ter fotos, música, filmes, aplicações ou outros dados guardados que estejam a utilizar ^2 de armazenamento. 
+  <string name="storage_detail_dialog_user">"^1 pode ter fotos, música, filmes, aplicações ou outros dados guardados que estejam a utilizar ^2 de armazenamento 
 
 Para ver detalhes, troque para ^1"</string>
   <string name="storage_detail_explore">Explorar  ^1</string>
   <string name="storage_detail_images">Imagens</string>
   <string name="storage_detail_other">Outros</string>
   <string name="storage_detail_videos">Vídeos</string>
-  <string name="storage_dialog_unmountable">"Este ^1 está danificado. 
+  <string name="storage_dialog_unmountable">"Este ^1 está danificado 
 
 Para utilizar este ^1 tem de o configurar primeiro"</string>
-  <string name="storage_dialog_unmounted">"O ^1 foi ejectado com sucesso, mas continua disponível. 
+  <string name="storage_dialog_unmounted">"O ^1 foi ejectado com sucesso, mas continua disponível 
 
 Para utilizar este ^1 tem de o montar primeiro"</string>
-  <string name="storage_dialog_unsupported">"O dispositivo não suporta este ^1. 
+  <string name="storage_dialog_unsupported">"O dispositivo não suporta este ^1 
 
 Para utilizar este ^1 com o dispositivo, tem de o configurar primeiro"</string>
   <string name="storage_external_title">Armazenamento portátil</string>
@@ -3494,19 +3494,19 @@ Para utilizar este ^1 com o dispositivo, tem de o configurar primeiro"</string>
   <string name="storage_format_success">%1$s está formatado</string>
   <string name="storage_internal_forget_confirm">Todas as aplicações, as fotos e os dados armazenados neste ^1 são eliminados definitivamente</string>
   <string name="storage_internal_forget_confirm_title">Esquecer ^1?</string>
-  <string name="storage_internal_forget_details">"Para utilizar as aplicações, as fotos ou os dados incluídos em ^1, insira-o novamente. 
+  <string name="storage_internal_forget_details">"Para utilizar as aplicações, as fotos ou os dados incluídos em ^1, insira-o novamente 
 
-Em alternativa, pode optar por esquecer este armazenamento se o mesmo não estiver disponível. 
+Em alternativa, pode optar por esquecer este armazenamento se o mesmo não estiver disponível 
 
-Se optar por esquecê-lo, todos os dados presentes no dispositivo são eliminados permanentemente. 
+Se optar por esquecê-lo, todos os dados presentes no dispositivo são eliminados permanentemente 
 
 Pode reinstalar as aplicações posteriormente, mas os dados armazenados neste dispositivo são eliminados"</string>
-  <string name="storage_internal_format_details">"Após a formatação, pode utilizar este ^1 noutros dispositivos.  
+  <string name="storage_internal_format_details">"Após a formatação, pode utilizar este ^1 noutros dispositivos  
 
-Todos os dados de ^1 são eliminados. Considere fazer uma cópia de segurança primeiro. 
+Todos os dados de ^1 são eliminados. Considere fazer uma cópia de segurança primeiro 
 
 "<b>"Fazer uma cópia de segurança das fotos e de outros conteúdos multimédia"</b>" 
-Mova os seus ficheiros multimédia para um armazenamento alternativo neste dispositivo ou transfira-os para um computador com um cabo USB. 
+Mova os seus ficheiros multimédia para um armazenamento alternativo neste dispositivo ou transfira-os para um computador com um cabo USB 
 
 "<b>"Fazer uma cópia de segurança das aplicações"</b>" 
 Todas as aplicações armazenadas neste ^1 são desinstaladas e os respectivos dados são eliminados. Para manter estas aplicações, mova-as para um armazenamento alternativo neste dispositivo"</string>
@@ -3546,15 +3546,15 @@ Este ^1 está formatado para funcionar apenas neste dispositivo. Não funciona e
   <string name="storage_volume_summary">%1$s utilizados de %2$s</string>
   <string name="storage_volume_used">Utilizado de %1$s</string>
   <string name="storage_volume_used_total">Total utilizado de %1$s</string>
-  <string name="storage_wizard_format_confirm_body">"Isto exige que o ^1 seja formatado para o tornar seguro. 
+  <string name="storage_wizard_format_confirm_body">"Isto exige que o ^1 seja formatado para o tornar seguro 
 
-Após a formatação, este ^1 apenas funciona neste dispositivo. 
+Após a formatação, este ^1 apenas funciona neste dispositivo 
 
-"<b>"A formatação apaga todos os dados actualmente armazenados no ^1."</b>" Para evitar perder os dados, considere fazer uma cópia de segurança. "</string>
+"<b>"A formatação apaga todos os dados actualmente armazenados no ^1."</b>" Para evitar perder os dados, considere fazer uma cópia de segurança "</string>
   <string name="storage_wizard_format_confirm_next">Eliminar e formatar</string>
-  <string name="storage_wizard_format_confirm_public_body">"Isto exige que o ^1 seja formatado. 
+  <string name="storage_wizard_format_confirm_public_body">"Isto exige que o ^1 seja formatado 
 
-"<b>"A formatação apaga todos os dados actualmente armazenados no ^1."</b>" Para evitar perder os dados, considere fazer uma cópia de segurança. "</string>
+"<b>"A formatação apaga todos os dados actualmente armazenados no ^1."</b>" Para evitar perder os dados, considere fazer uma cópia de segurança "</string>
   <string name="storage_wizard_format_confirm_public_title">Formatar como armazenamento portátil</string>
   <string name="storage_wizard_format_confirm_title">Formatar como armazenamento interno</string>
   <string name="storage_wizard_format_progress_body">Não remova o ^1 enquanto estiver a decorrer a formatação</string>
@@ -3564,37 +3564,37 @@ Após a formatação, este ^1 apenas funciona neste dispositivo.
   <string name="storage_wizard_init_internal_summary">Para armazenar algo apenas neste dispositivo, incluindo aplicações e fotos. Requer formatação, o que impede o funcionamento com outros dispositivos</string>
   <string name="storage_wizard_init_internal_title">Utilizar como armazenamento interno</string>
   <string name="storage_wizard_init_title">Configurar o ^1</string>
-  <string name="storage_wizard_migrate_body">"Pode mover as fotos, os ficheiros e algumas aplicações para este novo ^1. 
+  <string name="storage_wizard_migrate_body">"Pode mover as fotos, os ficheiros e algumas aplicações para este novo ^1 
 
-A transferência demora cerca de ^2 e liberta ^3 no armazenamento interno. Enquanto a acção está a decorrer, algumas aplicações não funcionam."</string>
+A transferência demora cerca de ^2 e liberta ^3 no armazenamento interno. Enquanto a acção está a decorrer, algumas aplicações não funcionam"</string>
   <string name="storage_wizard_migrate_confirm_body"><b>A transferência demora cerca de ^1. Liberta ^2 em ^3</b></string>
   <string name="storage_wizard_migrate_confirm_next">Mover</string>
   <string name="storage_wizard_migrate_confirm_title">Mover dados agora</string>
   <string name="storage_wizard_migrate_details">"Ao mover: 
-• Não remova o ^1. 
-• Algumas aplicações não funcionam correctamente. 
+• Não remova o ^1 
+• Algumas aplicações não funcionam correctamente 
 Mantenha o dispositivo carregado"</string>
   <string name="storage_wizard_migrate_later">Mover mais tarde</string>
   <string name="storage_wizard_migrate_now">Mover agora</string>
   <string name="storage_wizard_migrate_progress_title">A mover dados…</string>
   <string name="storage_wizard_migrate_title">Mover dados p/ novo armazenamento</string>
-  <string name="storage_wizard_move_confirm_body">"A transferência da aplicação ^1 e dos respectivos dados para ^2 demora apenas alguns minutos. Não é possível utilizar a aplicação até a acção terminar. 
+  <string name="storage_wizard_move_confirm_body">"A transferência da aplicação ^1 e dos respectivos dados para ^2 demora apenas alguns minutos. Não é possível utilizar a aplicação até a acção terminar 
 
 Não remova o ^2 no decorrer da mesma"</string>
   <string name="storage_wizard_move_confirm_title">Mover ^1</string>
-  <string name="storage_wizard_move_progress_body">"Não remova o ^1 durante a transferência. 
+  <string name="storage_wizard_move_progress_body">"Não remova o ^1 durante a transferência 
 
 A aplicação ^2 neste dispositivo não está disponível até terminar a transferência"</string>
   <string name="storage_wizard_move_progress_cancel">Cancelar transferência</string>
   <string name="storage_wizard_move_progress_title">A mover…</string>
   <string name="storage_wizard_ready_external_body">O seu ^1 está configurado para a utilização com fotos e outros conteúdos multimédia</string>
-  <string name="storage_wizard_ready_internal_body">"O seu novo ^1 está a funcionar. 
+  <string name="storage_wizard_ready_internal_body">"O seu novo ^1 está a funcionar 
 
 Para mover fotos, ficheiros e dados das aplicações para este dispositivo, aceda a Definições &gt; Armazenamento"</string>
   <string name="storage_wizard_ready_title">^1 está pronto</string>
-  <string name="storage_wizard_slow_body">"Este ^1 parece estar lento. 
+  <string name="storage_wizard_slow_body">"Este ^1 parece estar lento 
 
-Pode continuar, mas as aplicações movidas para esta localização podem falhar e as transferências de dados podem demorar muito tempo. 
+Pode continuar, mas as aplicações movidas para esta localização podem falhar e as transferências de dados podem demorar muito tempo 
 
 Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="storageuse_settings_summary">Mostrar espaço ocupado pelas aplicações</string>
