@@ -99,7 +99,7 @@ Nota: O triplo toque para ampliar funciona em todo o sistema excepto na barra de
   <string name="activity_not_found">Aplicação não está instalada no seu dispositivo</string>
   <string name="activity_picker_label">Escolher actividade</string>
   <string name="ad_service">Serviços de anúncios</string>
-  <string name="adb_keys_warning_message">Revogar acesso a depuração USB de todos os computadores que tenha previamente autorizado?</string>
+  <string name="adb_keys_warning_message">Revogar o acesso à depuração USB para todos os computadores autorizados?</string>
   <string name="adb_warning_message">A depuração USB serve apenas para fins de desenvolvimento. Pode ser utilizada para copiar dados entre o computador e o dispositivo, instalar aplicações neste dispositivo sem notificação e ler dados de registo</string>
   <string name="adb_warning_title">Permitir a depuração USB?</string>
   <string name="add_account_label">Adicionar conta</string>
@@ -764,7 +764,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="cleaner">Limpeza</string>
   <string name="clear_activities">Limpar predefinições</string>
   <string name="clear_activities_summary">Utilizar esta aplicação para algumas operações predefinidas</string>
-  <string name="clear_adb_keys">Renovar as autorizações de depuração USB</string>
+  <string name="clear_adb_keys">Revogar autorizações de depuração USB</string>
   <string name="clear_cache_btn_text">Limpar cache</string>
   <string name="clear_data_dlg_text">Todos os dados desta aplicação vão ser eliminados definitivamente. Isto inclui todos os ficheiros, definições, contas, bases de dados, etc.</string>
   <string name="clear_data_dlg_title">Eliminar dados da aplicação</string>
@@ -4192,7 +4192,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">Não voltar a mostrar</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC ligado</string>
   <string name="wifi_connect_failed_message">Não foi possível ligar à rede Wi-Fi</string>
-  <string name="wifi_connected_no_internet">Ligado, sem Internet</string>
+  <string name="wifi_connected_no_internet">A ligar…</string>
   <string name="wifi_context_menu_change_password">Alterar palavra-passe</string>
   <string name="wifi_context_menu_change_wapi_certificate">Alterar certificado WAPI</string>
   <string name="wifi_context_menu_connect">Ligar</string>
