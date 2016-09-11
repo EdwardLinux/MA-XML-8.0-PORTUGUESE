@@ -2925,7 +2925,7 @@ Para utilizar a fixação no ecrã:
   <string name="sd_ejecting_title">A desmontar</string>
   <string name="sd_format">Formatar cartão SD</string>
   <string name="sd_format_summary">Eliminar todos os dados do cartão SD, como música e fotos</string>
-  <string name="sd_insert_summary">Insira um armazenamento USB para montar</string>
+  <string name="sd_insert_summary">Insira um cartão SD para montar</string>
   <string name="sd_memory">Armazenamento USB</string>
   <string name="sd_mount">Montar cartão SD</string>
   <string name="sd_mount_summary"/>
