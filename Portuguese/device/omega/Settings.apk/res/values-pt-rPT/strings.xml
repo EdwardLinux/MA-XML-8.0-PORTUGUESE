@@ -4190,7 +4190,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">Não voltar a mostrar</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC ligado</string>
   <string name="wifi_connect_failed_message">Não foi possível ligar à rede Wi-Fi</string>
-  <string name="wifi_connected_no_internet">A ligar…</string>
+  <string name="wifi_connected_no_internet">Ligado, sem Internet</string>
   <string name="wifi_context_menu_change_password">Alterar palavra-passe</string>
   <string name="wifi_context_menu_change_wapi_certificate">Alterar certificado WAPI</string>
   <string name="wifi_context_menu_connect">Ligar</string>
