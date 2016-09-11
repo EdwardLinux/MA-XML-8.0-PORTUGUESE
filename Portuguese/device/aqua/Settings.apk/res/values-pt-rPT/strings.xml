@@ -955,9 +955,9 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="display_settings">Ecrã</string>
   <string name="display_settings_title">Ecrã</string>
   <string name="dlg_cancel">Cancelar</string>
-  <string name="dlg_confirm_unmount_text">Se desmontar o armazenamento USB, algumas aplicações que estão em utilização serão interrompidas e podem não estar disponíveis até ligar novamente o armazenamento USB</string>
-  <string name="dlg_confirm_unmount_title">Desmontar armazenamento USB?</string>
-  <string name="dlg_error_unmount_text">Não é possível desmontar o armazenamento USB. Tente novamente mais tarde</string>
+  <string name="dlg_confirm_unmount_text">Se desmontar o cartão SD, algumas aplicações que estão em utilização serão interrompidas e podem não estar disponíveis até ligar novamente o cartão SD</string>
+  <string name="dlg_confirm_unmount_title">Desmontar cartão SD?</string>
+  <string name="dlg_error_unmount_text">Não é possível desmontar o cartão SD. Tente novamente mais tarde</string>
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_ok">OK</string>
   <string name="dndm_alarm_content">Sons</string>
@@ -1599,10 +1599,10 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>armazenament
   <string name="media_button">Botão multimédia</string>
   <string name="media_category">Multimédia</string>
   <string name="media_feedback_enable_title">Vibrar com o ritmo</string>
-  <string name="media_format_button_text">Formatar armazenamento USB</string>
-  <string name="media_format_desc">Eliminar todos os dados do armazenamento USB? Perderá <b>todos</b> os dados armazenados!</string>
+  <string name="media_format_button_text">Formatar cartão SD</string>
+  <string name="media_format_desc">Eliminar todos os dados do cartão SD? Perderá <b>todos</b> os dados armazenados no cartão!</string>
   <string name="media_format_final_button_text">Formatar</string>
-  <string name="media_format_final_desc">Formatar o armazenamento USB e eliminar todos os ficheiros armazenados? Esta acção não pode ser revertida!</string>
+  <string name="media_format_final_desc">Formatar o cartão SD e eliminar todos os ficheiros armazenados? Esta acção não pode ser revertida!</string>
   <string name="media_format_gesture_explanation">É necessário desenhar o seu padrão de desbloqueio para formatar o armazenamento USB</string>
   <string name="media_format_gesture_prompt">Desenhar o seu padrão de desbloqueio</string>
   <string name="media_format_summary">Eliminar todos os dados do armazenamento USB</string>
