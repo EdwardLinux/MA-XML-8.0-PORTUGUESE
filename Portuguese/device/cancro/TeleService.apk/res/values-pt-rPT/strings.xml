@@ -253,7 +253,7 @@
   <string name="connect_disconnect_vibrate_none">Nenhuma</string>
   <string name="connect_disconnect_vibrate_normal">Normal</string>
   <string name="connect_disconnect_vibrate_summary">Vibrar quando a pessoa para quem está a ligar atender a chamada</string>
-  <string name="connect_disconnect_vibrate_title">Vibrar quando a chamada é atendida</string>
+  <string name="connect_disconnect_vibrate_title">Vibração quando a chamada é atendida</string>
   <string name="connect_disconnect_vibrate_weak">Leve</string>
   <string name="connect_later">Neste momento não é possível ligar a esta rede. Tente mais tarde</string>
   <string name="connection_service_default_label">Serviço de ligação integrado</string>
@@ -790,7 +790,7 @@ Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções.
   <string name="path_telocation_custom_location_title">Aplicações de sistema/Telefone/Localização/As minhas localizações</string>
   <string name="path_telocation_enable_title">Aplicações de sistema/Telefone/Localização/Mostrar localização</string>
   <string name="path_turnover_mute_title">Aplicações de sistema/Telefone/Definições das chamadas recebidas/Inverter para silenciar</string>
-  <string name="path_voicemail_settings">Aplicações de sistema/Telefone/Definições avançadas/Definir</string>
+  <string name="path_voicemail_settings">Aplicações de sistema/Telefone/Definições avançadas/Definições Voice Mail</string>
   <string name="path_voip_setting">Aplicações de sistema/Telefone/Definições VoIP</string>
   <string name="pause_prompt_no">Não</string>
   <string name="pause_prompt_str">"A enviar tons
@@ -1193,7 +1193,7 @@ Contacte a sua operadora se este problema persistir"</string>
   <string name="voicemail_number_not_set">&lt;Não definido&gt;</string>
   <string name="voicemail_provider">Serviço de Voice Mail</string>
   <string name="voicemail_provider_summary">Escolher o serviço de Voice Mail</string>
-  <string name="voicemail_settings">Voice Mail</string>
+  <string name="voicemail_settings">Definições Voice Mail</string>
   <string name="voicemail_settings_number_hint">Introduzir número da caixa de Voice Mail</string>
   <string name="voicemail_settings_number_label">Número do Voice Mail</string>
   <string name="voicemail_settings_number_title">Número do Voice Mail</string>

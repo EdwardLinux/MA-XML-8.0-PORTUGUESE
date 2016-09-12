@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="action_firewall_setting">Lista de bloqueio</string>
-  <string name="activity_not_found">Sem aplicações para executar esta acção</string>
-  <string name="activity_not_found_uri">Sem aplicações para executar esta acção</string>
+  <string name="activity_not_found">Não foi encontrada nenhuma aplicação para concluir esta acção</string>
+  <string name="activity_not_found_uri">Não foi encontrada nenhuma aplicação para concluir esta acção</string>
   <string name="addBlackList">Bloquear</string>
   <string name="add_attachment">Adicionar anexos</string>
   <string name="add_contact">Contacto</string>
@@ -404,7 +404,7 @@
   <string name="pref_summary_off_system_mms_priority">Utilizar aplicações de terceiros para enviar e receber MMS</string>
   <string name="pref_summary_on_system_mms_priority">Utilizar a aplicação Mensagens MIUI como predefinida para enviar e receber MMS</string>
   <string name="pref_summary_send_delivery_reports">Enviar mensagem de confirmação de entrega ao remetente quando recebe uma mensagem multimédia</string>
-  <string name="pref_summary_show_recent_contacts">Mostrar contactos recentes ao redigir uma nova mensagem</string>
+  <string name="pref_summary_show_recent_contacts">Mostrar contactos recentes ao escrever uma nova mensagem</string>
   <string name="pref_summary_wake_up_screen">Ligar ecrã quando é recebida uma nova mensagem</string>
   <string name="pref_system_title">Sistema</string>
   <string name="pref_time_auto_group_disabled_summary">"Não é suportado com o actual tamanho de tipo de letra"</string>
