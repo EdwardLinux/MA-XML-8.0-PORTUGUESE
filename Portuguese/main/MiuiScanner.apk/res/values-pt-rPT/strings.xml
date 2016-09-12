@@ -120,6 +120,15 @@
   <string name="preparing_sd">A preparar armazenamento interno…</string>
   <string name="previous">Voltar</string>
   <string name="qr_code_details">Detalhes do código QR:</string>
+  <string name="recognition_error_download_cancel">Mais tarde</string>
+  <string name="recognition_error_download_data_msg">É necessário transferir o mecanismo de reconhecimento. São cerca de 15M e está a utilizar os dados móveis</string>
+  <string name="recognition_error_download_fail">Não foi possível transferir. Verifique as definições de rede e tente novamente</string>
+  <string name="recognition_error_download_msg">É necessário transferir o mecanismo de reconhecimento. São cerca de 15M</string>
+  <string name="recognition_error_download_no_network">Não foi possível transferir. Verifique as definições de rede e tente novamente</string>
+  <string name="recognition_error_download_ok">Transferir</string>
+  <string name="recognition_error_download_success">O mecanismo de reconhecimento foi transferido com sucesso</string>
+  <string name="recognition_error_download_title">Sem mecanismo de reconhecimento</string>
+  <string name="recognition_error_downloading">A transferir…</string>
   <string name="recognize">Digitalizar</string>
   <string name="recognize_fail">Não foi possível ler o código</string>
   <string name="scan_fail">Não foi possível digitalizar o código</string>

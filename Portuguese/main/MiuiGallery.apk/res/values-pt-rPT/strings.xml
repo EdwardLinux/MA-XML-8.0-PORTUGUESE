@@ -104,7 +104,7 @@
   <string name="baby_sexy">Género</string>
   <string name="baby_suffix">Bebé</string>
   <string name="backup_automatically_summary">Fazer cópias de fotos e vídeos de todos os dispositivos para a Nuvem Mi. Vai poder navegar, ordenar, editar e partilhar fotos e vídeos em todos os seus dispositivos</string>
-  <string name="backup_automatically_title">Copiar e sincronizar automaticamente</string>
+  <string name="backup_automatically_title">Copiar automaticamente</string>
   <string name="backup_detail_page_title">Cópias da Nuvem Mi</string>
   <string name="backup_only_in_wifi">Utilizar apenas Wi-Fi para fazer cópias de fotos ou vídeos</string>
   <string name="backup_only_in_wifi_summary">Nunca utilizar dados móveis para fazer cópias de fotos ou vídeos</string>
@@ -195,7 +195,7 @@
   <string name="delete_from_album">do álbum \"%s\" (em todos os dispositivos)</string>
   <string name="delete_from_album_no_account">do álbum \"%s\"</string>
   <string name="delete_from_all_devices">de todos os dispositivos</string>
-  <string name="delete_from_cloud">Eliminar itens do álbum na Nuvem Mi</string>
+  <string name="delete_from_cloud">Eliminar itens da Nuvem Mi</string>
   <string name="delete_from_devices">Todos os dispositivos sincronizados</string>
   <string name="delete_from_devices_album">Todos os dispositivos que sincronizaram este álbum</string>
   <string name="delete_from_homepage_album">Álbuns mostrados na Galeria</string>
@@ -325,7 +325,10 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="ignore_album">Não mostrar</string>
   <string name="ignore_alert_title">Não mostrar este álbum?</string>
   <string name="ignore_face">Ignorar esta pessoa</string>
+  <string name="image_decode_failed">Não foi possível decifrar imagem</string>
   <string name="image_download_item_title">Transferir foto (%s)</string>
+  <string name="image_invalid_path">Caminho inválido</string>
+  <string name="image_not_found">Não foi possível localizar imagem</string>
   <string name="image_quota_fulfiled">Demasiadas imagens. Elimine algumas imagens e tente novamente</string>
   <string name="impunity_declaration_settings">Notificação de ligação à Internet</string>
   <string name="impunity_declaration_summary">Mostrar notificação de ligação à Internet sempre que abrir a Galeria</string>
@@ -466,7 +469,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="picker_mobile_data_video">Não é possível transferir vídeos utilizando os dados móveis. %d ignorado</string>
   <string name="picker_no_network_message">Ligue à rede para transferir</string>
   <string name="picker_origin_need_download">%1$d das fotos seleccionadas não estão no dispositivo (%2$dMB). Transferir utilizando os dados móveis?</string>
-  <string name="picker_title_format">Fotos seleccionadas: %d</string>
+  <string name="picker_title_format">Pode seleccionar %d fotos</string>
   <string name="picker_title_selection_format">Fotos seleccionadas: %d</string>
   <string name="picker_title_unlimit">Seleccionar fotos</string>
   <string name="preparing_data">Aguarde…</string>
@@ -638,6 +641,8 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="video_editor_filter_sunny">Sol</string>
   <string name="video_editor_invalid_trim_arguments">Deve ter mais de um segundo</string>
   <string name="video_editor_loading_plugin">A carregar…</string>
+  <string name="video_editor_loading_warning_msg">Algumas funcionalidades não vão estar disponíveis devido a um erro de codificação. O vídeo final não vai ser afectado</string>
+  <string name="video_editor_loading_warning_title">Erro de codificação</string>
   <string name="video_editor_more">Avançado</string>
   <string name="video_editor_not_support_tips">Este formato de vídeo não é suportado</string>
   <string name="video_editor_ok">OK</string>

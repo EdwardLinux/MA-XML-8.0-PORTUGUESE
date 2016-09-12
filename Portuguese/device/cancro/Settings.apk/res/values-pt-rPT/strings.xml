@@ -318,8 +318,6 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="auto_restore_title">Restauro automático</string>
   <string name="auto_startup_application_manage">Iniciar automático</string>
   <string name="auto_startup_count">%d aplicações estão autorizadas a iniciar automaticamente</string>
-  <string name="auto_upload_debug_log_summary">Os dados de diagnóstico podem incluir informação acerca da utilização do sistema operativo e aplicações. Os dados vão ser utilizados para localizar e analisar os problemas no sistema e nunca vão ser utilizados para o identificar pessoalmente</string>
-  <string name="auto_upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
   <string name="automatic_brightness">Brilho automático</string>
   <string name="available_size">%s disponíveis</string>
   <string name="available_via_passpoint">Disponível via %1$s</string>
@@ -349,6 +347,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="band_mode_succeeded">Com sucesso</string>
   <string name="band_mode_title">Definir banda GSM/UMTS</string>
   <string name="baseband_version">Versão da banda base</string>
+  <string name="batch_delete_saved_network">Eliminar a rede guardada: %s?</string>
   <string name="battery_action_app_details">Informação da aplicação</string>
   <string name="battery_action_app_settings">Definições da aplicação</string>
   <string name="battery_action_bluetooth">Definições de Bluetooth</string>
@@ -758,7 +757,6 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="children_mode_title">Modo Criança</string>
   <string name="choose_assist_title">Escolher aplicação de assistência</string>
   <string name="choose_profile">Escolher perfil</string>
-  <string name="choose_smartcover_type">Escolher tipo de capa</string>
   <string name="choose_timezone">Escolher fuso horário</string>
   <string name="choose_voice_input_title">Escolher entrada de voz</string>
   <string name="cleaner">Limpeza</string>
@@ -1038,6 +1036,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="delete_fingerprint_text">Remover impressão digital</string>
   <string name="delete_legacy_fingerprint">Eliminar</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Eliminar esta impressão digital?</string>
+  <string name="delete_saved_network">Eliminar rede guardada</string>
   <string name="deny">Negar</string>
   <string name="deny_sms_message">"Não permitir que as aplicações instaladas enviem SMS"</string>
   <string name="deny_sms_title">Bloquear SMS</string>
@@ -1662,7 +1661,6 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="large_font">Grande</string>
   <string name="last_synced">Última sincronização %1$s</string>
   <string name="last_time_used_label">Última utilização</string>
-  <string name="lattice_smartcover_title">Capa frontal de malha</string>
   <string name="launch_by_default">Abrir por predefinição</string>
   <string name="launch_defaults_none">Nenhuma predefinição definida</string>
   <string name="launch_defaults_some">Algumas predefinições definidas</string>
@@ -2179,7 +2177,6 @@ Seleccione o seu sistema operativo:"</string>
   <string name="no_updates_warning">O seu sistema está actualizado</string>
   <string name="no_updates_warning2">Receberá um aviso quando houver uma nova actualização</string>
   <string name="noise_suppression">Supressão do ruído ambiente</string>
-  <string name="normal_smartcover_title">Capa com frente opaca</string>
   <string name="not_installed">Não instalado</string>
   <string name="notification_app_settings_button">Definições de notificações</string>
   <string name="notification_breathing_light_color_title">Cor do LED das notificações</string>
@@ -2296,6 +2293,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="page_layout_page2_small_title">Muito pequeno</string>
   <string name="page_layout_page2_title">Pré-visualizar</string>
   <string name="page_layout_small_title">Muito pequeno</string>
+  <string name="paper_mode_end_time_title">Hora de fim</string>
+  <string name="paper_mode_start_time_title">Hora de início</string>
   <string name="passpoint_content">Credenciais de %1$s</string>
   <string name="passpoint_label">Guardada através de</string>
   <string name="passwordIncorrect">A palavra-passe introduzida está incorrecta</string>
@@ -2840,6 +2839,8 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="runtime_permissions_summary_no_permissions_requested">Nenhuma permissão solicitada</string>
   <string name="save">Guardar</string>
   <string name="saved_network">Guardada por %1$s</string>
+  <string name="saved_wifi">Redes guardadas</string>
+  <string name="saved_wifi_delete">Eliminar</string>
   <string name="scan_list_label">Resultados da pesquisa:</string>
   <string name="screen">Ecrã</string>
   <string name="screen_color_and_optimize">Cores e contraste</string>
@@ -2871,6 +2872,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_paper_mode_range_title">Definições</string>
   <string name="screen_paper_mode_set_apps_title">Aplicações em Modo de Leitura</string>
   <string name="screen_paper_mode_summary">Reduzir brilho de fundo do ecrã</string>
+  <string name="screen_paper_mode_time_title">Programado</string>
   <string name="screen_paper_mode_title">Modo de Leitura</string>
   <string name="screen_paper_mode_turn_off">Desligado</string>
   <string name="screen_paper_mode_turn_on">Ligado</string>
@@ -3149,6 +3151,8 @@ Para utilizar a fixação no ecrã:
   <string name="security_encryption_close_dialog_title">Voltar para a o tipo de segurança predefinido</string>
   <string name="security_encryption_diaglog_continue">Seguinte</string>
   <string name="security_encryption_is_used">Ligado</string>
+  <string name="security_encryption_progress_dialog_close">A desencriptar…</string>
+  <string name="security_encryption_progress_dialog_open">A encriptar…</string>
   <string name="security_encryption_title">Encriptar dispositivo</string>
   <string name="security_keyguard_category_name">Ecrã de bloqueio</string>
   <string name="security_password_category_name">Tipo de segurança</string>
@@ -3345,8 +3349,7 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="skip_step">Ignorar</string>
   <string name="slot_status_title">Informação do IMEI</string>
   <string name="small_font">Pequena</string>
-  <string name="smallwindow_smartcover_title">Capa com janela transparente</string>
-  <string name="smartcover_sensitive_title">Modo de capa inteligente</string>
+  <string name="smartcover_sensitive_title">Capa inteligente</string>
   <string name="sms_application_title">Aplicação de SMS</string>
   <string name="sms_change_default_dialog_text" formatted="false">Utilizar %s em vez de %s como aplicação de SMS?</string>
   <string name="sms_change_default_dialog_title">Alterar a aplicação de SMS?</string>
@@ -4284,7 +4287,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_menu_write_to_nfc">Escrever na etiqueta NFC</string>
   <string name="wifi_more">Mais</string>
   <string name="wifi_network_prefix_length">Comprimento do prefixo de rede</string>
-  <string name="wifi_no_internet">Sem acesso à Internet detectado. Não vai religar automaticamente</string>
+  <string name="wifi_no_internet">Sem acesso à Internet. Não vai ligar automaticamente</string>
   <string name="wifi_not_in_range">Fora do alcance</string>
   <string name="wifi_notify_cmcc_connected_summary">Mostrar notificação quando ligado à rede CMCC</string>
   <string name="wifi_notify_cmcc_connected_title">Notificação de rede CMCC</string>
@@ -4326,7 +4329,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_priority_type_title">Definir prioridade do PA manualmente</string>
   <string name="wifi_quick_toggle_summary">Ligar Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
-  <string name="wifi_remembered">Guardado</string>
+  <string name="wifi_remembered">Guardada</string>
   <string name="wifi_required_info_text">Para finalizar a instalação, o seu dispositivo necessita de aceder ao Wi-Fi. Depois da instalação, pode alternar entre os dados móveis e o Wi-Fi</string>
   <string name="wifi_sap_no_channel_error">Banda de 5 GHz não disponível neste país</string>
   <string name="wifi_save">Guardar</string>
