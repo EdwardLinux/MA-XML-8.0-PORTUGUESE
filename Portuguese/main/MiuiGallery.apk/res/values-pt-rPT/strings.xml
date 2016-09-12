@@ -11,12 +11,12 @@
   <string name="add_to_album_failed">Não foi possível adicionar ao álbum</string>
   <string name="add_to_album_success">Adicionado ao álbum</string>
   <string name="add_to_album_tip">Fotos da Nuvem Mi</string>
-  <string name="add_to_secret_exist">Foto já existe no álbum oculto</string>
+  <string name="add_to_secret_exist">A foto já existe no álbum oculto</string>
   <string name="add_to_secret_fail">Não foi possível adicionar ao álbum oculto</string>
   <string name="add_to_secret_failed_with_reason">Não foi possível adicionar item ao álbum oculto. %1$s</string>
   <string name="add_to_secret_failed_with_reason_and_count">%2$s itens não puderam ser adicionados ao álbum oculto. %1$s</string>
   <string name="add_to_secret_successful">Adicionado ao álbum oculto</string>
-  <string name="add_to_share_album_not_delete">Não é possível eliminar foto dos Álbuns Partilhados</string>
+  <string name="add_to_share_album_not_delete">Não é possível eliminar foto dos Álbuns partilhados</string>
   <string name="adding">A adicionar…</string>
   <string name="adding_recipients">A adicionar destinatários…</string>
   <string name="adding_to_album">A adicionar fotos…</string>
@@ -62,7 +62,7 @@
   <string name="alert_secret_album_message">Descer para ver álbuns ocultos</string>
   <string name="alert_secret_album_title">Como ver álbuns ocultos</string>
   <string name="all_video_album_display_name">Todos os vídeos</string>
-  <string name="already_create_baby_album">Álbum do bebé já existe na Nuvem Mi</string>
+  <string name="already_create_baby_album">O álbum do bebé já existe na Nuvem Mi</string>
   <string name="app_name">Galeria</string>
   <string name="app_name_view_picture">Ver fotos</string>
   <string name="app_name_view_video">Ver vídeos</string>
@@ -79,7 +79,7 @@
   <string name="auto_update_on">Ligado</string>
   <string name="auto_upload_before_share_message">Fazer cópia deste álbum para a Nuvem Mi antes de partilhar</string>
   <string name="auto_upload_before_share_title">Dica</string>
-  <string name="auto_upload_disable_tip">Sincronização com a Nuvem Mi está desligada</string>
+  <string name="auto_upload_disable_tip">A sincronização com a Nuvem Mi está desligada</string>
   <string name="auto_upload_disable_toast_long_press_menu">A sincronização com a Nuvem Mi está desligada. Vá a Outros álbuns para ver</string>
   <string name="auto_upload_enable_toast_long_press_menu">A sincronização com a Nuvem Mi está ligada. Vá a Álbuns para ver</string>
   <string name="baby_album">Álbum do bebé</string>
@@ -95,7 +95,7 @@
   <string name="baby_lock_wallpaper">Papel de parede do ecrã de bloqueio</string>
   <string name="baby_lock_wallpaper_cancelled">Alterado para o papel de parede predefinido do ecrã de bloqueio</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Aplicar as definições actuais?</string>
-  <string name="baby_lock_wallpaper_title">"Utilizar as fotos de bebé como papel de parede do ecrã de bloqueio"</string>
+  <string name="baby_lock_wallpaper_title">Utilizar as fotos de bebé como papel de parede do ecrã de bloqueio</string>
   <string name="baby_name_cannot_empty">Introduzir nome</string>
   <string name="baby_name_cannot_start_with">"Nome não pode começar com '%s'"</string>
   <string name="baby_name_contain_invalidate_char">"Nome não pode conter '%s'"</string>
@@ -104,7 +104,7 @@
   <string name="baby_sexy">Género</string>
   <string name="baby_suffix">Bebé</string>
   <string name="backup_automatically_summary">Fazer cópias de fotos e vídeos de todos os dispositivos para a Nuvem Mi. Vai poder navegar, ordenar, editar e partilhar fotos e vídeos em todos os seus dispositivos</string>
-  <string name="backup_automatically_title">Copiar automaticamente</string>
+  <string name="backup_automatically_title">Fazer cópias automaticamente</string>
   <string name="backup_detail_page_title">Cópias da Nuvem Mi</string>
   <string name="backup_only_in_wifi">Utilizar apenas Wi-Fi para fazer cópias de fotos ou vídeos</string>
   <string name="backup_only_in_wifi_summary">Nunca utilizar dados móveis para fazer cópias de fotos ou vídeos</string>
@@ -243,13 +243,13 @@
   <string name="error_forbidden">A sincronização foi desactivada devido a problemas com a sua Conta Mi</string>
   <string name="error_invalid_link">Link inválido</string>
   <string name="error_link_has_expired">Link expirou</string>
-  <string name="error_not_acceptable">Sincronização foi desactivada</string>
+  <string name="error_not_acceptable">A sincronização foi desactivada</string>
   <string name="error_repeat_apply">Este álbum já foi partilhado</string>
   <string name="error_share_not_support">Esta funcionalidade ainda não é suportada</string>
   <string name="error_share_with_creator">Este álbum já está a ser partilhado consigo</string>
   <string name="error_socket_timeout">A ligação de rede expirou</string>
   <string name="error_title">Não é possível sincronizar</string>
-  <string name="error_unauthorized">Sincronização foi desactivada devido a muitas tentativas de início de sessão</string>
+  <string name="error_unauthorized">A sincronização foi desactivada devido a muitas tentativas de início de sessão</string>
   <string name="error_unknown_host">Não é possível ligar à rede. Verifique a sua ligação de dados e tente novamente</string>
   <string name="exit">Sair</string>
   <string name="exit_share">Sair do álbum</string>
@@ -345,8 +345,8 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="invite_sharer_confirm_button_text">Convidar</string>
   <string name="invite_sharer_phone_number_tip">Introduzir número de telefone</string>
   <string name="invite_sharer_relation_tip">Relação com %1$s</string>
-  <string name="invite_sharer_title">"Convidar %1$s's %2$s"</string>
-  <string name="invite_tip">"Partilhar as suas fotos de bebé"</string>
+  <string name="invite_sharer_title">Convidar %2$s de %1$s</string>
+  <string name="invite_tip">Partilhar as suas fotos de bebé</string>
   <string name="invited_tip">Convidado</string>
   <string name="is">Sim</string>
   <string name="kick_owner_user_positive_button_text">Remover</string>

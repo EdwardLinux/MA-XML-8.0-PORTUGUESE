@@ -1007,11 +1007,11 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="remove_blacklist_dialog_title">Desbloquear este número de telefone?</string>
   <string name="remove_duplicate">"A MIUI vai ajudá-lo a encontrar e a unir contactos duplicados.
 
- Para começar, toque no ícone Juntar na parte inferior do seu ecrã"</string>
+ Para começar, toque no ícone Unir na parte inferior do seu ecrã"</string>
   <string name="restore_nickname">Restaurar</string>
   <string name="ret_sign">"
 "</string>
-  <string name="returnCall">Devolver Chamada</string>
+  <string name="returnCall">Devolver chamada</string>
   <string name="ringLabelsGroup">Toque</string>
   <string name="save_photo_progress">A guardar foto…</string>
   <string name="savingContact">A guardar o contacto…</string>
