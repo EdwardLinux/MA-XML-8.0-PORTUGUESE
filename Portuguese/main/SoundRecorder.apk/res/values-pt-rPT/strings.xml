@@ -48,7 +48,7 @@
   <string name="notification_playback">A reproduzir…</string>
   <string name="notification_recording">A gravar…</string>
   <string name="notification_recording_ticker">Telefone silenciado</string>
-  <string name="notification_stopped">Gravação concluída</string>
+  <string name="notification_stopped">Gravação parada</string>
   <string name="notification_title_all_paused">Transferência em pausa</string>
   <string name="notification_warning">Baixo armazenamento (menos de %d minutos)</string>
   <string name="path_soundrecorder_setting">Aplicações de sistema/Gravador</string>

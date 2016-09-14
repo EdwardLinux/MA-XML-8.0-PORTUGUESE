@@ -770,6 +770,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="clear_failed_dlg_text">Erro ao limpar os dados da aplicação</string>
   <string name="clear_failed_dlg_title">Limpar dados</string>
   <string name="clear_user_data_text">Limpar dados</string>
+  <string name="close_gesture">Gesto de fecho</string>
   <string name="cloud_backup_section_title">Cópias Nuvem Mi</string>
   <string name="cloud_backup_settings_section_title">Definições das cópias</string>
   <string name="cloud_restore_section_summary">Restaurar aplicações, disposição do ecrã inicial e as definições de sistema</string>
@@ -853,6 +854,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
 Para continuar a utilizar o telefone, é necessário efectuar uma reposição de fábrica. Quando configurar o telefone após a reposição, terá a oportunidade de restaurar quaisquer dados da cópia de segurança da sua Conta Google"</string>
   <string name="crypt_keeper_data_corrupt_title">Desencriptação sem sucesso</string>
   <string name="crypt_keeper_decrypt_methods">Após encriptar o seu dispositivo, assumindo que configurou um bloqueio de ecrã, vai ser necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. O outro modo de desencriptar é fazer uma reposição dos dados de fábrica, eliminando todos os seus dados</string>
+  <string name="crypt_keeper_decrypt_methods_cannot_decrypt">Se encriptou o seu telefone, vai ter que introduzir a sua palavra-passe, PIN ou padrão sempre que reiniciar para o desencriptar</string>
   <string name="crypt_keeper_decrypt_methods_title">Desencriptar o seu dispositivo</string>
   <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas e dados, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar uma reposição de dados de fábrica, eliminando todos os seus dados.
 
@@ -885,7 +887,7 @@ Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. 
   <string name="current_input_method">Teclado actual</string>
   <string name="current_screen_lock">Bloqueio de ecrã actual</string>
   <string name="current_use_ese">A utilizar elemento de segurança integrado</string>
-  <string name="current_use_ese_wallet">Está a utilizar a Carteira Mi. Isto permite efectuar Pagamentos Mi e utilizar o seu telefone como um cartão</string>
+  <string name="current_use_ese_wallet">Está a utilizar a Carteira Mi. Isto permite utilizar os Pagamentos Mi e cartões de transporte NFC</string>
   <string name="current_use_hce_wallet">Está a utilizar a Carteira HCE</string>
   <string name="current_use_uicc_se">A utilizar elemento de segurança no cartão SIM</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermelho-verde)</string>
@@ -1445,6 +1447,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="global_locale_change_title">Alterar idioma</string>
   <string name="google_backup_enable">Ligar cópias</string>
   <string name="google_backup_section_title">Cópia e restauro do Google</string>
+  <string name="got_it">Entendi</string>
   <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
   <string name="handy_mode">Modo Uma Mão</string>
   <string name="handy_mode_enter_ask">Perguntar antes de entrar no Modo Uma Mão</string>
@@ -1512,6 +1515,8 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="help_url_vpn"/>
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">SSID oculto:</string>
+  <string name="hide">Ocultar</string>
+  <string name="hide_screen_button">Ocultar botões do ecrã</string>
   <string name="high_performance_notif_summary">O dispositivo pode aquecer durante utilização intensiva</string>
   <string name="high_performance_notif_title">Modo de desempenho ligado</string>
   <string name="high_performance_title">Parece que está a executar um teste de benchmark. Definir o gestor de energia para \"Desempenho\" para obter melhores resultados</string>
@@ -1569,6 +1574,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="install_unknown_applications">Permitir a instalação de aplicações a partir de fontes desconhecidas</string>
   <string name="install_unknown_applications_title">Permite-lhe instalar aplicações de fontes que não sejam o Google Play</string>
   <string name="install_whole_rom">Transferir ROM</string>
+  <string name="instruction_title">Instruções</string>
   <string name="insufficient_storage">Não há espaço de armazenamento suficiente</string>
   <string name="intent_sender_account_label">Conta:</string>
   <string name="intent_sender_action_label">Acção:</string>
@@ -2063,6 +2069,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Hi-Fi, auriculares e outras definições áudio</string>
   <string name="music_audio_effect_settings">Definições de efeitos de áudio</string>
   <string name="music_dirac_control">Optimizar a qualidade do áudio</string>
+  <string name="music_dirac_mode_capsule">Cápsula Mi</string>
   <string name="music_dirac_mode_earbuds">Auriculares Mi</string>
   <string name="music_dirac_mode_general">Genéricos</string>
   <string name="music_dirac_mode_general_earbuds">Auriculares genéricos</string>
@@ -2550,6 +2557,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="pref_button_light_summary">Ligar luz dos botões Menu, Início e Voltar</string>
   <string name="pref_edge_handgrip">Definições do limite</string>
   <string name="pref_operational_key">Botões de Navegação</string>
+  <string name="pref_volume_launch_camera_summary">Premir duas vezes o botão Volume Menos inicia a câmara</string>
+  <string name="pref_volume_launch_camera_title">Câmara rápida</string>
   <string name="pref_volume_wake_summary">Premir os botões de Volume acorda o dispositivo</string>
   <string name="pref_volume_wake_title">Acordar com botões de Volume</string>
   <string name="preference_change_password_title">Alterar a palavra-passe</string>
@@ -2843,6 +2852,8 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="saved_wifi_delete">Eliminar</string>
   <string name="scan_list_label">Resultados da pesquisa:</string>
   <string name="screen">Ecrã</string>
+  <string name="screen_button">Botões do ecrã</string>
+  <string name="screen_button_tips">Rejeitar chave oculta</string>
   <string name="screen_color_and_optimize">Cores e contraste</string>
   <string name="screen_color_and_optimize_disabled">Não é possível ajustar temperatura da cor no Modo de Leitura</string>
   <string name="screen_color_temperature">Cores</string>
@@ -2947,7 +2958,7 @@ Para utilizar a fixação no ecrã:
   <string name="sdcard_unmount">Desmontar armazenamento USB</string>
   <string name="se_route_ese">Elemento de segurança integrado</string>
   <string name="se_route_uicc">Elemento de segurança do cartão SIM</string>
-  <string name="se_wallet_ese">A Carteira Mi permite efectuar Pagamentos Mi e utilizar o seu telefone como um cartão</string>
+  <string name="se_wallet_ese">A Carteira Mi permite utilizar os Pagamentos Mi e cartões de transporte NFC</string>
   <string name="se_wallet_hce">Utilizar Carteira HCE</string>
   <string name="search_about">"Acerca do telefone;Nome do dispositivo;Modelo do dispositivo;Versão Android;Versão MIUI;CPU;RAM;Armazenamento interno;Versão da banda base;Versão de kernel;Número de compilação;Estado;Informações legais "</string>
   <string name="search_accelerometer">Rodar o ecrã automaticamente;Rodar o ecrã;Orientação;Retrato;Paisagem</string>
@@ -3399,8 +3410,10 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_app_enable_floating">Notificações flutuantes</string>
   <string name="status_bar_app_enable_keyguard">Ecrã de bloqueio</string>
   <string name="status_bar_app_enable_message">Ícones</string>
-  <string name="status_bar_key_position_custom">Personalizar a posição dos botões</string>
+  <string name="status_bar_key_position_custom">Alterar a posição dos botões</string>
+  <string name="status_bar_screen_button_desc">Gestos de deslize para ocultar os botões do ecrã</string>
   <string name="status_bar_screen_button_key">Botões do ecrã</string>
+  <string name="status_bar_screen_button_key_can_hide">Ocultar botões do ecrã</string>
   <string name="status_bar_screen_key_back">Botão de Voltar</string>
   <string name="status_bar_screen_key_home">Botão de Início</string>
   <string name="status_bar_screen_key_menu">Botão de Menu</string>
@@ -3611,11 +3624,15 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="summary_range_verbal_combination">De %1$s a %2$s</string>
   <string name="supl_not_set">&lt;Não definido&gt;</string>
   <string name="supplicant_state_label">Estado suplicante:</string>
+  <string name="suspension_ball_enable">Trocar menu flutuante</string>
+  <string name="suspension_ball_enable_desc">Após ligar, pode abrir o menu flutuante nos botões de ecrã</string>
   <string name="suw_back_button_label">Voltar</string>
   <string name="suw_more_button_label">Mais</string>
   <string name="suw_next_button_label">Seguinte</string>
   <string name="switch_off_text">Desligado</string>
   <string name="switch_on_text">Ligado</string>
+  <string name="switch_screen_button_order">Trocar a ordem dos botões do ecrã</string>
+  <string name="switch_screen_button_order_desc">Após abrir, deslize para baixo para ocultar os botões do ecrã</string>
   <string name="symbols_not_allowed_for_password">A palavra-passe não pode conter símbolos</string>
   <string name="sync_active">Sincronização activa</string>
   <string name="sync_automatically">Sincronização automática da aplicação</string>
@@ -3766,7 +3783,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="turn_off_security_lock">Desactivar bloqueio</string>
   <string name="turn_on_radio">Ligar rádio</string>
   <string name="turn_on_security_lock">Escolher bloqueio de ecrã</string>
-  <string name="under_keyguard">Bloqueio de ecrã</string>
+  <string name="under_keyguard">Ecrã desligado</string>
   <string name="uninstall_all_users_text">Desinstalar para todos os utilizadores</string>
   <string name="uninstall_dlg_msg">Desinstalar vai eliminar todos os dados da aplicação</string>
   <string name="uninstall_dlg_title">Desinstalar agora?</string>

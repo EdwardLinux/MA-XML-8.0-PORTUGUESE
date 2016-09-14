@@ -57,7 +57,7 @@
   <string name="add_account">Associar conta</string>
   <string name="alert_title_remove_account">Remover conta?</string>
   <string name="app_name">Conta Mi</string>
-  <string name="auth_fail_warning">O início de sessão expirou. Tente novamente mais tarde</string>
+  <string name="auth_fail_warning">Sessão expirada. Tente novamente mais tarde</string>
   <string name="authorize_title">Autorização</string>
   <string name="barcode_add_account_prompt">Para associar uma conta digitalize novamente o código QR depois de iniciar sessão</string>
   <string name="bind_facebook">Associar a sua Conta Facebook</string>
@@ -183,19 +183,15 @@
   <string name="passport_auto_generate_pwd">Gerar palavra-passe segura</string>
   <string name="passport_back">Voltar</string>
   <string name="passport_bad_authentication">Utilizador ou palavra-passe inválido</string>
-  <string name="passport_btn_return">Voltar</string>
-  <string name="passport_button_cancel">Cancelar</string>
   <string name="passport_change_account"><u>Alterar conta</u></string>
   <string name="passport_change_phone_number">Trocar números</string>
   <string name="passport_checking_account">A verificar palavra-passe…</string>
   <string name="passport_checking_input">A verificar método de entrada…</string>
-  <string name="passport_choose_which_one_sim">Escolher um número de telefone</string>
   <string name="passport_click_email_to_valid">"
 
 Para activar a sua conta siga o 
  link que enviámos para o seu email"</string>
   <string name="passport_completed">Terminar</string>
-  <string name="passport_confirm">OK</string>
   <string name="passport_confirm_recycle_account">Sim</string>
   <string name="passport_copy_message_text_success">Copiado</string>
   <string name="passport_copy_message_vcode">Copiar código de verificação</string>
@@ -203,10 +199,9 @@ Para activar a sua conta siga o
   <string name="passport_downlink_reg">Criar conta utilizando um número de telefone</string>
   <string name="passport_email">Endereço de email</string>
   <string name="passport_email_or_id_hint_text">Endereço de email ou ID da Conta Mi</string>
-  <string name="passport_email_reg_success_summary">%1$s foi adicionado à sua conta. Pode utilizá-lo para iniciar sessão ou para redefinir a sua palavra-passe</string>
+  <string name="passport_email_reg_success_summary">%1$s foi associado à sua conta. Pode utilizá-lo para iniciar sessão ou para redefinir a sua palavra-passe</string>
   <string name="passport_error_device_id">Não foi possível obter o ID do dispositivo</string>
   <string name="passport_error_dup_email">O email introduzido já está associado a outra conta</string>
-  <string name="passport_error_dup_phone">Este número de telefone já está associado a outra conta</string>
   <string name="passport_error_email">O endereço de email que introduziu é inválido</string>
   <string name="passport_error_empty_captcha_code">Introduzir código</string>
   <string name="passport_error_empty_email">Introduzir o seu endereço de email</string>
@@ -219,14 +214,12 @@ Para activar a sua conta siga o
   <string name="passport_error_invalid_phone_num">Número de telefone inválido</string>
   <string name="passport_error_login">Não é possível iniciar sessão</string>
   <string name="passport_error_network">Não é possível ligar à rede</string>
-  <string name="passport_error_no_sms_service">Não é possível enviar mensagens de texto. Rede móvel não está disponível</string>
   <string name="passport_error_phone_error">Número de telefone inválido</string>
   <string name="passport_error_server">Erro de servidor</string>
   <string name="passport_error_sim_not_ready">Não é possível localizar cartão SIM</string>
   <string name="passport_error_ssl_hand_shake">Não é possível ligar ao servidor</string>
   <string name="passport_error_unknown">Não é possível iniciar sessão</string>
   <string name="passport_error_user_name">O nome de utilizador que introduziu é inválido</string>
-  <string name="passport_error_verify_code">O código que introduziu está incorrecto</string>
   <string name="passport_failed_to_send_activate_email">Não foi possível enviar email de activação</string>
   <string name="passport_find_password_on_web_msg">Visite account.mi.com para redefinir a sua palavra-passe</string>
   <string name="passport_forget_password"><u>Esqueceu a palavra-passe?</u></string>
@@ -249,11 +242,9 @@ Para activar a sua conta siga o
   <string name="passport_login_failed">Não é possível iniciar sessão</string>
   <string name="passport_login_instead_reg">Utilizar este número</string>
   <string name="passport_login_instead_reg_with_email">Utilizar este email</string>
-  <string name="passport_login_notice">A iniciar sessão…</string>
   <string name="passport_login_prompt">Uma Conta Mi. Todos os serviços Mi</string>
   <string name="passport_login_title">Inicie sessão na sua Conta Mi</string>
   <string name="passport_login_using_other_ways"><u>Outros métodos de iniciar sessão</u></string>
-  <string name="passport_login_with_email_or_id"><u>Iniciar sessão com endereço de email ou ID de Conta Mi</u></string>
   <string name="passport_message_dialog_title">Verificar código</string>
   <string name="passport_next">Seguinte</string>
   <string name="passport_notification_title">Erro ao iniciar sessão em %1$s</string>
@@ -272,13 +263,10 @@ Para activar a sua conta siga o
   <string name="passport_recycle_account_prompt">É esta a sua Conta Mi?</string>
   <string name="passport_reg_btn_using_other_phone">Utilizar número de telefone alternativo</string>
   <string name="passport_reg_failed">Não é possível configurar conta</string>
-  <string name="passport_reg_new">Criar uma Conta Mi gratuitamente</string>
   <string name="passport_reg_prompt">Não tem uma Conta Mi? Crie uma gratuitamente</string>
   <string name="passport_reg_success">Conta criada</string>
-  <string name="passport_reg_success_summary">%1$s foi adicionado à sua conta. Pode utilizá-lo para iniciar sessão ou para redefinir a sua palavra-passe</string>
+  <string name="passport_reg_success_summary">%1$s foi associado à sua conta. Pode utilizá-lo para iniciar sessão ou para redefinir a sua palavra-passe</string>
   <string name="passport_reg_type_email">Utilizar endereço de email</string>
-  <string name="passport_reg_type_other_ways"><u>Utilizar o seu endereço de email ou um número alternativo</u></string>
-  <string name="passport_reg_type_other_ways_title">Criar uma Conta Mi</string>
   <string name="passport_reg_using_other_phone"><u>Utilizar número de telefone alternativo</u></string>
   <string name="passport_reg_using_other_phone_number_prompt">"Criar uma nova conta utilizando "</string>
   <string name="passport_reg_using_phone_number_prompt">Criar conta utilizando número de telefone</string>
@@ -308,7 +296,6 @@ Para activar a sua conta siga o
   <string name="passport_select_reg_ways_title">Outros métodos de registo</string>
   <string name="passport_send_too_many_code">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente</string>
   <string name="passport_setting">A configurar…</string>
-  <string name="passport_sim_index_info">Cartão SIM %1$d - %2$s</string>
   <string name="passport_skip_login">Ignorar</string>
   <string name="passport_skip_register">Ignorar registo</string>
   <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde nas Definições</string>
@@ -333,7 +320,6 @@ Para activar a sua conta siga o
   <string name="passport_verify">Verificar</string>
   <string name="passport_wait_for_sms_prompt">Começar de novo agora? As mensagens de verificação podem levar até 10 minutos a serem entregues quando o telefone está dentro do alcance da rede da sua operadora</string>
   <string name="passport_wrong_captcha">O código que introduziu está incorrecto</string>
-  <string name="passport_wrong_password">Palavra-passe está incorrecta</string>
   <string name="passport_wrong_phone_number_format">O formato do número de telefone que introduziu é inválido</string>
   <string name="passport_wrong_vcode">O código que introduziu está incorrecto</string>
   <string name="phone_activated">%s activado</string>

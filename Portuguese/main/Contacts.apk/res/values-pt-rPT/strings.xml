@@ -133,7 +133,7 @@
   <string name="callrecordview_menu_show_sim">%s chamadas</string>
   <string name="callrecordview_menu_show_stranger">Chamadas de números desconhecidos</string>
   <string name="callrecordview_menu_show_title">Ecrã de registo de chamadas</string>
-  <string name="callrecordview_menu_voip">VoIP</string>
+  <string name="callrecordview_menu_voip">Voz Mi</string>
   <string name="calls_voip_prompt">VoIP</string>
   <string name="cancel_confirmation_dialog_message">Rejeitar alterações?</string>
   <string name="cancel_confirmation_dialog_title">Cancelar</string>
@@ -862,7 +862,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telefone</string>
-  <string name="phone_call_type_livetalk">LiveTalk</string>
+  <string name="phone_call_type_livetalk">Pacote de carregamento</string>
   <string name="phone_call_type_voip">Voz Mi</string>
   <string name="phone_number_too_long_toast">Número muito extenso</string>
   <string name="phone_primary">Primário</string>
@@ -1109,8 +1109,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="smart_group_company_label">Empresas</string>
   <string name="smart_group_company_unavailable">Sem informação da empresa</string>
   <string name="smart_group_frequency_1">No mês passado</string>
-  <string name="smart_group_frequency_2">Nos últimos três meses</string>
-  <string name="smart_group_frequency_3">Nos últimos seis meses</string>
+  <string name="smart_group_frequency_2">Entre um a três meses</string>
+  <string name="smart_group_frequency_3">Entre três a seis meses</string>
   <string name="smart_group_frequency_4">Há mais de 6 meses</string>
   <string name="smart_group_frequency_label">Recentes</string>
   <string name="smart_group_label">Grupos inteligentes</string>

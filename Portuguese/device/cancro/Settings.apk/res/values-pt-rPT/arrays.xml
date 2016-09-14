@@ -579,8 +579,8 @@
     </string-array>
     <string-array name="long_press_volume_down_action">
         <item>Nada</item>
-        <item>Street-snap(é necessário o modo estar seleccionado)</item>
-        <item>Atalhos para Transportes públicos</item>
+        <item>Modo pressão rápida (ligar na Câmara)</item>
+        <item>Atalho para cartões de transportes públicos</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>
@@ -753,6 +753,10 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>20 segundos</item>
         <item>30 segundos</item>
         <item>1 minuto</item>
+    </string-array>
+    <string-array name="screen_button_style">
+        <item>Estilo mão esquerda</item>
+        <item>Estilo mão direita</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Todos os dias</item>

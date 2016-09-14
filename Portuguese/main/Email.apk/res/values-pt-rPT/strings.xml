@@ -120,6 +120,7 @@
   <string name="account_setup_options_mail_check_frequency_push">Automático (Push)</string>
   <string name="account_setup_options_mail_window_1day">Ontem</string>
   <string name="account_setup_options_mail_window_1month">Último mês</string>
+  <string name="account_setup_options_mail_window_1quarter">Último trimestre</string>
   <string name="account_setup_options_mail_window_1week">Última semana</string>
   <string name="account_setup_options_mail_window_2weeks">Últimas duas semanas</string>
   <string name="account_setup_options_mail_window_3days">Últimos três dias</string>
@@ -141,7 +142,7 @@
   <string name="actionbar_large_unread_count">%1$d+ não lidas</string>
   <string name="activity_folder_selection">Escolher pasta</string>
   <string name="activity_mailbox_selection">Escolher conta</string>
-  <string name="ad_merge">Organizar anúncios e notícias</string>
+  <string name="ad_merge">Anúncios e notificações</string>
   <string name="add_account">Adicionar conta</string>
   <string name="add_account_keywords">Adicionar conta;adicionar conta de email</string>
   <string name="add_attachment">Adicionar anexo</string>
@@ -347,6 +348,7 @@
   <string name="download_whole_email">Ver o resto da mensagem</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Fechar área de navegação</string>
+  <string name="drawer_contacts">Contactos</string>
   <string name="drawer_open">Abrir área de navegação</string>
   <string name="eas_hotmail_email">hotmail.com</string>
   <string name="eas_outlook_email">outlook.com</string>
@@ -434,6 +436,8 @@
   <string name="from_heading">"De: "</string>
   <string name="general_preference_confirm_delete_label">Confirmar antes de eliminar</string>
   <string name="general_preference_confirm_send_label">Confirmar antes de enviar</string>
+  <string name="general_preference_str_auto_translation">Tradução rápida</string>
+  <string name="general_preference_str_auto_translation_prompt">Copiar o conteúdo correspondente para ver a tradução</string>
   <string name="general_preference_text_zoom_dialog_title">Tamanho do texto da mensagem</string>
   <string name="general_preference_text_zoom_huge">Enorme</string>
   <string name="general_preference_text_zoom_label">Tamanho do texto da mensagem</string>
@@ -737,7 +741,7 @@
   <string name="quick_reply_hint">Responder a %1$d pessoas</string>
   <string name="quick_reply_hint_bcc">(Em BCC)</string>
   <string name="quick_reply_hint_cc">(Em CC)</string>
-  <string name="quick_reply_hint_reply_only_from">Resposta rápida (apenas remetente)</string>
+  <string name="quick_reply_hint_reply_only_from">Resposta rápida (Apenas remetente)</string>
   <string name="quick_responses_empty_view">Sem respostas rápidas</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">-------- a mensagem original --------</string>
@@ -880,6 +884,14 @@
   <string name="too_large_to_attach_multiple">Um ou mais ficheiros não foram anexados. O tamanho não pode exceder %1$s</string>
   <string name="too_large_to_attach_single">Não é possível anexar ficheiros maiores que %1$s</string>
   <string name="topic_merge">Agrupar emails em conversas</string>
+  <string name="translation_loading">A carregar…</string>
+  <string name="translation_no_result">Sem resultados</string>
+  <string name="translation_pronunciation_am">ArE</string>
+  <string name="translation_pronunciation_cn">Pinyin</string>
+  <string name="translation_pronunciation_en">BrE</string>
+  <string name="translation_pronunciation_other">Máquina</string>
+  <string name="translation_query_failure">Erro na pesquisa</string>
+  <string name="translation_technology_support">Suporte técnico por PowerWord</string>
   <string name="trash_folder_selection_title">Seleccione a pasta de lixo do servidor para %s</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>

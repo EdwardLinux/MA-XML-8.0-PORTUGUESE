@@ -23,6 +23,7 @@
   <string name="action_settings">Definições</string>
   <string name="ad_close">Fechar</string>
   <string name="ad_extension">Promover</string>
+  <string name="ad_mark">Anúncios</string>
   <string name="add_music">Adicionar músicas</string>
   <string name="add_to_last_of_playlist">Adicionar ao fim da lista de reprodução</string>
   <string name="alaka_required">Esta música não está disponível</string>
@@ -199,6 +200,7 @@
   <string name="download_confirm_text">Música Mi vai transferir e instalar %s</string>
   <string name="download_error">Erro</string>
   <string name="download_error_insufficient_space">Espaço insuficiente</string>
+  <string name="download_fail_to_fetch_info">Não foi possível transferir. Tente novamente</string>
   <string name="download_filesize_unknown">Desconhecido</string>
   <string name="download_in_process">A transferir</string>
   <string name="download_info_count_deleted_tasks">%s transferências removidas</string>
@@ -359,6 +361,7 @@
   <string name="list_item_play_FM_radio">Reproduzir Rádio FM</string>
   <string name="list_item_play_all_tracks">Reproduzir tudo</string>
   <string name="listview_index_of_total">%1$d/%2$d</string>
+  <string name="loadercontainer_loading">Aguarde…</string>
   <string name="loading_hint">Aguarde…</string>
   <string name="local_music">Dispositivo</string>
   <string name="local_music_empty">Lista de reprodução vazia</string>
@@ -449,6 +452,7 @@
   <string name="nav_online_billboard">Listas</string>
   <string name="nav_online_fm">Rádio</string>
   <string name="nav_online_playlist">Listas de reprodução</string>
+  <string name="network_error_and_retry">Não foi possível ligar. Toque para tentar novamente</string>
   <string name="network_failure">Não é possível ligar à rede</string>
   <string name="network_request_error">Não foi possível ligar à rede</string>
   <string name="network_settings_error">Não foi possível ligar à rede</string>
@@ -503,6 +507,7 @@
   <string name="online_music_enabled_summary">Ouvir e transferir as suas músicas favoritas. Consulte as músicas top e listas de reprodução a partir de qualquer lugar!</string>
   <string name="online_music_enabled_title">Streaming gratuito é aqui</string>
   <string name="online_playlist_is_empty">Lista de reprodução vazia</string>
+  <string name="online_recommend">Lista de reprodução</string>
   <string name="open_download">Abrir</string>
   <string name="order_pending">A aguardar confirmação</string>
   <string name="order_process_fail">Não foi possível autorizar a sua conta. Aguarde alguns minutos e tente novamente</string>
@@ -651,6 +656,7 @@
   <string name="share_chooser_title">Partilhar via</string>
   <string name="share_description">De Música Mi</string>
   <string name="share_end_note">De Música Mi</string>
+  <string name="share_image_error">Não foi possível partilhar</string>
   <string name="share_text_list">"Lista de reprodução de Música Mi: "</string>
   <string name="share_text_song">"Música na Música Mi: "</string>
   <string name="show_more">Mostrar mais %s </string>
@@ -701,6 +707,19 @@
   <string name="tab_track">Músicas</string>
   <string name="tab_track_list">Músicas</string>
   <string name="take_effect_afater_restart">Reiniciar a aplicação Música para que esta configuração tenha efeito</string>
+  <string name="talkback_back">Sair da página actual</string>
+  <string name="talkback_device">Reproduzir via outros dispositivos</string>
+  <string name="talkback_download">Transferir</string>
+  <string name="talkback_favorite">Gostar desta música</string>
+  <string name="talkback_mode">Trocar modo de repetição</string>
+  <string name="talkback_more">Mais menus</string>
+  <string name="talkback_next">Música seguinte</string>
+  <string name="talkback_play">Reproduzir / Pausar</string>
+  <string name="talkback_pre">Música anterior</string>
+  <string name="talkback_progress">Barra de progresso</string>
+  <string name="talkback_radar">Reconhecimento de músicas</string>
+  <string name="talkback_search">Pesquisar</string>
+  <string name="talkback_share">Partilhar</string>
   <string name="ticket_summary">Comprar bilhetes para espectáculos, concertos e outros eventos</string>
   <string name="ticket_title">Mostrar bilhetes</string>
   <string name="time_to_upgrade">Actualizar Música</string>
@@ -717,6 +736,7 @@
   <string name="toast_cancel_download">Transferência cancelada</string>
   <string name="toast_cancel_play">Reprodução cancelada</string>
   <string name="toast_download_error_by_count_limit">Chegou ao limite das suas transferências para este mês</string>
+  <string name="toast_download_error_by_not_login">Inicie sessão na Conta Mi e tente novamente</string>
   <string name="toast_download_error_by_vip_required">Obter Pacote Músicas Premium para transferir esta música</string>
   <string name="toast_download_in_process">A transferir…</string>
   <string name="toast_normal_songs_for_download">Qualidade da transferência definida para normal</string>
