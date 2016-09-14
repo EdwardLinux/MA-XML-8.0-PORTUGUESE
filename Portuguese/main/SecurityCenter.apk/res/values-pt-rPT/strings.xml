@@ -628,6 +628,7 @@ Maior tráfego: %1$s%2$s | %3$s utilizados"</string>
   <string name="menu_text_antispam">Lista de bloqueio</string>
   <string name="menu_text_antivirus">Antivírus</string>
   <string name="menu_text_garbage_cleanup">Limpeza</string>
+  <string name="menu_text_garbage_cleanup_danger">%s mais</string>
   <string name="menu_text_license_manager">Permissões</string>
   <string name="menu_text_networkassistants">Utilização de dados</string>
   <string name="menu_text_networkassistants_danger">%s excedidos</string>
@@ -1136,6 +1137,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="summary_flow_purchase_beyond">Já excedeu o limite mensal de dados do seu plano de operadora em %sMB</string>
   <string name="summary_flow_verify">Ainda não sincronizou as estatísticas de utilização de dados da operadora em %d dias</string>
   <string name="summary_flow_verify_failed">Ajuste automaticamente a utilização de dados para evitar custos adicionais</string>
+  <string name="summary_garbage_clean">Limpar cache para libertar espaço</string>
   <string name="summary_garbage_lib">Utilize as últimas definições para remover spyware, adware ou outro tipo de lixo indesejado</string>
   <string name="summary_install_virus">Verificar por vírus nas aplicações antes da instalação</string>
   <string name="summary_live_talk_purchase">Poupe 70% nas suas tarifas de chamadas</string>
@@ -1262,6 +1264,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="title_flow_rank">Utilização de dados móveis</string>
   <string name="title_flow_verify">Comparar contagem</string>
   <string name="title_flow_verify_failed">Não é possível ajustar 5 dias seguidos</string>
+  <string name="title_garbage_clean">O tamanho da cache das aplicações chegou a %s</string>
   <string name="title_garbage_lib">Actualizar as definições do lixo</string>
   <string name="title_install_virus_no">Monitor de instalação desligado</string>
   <string name="title_install_virus_yes">Monitor de instalação ligado</string>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activity_not_found_uri">Sem aplicações para executar esta acção</string>
+  <string name="activity_not_found_uri">Não foi encontrada nenhuma aplicação para concluir esta acção</string>
   <string name="add_attachment">Adicionar anexos</string>
   <string name="add_contact">Contacto</string>
   <string name="add_festival">Saudações</string>
@@ -158,7 +158,7 @@
   <string name="pref_summary_manage_sim_messages">Gerir as mensagens do cartão SIM</string>
   <string name="pref_summary_mx_feedback">Enviar erros e comentários</string>
   <string name="pref_summary_notification_body_enabled">Mostrar mensagens no ecrã de bloqueio e área de notificações</string>
-  <string name="pref_summary_show_recent_contacts">Mostrar contactos recentes ao redigir uma mensagem nova</string>
+  <string name="pref_summary_show_recent_contacts">Mostrar contactos recentes ao escrever uma nova mensagem</string>
   <string name="pref_system_title">Sistema</string>
   <string name="pref_time_auto_group_summary">Agrupar mensagens na mesma conversa por data</string>
   <string name="pref_time_auto_group_title">Agrupar por data</string>

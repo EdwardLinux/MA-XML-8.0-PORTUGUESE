@@ -55,7 +55,6 @@
   <string name="activate_email_notice">Certifique-se que activa a sua conta dentro de 24 horas</string>
   <string name="activity_not_found_notice">Não é possível localizar a aplicação</string>
   <string name="add_account">Associar conta</string>
-  <string name="add_this_verified_device">Adicionar este dispositivo aos dispositivos verificados</string>
   <string name="alert_title_remove_account">Remover conta?</string>
   <string name="app_name">Conta Mi</string>
   <string name="auth_fail_warning">O início de sessão expirou. Tente novamente mais tarde</string>
@@ -275,7 +274,6 @@ Para activar a sua conta siga o
   <string name="passport_reg_failed">Não é possível configurar conta</string>
   <string name="passport_reg_new">Criar uma Conta Mi gratuitamente</string>
   <string name="passport_reg_prompt">Não tem uma Conta Mi? Crie uma gratuitamente</string>
-  <string name="passport_reg_sms_send_prompt">Enviar código de verificação para %s</string>
   <string name="passport_reg_success">Conta criada</string>
   <string name="passport_reg_success_summary">%1$s foi adicionado à sua conta. Pode utilizá-lo para iniciar sessão ou para redefinir a sua palavra-passe</string>
   <string name="passport_reg_type_email">Utilizar endereço de email</string>
@@ -316,7 +314,8 @@ Para activar a sua conta siga o
   <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde nas Definições</string>
   <string name="passport_skip_setup_account_title">Ignorar configuração</string>
   <string name="passport_title_reg">Criar uma conta</string>
-  <string name="passport_trust_device">Confiar neste dispositivo</string>
+  <string name="passport_trust_device">Adicionar este dispositivo aos dispositivos verificados</string>
+  <string name="passport_trying_read_verify_code_sms">A obter código de verificação…</string>
   <string name="passport_uplink_reg">Utilizar número de telefone</string>
   <string name="passport_uplink_slot1_reg">Utilizar SIM 1</string>
   <string name="passport_uplink_slot2_reg">Utilizar SIM 2</string>
@@ -329,6 +328,7 @@ Para activar a sua conta siga o
   <string name="passport_user_agreement_p4">Política de Privacidade</string>
   <string name="passport_vcode_notification_title">A sua verificação de início de sessão está incompleta</string>
   <string name="passport_vcode_prompt_long">Introduzir código de verificação</string>
+  <string name="passport_vcode_sms_send_prompt">Enviar código de verificação para %s</string>
   <string name="passport_verification_failed">Autenticação falhou</string>
   <string name="passport_verify">Verificar</string>
   <string name="passport_wait_for_sms_prompt">Começar de novo agora? As mensagens de verificação podem levar até 10 minutos a serem entregues quando o telefone está dentro do alcance da rede da sua operadora</string>
@@ -337,7 +337,6 @@ Para activar a sua conta siga o
   <string name="passport_wrong_phone_number_format">O formato do número de telefone que introduziu é inválido</string>
   <string name="passport_wrong_vcode">O código que introduziu está incorrecto</string>
   <string name="phone_activated">%s activado</string>
-  <string name="phone_send_verify_code_prompt">Enviar código de verificação para %s</string>
   <string name="photoPickerNotFoundText">Sem fotos disponíveis</string>
   <string name="qq">QQ</string>
   <string name="remove_account_notice">O que gostaria de fazer com as mensagens, contactos e outros dados que foram sincronizados a partir da sua Conta Mi?</string>
@@ -374,7 +373,6 @@ Certifique-se que memoriza as respostas a estas perguntas"</string>
   <string name="success">Concluído</string>
   <string name="trusted_browsers">Navegadores confiáveis</string>
   <string name="trusted_browsers_prompt">O navegador não vai ser confiável se eliminar os cookies</string>
-  <string name="trying_read_verify_code_sms">A obter código de verificação…</string>
   <string name="turn_off_find_device_failed_title">Não é possível desligar Localizar Dispositivo</string>
   <string name="turning_off_find_device">A desligar Localizar Dispositivo…</string>
   <string name="unbind_sns_description">Depois de desassociar esta conta não vai poder utilizar as suas informações da Conta %s para iniciar sessão na sua Conta Mi</string>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">MiPlay</string>
+  <string name="app_name">Mi Play</string>
   <string name="cancel">Cancelar</string>
-  <string name="enable_wifi_btn">Activar</string>
-  <string name="enable_wifi_message">Activar Wi-Fi para pesquisar e ligar a dispositivos próximos</string>
-  <string name="enable_wifi_title">Activar Wi-Fi</string>
+  <string name="enable_wifi_btn">Ligar</string>
+  <string name="enable_wifi_message">Ligar Wi-Fi para pesquisar e ligar a dispositivos próximos</string>
+  <string name="enable_wifi_title">Ligar Wi-Fi</string>
   <string name="media_feature_projection">Espelhar ecrã</string>
   <string name="media_status_error">Erro</string>
   <string name="media_status_started">Ligado</string>
@@ -18,7 +18,7 @@
   <string name="wifi_display_autonomous_go">Activar GO autónomo</string>
   <string name="wifi_display_certification_heading">Certificação</string>
   <string name="wifi_display_details">Definições de visualização</string>
-  <string name="wifi_display_enable_menu_item">Activar visualização sem fios</string>
+  <string name="wifi_display_enable_menu_item">Ligar visualização sem fios</string>
   <string name="wifi_display_listen_channel">Canal de escuta</string>
   <string name="wifi_display_listen_mode">Activar modo de escuta</string>
   <string name="wifi_display_no_devices_found">Sem dispositivos próximos</string>

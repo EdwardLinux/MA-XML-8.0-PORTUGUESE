@@ -464,7 +464,7 @@
   <string name="vp_mplayer_error_timed_out">A operação expirou</string>
   <string name="vp_newest_ep">Novo</string>
   <string name="vp_next_ci">Seguinte</string>
-  <string name="vp_notify_apk_installed">Instalar aplicação %1$s com sucesso</string>
+  <string name="vp_notify_apk_installed">Aplicação instalada com sucesso</string>
   <string name="vp_offline">Desligado</string>
   <string name="vp_offline_status_done">Concluído</string>
   <string name="vp_offline_status_dowloading">A transferir</string>
