@@ -43,8 +43,8 @@
   <string name="sst_grid_view_select_all">Seleccionar tudo</string>
   <string name="sst_grid_view_unselect_all">Cancelar tudo</string>
   <string name="sst_no_favor_wallpaper_hint">Sem papéis de parede nos favoritos</string>
-  <string name="sst_prov_enable_desc">Ligar Papéis de parede aleatórios no ecrã de bloqueio. Adicione o seu papel de parede na pasta Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
-  <string name="sst_prov_enable_title">Ligar Papéis de parede aleatórios</string>
+  <string name="sst_prov_enable_desc">Ligar papéis de parede aleatórios no ecrã de bloqueio. Adicione o seu papel de parede na pasta Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
+  <string name="sst_prov_enable_title">Ligar papéis de parede aleatórios</string>
   <string name="sst_require_one_category_hint">Seleccione pelo menos uma categoria</string>
   <string name="sst_sti_desc">Definir a frequência de actualização</string>
   <string name="sst_sti_title">Frequência de actualização</string>
