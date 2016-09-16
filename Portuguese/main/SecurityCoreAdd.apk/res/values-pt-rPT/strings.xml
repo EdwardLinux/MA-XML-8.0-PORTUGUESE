@@ -233,7 +233,7 @@ para ir para o segundo espaço através do ecrã de bloqueio"</string>
   <string name="transferMessage">As mensagens do segundo espaço vão ser movidas para o primeiro espaço</string>
   <string name="tryNow">Experimentar</string>
   <string name="wating">Aguarde…</string>
-  <string name="xspace_chocie">Suporte de aplicações clonadas</string>
+  <string name="xspace_chocie">Aplicações suportadas</string>
   <string name="xspace_creating">A clonar aplicação…</string>
   <string name="xspace_description">Clone aplicações para as utilizar separadamente. As aplicações clonadas vão ter um ícone específico no ecrã inicial</string>
   <string name="xspace_header">Aplicações clonadas</string>
