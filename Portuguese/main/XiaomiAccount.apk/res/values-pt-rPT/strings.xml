@@ -193,8 +193,8 @@ Para activar a sua conta siga o
  link que enviámos para o seu email"</string>
   <string name="passport_completed">Terminar</string>
   <string name="passport_confirm_recycle_account">Sim</string>
-  <string name="passport_copy_message_text_success">Copiado</string>
-  <string name="passport_copy_message_vcode">Copiar código de verificação</string>
+  <string name="passport_copy_message_text_success">Copiado com sucesso</string>
+  <string name="passport_copy_message_vcode">Copiar código</string>
   <string name="passport_delete_account">Terminar sessão</string>
   <string name="passport_downlink_reg">Criar conta utilizando um número de telefone</string>
   <string name="passport_email">Endereço de email</string>
@@ -245,7 +245,7 @@ Para activar a sua conta siga o
   <string name="passport_login_prompt">Uma Conta Mi. Todos os serviços Mi</string>
   <string name="passport_login_title">Inicie sessão na sua Conta Mi</string>
   <string name="passport_login_using_other_ways"><u>Outros métodos de iniciar sessão</u></string>
-  <string name="passport_message_dialog_title">Verificar código</string>
+  <string name="passport_message_dialog_title">SMS com códigos de verificação</string>
   <string name="passport_next">Seguinte</string>
   <string name="passport_notification_title">Erro ao iniciar sessão em %1$s</string>
   <string name="passport_password_req_notice">A palavra-passe deve ter 8 a 16 letras e incluir números e letras (maiúsculas e minúsculas)</string>

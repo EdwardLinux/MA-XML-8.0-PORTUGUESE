@@ -39,7 +39,7 @@
   <string name="backup_success_confirm">Ver</string>
   <string name="backup_success_message">Cópia feita para %1$s</string>
   <string name="backup_success_title">Cópia feita</string>
-  <string name="backup_title">Fazer cópia dos vídeos Chats?</string>
+  <string name="backup_title">Fazer cópia dos vídeos de conversas?</string>
   <string name="big5_summary">Windows chinês tradicional codificação padrão</string>
   <string name="big5_title">BIG5</string>
   <string name="bind">Adicionar</string>
@@ -473,7 +473,7 @@ e nunca perca as novidades!"</string>
   <string name="notification_summary">%1$s ainda não suporta esta funcionalidade</string>
   <string name="notification_title">Notificar quando novos ficheiros forem adicionados a %1$s</string>
   <string name="notification_wechat_auto_backup_hint">Toque para saber mais</string>
-  <string name="notification_wechat_auto_backup_switch_title">Fazer cópia de vídeos Chats</string>
+  <string name="notification_wechat_auto_backup_switch_title">Fazer cópia de vídeos de conversas</string>
   <string name="notification_wechat_expired_empty">Estes vídeos já foram eliminados pelo WeChat</string>
   <string name="notification_wechat_sticker_hint">Mostrar notificação quando novos stickers WeChat estiverem disponíveis</string>
   <string name="notification_wechat_sticker_switch_title">Notificação de novos stickers diários</string>
@@ -701,7 +701,7 @@ e nunca perca as novidades!"</string>
   <string name="shared_sticker_page_no_file">Não foi possível ligar à rede. Verifique a sua ligação de rede e tente novamente</string>
   <string name="shared_sticker_str">Recentes</string>
   <string name="shared_sticker_suffix">Sticker em %s</string>
-  <string name="shared_sticker_use_tip">"Pode enviar os stickers que gravou nos diálogos do Chat da mesma forma que envia imagens.
+  <string name="shared_sticker_use_tip">"Pode enviar os stickers que gravou nos diálogos das conversas da mesma forma que envia imagens.
 (GIFs podem ser adicionados e personalizados nos Stickers WeChat)"</string>
   <string name="shared_sticker_use_tip_title">Como utilizar stickers</string>
   <string name="shared_str">Partilhado por %s</string>

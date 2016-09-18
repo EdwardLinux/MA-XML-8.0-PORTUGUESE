@@ -707,11 +707,11 @@
   <string name="tab_track">Músicas</string>
   <string name="tab_track_list">Músicas</string>
   <string name="take_effect_afater_restart">Reiniciar a aplicação Música para que esta configuração tenha efeito</string>
-  <string name="talkback_back">Sair da página actual</string>
-  <string name="talkback_device">Reproduzir via outros dispositivos</string>
+  <string name="talkback_back">Voltar</string>
+  <string name="talkback_device">Reproduzir noutros dispositivos</string>
   <string name="talkback_download">Transferir</string>
   <string name="talkback_favorite">Gostar desta música</string>
-  <string name="talkback_mode">Trocar modo de repetição</string>
+  <string name="talkback_mode">Repetir lista</string>
   <string name="talkback_more">Mais menus</string>
   <string name="talkback_next">Música seguinte</string>
   <string name="talkback_play">Reproduzir / Pausar</string>
