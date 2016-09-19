@@ -10,7 +10,7 @@
   <string name="ac_enable_title">Ligar Bloqueio de aplicações</string>
   <string name="ac_enter_applock">Entrar no Bloqueio de aplicações</string>
   <string name="ac_firstUseApplock_subTitle">Utilize o Bloqueio de aplicações para proteger a sua privacidade</string>
-  <string name="ac_firstUseApplock_title">É necessário um padrão para abrir as aplicações</string>
+  <string name="ac_firstUseApplock_title">Definir um padrão para proteger as suas aplicações</string>
   <string name="ac_summaryOff">Desligado. Não é necessário um padrão para abrir as aplicações</string>
   <string name="ac_summaryOn">Ligado. É necessário um padrão para abrir as aplicações</string>
   <string name="access_control_need_password">"%s adicionado com sucesso
@@ -1068,6 +1068,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="security_scan_optimizing">A optimizar…</string>
   <string name="see_detail">Detalhes</string>
   <string name="select_pattern">Seleccionar padrão</string>
+  <string name="set_applock_password">Definir padrão</string>
   <string name="settings">Definições de utilização de dados</string>
   <string name="settings_battery_consume_abnormal_summary">Receber notificações quando a bateria estiver a descarregar rapidamente</string>
   <string name="settings_battery_consume_abnormal_title">Notificações de descarregamento de bateria</string>
@@ -1206,6 +1207,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="tc_sms_report_get_sms">Obter SMS</string>
   <string name="tc_sms_report_get_sms2">Obter SMS</string>
   <string name="tc_sms_report_get_sms_again">Actualizar SMS</string>
+  <string name="tc_sms_report_get_sms_bill">Obter SMS</string>
+  <string name="tc_sms_report_get_sms_calltime">Obter SMS</string>
   <string name="tc_sms_report_get_sms_failure">Não foi possível obter o formato SMS de utilização de dados</string>
   <string name="tc_sms_report_get_sms_successs">Formato de utilização de dados SMS actualizado</string>
   <string name="tc_sms_report_get_sms_timeout">Pedido expirado</string>
@@ -1227,6 +1230,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="tc_sms_report_tips_dialog_message">A utilização de dados usa uma SMS especialmente formatada para obter a sua mais recente utilização de dados da sua operadora. Se esta funcionalidade não está a funcionar normalmente, tente actualizar o formato SMS utilização de dados. O novo formato actualizado será enviado para os nossos servidores</string>
   <string name="tc_sms_report_tips_dialog_title">Utilização de dados de SMS</string>
   <string name="tc_sms_report_title">Reportar erro da utilização de dados</string>
+  <string name="tc_sms_report_title_bill">Reportar erro da utilização de dados</string>
+  <string name="tc_sms_report_title_calltime">Reportar erro da utilização de dados</string>
   <string name="tc_sms_report_toast_text">A obter informação…</string>
   <string name="tc_sms_report_upload_success">SMS com relatório de utilização de dados enviado</string>
   <string name="tc_sms_report_upload_when_net">Obrigado pelo seu comentário!</string>

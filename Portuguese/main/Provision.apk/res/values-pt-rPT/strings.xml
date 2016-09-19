@@ -32,6 +32,8 @@
   <string name="other_settings_auto_update_summary">A MIUI vai seleccionar a melhor hora para transferir e instalar as actualizações</string>
   <string name="other_settings_location">Localização</string>
   <string name="other_settings_location_summary">Permitir que aplicações determinem a sua localização</string>
+  <string name="other_settings_mifg_online_content">Papéis de parede aleatórios</string>
+  <string name="other_settings_mifg_online_content_summary">Ligue-se à Internet para obter novos papéis de parede para o seu ecrã de bloqueio</string>
   <string name="other_settings_upload_debug_log_summary">Os dados de diagnóstico podem incluir informação acerca da utilização do sistema operativo e aplicações. Os dados vão ser utilizados para localizar e analisar os problemas no sistema e nunca vão ser utilizados para o identificar pessoalmente</string>
   <string name="other_settings_upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
   <string name="other_settings_user_experience">Experiência de utilização do Programa</string>

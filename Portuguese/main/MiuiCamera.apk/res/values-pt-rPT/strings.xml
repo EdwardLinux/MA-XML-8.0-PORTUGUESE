@@ -26,6 +26,7 @@
   <string name="camera_snap_mode_title_detail">Toque para ver detalhes</string>
   <string name="cannot_connect_camera_once">Não é possível ligar à câmara</string>
   <string name="cannot_connect_camera_twice">Ainda não é possível ligar à câmara. Tente reiniciar o dispositivo</string>
+  <string name="cannot_connect_camera_volte_call">Está em curso uma videochamada. Tente mais tarde</string>
   <string name="cannot_move_warning_message">Ao tirar a foto mantenha o dispositivo quieto</string>
   <string name="confirm_location_alert">Guardar localização das fotos</string>
   <string name="confirm_location_message">Etiquetar as suas fotos e vídeos com as localizações de onde foram tiradas. Outras aplicações podem aceder a esta informação assim como às imagens guardadas</string>
