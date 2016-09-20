@@ -314,7 +314,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="auto_punctuate_summary">Prima a tecla de Espaço duas vezes para inserir \".\"</string>
   <string name="auto_replace">Correcção automática</string>
   <string name="auto_replace_summary">Corrigir erros ortográficos</string>
-  <string name="auto_restore_summary">Ao reinstalar uma aplicação, restaurar dados e definições</string>
+  <string name="auto_restore_summary">Ao reinstalar uma aplicação, restaurar os dados e definições</string>
   <string name="auto_restore_title">Restauro automático</string>
   <string name="auto_startup_application_manage">Iniciar automático</string>
   <string name="auto_startup_count">%d aplicações estão autorizadas a iniciar automaticamente</string>
@@ -331,10 +331,10 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="background_data_dialog_title">Desactivar dados em segundo plano?</string>
   <string name="background_data_summary">Aplicações podem sincronizar, enviar e receber dados em qualquer altura</string>
   <string name="background_process_stop_description">Este é um processo de uma aplicação antiga que está em execução no caso de ser necessário novamente. Por norma não existe nenhuma razão para o parar</string>
-  <string name="backup_configure_account_default_summary">Nenhuma conta está actualmente a armazenar a cópia de segurança</string>
-  <string name="backup_configure_account_title">Conta de cópia de segurança</string>
+  <string name="backup_configure_account_default_summary">Sem contas a armazenar as cópias de segurança actualmente</string>
+  <string name="backup_configure_account_title">Conta das cópias de segurança</string>
   <string name="backup_data_summary">Fazer cópia de segurança dos dados das aplicações, palavras-passe de Wi-Fi e outras definições para os servidores Google</string>
-  <string name="backup_data_title">Cópia de segurança</string>
+  <string name="backup_data_title">Cópias de segurança</string>
   <string name="backup_erase_dialog_message">Parar de fazer a cópia de segurança das suas definições, dados de aplicações e eliminar todas as cópias de segurança nos servidores Google?</string>
   <string name="backup_erase_dialog_title"/>
   <string name="backup_inactive_title">Serviço de cópia está inactivo</string>
@@ -1420,7 +1420,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="frequently_fragment_tempty">Itens utilizados com frequência serão mostrados aqui</string>
   <string name="fullbackup_data_summary">"Faça cópias de segurança automáticas dos dados do dispositivo (como palavras-passe de Wi-Fi e registo de chamadas) e dos dados das aplicações (como as definições e os ficheiros armazenados pelas aplicações) remotamente.
 
-Quando liga a cópia de segurança automática, os dados do dispositivo e das aplicações são guardados remotamente de forma periódica. Os dados das aplicações podem ser quaisquer dados que uma aplicação tenha guardado (com base nas definições do programador), incluindo dados potencialmente confidenciais como contactos, mensagens e fotos"</string>
+Quando liga as cópias de segurança automática, os dados do dispositivo e das aplicações são guardados remotamente de forma periódica. Os dados das aplicações podem ser quaisquer dados que uma aplicação tenha guardado (com base nas definições do programador), incluindo dados potencialmente confidenciais como contactos, mensagens e fotos"</string>
   <string name="fullbackup_erase_dialog_message">Pretende parar de fazer cópias de segurança dos dados do dispositivo (como palavras-passe de Wi-Fi e registo de chamadas) e dos dados das aplicações (como as definições e os ficheiros armazenados pelas aplicações) e eliminar todas as cópias no Google Drive?</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">automático</string>
@@ -1446,7 +1446,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="global_font_change_title">Alterar tamanho do tipo de letra</string>
   <string name="global_locale_change_title">Alterar idioma</string>
   <string name="google_backup_enable">Ligar cópias</string>
-  <string name="google_backup_section_title">Cópia e restauro do Google</string>
+  <string name="google_backup_section_title">Cópias e restauro do Google</string>
   <string name="got_it">Entendi</string>
   <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
   <string name="handy_mode">Modo Uma Mão</string>
@@ -1706,18 +1706,18 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="loading_notification_apps">A carregar aplicações…</string>
   <string name="local_auto_backup_off">Desligado</string>
   <string name="local_auto_backup_on">Ligado</string>
-  <string name="local_auto_backup_section_title">Cópia automática</string>
-  <string name="local_backup_password_summary_change">Toque para alterar ou remover a palavra-passe para as cópias de segurança completas do ecrã principal</string>
-  <string name="local_backup_password_summary_none">Cópias de segurança completas do ecrã principal não estão actualmente protegidas</string>
-  <string name="local_backup_password_title">Palavra-passe da cópia de segurança do ecrã principal</string>
+  <string name="local_auto_backup_section_title">Cópias de segurança automáticas</string>
+  <string name="local_backup_password_summary_change">Toque para alterar ou remover a palavra-passe para as cópias de segurança completas</string>
+  <string name="local_backup_password_summary_none">As cópias de segurança completas não estão actualmente protegidas</string>
+  <string name="local_backup_password_title">Palavra-passe da cópia de segurança</string>
   <string name="local_backup_password_toast_confirmation_mismatch">A nova palavra-passe e confirmação não são iguais</string>
   <string name="local_backup_password_toast_success">Nova palavra-passe da cópia de segurança definida</string>
   <string name="local_backup_password_toast_validation_failure">Erro na definição da palavra-passe da cópia de segurança</string>
-  <string name="local_backup_section_summary">Definições da cópia do sistema, contas e aplicações</string>
-  <string name="local_backup_section_title">Cópias locais</string>
+  <string name="local_backup_section_summary">Definições das cópias do sistema, contas e aplicações</string>
+  <string name="local_backup_section_title">Cópias de segurança locais</string>
   <string name="locale_default">Predefinido</string>
   <string name="locale_settings">Localização</string>
-  <string name="location_access_summary">As aplicações podem obter a informação da sua localização</string>
+  <string name="location_access_summary">As aplicações podem obter informação da sua localização</string>
   <string name="location_access_title">Acesso à localização</string>
   <string name="location_agps_apn_choose_dialog_title">Tipos APN</string>
   <string name="location_agps_apn_summary">Escolher tipo de APN preferido</string>
@@ -2374,7 +2374,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="path_led_settings">Definições/Definições adicionais/LED de notificações</string>
   <string name="path_legal_information">Definições/Acerca do telefone/Informações legais</string>
   <string name="path_legal_user_agreement">Definições/Acerca do telefone/Informações legais/Termos de Serviço</string>
-  <string name="path_local_auto_backup_section_title">Definições/Definições adicionais/Cópia e restauro/Cópia automática</string>
+  <string name="path_local_auto_backup_section_title">Definições/Definições adicionais/Cópia e restauro/Cópias automáticas</string>
   <string name="path_local_backup_section_title">Definições/Definições adicionais/Cópia e restauro/Cópias locais</string>
   <string name="path_location_settings_title">Definições/Definições adicionais/Privacidade/Localização</string>
   <string name="path_lock_sounds_enable_title">Definições/Som e vibração/Som de bloqueio de ecrã</string>
@@ -3030,7 +3030,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_language_picker_title">Idioma</string>
   <string name="search_led">LED;LED de notificações</string>
   <string name="search_legal_information">Informações legais</string>
-  <string name="search_local_auto_backup_section_title">Cópia automática</string>
+  <string name="search_local_auto_backup_section_title">Cópias automáticas</string>
   <string name="search_local_backup_section_title">Cópias locais</string>
   <string name="search_location_settings_title">Localização</string>
   <string name="search_lock_sounds_enable_title">Som de bloqueio de ecrã</string>
@@ -3666,7 +3666,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="system_alert_window_summary" formatted="false">%d de %d aplicações autorizadas a sobreporem-se a outras aplicações</string>
   <string name="system_and_device_section_title">Sistema e dispositivo</string>
   <string name="system_app_settings">Aplicações de sistema</string>
-  <string name="system_backup_section_title">Cópia</string>
+  <string name="system_backup_section_title">Cópias de segurança</string>
   <string name="system_package">As actualizações do sistema não podem ser instaladas em fontes externas</string>
   <string name="system_storage">Armazenamento do sistema</string>
   <string name="system_ui_settings">Mostrar SystemUI Tuner</string>
