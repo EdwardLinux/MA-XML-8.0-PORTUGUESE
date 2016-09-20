@@ -1109,8 +1109,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="smart_group_company_label">Empresas</string>
   <string name="smart_group_company_unavailable">Sem informação da empresa</string>
   <string name="smart_group_frequency_1">No mês passado</string>
-  <string name="smart_group_frequency_2">Entre um a três meses</string>
-  <string name="smart_group_frequency_3">Entre três a seis meses</string>
+  <string name="smart_group_frequency_2">Um a três meses</string>
+  <string name="smart_group_frequency_3">Três a seis meses</string>
   <string name="smart_group_frequency_4">Há mais de 6 meses</string>
   <string name="smart_group_frequency_label">Recentes</string>
   <string name="smart_group_label">Grupos inteligentes</string>

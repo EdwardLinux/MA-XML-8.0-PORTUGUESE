@@ -51,6 +51,7 @@ Toque no botão + para criar uma pasta"</string>
   <string name="format_move_notes_out_folder">Movida %1$s fora</string>
   <string name="format_move_notes_to_folder">Movida %1$s para %2$s</string>
   <string name="hidden_notes_fragment_title">Notas ocultas</string>
+  <string name="hint_cannot_view_hidden_note_content">Não é possível o conteúdo das notas ocultas</string>
   <string name="hint_foler_name">Nome</string>
   <string name="info_note_enter_desktop">Adicionada ao ecrã inicial</string>
   <string name="loading_text">Aguarde…</string>

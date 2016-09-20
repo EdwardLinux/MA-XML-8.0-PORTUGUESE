@@ -24,22 +24,6 @@
     <item quantity="few">%d ficheiros</item>
     <item quantity="many">%d ficheiros</item>
   </plurals>
-  <plurals name="ui_bar_txt_download_progress">
-    <item quantity="other">%1$d ficheiros que faltam transferir</item>
-    <item quantity="zero">%1$d ficheiros que faltam transferir</item>
-    <item quantity="one">%1$d ficheiro que falta transferir</item>
-    <item quantity="two">%1$d ficheiros que faltam transferir</item>
-    <item quantity="few">%1$d ficheiros que faltam transferir</item>
-    <item quantity="many">%1$d ficheiros que faltam transferir</item>
-  </plurals>
-  <plurals name="ui_bar_txt_upload_progress">
-    <item quantity="other">%1$d ficheiros que faltam carregar</item>
-    <item quantity="zero">%1$d ficheiros que faltam carregar</item>
-    <item quantity="one">%1$d ficheiro que falta carregar</item>
-    <item quantity="two">%1$d ficheiros que faltam carregar</item>
-    <item quantity="few">%1$d ficheiros que faltam carregar</item>
-    <item quantity="many">%1$d ficheiros que faltam carregar</item>
-  </plurals>
   <plurals name="numSelectedFile">
     <item quantity="other">%1$d seleccionados</item>
     <item quantity="zero">%1$d seleccionados</item>
