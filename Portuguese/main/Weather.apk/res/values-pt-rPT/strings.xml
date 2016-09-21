@@ -17,7 +17,6 @@
   <string name="activity_main_alert"/>
   <string name="activity_main_clickable">&gt;</string>
   <string name="activity_main_one_alert"/>
-  <string name="activity_main_refresh_fail">Não foi possível ligar à rede</string>
   <string name="activity_main_time_format">E, d MMM</string>
   <string name="activity_main_update_time">Actualizado %1$s</string>
   <string name="activity_main_update_time_right_now">agora mesmo</string>
@@ -57,6 +56,7 @@
   <string name="button_sure_abandon">Rejeitar alterações?</string>
   <string name="close">Fechar</string>
   <string name="commercial">Comercial</string>
+  <string name="common_loading_text">A carregar…</string>
   <string name="daily_forcast_drawer_on_bottom">Ocultar</string>
   <string name="daily_forcast_drawer_on_top">Previsão para %1$s dias</string>
   <string name="daily_forcast_no_stable_direction">Sem vento</string>
@@ -133,6 +133,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="realtime_humidity_title">Humidade relativa</string>
   <string name="realtime_wind_default_title">Vento</string>
   <string name="retry">Tentar novamente</string>
+  <string name="refresh_fail">Não foi possível ligar à rede</string>
   <string name="set">Definições</string>
   <string name="set_degree_centigrade">°C</string>
   <string name="set_fahrenheit">°F</string>

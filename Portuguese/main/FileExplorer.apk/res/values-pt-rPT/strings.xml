@@ -472,6 +472,9 @@
   <string name="server_control_charset">Codificação da transferência</string>
   <string name="server_control_settings">Definições</string>
   <string name="server_error">Erro de servidor (Erro %s)</string>
+  <string name="set_pattern">O padrão foi actualizado</string>
+  <string name="set_pattern_btn">Definir</string>
+  <string name="set_pattern_msg">Definir o padrão novamente. O padrão de Protecção de Privacidade também funciona para fotos e mensagens</string>
   <string name="setting">Definições</string>
   <string name="setting_account_bind">Adicionar conta</string>
   <string name="setting_message_notify">Notificações</string>
@@ -530,6 +533,8 @@
   <string name="unbind_account">Eliminar %s?</string>
   <string name="unbind_fail">Não foi possível eliminar</string>
   <string name="unbind_success">Eliminado com sucesso</string>
+  <string name="unlock_pattern_msg">O padrão de Protecção de Privacidade também funciona para fotos e mensagens</string>
+  <string name="unlock_pattern_title">Novo padrão</string>
   <string name="unlogin">Inicie sessão primeiro</string>
   <string name="unmount_inform_text">Desmontar armazenamento USB?</string>
   <string name="unreviewed_video_cannot_share">Os vídeos devem ser analisados antes de serem partilhados</string>

@@ -148,8 +148,6 @@
   <string name="edit_phrase">Editar respostas rápidas</string>
   <string name="edit_slide_activity">Editar diapositivo</string>
   <string name="edit_slideshow_activity">Editar apresentação</string>
-  <string name="enable_password_protect">Requer uma palavra-passe</string>
-  <string name="enable_visible_pattern_title">Tornar o padrão visível</string>
   <string name="english_subject_limit">Limite de 40 caracteres</string>
   <string name="enter_edit_mode">Editar mensagens</string>
   <string name="error_code_label">"Código de erro: "</string>
@@ -443,8 +441,16 @@
   <string name="priority_low">Baixa</string>
   <string name="priority_normal">Normal</string>
   <string name="privacy_mode_hint">Não pode enviar mensagens em Modo Convidado</string>
+  <string name="privacy_password_message1">O padrão de Protecção de Privacidade funciona para aplicações, fotos, notas e pastas ocultas</string>
+  <string name="privacy_password_message2">Utilize o padrão de Protecção de Privacidade. Funciona para aplicações, fotos, notas e pastas ocultas</string>
+  <string name="privacy_password_message3">O padrão das mensagens privadas vai ser substituido pelo padrão de Protecção de Privacidade que funciona para aplicações, fotos, notas e pastas ocultas</string>
+  <string name="privacy_password_set_password">Definir</string>
+  <string name="privacy_password_title1">Definir padrão</string>
+  <string name="privacy_password_title2">Utilizar padrão de Protecção de Privacidade</string>
+  <string name="privacy_password_title3">Actualizar o seu padrão</string>
+  <string name="privacy_password_title4">Padrão actualizado</string>
   <string name="private_message">Mensagens privadas</string>
-  <string name="private_new_notification">Notificações da mensagem</string>
+  <string name="private_new_notification">Notificações de mensagens</string>
   <string name="private_protect">Palavras-passe</string>
   <string name="private_settings">Definições</string>
   <string name="processing">A processar…</string>

@@ -94,6 +94,8 @@
   <string name="data_wipe_from_device">Eliminar a partir deste dispositivo</string>
   <string name="delete_action">Eliminar</string>
   <string name="delete_app">Eliminar aplicação</string>
+  <string name="delete_bank_card_message">Para proteger a sua propriedade, elimine o seu cartão bancário após terminar sessão</string>
+  <string name="delete_bank_card_title">Eliminar o seu cartão bancário</string>
   <string name="delete_browser">Eliminar navegador</string>
   <string name="delete_device">Eliminar dispositivo</string>
   <string name="delete_device_btn">Remover</string>

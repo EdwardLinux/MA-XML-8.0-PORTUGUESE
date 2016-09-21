@@ -3,6 +3,7 @@
   <string name="app_label">Leitor de HTML</string>
   <string name="app_name_which_call">Aplicação:%s</string>
   <string name="app_version_which_call">Versão de Aplicação:%s</string>
+  <string name="ime_privacy_policy">Escolher teclado</string>
   <string name="license_host_unreachable">"Não foi possível ligar à rede. Para ver esta informação agora, 
 vá a %s"</string>
   <string name="loading">A carregar…</string>

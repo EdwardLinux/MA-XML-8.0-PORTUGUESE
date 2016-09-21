@@ -16,8 +16,8 @@
   <string name="access_control_need_password">"%s adicionado com sucesso
 "</string>
   <string name="access_control_need_to_unlock">"Digitalizar impressão digital
-ou desenhar padrão do Bloqueio de aplicações"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Desenhar padrão do Bloqueio de aplicações</string>
+ou entrar no padrão de Protecção de Privacidade"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Entrar no padrão de Protecção de Privacidade</string>
   <string name="access_control_recording_intro_header">Desenhar padrão para adicionar Bloqueio de aplicações</string>
   <string name="access_control_reset_by_account">Iniciar sessão na sua Conta Mi para repor o padrão do Bloqueio de aplicações</string>
   <string name="action_button_text_100">Optimizar</string>
@@ -162,6 +162,12 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="battery_status_unknown">Erro desconhecido</string>
   <string name="battery_temperature_title">Temperatura</string>
   <string name="begin_date">Dia de reposição do ciclo de utilização</string>
+  <string name="bind_xiaomi_account_cancel">Cancelar</string>
+  <string name="bind_xiaomi_account_confirm">Adicionar</string>
+  <string name="bind_xiaomi_account_dialog_summery">Está prestes a adicionar a Conta Mi %s. Se esquecer a sua palavra-passe, pode utilizar esta conta para fazer a reposição da mesma. A conta vai ser removida automaticamente se terminar sessão</string>
+  <string name="bind_xiaomi_account_success">Conta Mi adicionada com sucesso</string>
+  <string name="bind_xiaomi_account_summary">Utilize a sua Conta Mi para repor a sua palavra-passe</string>
+  <string name="bind_xiaomi_account_title">Adicionar Conta Mi</string>
   <string name="boot_reminder">Ligar o dispositivo no horário definido</string>
   <string name="boot_time">Ligar: %1$s</string>
   <string name="boot_time_day">Ligar: %2$s %1$dd</string>
@@ -265,6 +271,7 @@ ou desenhar padrão do Bloqueio de aplicações"</string>
   <string name="cmcc_app_check_dialog_negative">Mais tarde</string>
   <string name="cmcc_app_check_dialog_positive">Reiniciar agora</string>
   <string name="cmcc_app_check_dialog_title">Sistema reparado</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">A adicionar Conta Mi</string>
   <string name="confirm_fingerprint_msg">Coloque o seu dedo no sensor</string>
   <string name="confirm_reject_all_permission">Restringir todas as aplicações de utilizarem esta funcionalidade?</string>
   <string name="connect_internet_by_mobiledata">Ligação de dados móveis</string>
@@ -762,6 +769,11 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="package_setted_error_notification_titile">Não foi possível definir plano de dados</string>
   <string name="packages_subtitle">Pacotes incluídos</string>
   <string name="passwordIncorrect">Utilizador ou palavra-passe incorrecto</string>
+  <string name="password_promotion_button_text">Entendi</string>
+  <string name="password_promotion_message">O Bloqueio de aplicações está a ser actualizado para o padrão de Protecção de Privacidade. Pode utilizar a sua Conta Mi actual para o repor</string>
+  <string name="password_promotion_not_login_xiaomi_account_message">O Bloqueio de aplicações está a ser actualizado para o padrão de Protecção de Privacidade. Pode utilizar a sua Conta Mi actual para o repor. Adicione a sua Conta Mi para o fazer</string>
+  <string name="password_promotion_postbutton_text">Ir para as Definições</string>
+  <string name="password_promotion_title">Padrão de Protecção de Privacidade</string>
   <string name="path_antispam">Aplicações de sistema/Segurança/Lista de bloqueio</string>
   <string name="path_antivirus">Aplicações de sistema/Segurança/Antivírus</string>
   <string name="path_cleanmaster">Aplicações de sistema/Segurança/Limpeza</string>
@@ -1069,6 +1081,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="see_detail">Detalhes</string>
   <string name="select_pattern">Seleccionar padrão</string>
   <string name="set_applock_password">Definir padrão</string>
+  <string name="setting_privacy_password">Definir padrão de Protecção de Privacidade</string>
   <string name="settings">Definições de utilização de dados</string>
   <string name="settings_battery_consume_abnormal_summary">Receber notificações quando a bateria estiver a descarregar rapidamente</string>
   <string name="settings_battery_consume_abnormal_title">Notificações de descarregamento de bateria</string>

@@ -224,6 +224,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="app_link_open_never">Não abrir nesta aplicação</string>
   <string name="app_list_memory_use">Utilização da aplicação</string>
   <string name="app_list_preference_none">Nenhuma</string>
+  <string name="app_lock_role_instruction">Proteja as suas aplicações privadas</string>
   <string name="app_memory_use">Memória utilizada</string>
   <string name="app_name_label">Aplicação</string>
   <string name="app_not_found_dlg_text">A aplicação não foi encontrada na lista de aplicações instaladas</string>
@@ -443,6 +444,11 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="battery_sugg_wifi">Desligar Wi-Fi quando não estiver em utilização ou disponível</string>
   <string name="battery_summary">Utilizou %1$d%% desde o último carregamento completo</string>
   <string name="bearer">Portador</string>
+  <string name="bind_xiaomi_account_cancel">Cancelar</string>
+  <string name="bind_xiaomi_account_confirm">Adicionar</string>
+  <string name="bind_xiaomi_account_dialog_summery">Está prestes a adicionar a Conta Mi %s. Se esquecer a sua palavra-passe, pode utilizar esta conta para fazer a reposição da mesma. A conta vai ser removida automaticamente se terminar sessão</string>
+  <string name="bind_xiaomi_account_success">Conta Mi adicionada com sucesso</string>
+  <string name="binded_xiaomi_summary">Conta actual: %s</string>
   <string name="ble_scan_notify_text">Para melhorar a precisão da localização, os serviços e as aplicações do sistema podem continuar a detectar dispositivos Bluetooth. Pode alterar esta opção nas LINK_BEGINdefinições de pesquisaLINK_END</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Ligado ao áudio multimédia</string>
@@ -750,6 +756,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="checking_decryption">A verificar…</string>
   <string name="checking_find_device_status">A verificar estado de Localizar Dispositivo…</string>
   <string name="checking_for_updates">A verificar actualizações…</string>
+  <string name="childmod_privacy_password_role_instruction">Ligue o Modo Criança para prevenir acções indesejadas quando o dispositivo estiver a ser utilizado por crianças</string>
   <string name="children_mode_enable_title">Modo Criança</string>
   <string name="children_mode_set_apps_title">Aplicações acessíveis</string>
   <string name="children_mode_tips_off">Após ligar o Modo Criança, toque no botão Início para voltar ao ecrã inicial</string>
@@ -800,6 +807,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="configure_apps">Configurar aplicações</string>
   <string name="configure_input_method">Configurar métodos de entrada</string>
   <string name="confirm_action">OK</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">Adicionar</string>
   <string name="confirm_download_cancelation_dialog_message">Cancelar transferência?</string>
   <string name="confirm_enable_multi_window_text">AVISO: esta é uma funcionalidade altamente experimental que permite múltiplas actividades no ecrã ao mesmo tempo através da IU de Aplicações recentes. Algumas aplicações podem falhar ou não funcionar correctamente quando utilizadas com esta funcionalidade</string>
   <string name="confirm_enable_multi_window_title">Activar o modo multi-janelas?</string>
@@ -809,6 +817,9 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="confirm_fingerprint_icon_content_description">Utilize a sua impressão digital para continuar</string>
   <string name="confirm_fingerprint_msg">Coloque o seu dedo no sensor</string>
   <string name="confirm_new_backup_pw_prompt">Reintroduzir novamente a sua nova palavra-passe para a cópia de segurança completa</string>
+  <string name="confirm_privacy_password">Entrar no padrão de Protecção de Privacidade</string>
+  <string name="confirm_privacy_password_fingerprint">Digitalizar impressão ou entrar no padrão de Protecção de Privacidade</string>
+  <string name="confirm_privacy_password_instruction">Este padrão protege aplicações, mensagens, fotos e contactos</string>
   <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">Ligar à rede</string>
   <string name="connected_via_passpoint">Ligado via %1$s</string>
@@ -1314,6 +1325,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="failed_to_shut_down_find_device_content">Não foi possível desligar Localizar Dispositivo. Aguarde alguns minutos e tente novamente</string>
   <string name="failed_to_shut_down_find_device_title">Não foi possível desligar</string>
   <string name="fcc_equipment_id">ID do equipamento</string>
+  <string name="file_privacy_password_role_instruction">Os seus ficheiros privados vão ser armazenados aqui</string>
   <string name="filter">Filtro</string>
   <string name="filter_all_apps">Todas as aplicações</string>
   <string name="filter_apps_all">Todas</string>
@@ -1350,6 +1362,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="fingerprint_lock_first">Desbloquear o primeiro espaço</string>
   <string name="fingerprint_lock_second">Desbloquear o segundo espaço</string>
   <string name="fingerprint_manage_category_title">Gerir impressões digitais</string>
+  <string name="fingerprint_not_identified_msg">Não foi possível ler impressão. Introduza a sua palavra-passe</string>
   <string name="fingerprint_not_recognized">Não reconhecido</string>
   <string name="fingerprint_removal_failed">Não foi possível remover impressão digital. Tente novamente mais tarde</string>
   <string name="fingerprint_usage_category_title">Utilizar impressões digitais para</string>
@@ -1390,6 +1403,9 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="force_touch_enable_tips">Com o 3D Touch ligado, a pressão longa no ícone da aplicação vai mostrar o menu de atalhos da aplicação</string>
   <string name="forget">Esquecer</string>
   <string name="forget_password_button_text"><u>Recuperar acesso?</u></string>
+  <string name="forget_pattern"><u>Esqueceu o padrão</u></string>
+  <string name="forget_privacy_password_setting">Adicionar Conta Mi</string>
+  <string name="forget_privacy_password_summary">Utiliza a Conta Mi para repor o seu padrão</string>
   <string name="forget_wifi_message">O seu telefone vai deixar de ligar a esta rede automaticamente</string>
   <string name="found_new_version">Actualização disponível</string>
   <string name="fp_nav_center_back_to_home_title">Toque no botão Início para voltar ao ecrã inicial</string>
@@ -1440,6 +1456,7 @@ Quando liga as cópias de segurança automática, os dados do dispositivo e das 
   <string name="gadget_toggle_bluetooth">A actualizar a definições de Bluetooth</string>
   <string name="gadget_toggle_wifi">A actualizar as definições de Wi-Fi</string>
   <string name="gadget_wifi">Wi-Fi</string>
+  <string name="gallery_privacy_password_role_instruction">As suas fotos privadas vão ser armazenadas aqui</string>
   <string name="game_controller_settings_category">Controlador de jogo</string>
   <string name="gesture_wakeup_title">Toque duplo no ecrã para despertar</string>
   <string name="global_change_warning">Esta definição vai afectar todos os utilizadores do telefone</string>
@@ -1575,6 +1592,7 @@ Quando liga as cópias de segurança automática, os dados do dispositivo e das 
   <string name="install_unknown_applications">Permitir a instalação de aplicações a partir de fontes desconhecidas</string>
   <string name="install_unknown_applications_title">Permite-lhe instalar aplicações de fontes que não sejam o Google Play</string>
   <string name="install_whole_rom">Transferir ROM</string>
+  <string name="instruction_privacy_password">Este padrão protege os seguintes itens</string>
   <string name="instruction_title">Instruções</string>
   <string name="insufficient_storage">Não há espaço de armazenamento suficiente</string>
   <string name="intent_sender_account_label">Conta:</string>
@@ -1866,6 +1884,8 @@ Quando liga as cópias de segurança automática, os dados do dispositivo e das 
   <string name="lockpattern_settings_power_button_instantly_locks_summary">Excepto quando mantido bloqueado por %1$s</string>
   <string name="lockpattern_settings_title">Padrão de desbloqueio</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts">Demasiadas tentativas incorrectas. Tente novamente dentro de %d segundos</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Tente novamente dentro de %d segundos</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Demasiadas tentativas incorrectas!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
   <string name="lockpattern_tutorial_continue_label">Seguinte</string>
   <string name="lockscreen_glogin_checking_password">A verificar…</string>
@@ -2021,6 +2041,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miui_experience_optimization">Ligar optimização MIUI</string>
   <string name="mms_breathing_light_color_title">Cor do LED das mensagens</string>
   <string name="mms_breathing_light_freq_title">Frequência da luz do LED das mensagens</string>
+  <string name="mms_privacy_password_role_instruction">As suas conversas com contactos privados vão ser armazenadas aqui</string>
   <string name="mobile_connect_to_internet">Por favor, active a ligação à Internet</string>
   <string name="mobile_data_always_on">Dados móveis sempre activados</string>
   <string name="mobile_data_always_on_summary">Manter sempre os dados móveis activados, mesmo quando o Wi-Fi estiver activado (para mudança de rede rápida)</string>
@@ -2031,6 +2052,8 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="mock_location_app_not_set">Aplicação de localização fictícia não definida</string>
   <string name="mock_location_app_set">Aplicação de localização fictícia: %1$s</string>
   <string name="model_number">Modelo do dispositivo</string>
+  <string name="modify_instruction_password_settings">Definir padrão</string>
+  <string name="modify_privacy_password">Alterar padrão</string>
   <string name="move_app">Mover</string>
   <string name="move_app_failed_dlg_text">Não foi possível mover aplicação. %1$s</string>
   <string name="move_app_failed_dlg_title"/>
@@ -2186,6 +2209,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="no_updates_warning2">Receberá um aviso quando houver uma nova actualização</string>
   <string name="noise_suppression">Supressão do ruído ambiente</string>
   <string name="not_installed">Não instalado</string>
+  <string name="notes_privacy_password_role_instruction">As suas notas privadas vão ser armazenadas aqui</string>
   <string name="notification_app_settings_button">Definições de notificações</string>
   <string name="notification_breathing_light_color_title">Cor do LED das notificações</string>
   <string name="notification_breathing_light_freq_title">Frequência da luz do LED das notificações</string>
@@ -2616,11 +2640,30 @@ Seleccione o seu sistema operativo:"</string>
   <string name="priority_storage_settings_summary">Se não for detectado nenhum cartão SD, os dados do utilizador serão guardados automaticamente no armazenamento interno do seu dispositivo</string>
   <string name="priority_storage_summary">Escolha onde guardar os seus dados</string>
   <string name="priority_storage_title">Definições de armazenamento</string>
+  <string name="privacy_applock">Bloqueio de aplicações</string>
+  <string name="privacy_childmode">Modo Criança</string>
+  <string name="privacy_file">Ficheiros</string>
+  <string name="privacy_gallery">Fotos</string>
+  <string name="privacy_mms">Mensagens</string>
   <string name="privacy_mode_dialog_message">Ocultar mensagens, notas, fotos, definições e chamadas recebidas?</string>
   <string name="privacy_mode_dialog_title">Modo Convidado</string>
   <string name="privacy_mode_enable_sum">Ocultar mensagens, notas, fotos, definições e chamadas recebidas</string>
   <string name="privacy_mode_enable_title">Modo Convidado</string>
-  <string name="privacy_protect_title">Protecção de privacidade</string>
+  <string name="privacy_notes">Notas</string>
+  <string name="privacy_password">Padrão de Protecção de Privacidade</string>
+  <string name="privacy_password_confirm_SecondSpace_Password">Confirmar o padrão do segundo espaço</string>
+  <string name="privacy_password_confirm_use_finger">Desbloquear com impressão digital</string>
+  <string name="privacy_password_fingerprint_confirm_failed">Não foi possível verificar impressão</string>
+  <string name="privacy_password_fingerprint_confirm_succes">Impressão verificada</string>
+  <string name="privacy_password_fingerprint_dialog_error_title">Não foi possível digitalizar impressão. Tente novamente</string>
+  <string name="privacy_password_fingerprint_dialog_message">Ponha o seu dedo no sensor</string>
+  <string name="privacy_password_fingerprint_dialog_title">Digitalizar a sua impressão</string>
+  <string name="privacy_password_settings">Utilizar o padrão de Protecção de Privacidade</string>
+  <string name="privacy_password_settings_titles">O padrão de Protecção de Privacidade protege as suas mensagens, fotos, notas e aplicações</string>
+  <string name="privacy_password_title">Padrão de Protecção de Privacidade</string>
+  <string name="privacy_password_transparent_tiltle"/>
+  <string name="privacy_password_visible_pattern">Mostrar padrão</string>
+  <string name="privacy_protect_title">Protecção de Privacidade</string>
   <string name="privacy_relative">Privacidade</string>
   <string name="privacy_settings">Cópia e restauro</string>
   <string name="privacy_settings_title">Cópia e restauro</string>
@@ -3236,6 +3279,7 @@ Para utilizar a fixação no ecrã:
   <string name="set_password_action">Definir palavra-passe</string>
   <string name="set_password_message">Definir uma palavra-passe para desligar o Modo Criança assim como desbloquear o dispositivo</string>
   <string name="set_password_title">Definir palavra-passe</string>
+  <string name="setting_privacy_password">Definir padrão de Protecção de Privacidade</string>
   <string name="settings_backup">Definições da cópia de segurança</string>
   <string name="settings_backup_summary">Fazer cópia das definições</string>
   <string name="settings_button">Definições</string>
@@ -3915,6 +3959,7 @@ As suas impressões digitais guardadas também são removidas deste dispositivo 
   <string name="use_nuplayer">Utilizar NuPlayer (experimental)</string>
   <string name="use_nuplayer_summary">Utilizar NuPlayer em vez de AwesomePlayer</string>
   <string name="use_personalized_ad_service">Anúncios personalizados</string>
+  <string name="use_privacy_password_immediate">Utilizar</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utilizar idioma do sistema</string>
   <string name="use_this_wlan">Permanecer ligado</string>
   <string name="user_account_title">Conta para conteúdo</string>

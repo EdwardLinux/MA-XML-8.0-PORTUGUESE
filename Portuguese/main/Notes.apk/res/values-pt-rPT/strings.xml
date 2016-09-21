@@ -22,16 +22,23 @@
   <string name="call_folder_name">Notas de chamada</string>
   <string name="default_folder_name">Pasta sem nome</string>
   <string name="delete_folder_dialog_tile">Eliminar pasta</string>
+  <string name="dlg_btn_set_password">Definir padrão</string>
   <string name="dlg_check_reminder">Não mostrar novamente</string>
   <string name="dlg_delete_message">A eliminar…</string>
   <string name="dlg_desc_confirm_alarm_silent">Os alarmes activos não vão tocar quando em modo silêncio</string>
   <string name="dlg_hide_message">A ocultar…</string>
   <string name="dlg_info_creating_message">A criar mensagem…</string>
+  <string name="dlg_message_password_reset">O padrão das notas ocultas vai ser substituido pelo padrão de Protecção de Privacidade que funciona para aplicações, fotos e pastas ocultas</string>
+  <string name="dlg_message_set_password">O padrão de Protecção de Privacidade funciona para aplicações, fotos e pastas ocultas</string>
+  <string name="dlg_message_use_privacy_password">Utilize o padrão de Protecção de Privacidade. Funciona para aplicações, fotos e pastas ocultas</string>
   <string name="dlg_move_message">A mover…</string>
   <string name="dlg_quick_delete_title">Eliminação rápida</string>
   <string name="dlg_restore_message">A restaurar…</string>
   <string name="dlg_stick_message">A fixar…</string>
   <string name="dlg_title_confirm_alarm_silent">Silenciar alarmes</string>
+  <string name="dlg_title_password_reset">Actualizar o seu padrão</string>
+  <string name="dlg_title_set_password">Definir padrão</string>
+  <string name="dlg_title_use_privacy_password">Utilizar o padrão de Protecção de Privacidade</string>
   <string name="dlg_unhide_message">A mostrar…</string>
   <string name="empty_folder_hint">"Sem pastas
 Toque no botão + para criar uma pasta"</string>

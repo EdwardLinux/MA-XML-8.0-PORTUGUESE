@@ -166,7 +166,7 @@
         <item quantity="one">Eliminado %d vírus</item>
     </plurals>
     <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d pontos</item>
-        <item quantity="one">+%d ponto</item>
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
     </plurals>
 </resources>

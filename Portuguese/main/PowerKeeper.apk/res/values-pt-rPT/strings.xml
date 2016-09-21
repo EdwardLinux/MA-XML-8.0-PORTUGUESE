@@ -142,9 +142,9 @@
   <string name="power_optimize_activity_profile_file_error">Erro na poupança de bateria</string>
   <string name="ragment_sys_listempty">Sem aplicações de sistema</string>
   <string name="reading">Modo de Leitura</string>
-  <string name="screen_off">Ecrã desligado</string>
-  <string name="screen_off_10_min">Ecrã desligado há mais de 10 minutos</string>
-  <string name="screen_on">Ecrã ligado</string>
+  <string name="screen_off">O ecrã está desligado</string>
+  <string name="screen_off_10_min">O ecrã está desligado há 10 minutos</string>
+  <string name="screen_on">O ecrã está ligado</string>
   <string name="select_items">%d seleccionado</string>
   <string name="set_brightness">Brilho máximo do ecrã</string>
   <string name="set_cpu_powermode">Utilização da CPU</string>

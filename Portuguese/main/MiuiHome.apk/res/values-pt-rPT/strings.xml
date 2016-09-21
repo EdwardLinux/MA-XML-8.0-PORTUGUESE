@@ -177,6 +177,8 @@
   <string name="multi_selecting_tips">Para seleccionar uma aplicação toque no seu ícone</string>
   <string name="no_detail_page">Sem página de detalhes</string>
   <string name="normal_wallpaper">Papel de parede</string>
+  <string name="notification_installed">Instalado com sucesso</string>
+  <string name="notification_open_button">Abrir</string>
   <string name="online_wallpaper">Online</string>
   <string name="out_of_space">Não existe mais espaço neste ecrã inicial</string>
   <string name="permdesc_install_shortcut">Permite que uma aplicação adicione atalhos sem a intervenção do utilizador</string>

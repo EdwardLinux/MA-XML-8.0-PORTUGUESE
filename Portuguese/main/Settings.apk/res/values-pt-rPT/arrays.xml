@@ -705,4 +705,12 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Médio</item>
         <item>Forte</item>
     </string-array>
+    <string-array name="privacy_password_function_specfication_names">
+       <item>Mensagens</item>
+       <item>Fotos</item>
+       <item>Ficheiros</item>
+       <item>Notas</item>
+       <item>Bloqueio de aplicações</item>
+       <item>Modo Criança</item>
+    </string-array>
 </resources>
