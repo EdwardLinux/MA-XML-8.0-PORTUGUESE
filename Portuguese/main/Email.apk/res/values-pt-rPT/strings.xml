@@ -235,7 +235,7 @@
   <string name="compose_paste_address_oob">O conteúdo colado é demasiado longo</string>
   <string name="compose_picturesexceedlimits">Não pode exceder as 5 imagens inline na mensagem</string>
   <string name="compose_send">Enviar</string>
-  <string name="compose_sent">Enviado com sucesso</string>
+  <string name="compose_sent">Email enviado</string>
   <string name="confirm">OK</string>
   <string name="confirm_before_delete">Confirmar antes de eliminar</string>
   <string name="confirm_before_delete_keywords">Confirmar antes de eliminar;eliminar confirmação</string>
@@ -454,7 +454,7 @@
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Iniciar sessão no Gmail</string>
   <string name="header_category_account">Contas</string>
-  <string name="header_category_other">Comentar</string>
+  <string name="header_category_other">Comentários</string>
   <string name="header_label_general_preferences">Definições gerais</string>
   <string name="help_and_info">Ajuda</string>
   <string name="hide_atts_remaining">Ocultar %1$d anexos</string>
