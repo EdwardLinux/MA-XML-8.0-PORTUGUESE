@@ -102,8 +102,8 @@
   <string name="auto_tune_hint_text">Mudar de canal automaticamente após iniciar. O telefone vai enviar um código de intervalo específico&lt;Canal+&gt;Botão</string>
   <string name="auto_tune_running">A executar a sintonização automática…</string>
   <string name="back">Voltar</string>
-  <string name="backup">Fazer cópia para a Nuvem Mi</string>
-  <string name="backup_failed">Erro na cópia. Tente novamente</string>
+  <string name="backup">Fazer cópia</string>
+  <string name="backup_failed">Não foi possível fazer a cópia. Tente novamente</string>
   <string name="backup_succeed">Cópia com sucesso</string>
   <string name="backuping">A fazer cópia…</string>
   <string name="bedroom">Quarto</string>
@@ -139,10 +139,10 @@
   <string name="check_upgrade">Verificar actualizações</string>
   <string name="choose_ac">Escolher controlo remoto</string>
   <string name="choose_address_title">Seleccionar localização</string>
-  <string name="choose_key_to_fix">Seleccionar a chave para reparar</string>
+  <string name="choose_key_to_fix">Escolher o botão a reparar</string>
   <string name="circlepad_slide_tips">Utilizar o botão circular para ajustar o volume</string>
   <string name="click_to_expend">Expandir</string>
-  <string name="click_to_login">Toque para iniciar sessão</string>
+  <string name="click_to_login">Iniciar sessão</string>
   <string name="click_to_retry">Toque para tentar novamente</string>
   <string name="click_to_shrink">Minimizar</string>
   <string name="close">Desligar</string>
@@ -155,23 +155,22 @@
   <string name="confirm_on">OK</string>
   <string name="connect_to_retry">Não é possível ligar à rede. Tente novamente mais tarde</string>
   <string name="connected">Ligado</string>
-  <string name="connected_stb">Set-top box ligada</string>
   <string name="continue_to_add_other_rc">Adicionar mais dispositivos</string>
   <string name="control_vol_by_cellphone">Utilizar dispositivo para controlar volume</string>
-  <string name="controller_invalid">O controlo remoto não existe</string>
+  <string name="controller_invalid">Este controlo remoto não existe</string>
   <string name="controller_list">Controlos remotos</string>
   <string name="cool_mode">Frio</string>
-  <string name="create_shortcut">Adicionar atalho ao ecrã inicial</string>
+  <string name="create_shortcut">Adicionar atalho</string>
   <string name="create_shortcut_cancel">Não obrigado</string>
   <string name="create_shortcut_confirm">Criar</string>
   <string name="create_shortcut_done">Criado com sucesso</string>
   <string name="current_place">"Localização actual: "</string>
-  <string name="current_play">A reproduzir:</string>
+  <string name="current_play">A reproduzir: </string>
   <string name="current_stb">"Actual: "</string>
   <string name="current_version_frame">Versão actual %s</string>
   <string name="current_version_latest">Sem actualizações disponíveis</string>
   <string name="data_request_error">Não foi possível obter informação</string>
-  <string name="day_string">Dia</string>
+  <string name="day_string">d</string>
   <string name="delete">Eliminar</string>
   <string name="delete_confirm">Eliminar dispositivo?</string>
   <string name="delete_desc">"Não é possível controlar “%s” utilizando C.Remoto Mi"</string>
@@ -259,7 +258,7 @@
   <string name="external_app">Instalar aplicação</string>
   <string name="external_photo">Ver fotos</string>
   <string name="external_video">Reproduzir vídeo</string>
-  <string name="extra_keys">Chaves extra</string>
+  <string name="extra_keys">Botões extra</string>
   <string name="fail_add_controller_photo">Adicionar foto do controlo remoto</string>
   <string name="fail_add_device_photo">Adicionar foto do dispositivo</string>
   <string name="fail_content">"    Não foi possível localizar informação de emparelhamento. Pode enviar o seu comentário para os nossos serviços"</string>
@@ -278,9 +277,9 @@
   <string name="feedback_error_tips">Se encontrou problemas ao usar este dispositivo, toque aqui para reportar o problema</string>
   <string name="find_adb_frame">%1$d dispositivos ADB detectados</string>
   <string name="find_milink_frame">%1$d dispositivos Mi detectados</string>
-  <string name="fix_keys">Reparar chaves</string>
+  <string name="fix_keys">Reparar botões</string>
   <string name="fix_keys_success">Reparado com sucesso!</string>
-  <string name="fix_keys_tips">Se algumas chaves não funcionarem, pode repará-las aqui</string>
+  <string name="fix_keys_tips">Se alguns botões não funcionarem, pode tentar repará-los</string>
   <string name="from_share">Partilhado por outros</string>
   <string name="gamepad">Gamepad</string>
   <string name="gamepad_rule">Não é possível utilizar orientação de paisagem no modo Gamepad</string>
@@ -289,14 +288,14 @@
   <string name="gesture_pad_sencond_line_tips">· Toque e segure na área central do ecrã para ver o menu. Deslize para cima ou para baixo para ajustar o volume</string>
   <string name="gesture_pad_vol_tips">Utilizar o volume do telefone para ajustar o volume no dispositivo ligado</string>
   <string name="get_backup_failed">Erro na cópia. Tente novamente</string>
-  <string name="get_backup_succeed">Cópia concluída. %1$d no total, %2$d mantiveram-se e %3$d são novos</string>
+  <string name="get_backup_succeed">Restaurado com sucesso. Total: %1$d | Actual: %2$d| Restaurados: %3$d</string>
   <string name="get_data_fail_tips">Não foi possível obter dados</string>
   <string name="get_info_failed">Não foi possível obter informação</string>
   <string name="get_location_fail_tip">Não foi possível definir localização. Escolha uma cidade</string>
-  <string name="guid_one">· Ligar à mesma rede Wi-Fi que o dispositivo de destino</string>
+  <string name="guid_one">· Ligar a set-top box/TV à mesma rede Wi-Fi que o seu telefone</string>
   <string name="guid_three">· Alguns controlos podem não estar disponíveis se a sua TV ou set-top box não suportar Android</string>
-  <string name="guid_two">· A sua MiTV vai ser detectada e mostrada nesta página</string>
-  <string name="guid_zero">. O seu dispositivo não suporta dispositivos IR</string>
+  <string name="guid_two">· Os dispositivos vão ser detectados e mostrados nesta página</string>
+  <string name="guid_zero">. O seu dispositivo não suporta dispositivos IR, mas suporta controlos remotos por Wi-Fi</string>
   <string name="guide">Guia</string>
   <string name="has_installed">Instalado</string>
   <string name="hd_channel_preferred">Preferir vídeo HD</string>
@@ -304,7 +303,7 @@
   <string name="history_none">Ainda não viu nenhum vídeo</string>
   <string name="history_title">Histórico</string>
   <string name="home">Casa</string>
-  <string name="home_pad_ac_status">%1$d ℃ %2$s</string>
+  <string name="home_pad_ac_status">%1$d °C %2$s</string>
   <string name="home_zhuye">Casa</string>
   <string name="hot_apps">Popular</string>
   <string name="hot_mode">Calor</string>
@@ -356,7 +355,7 @@
   <string name="just_now">Agora mesmo</string>
   <string name="just_used">Agora mesmo</string>
   <string name="key_press_vibrate">Vibrar ao tocar</string>
-  <string name="last_bak_time">Última cópia %1$s</string>
+  <string name="last_bak_time">Última cópia: %1$s</string>
   <string name="last_use_frame">%1$s atrás</string>
   <string name="less_than_10m">&lt;10m</string>
   <string name="living_room">Sala de estar</string>
@@ -373,10 +372,10 @@
   <string name="login_directly">Iniciar sessão</string>
   <string name="login_done">Com sessão iniciada</string>
   <string name="login_failed">Não foi possível iniciar sessão</string>
-  <string name="login_failed_tips">Não foi possível obter informações da sua conta. Verifique a sua ligação à rede</string>
-  <string name="login_thirdparty">Início de sessão por terceiros</string>
-  <string name="login_wxfailed_tips">Não foi possível obter informações da conta WeChat. Tente novamente mais tarde</string>
-  <string name="logining">A iniciar sessão</string>
+  <string name="login_failed_tips">Não foi possível obter informações da conta</string>
+  <string name="login_thirdparty">Outros métodos para iniciar sessão</string>
+  <string name="login_wxfailed_tips">Não foi possível obter informações da conta. Tente novamente mais tarde</string>
+  <string name="logining">A iniciar sessão…</string>
   <string name="logout">Terminar sessão</string>
   <string name="logout_done">Sessão terminada</string>
   <string name="management_app_management">Aplicações</string>
@@ -414,7 +413,7 @@ Volte para continuar"</string>
   <string name="match_main_tip_frame">"Aponte o controlo remoto para %1$s e prima o botão
 Solte quando %1$s responder"</string>
   <string name="match_main_tip_frame_click">"Aponte o controlo remoto para %1$s e toque no botão
- Depois responda à questão"</string>
+ Certifique-se que %1$s responde"</string>
   <string name="match_mibox_first">Mi TV encontrada</string>
   <string name="match_mibox_sencond">· Controlar a sua Mi TV com este dispositivo</string>
   <string name="match_mibox_third">· Adicionar outro dispositivo Mi automaticamente</string>
@@ -469,19 +468,19 @@ aguarde um momento depois da acção"</string>
   <string name="mi_brand">Mi</string>
   <string name="mi_rc">C.Remoto Mi</string>
   <string name="mibox">Mi Box</string>
-  <string name="milink_device_newfound">Encontrados novos dispositivos</string>
+  <string name="milink_device_newfound">Novo dispositivo</string>
   <string name="milink_device_offline">Desligados</string>
   <string name="milink_device_online">Ligados</string>
-  <string name="milink_device_rc_saved">O controlo remoto foi guardado</string>
+  <string name="milink_device_rc_saved">Controlo remoto guardado</string>
   <string name="milink_nowifi">Não está ligado ao Wi-Fi</string>
   <string name="milink_screenshot_done">Captura de ecrã concluída</string>
   <string name="milink_screenshot_pic">Capturas de ecrã</string>
-  <string name="milink_view_screenshot">Guardado para a galeria. Toque para navegar</string>
+  <string name="milink_view_screenshot">Guardado para a galeria. Toque para ver</string>
   <string name="minute">min</string>
   <string name="mitv">Mi TV</string>
   <string name="mitv_assistant_setting_version">Assistente Mi TV versão %1$s</string>
   <string name="mode">Modo</string>
-  <string name="month">Mês</string>
+  <string name="month">m</string>
   <string name="month_day_format">dd MMM</string>
   <string name="more">Mais</string>
   <string name="more_fav_channel">Mais favoritos</string>
@@ -495,7 +494,7 @@ aguarde um momento depois da acção"</string>
   <string name="my_favorite">Os meus favoritos</string>
   <string name="my_notification">Notificações</string>
   <string name="my_room">O meu quarto</string>
-  <string name="my_room_underline">O meu quarto</string>
+  <string name="my_room_underline"><u>O meu quarto</u></string>
   <string name="my_setting">Definições</string>
   <string name="network_diagnosis">Testar rede</string>
   <string name="network_no_connection">Não é possível ligar à rede. Verifique a sua ligação de rede e tente novamente</string>
@@ -510,7 +509,7 @@ aguarde um momento depois da acção"</string>
   <string name="no_introduction">Sem descrição</string>
   <string name="no_ir_other_support">Ainda pode utilizar o seu dispositivo para controlar a sua Mi TV ou Mi Box através de Wi-Fi</string>
   <string name="no_ir_support">Sem dispositivos IR encontrados</string>
-  <string name="no_network">" · Está ligado à Internet"</string>
+  <string name="no_network">" · Não foi possível ligar à rede"</string>
   <string name="no_program">Sem conteúdo aqui</string>
   <string name="no_qq">Instalar QQ primeiro</string>
   <string name="no_save_brand_service">Adicionar este controlo remoto novamente</string>
@@ -521,12 +520,11 @@ aguarde um momento depois da acção"</string>
   <string name="not_respond">Sem resposta</string>
   <string name="not_updated_yet">Sem actualizações</string>
   <string name="notification_found_device_text">Pode utilizar o C.Remoto Mi para controlar o dispositivo</string>
-  <string name="notification_found_device_title">Dispositivos encontrados: %1$s</string>
+  <string name="notification_found_device_title">Encontrado novo dispositivo: %1$s</string>
   <string name="notification_found_shared_remote_text">Toque para o controlar</string>
   <string name="notification_found_shared_remote_title">Encontrou um %1$s próximo</string>
   <string name="notification_str1">\"</string>
-  <string name="notification_str2">\" vai começar em 30 minutos</string>
-  <string name="notification_str3">\" vai começar em 5 minutos</string>
+  <string name="notification_str2">vai começar</string>
   <string name="notification_title">Notificação do temporizador</string>
   <string name="num_keys">Numérico</string>
   <string name="office">Escritório</string>
@@ -695,8 +693,8 @@ Para activar a sua conta, siga o
   <string name="please_select_stb">Seleccionar set-top box</string>
   <string name="please_select_tv">Seleccionar TV</string>
   <string name="popup_installed_app_no_app">A obter aplicações da TV. Tente novamente mais tarde</string>
-  <string name="popup_installed_app_title">Seleccionar a TV para abrir aplicações</string>
-  <string name="popup_select_device">Seleccionar o controlo remoto para abrir o Wi-Fi</string>
+  <string name="popup_installed_app_title">Seleccionar a aplicação que quer abrir na TV</string>
+  <string name="popup_select_device">Seleccionar o controlo remoto Wi-Fi</string>
   <string name="power">Ligar/Desligar</string>
   <string name="power_off">Desligado</string>
   <string name="power_on">Ligado</string>
@@ -728,7 +726,7 @@ Para activar a sua conta, siga o
   <string name="province">Província</string>
   <string name="pull_down_refresh">Descer para actualizar</string>
   <string name="pull_to_refresh">Descer para actualizar</string>
-  <string name="pull_up_refresh">Subir para actualizar</string>
+  <string name="pull_up_refresh">Soltar para actualizar</string>
   <string name="push_add">Encontrou um controlo remoto partilhado consigo</string>
   <string name="push_add_desc">Controlar %1$s com este controlo remoto?</string>
   <string name="quick_add_tv_power">Encontrada correspondência: Botão Ligar/Desligar %1$s da TV</string>
@@ -743,7 +741,7 @@ Para activar a sua conta, siga o
   <string name="refreshing_no_point">A actualizar…</string>
   <string name="refreshing_retry">Não foi possível carregar. Tente novamente</string>
   <string name="release_to_refresh">Soltar para actualizar</string>
-  <string name="rematch">Remarcar</string>
+  <string name="rematch">Emparelhar novamente</string>
   <string name="remote_controller_name">C.Remoto Mi</string>
   <string name="remove_fav_channel">Remover dos favoritos</string>
   <string name="rename">Mudar o nome</string>
@@ -795,7 +793,6 @@ Para activar a sua conta, siga o
  ecrã"</string>
   <string name="screenshot_failed">Não foi possível a captura de ecrã</string>
   <string name="screenshot_failed_and_check_connection">Não foi possível a captura de ecrã. Verifique os dispositivos ligados</string>
-  <string name="screenshot_failed_privicy">Não foi possível a captura de ecrã</string>
   <string name="screenshot_not_support_adb_devices">As capturas de ecrã não suportadas para este dispositivo</string>
   <string name="screenshot_not_support_video">As capturas de ecrã não suportadas actualmente</string>
   <string name="screenshoting">A capturar imagem de ecrã…</string>
@@ -818,7 +815,7 @@ Para activar a sua conta, siga o
   <string name="select_done">Concluído</string>
   <string name="select_dvb_carrier">Escolher provedor de serviço</string>
   <string name="select_screenshot_topic">Escolher tópico</string>
-  <string name="select_stb">Seleccionar a set-top box</string>
+  <string name="select_stb">Escolher set-top box</string>
   <string name="service_info">Informação de serviço</string>
   <string name="set_timeing_time_tip">O seu AC vai %2$s em %1$s</string>
   <string name="setting_airkan">Ecrã sem fios</string>
@@ -867,7 +864,7 @@ Para activar a sua conta, siga o
   <string name="share_popup_single_desc">Utilizar controlos remotos partilhados para controlar o dispositivo %1$s</string>
   <string name="share_popup_single_title">%1$s: um controlo remoto partilhado para %2$s está disponível</string>
   <string name="share_popup_title">%1$s um novo controlo remoto partilhado está disponível</string>
-  <string name="share_rc_list_title">Controlos remotos partilhados nas proximidades</string>
+  <string name="share_rc_list_title">Ver controlos remotos partilhados nas proximidades</string>
   <string name="share_rc_not_found">Sem controlos remotos partilhados nas proximidades</string>
   <string name="share_rc_state_share">A partilhar…</string>
   <string name="share_rc_title">Partilhar controlo remoto</string>
@@ -883,7 +880,7 @@ Para activar a sua conta, siga o
   <string name="shortcut_pop_desc">Parece que utiliza o C.Remoto Mi frequentemente. Criar um atalho no ecrã principal?</string>
   <string name="shortcut_pop_title">Atalho</string>
   <string name="show_all_episodes">Todos os episódios</string>
-  <string name="show_remote_when_lock_screen">Mostrar no ecrã de bloqueio</string>
+  <string name="show_remote_when_lock_screen">Mostrar controlos no ecrã de bloqueio</string>
   <string name="similar">Relacionado</string>
   <string name="skip">Ignorar</string>
   <string name="sleep">Em suspensão</string>
@@ -908,9 +905,9 @@ Para activar a sua conta, siga o
   <string name="succeed_finish">Concluído</string>
   <string name="succeed_title">Emparelhado</string>
   <string name="suggest_use_wifi_rc">*O CR por Wifi contém mais funcionalidades de transmissão</string>
-  <string name="supported_by_kookong">Suporte técnico por Youku</string>
+  <string name="supported_by_kookong">Suporte técnico por Kookong</string>
   <string name="supporting_soon">Brevemente</string>
-  <string name="swipe_loading">A carregar…</string>
+  <string name="swipe_loading">Aguarde…</string>
   <string name="switch_place">Escolher cidade</string>
   <string name="technical_support">Suporte técnico</string>
   <string name="temperature">Temperatura</string>
@@ -999,7 +996,7 @@ Para alterar, mantenha premido o botão Ligar/Desligar da TV"</string>
   <string name="video_today_recommend">Recomendação para hoje</string>
   <string name="virtual_keyhboard">Utilizar teclado do dispositivo</string>
   <string name="virtual_keyhboard_intro">Utilizar o teclado do seu dispositivo para escrever no ecrã</string>
-  <string name="voice">Voz</string>
+  <string name="voice">Áudio</string>
   <string name="voice_download_tips">Toque OK para transferir motor de voz</string>
   <string name="voice_download_title">Atenção</string>
   <string name="voice_engine_ifly_fail">Não foi possível reconhecer voz</string>
@@ -1009,8 +1006,8 @@ Para alterar, mantenha premido o botão Ligar/Desligar da TV"</string>
   <string name="weather_out">Temperatura exterior:</string>
   <string name="wechat_account">Conta WeChat</string>
   <string name="wifi_rc_create_help">Como criar um controlo remoto Wi-Fi</string>
-  <string name="wifi_rc_create_shortcut_desc">Adicionar %1$s ao ecrã inicial?</string>
-  <string name="wifi_rc_create_shortcut_title">Adicionar ao ecrã inicial</string>
+  <string name="wifi_rc_create_shortcut_desc">Adicionar um atalho para \"%1$s\"?</string>
+  <string name="wifi_rc_create_shortcut_title">Adicionar atalho</string>
   <string name="wind_direct">Fixo</string>
   <string name="wind_direct_automatic">Balanceado</string>
   <string name="wind_direct_down">Baixo</string>
@@ -1024,7 +1021,7 @@ Para alterar, mantenha premido o botão Ligar/Desligar da TV"</string>
   <string name="wind_speed_medium">Normal</string>
   <string name="wind_sweep">Balanço</string>
   <string name="wx_not_installed">WeChat não está instalado</string>
-  <string name="xiaomi_vip">VIP Mi</string>
+  <string name="xiaomi_vip">Mi Vip</string>
   <string name="year_month_day_format">dd/MM/yyyy</string>
   <string name="yes">Sim</string>
   <string name="yesterday">Ontem</string>
