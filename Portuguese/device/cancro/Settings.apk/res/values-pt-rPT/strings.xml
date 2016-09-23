@@ -446,7 +446,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="bearer">Portador</string>
   <string name="bind_xiaomi_account_cancel">Cancelar</string>
   <string name="bind_xiaomi_account_confirm">Adicionar</string>
-  <string name="bind_xiaomi_account_dialog_summery">Está prestes a adicionar a Conta Mi %s. Se esquecer a sua palavra-passe, pode utilizar esta conta para fazer a reposição da mesma. A conta vai ser removida automaticamente se terminar sessão</string>
+  <string name="bind_xiaomi_account_dialog_summery">Está prestes a adicionar a Conta Mi %s. Se esquecer o seu padrão, pode utilizar esta conta para fazer a reposição do mesmo. A conta vai ser removida automaticamente se terminar sessão</string>
   <string name="bind_xiaomi_account_success">Conta Mi adicionada com sucesso</string>
   <string name="binded_xiaomi_summary">Conta actual: %s</string>
   <string name="ble_scan_notify_text">Para melhorar a precisão da localização, os serviços e as aplicações do sistema podem continuar a detectar dispositivos Bluetooth. Pode alterar esta opção nas LINK_BEGINdefinições de pesquisaLINK_END</string>
@@ -807,7 +807,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="configure_apps">Configurar aplicações</string>
   <string name="configure_input_method">Configurar métodos de entrada</string>
   <string name="confirm_action">OK</string>
-  <string name="confirm_bind_xiaomi_account_dialog_title">Adicionar</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">Adicionar Conta Mi</string>
   <string name="confirm_download_cancelation_dialog_message">Cancelar transferência?</string>
   <string name="confirm_enable_multi_window_text">AVISO: esta é uma funcionalidade altamente experimental que permite múltiplas actividades no ecrã ao mesmo tempo através da IU de Aplicações recentes. Algumas aplicações podem falhar ou não funcionar correctamente quando utilizadas com esta funcionalidade</string>
   <string name="confirm_enable_multi_window_title">Activar o modo multi-janelas?</string>
@@ -817,8 +817,8 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="confirm_fingerprint_icon_content_description">Utilize a sua impressão digital para continuar</string>
   <string name="confirm_fingerprint_msg">Coloque o seu dedo no sensor</string>
   <string name="confirm_new_backup_pw_prompt">Reintroduzir novamente a sua nova palavra-passe para a cópia de segurança completa</string>
-  <string name="confirm_privacy_password">Entrar no padrão de Protecção de Privacidade</string>
-  <string name="confirm_privacy_password_fingerprint">Digitalizar impressão ou entrar no padrão de Protecção de Privacidade</string>
+  <string name="confirm_privacy_password">Introduzir padrão de Protecção de Privacidade</string>
+  <string name="confirm_privacy_password_fingerprint">Digitalizar impressão ou introduzir padrão de Protecção de Privacidade</string>
   <string name="confirm_privacy_password_instruction">Este padrão protege aplicações, mensagens, fotos e contactos</string>
   <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">Ligar à rede</string>
@@ -1403,9 +1403,9 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="force_touch_enable_tips">Com o 3D Touch ligado, a pressão longa no ícone da aplicação vai mostrar o menu de atalhos da aplicação</string>
   <string name="forget">Esquecer</string>
   <string name="forget_password_button_text"><u>Recuperar acesso?</u></string>
-  <string name="forget_pattern"><u>Esqueceu o padrão</u></string>
+  <string name="forget_pattern"><u>Esqueceu o padrão?</u></string>
   <string name="forget_privacy_password_setting">Adicionar Conta Mi</string>
-  <string name="forget_privacy_password_summary">Utiliza a Conta Mi para repor o seu padrão</string>
+  <string name="forget_privacy_password_summary">Utilizar a Conta Mi para repor o seu padrão</string>
   <string name="forget_wifi_message">O seu telefone vai deixar de ligar a esta rede automaticamente</string>
   <string name="found_new_version">Actualização disponível</string>
   <string name="fp_nav_center_back_to_home_title">Toque no botão Início para voltar ao ecrã inicial</string>
@@ -1592,7 +1592,7 @@ Quando liga as cópias de segurança automática, os dados do dispositivo e das 
   <string name="install_unknown_applications">Permitir a instalação de aplicações a partir de fontes desconhecidas</string>
   <string name="install_unknown_applications_title">Permite-lhe instalar aplicações de fontes que não sejam o Google Play</string>
   <string name="install_whole_rom">Transferir ROM</string>
-  <string name="instruction_privacy_password">Este padrão protege os seguintes itens</string>
+  <string name="instruction_privacy_password">Itens protegidos com este padrão</string>
   <string name="instruction_title">Instruções</string>
   <string name="insufficient_storage">Não há espaço de armazenamento suficiente</string>
   <string name="intent_sender_account_label">Conta:</string>
@@ -1872,7 +1872,7 @@ Quando liga as cópias de segurança automática, os dados do dispositivo e das 
   <string name="lockpattern_recording_intro_header">Desenhar um padrão de desbloqueio</string>
   <string name="lockpattern_recording_intro_header_second_space">Desenhar um padrão de desbloqueio para o segundo espaço</string>
   <string name="lockpattern_restart_button_text">Desenhar novamente</string>
-  <string name="lockpattern_retry_button_text">Tentar novamente</string>
+  <string name="lockpattern_retry_button_text">Limpar</string>
   <string name="lockpattern_settings_change_lock_pattern">Alterar padrão de desbloqueio</string>
   <string name="lockpattern_settings_choose_lock_pattern">Definir padrão de desbloqueio</string>
   <string name="lockpattern_settings_enable_power_button_instantly_locks">Botão Ligar/Desligar bloqueia o ecrã</string>
@@ -2052,7 +2052,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="mock_location_app_not_set">Aplicação de localização fictícia não definida</string>
   <string name="mock_location_app_set">Aplicação de localização fictícia: %1$s</string>
   <string name="model_number">Modelo do dispositivo</string>
-  <string name="modify_instruction_password_settings">Definir padrão</string>
+  <string name="modify_instruction_password_settings">Definições do padrão</string>
   <string name="modify_privacy_password">Alterar padrão</string>
   <string name="move_app">Mover</string>
   <string name="move_app_failed_dlg_text">Não foi possível mover aplicação. %1$s</string>
@@ -2650,7 +2650,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="privacy_mode_enable_sum">Ocultar mensagens, notas, fotos, definições e chamadas recebidas</string>
   <string name="privacy_mode_enable_title">Modo Convidado</string>
   <string name="privacy_notes">Notas</string>
-  <string name="privacy_password">Padrão de Protecção de Privacidade</string>
+  <string name="privacy_password">Protecção de Privacidade</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Confirmar o padrão do segundo espaço</string>
   <string name="privacy_password_confirm_use_finger">Desbloquear com impressão digital</string>
   <string name="privacy_password_fingerprint_confirm_failed">Não foi possível verificar impressão</string>
@@ -2660,7 +2660,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="privacy_password_fingerprint_dialog_title">Digitalizar a sua impressão</string>
   <string name="privacy_password_settings">Utilizar o padrão de Protecção de Privacidade</string>
   <string name="privacy_password_settings_titles">O padrão de Protecção de Privacidade protege as suas mensagens, fotos, notas e aplicações</string>
-  <string name="privacy_password_title">Padrão de Protecção de Privacidade</string>
+  <string name="privacy_password_title">Protecção de Privacidade</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Mostrar padrão</string>
   <string name="privacy_protect_title">Protecção de Privacidade</string>
