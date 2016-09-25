@@ -440,12 +440,12 @@ ou entrar no padrão de Protecção de Privacidade"</string>
   <string name="hints_install_apps_new">Nunca utilizado</string>
   <string name="hints_install_apps_today">Utilizado hoje</string>
   <string name="hints_last_virus_scan_none">Nunca verificados antes</string>
-  <string name="hints_last_virus_scan_risk">Verificado à %d dias antes: Suspeito</string>
-  <string name="hints_last_virus_scan_safe">Verificado à %d dias antes: Seguro</string>
+  <string name="hints_last_virus_scan_risk">Verificado há %d dias atrás: Suspeito</string>
+  <string name="hints_last_virus_scan_safe">Verificado há %d dias atrás: Seguro</string>
   <string name="hints_last_virus_scan_today_risk">Verificado hoje: Suspeito</string>
   <string name="hints_last_virus_scan_today_safe">Verificado hoje: Seguro</string>
   <string name="hints_last_virus_scan_today_virus">Verificado hoje: Em perigo</string>
-  <string name="hints_last_virus_scan_virus">Verificado à %d dias antes: Em perigo</string>
+  <string name="hints_last_virus_scan_virus">Verificado há %d dias atrás: Em perigo</string>
   <string name="hints_last_virus_scan_yesterday_risk">Verificado ontem: Suspeito</string>
   <string name="hints_last_virus_scan_yesterday_safe">Verificado ontem: Seguro</string>
   <string name="hints_last_virus_scan_yesterday_virus">Verificado ontem: Em perigo</string>
