@@ -122,6 +122,9 @@
   <string name="callFailed_userBusy">Linha ocupada</string>
   <string name="callUnanswered_forwarded">Chamada não atendida e reencaminhada</string>
   <string name="call_advanced_setting_title">Definições avançadas</string>
+  <string name="call_background_default">Predefinida</string>
+  <string name="call_background_lock_wallpaper">Papel de parede do ecrã de bloqueio</string>
+  <string name="call_background_setting">Imagem de fundo das chamadas</string>
   <string name="call_barring">Barramento de chamadas</string>
   <string name="call_barring_incoming">Barramento de chamadas recebidas</string>
   <string name="call_barring_outgoing">Barramento de chamadas efectuadas</string>
@@ -342,8 +345,8 @@
   <string name="empty_alert">%s não pode ficar em branco</string>
   <string name="empty_networks_list">Não foram encontradas redes</string>
   <string name="enable">Ligar</string>
-  <string name="enable_antispam_strange_summary">Silenciar ao primeiro toque as chamadas de números desconhecidos</string>
-  <string name="enable_antispam_strange_title">Silenciar ao primeiro toque</string>
+  <string name="enable_antispam_strange_summary">Silenciar o primeiro toque para chamadas de números desconhecidos</string>
+  <string name="enable_antispam_strange_title">Silenciar o primeiro toque</string>
   <string name="enable_button_text">Seguinte</string>
   <string name="enable_disable_administrative">Administrativo</string>
   <string name="enable_disable_advertisements">Anúncios</string>
@@ -379,7 +382,7 @@
   <string name="enable_video_calling_title">Ligar videochamadas</string>
   <string name="enhanced_4g_lte_mode_off_failed">Não foi possível desligar VoLTE</string>
   <string name="enhanced_4g_lte_mode_on_failed">Não foi possível ligar VoLTE</string>
-  <string name="enhanced_4g_lte_mode_summary">Utilizar os serviços 4G LTE para melhorar a qualidade das chamadas e outras comunicações (recomendado)</string>
+  <string name="enhanced_4g_lte_mode_summary">Utilizar os serviços 4G LTE para melhorar a voz e outras comunicações (recomendado)</string>
   <string name="enhanced_4g_lte_mode_title">Modo 4G LTE Avançado</string>
   <string name="ensure_info">Sim</string>
   <string name="enterName">Nome</string>
@@ -418,7 +421,7 @@
   <string name="fdn_summary">Restringir chamadas para lista FDN ou para números com determinados prefixos</string>
   <string name="fdn_with_label">Números de marcação fixa (%s)</string>
   <string name="feedback">Feedback</string>
-  <string name="flash_when_ring_summary">A luz do flash pisca para as chamadas recebidas</string>
+  <string name="flash_when_ring_summary">Acender luz de flash ao receber chamadas</string>
   <string name="flash_when_ring_title">Acender flash quando tocar</string>
   <string name="fw_change_failed">"Não foi possível alterar o número de reencaminhamento.
 Contacte a sua operadora se este problema persistir"</string>
@@ -552,7 +555,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="livetalk_setting">Pacotes de carregamento</string>
   <string name="livetalk_user_config_title">Verificação do SIM</string>
   <string name="livetalk_white_list_number_title">Fazer chamada normal</string>
-  <string name="load_networks_progress">A pesquisar…</string>
+  <string name="load_networks_progress">A procurar…</string>
   <string name="loading">Aguarde…</string>
   <string name="loading_order">Aguarde…</string>
   <string name="local_disable">Notícias locais está desligado</string>
@@ -620,7 +623,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Erro do cartão SIM</string>
   <string name="msim_setting_categery_title">Informação do cartão SIM</string>
   <string name="msim_setting_no_sim_indicator">Sem cartão SIM</string>
-  <string name="msim_setting_operator_network_title">Rede Móvel</string>
+  <string name="msim_setting_operator_network_title">Rede móvel</string>
   <string name="msim_setting_screen_title">Cartões SIM e redes móveis</string>
   <string name="msim_setting_sim_info_editor_title">Editar informação do cartão SIM</string>
   <string name="msim_sim_lock">Bloqueado</string>
@@ -638,25 +641,25 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="network_error_message_livetalk">Tente fazer uma chamada normal. Será cobrado um valor adicional pela sua operadora</string>
   <string name="network_error_title">Erro de rede</string>
   <string name="network_global">Global</string>
-  <string name="network_id">ID de Rede</string>
+  <string name="network_id">ID da rede</string>
   <string name="network_info_message">Mensagem de rede</string>
   <string name="network_lte">LTE (recomendado)</string>
   <string name="network_message">Mensagem de rede</string>
   <string name="network_query_error">Erro ao procurar redes</string>
-  <string name="network_settings_auto_select_title">Escolher rede manualmente</string>
+  <string name="network_settings_auto_select_title">Escolher a rede manualmente</string>
   <string name="network_settings_automatically_option">Escolher rede preferida automaticamente (%s)</string>
-  <string name="network_settings_confirm_message">O seu dispositivo vai desligar da rede enquanto estiver a pesquisar redes disponíveis</string>
-  <string name="network_settings_data_connected_change">Os dados móveis vão ser desligados automaticamente enquanto estiver a pesquisar redes disponíveis</string>
+  <string name="network_settings_confirm_message">O seu dispositivo vai desligar da rede enquanto estiver a procurar redes disponíveis</string>
+  <string name="network_settings_data_connected_change">Os dados móveis vão ser desligados automaticamente enquanto estiver a procurar redes disponíveis</string>
   <string name="network_settings_duringcall">Operação não permitida durante uma chamada</string>
-  <string name="network_settings_forbidden">%s (proibido)</string>
-  <string name="network_settings_information">Desligar os dados móveis?</string>
+  <string name="network_settings_forbidden">%s (proibida)</string>
+  <string name="network_settings_information">Desligar dados móveis</string>
   <string name="network_settings_next">Seguinte</string>
-  <string name="network_settings_query_failed_message">Não foi possível pesquisar redes móveis</string>
+  <string name="network_settings_query_failed_message">Não foi possível procurar redes móveis</string>
   <string name="network_settings_select_automatic_hint">"Não foi possível registar na rede seleccionada.
 Será utilizada a rede preferida"</string>
   <string name="network_settings_title">Redes móveis</string>
   <string name="network_settings_turn_off">Desligado</string>
-  <string name="network_settings_warn_message">O dispositivo apenas vai ligar a redes que seleccionou manualmente</string>
+  <string name="network_settings_warn_message">O seu dispositivo apenas vai ligar a redes que seleccionar manualmente</string>
   <string name="network_unlock">Desbloquear</string>
   <string name="networks">Operadores de rede</string>
   <string name="networks_title">Redes móveis</string>
@@ -748,12 +751,12 @@ Este processo poderá demorar até 5 minutos"</string>
   <string name="ota_title_problem_with_activation">Não é possível activar</string>
   <string name="ota_touch_activate">"É necessário fazer uma chamada específica para activar o serviço do seu telefone. 
 
-Depois de premir “Activar”, ouvir as instruções fornecidas pela sua operadora para activar o seu telefone"</string>
+Depois de premir “Activar”, ouvir as instruções fornecidas pela sua operadora para activar o seu telefone."</string>
   <string name="ota_try_again">Repetir</string>
   <string name="ota_unsuccessful">"O seu telefone não ficou activado.
-Precisa de encontrar uma zona com melhor cobertura (perto de uma janela, ou no exterior).
+Precisa de encontrar uma zona com melhor cobertura (perto de uma janela, ou no exterior). 
 
-Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções"</string>
+Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções."</string>
   <string name="other_settings">Outras definições de chamada</string>
   <string name="other_settings_category">Outros</string>
   <string name="overseas_roaming_setting">Dados em roaming</string>
@@ -764,6 +767,7 @@ Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções"
   <string name="path_app_name">Aplicações de sistema/Telefone</string>
   <string name="path_auto_answer_pref_title">Aplicações de sistema/Telefone/Atender automaticamente</string>
   <string name="path_autoip">Aplicações de sistema/Telefone/Definições avançadas/Marcação automática de IP</string>
+  <string name="path_call_background_setting_name">Aplicações de sistema/Telefone/Definições avançadas/Imagem de fundo das chamadas</string>
   <string name="path_call_forwarding_settings">Aplicações de sistema/Telefone/Reencaminhamento de chamadas</string>
   <string name="path_call_record_auto_title">Aplicações de sistema/Telefone/Gravação de chamadas/Gravar chamadas automaticamente</string>
   <string name="path_call_record_setting">Aplicações de sistema/Telefone/Gravação de chamadas</string>
@@ -772,7 +776,7 @@ Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções"
   <string name="path_call_waiting_tone_title">Aplicações de sistema/Telefone/Definições avançadas/Notificação de chamada em espera</string>
   <string name="path_caller_id_title">Aplicações de sistema/Telefone/Definições avançadas/ID do autor da chamada</string>
   <string name="path_cloud_antispam_title">Aplicações de sistema/Telefone/Identificar números desconhecidos</string>
-  <string name="path_connect_disconnect_vibrate_title">Aplicações de sistema/Telefone/Definições avançadas/Vibração quando a chamada é atendida</string>
+  <string name="path_connect_disconnect_vibrate_title">Aplicações de sistema/Telefone/Definições avançadas/Vibrar quando a chamada é atendida</string>
   <string name="path_dtmf_tones_title">Aplicações de sistema/Telefone/Definições avançadas/Tons DTMF</string>
   <string name="path_enable_antispam_strange_title">Phone/Incoming call settings/Silenciar o primeiro toque</string>
   <string name="path_enable_proximity_title">Aplicações de sistema/Telefone/Definições das chamadas recebidas/Sensor de proximidade</string>
@@ -791,7 +795,7 @@ Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções"
   <string name="path_telocation_enable_title">Aplicações de sistema/Telefone/Localização/Mostrar localização</string>
   <string name="path_turnover_mute_title">Aplicações de sistema/Telefone/Definições das chamadas recebidas/Inverter para silenciar</string>
   <string name="path_voicemail_settings">Aplicações de sistema/Telefone/Definições avançadas/Definições Voice Mail</string>
-  <string name="path_voip_setting">Aplicações de sistema/Telefone/Definições VoIP</string>
+  <string name="path_voip_setting">Aplicações de sistema/Telefone/Voz Mi</string>
   <string name="pause_prompt_no">Não</string>
   <string name="pause_prompt_str">"A enviar tons
 "</string>
@@ -891,7 +895,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preferred_network_type_cdma">CDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred">Rede 3G</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Rede 3G (CDMA)</string>
-  <string name="preferred_network_type_pref_entries_4g_preferred">Rede 4G LTE</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred">Rede 4G (LTE)</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Rede 4G (CDMA)</string>
   <string name="preferred_network_type_pref_entries_auto">Automática</string>
   <string name="preferred_network_type_pref_entries_global">Global</string>
@@ -913,7 +917,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="puk_label">Introduzir código PUK</string>
   <string name="puk_lock_warning">"
 O cartão SIM será bloqueado após nova tentativa falhada"</string>
-  <string name="puk_requested">Palavra-passe incorrecta. O PIN está bloqueado. É necessário PUK</string>
+  <string name="puk_requested">Palavra-passe incorrecta, PIN está bloqueado. Necessário PUK</string>
   <string name="puk_unlock_failed">Desbloqueio com PUK sem sucesso</string>
   <string name="puk_unlock_success">Desbloqueio com PUK com sucesso</string>
   <string name="puk_unlocked">O cartão SIM foi desbloqueado. O telefone está a desbloquear…</string>
@@ -1003,7 +1007,7 @@ O cartão SIM será bloqueado após nova tentativa falhada"</string>
   <string name="save">Guardar</string>
   <string name="saving_account">A guardar…</string>
   <string name="search_antispam_setting">Lista de bloqueio</string>
-  <string name="search_app_name">Telefone</string>
+  <string name="search_app_name">Telefone;Gravação de chamadas;Reencaminhamento de chamadas;Chamada em espera;Lista de bloqueio;Códigos de país;VoIP;Chamadas não atendidas;SIP;T9;FDN</string>
   <string name="search_networks">Pesquisar redes</string>
   <string name="selectContact">Seleccionar contacto</string>
   <string name="select_automatically">Escolher automaticamente</string>
@@ -1044,7 +1048,7 @@ O cartão SIM será bloqueado após nova tentativa falhada"</string>
   <string name="sim_useless">SIM indisponível</string>
   <string name="sip_account_list">Contas SIP</string>
   <string name="sip_accounts">Contas SIP</string>
-  <string name="sip_accounts_title">Contas SIP</string>
+  <string name="sip_accounts_title">Contas</string>
   <string name="sip_add_account_tip_text">Para utilizar chamadas pela Internet adicione uma conta SIP</string>
   <string name="sip_always_send_keepalive">Enviar sempre</string>
   <string name="sip_call_options_entry_1">Para todas as chamadas quando a rede de dados está disponível</string>
