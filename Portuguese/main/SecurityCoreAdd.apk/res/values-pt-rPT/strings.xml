@@ -39,7 +39,7 @@ esta funcionalidade vai ser adicionada automaticamente ao segundo espaço"</stri
   <string name="contact_titile_text">"Mostrar mensagens privadas no segundo espaço
 para poder vê-las em qualquer momento"</string>
   <string name="continueButton">Continuar</string>
-  <string name="createANewSpace">Criar um espaço separado no seu telefone</string>
+  <string name="createANewSpace">Crie um espaço separado no seu telefone.</string>
   <string name="createUserFail">Não foi possível criar</string>
   <string name="create_app_icon_failed">Não foi possível criar ícone</string>
   <string name="create_app_icon_success">Ícone criado com sucesso</string>
