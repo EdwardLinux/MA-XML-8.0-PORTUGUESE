@@ -122,7 +122,6 @@
   <string name="find_device_account_error">Não é possível obter estado devido a um erro na conta</string>
   <string name="find_device_activate_account">Activar conta</string>
   <string name="find_device_bad_response_error">Não é possível obter estado devido a um erro no servidor. Tente novamente mais tarde</string>
-  <string name="find_device_display_id">ID de desbloqueio: %s</string>
   <string name="find_device_error_password_not_confirmed">Não é possível desligar Localizar Dispositivo. Introduza a palavra-passe da sua Conta Mi novamente</string>
   <string name="find_device_error_password_recently_changed">Alterou a sua palavra-passe há menos de 3 dias. Não é possível desligar Localizar Dispositivo agora devido a motivos de segurança</string>
   <string name="find_device_interrupted">A acção foi interrompida. Tente novamente mais tarde</string>
@@ -147,7 +146,7 @@
   <string name="location_service_not_working">Serviço de localização não está a funcionar</string>
   <string name="login_check_find_device">A obter informação de segurança do dispositivo…</string>
   <string name="login_check_find_device_failed_title">Não foi possível verificar o estado de Localizar Dispositivo</string>
-  <string name="login_find_device_bind">Este dispositivo está associado com a Conta Mi (%s)</string>
+  <string name="login_find_device_bind">Este dispositivo está associado com a Conta Mi (%s). Introduza a palavra-passe para verificar o dispositivo</string>
   <string name="login_guard_prompt">É necessário a verificação do número de telefone quando iniciar sessão na sua Conta Mi num dispositivo ou aplicação desconhecido pela primeira vez</string>
   <string name="logout_failed">Não é possível terminar sessão</string>
   <string name="mi_account_identity_title">Verificar a sua identidade</string>
@@ -156,8 +155,6 @@
   <string name="micloud_space_info">%s disponível</string>
   <string name="mili_center">Créditos Mi</string>
   <string name="mipay_center">Carteira Mi</string>
-  <string name="miui_provision_find_status_text">"Este telefone está associado à Conta Mi (%1$s). É necessário introduzir a palavra-passe para verificar o dispositivo
-(ID de desbloqueio: %2$s)"</string>
   <string name="multi_user_not_show_sync_activity_message_1">Está a utilizar o seu espaço predefinido da Conta Mi</string>
   <string name="multi_user_not_show_sync_activity_message_2">Nesse caso, todos os dados vão ser sincronizados com o seu Segundo espaço. Para prevenir isto, não ligue a sincronização com a Nuvem Mi</string>
   <string name="multi_user_not_show_sync_activity_title">Não ligar a sincronização com a Nuvem Mi</string>
@@ -209,7 +206,7 @@ Para activar a sua conta siga o
   <string name="passport_error_empty_email">Introduzir o seu endereço de email</string>
   <string name="passport_error_empty_phone_num">Introduzir número de telefone</string>
   <string name="passport_error_empty_pwd">Introduzir a sua palavra-passe</string>
-  <string name="passport_error_empty_username">Introduzir o seu utilizador</string>
+  <string name="passport_error_empty_username">Introduzir a sua ID Conta Mi</string>
   <string name="passport_error_empty_vcode">Introduzir código de verificação</string>
   <string name="passport_error_illegal_pwd">Palavra-passe inválida</string>
   <string name="passport_error_invalid_dev_id">O seu ID de dispositivo é inválido</string>
@@ -364,6 +361,10 @@ Certifique-se que memoriza as respostas a estas perguntas"</string>
   <string name="turn_off_find_device_failed_title">Não é possível desligar Localizar Dispositivo</string>
   <string name="turning_off_find_device">A desligar Localizar Dispositivo…</string>
   <string name="unbind_sns_description">Depois de desassociar esta conta não vai poder utilizar as suas informações da Conta %s para iniciar sessão na sua Conta Mi</string>
+  <string name="unlock_help_notice">"Ajuda:
+· Se esqueceu a sua palavra-passe, vá a id.mi.com para a repor.
+· Se não consegue desbloquear o seu dispositivo, vá a i.mi.com para desligar Localizar Dispositivo.
+· Reporte este número de desbloqueio ao serviço de clientes: %s"</string>
   <string name="update_contacts">Actualizar livro de endereços</string>
   <string name="update_email_address_dialog_message">É necessário verificar a sua identidade antes de poder actualizar o seu email</string>
   <string name="update_email_address_dialog_title">Actualizar email</string>

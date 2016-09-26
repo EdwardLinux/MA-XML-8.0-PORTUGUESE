@@ -53,6 +53,12 @@ ou entrar no padrão de Protecção de Privacidade"</string>
   <string name="activity_title_virus">Vírus</string>
   <string name="activity_title_virus_detail">Detalhes do vírus</string>
   <string name="activity_title_virus_settings">Definições</string>
+  <string name="adb_install_no_network">Ligue-se à rede e tente novamente</string>
+  <string name="adb_install_open">A permitir…</string>
+  <string name="adb_install_open_error">Não foi possível permitir. Verifique a sua ligação à rede</string>
+  <string name="adb_install_reject_notiy">Não permitiu a instalação de %s via USB</string>
+  <string name="adb_install_reject_notiy_desc">Pode permitir a instalação via USB nas Opções de programador</string>
+  <string name="adb_login_xiaomi_account">Inicie sessão na sua Conta Mi primeiro</string>
   <string name="add_miservice_dialog_content">%s necessita que adicione o serviço de Framework MIUI à lista de excepções. Pode receber notificações de aplicações MIUI embutidas e outras aplicações de terceiros</string>
   <string name="add_miservice_dialog_title">Serviço FrameWork MIUI</string>
   <string name="add_to_whitelist_button">Excepções de dados em roaming</string>
@@ -712,6 +718,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="notification_item">Proteger as aplicações seleccionadas com o Bloqueio de aplicações</string>
   <string name="notification_subtitle">Toque para ligar</string>
   <string name="notification_summary_cmcc_app_check">Toque para ver detalhes</string>
+  <string name="notification_sysapp_cracked_text">A versão actual da MIUI foi modificada</string>
+  <string name="notification_sysapp_cracked_title">Risco de segurança detectado</string>
   <string name="notification_title_cmcc_app_check">%d dias desde a última verificação</string>
   <string name="notification_title_firewall_blocked">Bloqueado</string>
   <string name="notify_daily_data_usage_body">Para limitar a utilização de dados automaticamente, defina um plano de dados mensal</string>
@@ -1170,6 +1178,15 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="summary_virus_cloudscan">Enviar nomes, detalhes e dados das aplicações e verificar utilizando as definições de vírus online</string>
   <string name="summary_virus_update">Obter as definições de vírus mais recentes automaticamente</string>
   <string name="summary_xiaomi_roaming">0.01 euros por MB para dados móveis em roaming</string>
+  <string name="sys_app_prot_cracked_confirm">Entendi</string>
+  <string name="sys_app_prot_cracked_login">Iniciar sessão com a Conta Mi</string>
+  <string name="sys_app_prot_cracked_text_login">"A versão actual da MIUI foi modificada o que põe a segurança do seu dispositivo em risco.
+
+Certifique-se que sabe de onde vem este dispositivo e contacte o centro de serviço Xiaomi na sua área para obter ajuda"</string>
+  <string name="sys_app_prot_cracked_text_unlogin">"A versão actual da MIUI foi modificada o que põe a segurança do seu dispositivo em risco. Inicie sessão com a sua Conta Mi e desligue este alerta.
+
+Se não modificou a MIUI, certifique-se que sabe de onde vem este dispositivo e contacte o centro de serviço Xiaomi na sua área para obter ajuda"</string>
+  <string name="sys_app_prot_cracked_title">Risco de segurança</string>
   <string name="system_app">Aplicações de sistema</string>
   <string name="system_application">Aplicações de sistema</string>
   <string name="system_check_content_none">Seguro</string>
@@ -1407,6 +1424,9 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="usage_type_video">Vídeo</string>
   <string name="usage_type_wake_lock">Manter activo</string>
   <string name="usage_type_wifi_running">Wi-Fi em utilização</string>
+  <string name="usb_adb_input_apply_step_1">O seu computador vai ser capaz de alterar definições e conceder permissões sem o seu conhecimento quando o seu dispositivo estiver ligado via USB</string>
+  <string name="usb_adb_input_apply_step_2">Isto pode levar a fugas de informação privada como contas ou mensagens</string>
+  <string name="usb_adb_input_apply_step_3">Certifique-se que entende os riscos antes de permitir. Quer permitir?</string>
   <string name="usbsharenet_exception_summary">Não é possível ligar à Internet partilhada por USB. Verifique a ligação USB do dispositivo e reinicie o Mi PC Suite</string>
   <string name="usbsharenet_exception_title">Teste de rede partilhada por USB</string>
   <string name="usbsharenet_pc_exception_summary">Não é possível ligar à Internet partilhada por USB. Verifique a ligação à Internet do computador</string>

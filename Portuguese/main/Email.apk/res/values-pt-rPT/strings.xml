@@ -232,7 +232,7 @@
   <string name="colon">:</string>
   <string name="compose">Escrever</string>
   <string name="compose_attachment_number_limit">Não pode adicionar mais do que 10 anexos</string>
-  <string name="compose_paste_address_oob">O conteúdo colado é demasiado longo</string>
+  <string name="compose_paste_address_oob">Demasiados caracteres</string>
   <string name="compose_picturesexceedlimits">Não pode exceder as 5 imagens inline na mensagem</string>
   <string name="compose_send">Enviar</string>
   <string name="compose_sent">Email enviado</string>
@@ -437,7 +437,7 @@
   <string name="general_preference_confirm_delete_label">Confirmar antes de eliminar</string>
   <string name="general_preference_confirm_send_label">Confirmar antes de enviar</string>
   <string name="general_preference_str_auto_translation">Tradução rápida</string>
-  <string name="general_preference_str_auto_translation_prompt">Copiar o conteúdo correspondente para ver a tradução</string>
+  <string name="general_preference_str_auto_translation_prompt">Copiar texto para ver a tradução</string>
   <string name="general_preference_text_zoom_dialog_title">Tamanho do texto da mensagem</string>
   <string name="general_preference_text_zoom_huge">Enorme</string>
   <string name="general_preference_text_zoom_label">Tamanho do texto da mensagem</string>
@@ -465,18 +465,11 @@
   <string name="hint_quick_reply_all">Responder a todos</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">A palavra-passe para o servidor de entrada de correio está errada</string>
-  <string name="info_actionbar_normal_detail">Detalhes</string>
-  <string name="info_actionbar_subscribe">Feed de notícias</string>
-  <string name="info_item_from">De</string>
+  <string name="info_actionbar_normal_detail">Promoções</string>
   <string name="info_item_hide">Ocultar</string>
-  <string name="info_loading">A carregar…</string>
   <string name="info_name_title">Notícias</string>
-  <string name="info_no_message">Sem artigos para ver</string>
-  <string name="info_no_more_message">Sem mais itens para ver</string>
-  <string name="info_switch_summary">Ver notícias em destaque</string>
-  <string name="info_switch_title">Notícias</string>
-  <string name="info_sync_error">Não foi possível sincronizar. Tente novamente mais tarde</string>
-  <string name="information_subscribe_first_intro">Está a utilizar o feed de notícias pela primeira vez. Diga-nos quais os seus interesses para podermos personalizar as notícias</string>
+  <string name="info_switch_summary">Mostrar promoções no topo da caixa de entrada</string>
+  <string name="info_switch_title">Promoções</string>
   <string name="inline_picture_deleted">A transferir imagem perdida…</string>
   <string name="input_password_prompt">Introduza a sua palavra-passe:</string>
   <string name="invalid_recipient">O endereço %s é inválido</string>
@@ -487,7 +480,7 @@
   <string name="load_more">Carregar mais</string>
   <string name="loading_conversation">A carregar…</string>
   <string name="loading_conversations">A carregar…</string>
-  <string name="loading_from_remote">A pesquisar no servidor…</string>
+  <string name="loading_from_remote">A carregar…</string>
   <string name="local_search">Pesquisa local</string>
   <string name="local_search_result">%s resultados nos emails sincronizados</string>
   <string name="login">Iniciar sessão</string>
@@ -547,7 +540,7 @@
   <string name="menu_att_mgr_order_size">Ordenar por tamanho</string>
   <string name="menu_change_folders">Mover</string>
   <string name="menu_compose">Escrever</string>
-  <string name="menu_discovery">Descobrir</string>
+  <string name="menu_discovery">Promoções</string>
   <string name="menu_folder_options">Opções de sincronização</string>
   <string name="menu_move_to">Mover para</string>
   <string name="menu_move_to_inbox">Mover para a caixa de entrada</string>
@@ -581,7 +574,6 @@
   <string name="move_to_selection_dialog_title">Mover para outra pasta</string>
   <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
   <string name="mute">Silenciar</string>
-  <string name="net_check_title">Não foi possível ligar à rede</string>
   <string name="network_error">Sem ligação</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
   <string name="network_try_again">Verifique a ligação de rede</string>
@@ -713,7 +705,6 @@
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
   <string name="pull_to_refresh">Descer para actualizar</string>
-  <string name="pull_up_to_load_more">Carregar mais</string>
   <string name="push_wps_better_confirm_download">Transferir</string>
   <string name="push_wps_better_confirm_exit">Agora não</string>
   <string name="push_wps_better_confirm_message">Tente utilizar WPS Office para abrir este anexo</string>
@@ -813,7 +804,6 @@
   <string name="security_unsupported_ticker_fmt">A conta \"%s\" não pode ser sincronizada devido a requisitos de segurança</string>
   <string name="select_attachment_type">Seleccionar anexo de</string>
   <string name="select_no_file">Sem anexos seleccionados</string>
-  <string name="selected_lable">Seleccionados</string>
   <string name="send">Enviar</string>
   <string name="send_failed">A mensagem não foi enviada</string>
   <string name="send_feed_back">Enviar comentários</string>
@@ -884,14 +874,14 @@
   <string name="too_large_to_attach_multiple">Um ou mais ficheiros não foram anexados. O tamanho não pode exceder %1$s</string>
   <string name="too_large_to_attach_single">Não é possível anexar ficheiros maiores que %1$s</string>
   <string name="topic_merge">Agrupar emails em conversas</string>
-  <string name="translation_loading">A carregar…</string>
+  <string name="translation_loading">Aguarde…</string>
   <string name="translation_no_result">Sem resultados</string>
-  <string name="translation_pronunciation_am">ArE</string>
+  <string name="translation_pronunciation_am">AmE</string>
   <string name="translation_pronunciation_cn">Pinyin</string>
   <string name="translation_pronunciation_en">BrE</string>
   <string name="translation_pronunciation_other">Máquina</string>
-  <string name="translation_query_failure">Erro na pesquisa</string>
-  <string name="translation_technology_support">Suporte técnico por PowerWord</string>
+  <string name="translation_query_failure">Não foi possível encontrar resultados</string>
+  <string name="translation_technology_support">Suporte técnico por iciba.com</string>
   <string name="trash_folder_selection_title">Seleccione a pasta de lixo do servidor para %s</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
@@ -902,7 +892,6 @@
   <string name="turn_auto_sync_on_dialog_title">Activar sincronização automática?</string>
   <string name="undo">Anular</string>
   <string name="unread_string">conversa não lida</string>
-  <string name="unselected_lable">Mais</string>
   <string name="unsent_messages_in_outbox">%1$s não enviadas em %2$s</string>
   <string name="unzip_file_failed">Não foi possível descompactar ficheiro</string>
   <string name="update_date_format_templete">HH:mm \'do dia\' d \'de\' MMMM</string>
@@ -933,7 +922,7 @@ Toque "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar definiç�
   <string name="wipe_account_fail_title">Erro ao eliminar informações pessoais</string>
   <string name="wrong_password">A palavra-passe que introduziu está incorrecta</string>
   <string name="yes">Sim</string>
-  <string name="yidianzixun">Yi Dian Zixun</string>
   <string name="you_are_in_mobile_network">Enviar registo utilizando a sua ligação de dados móveis? Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
+  <string name="youfuli">Promoções</string>
   <string name="zip_viewer_no_file">Sem ficheiros</string>
 </resources>

@@ -62,6 +62,7 @@
   <string name="call_assistant">Chamada %s</string>
   <string name="call_callback">Remarcar</string>
   <string name="call_car">Ligar para o telefone do carro</string>
+  <string name="call_charge">Recarregar</string>
   <string name="call_company_main">Ligar para o telefone da empresa</string>
   <string name="call_custom">Chamada %s</string>
   <string name="call_disambig_title">Escolher número</string>
@@ -69,6 +70,7 @@
   <string name="call_fax_work">Ligar para o fax do trabalho</string>
   <string name="call_home">Ligar para o telefone de casa</string>
   <string name="call_isdn">Ligar para o ISDN</string>
+  <string name="call_left">Saldo do telefone</string>
   <string name="call_log_empty_gecode">-</string>
   <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="call_log_new_header">Novo</string>
@@ -76,9 +78,12 @@
   <string name="call_main">Ligar para o telefone principal</string>
   <string name="call_mms">Enviar MMS</string>
   <string name="call_mobile">Ligar para o telemóvel</string>
+  <string name="call_not_found"> --</string>
+  <string name="call_operator_init">Definir operadora</string>
   <string name="call_other">Ligar</string>
   <string name="call_other_fax">Ligar para o fax</string>
   <string name="call_pager">Ligar para o pager</string>
+  <string name="call_problem_report">Reportar um problema</string>
   <string name="call_radio">Ligar para o rádio</string>
   <string name="call_record_setting_miui">Definições de registo</string>
   <string name="call_settings">Definições</string>
@@ -87,6 +92,7 @@
   <string name="call_telex">Ligar para o telex</string>
   <string name="call_tty_tdd">Ligar para o TTY/TDD</string>
   <string name="call_type_and_date">%1$s %2$s</string>
+  <string name="call_unit">USD</string>
   <string name="call_work">Ligar para o telefone do trabalho</string>
   <string name="call_work_mobile">Ligar para o telemóvel do trabalho</string>
   <string name="call_work_pager">Ligar para o pager do trabalho</string>
@@ -268,7 +274,8 @@
   <string name="data_already_used">Dados já utilizados</string>
   <string name="data_charge">Carregamento de dados</string>
   <string name="data_left">Dados restantes</string>
-  <string name="data_unit">MB</string>
+  <string name="data_unit_gb">GB</string>
+  <string name="data_unit_mb">MB</string>
   <string name="date_picker_label">Lembrar me 3 dias antes e no dia</string>
   <string name="date_time_set">Definir</string>
   <string name="date_year_toggle">Fornecer um ano</string>
@@ -499,7 +506,8 @@ Motivo: \"%s\""</string>
   <string name="ic_menu_back">Voltar</string>
   <string name="ic_menu_done">Concluído</string>
   <string name="imLabelsGroup">IM</string>
-  <string name="imei">IMEI</string>
+  <string name="imei">"IMEI: "</string>
+  <string name="imei_invalid">IMEI inválido</string>
   <string name="import_all_sim_entries_miui">Importar todos os contactos</string>
   <string name="import_all_vcard_string">Importar todos os ficheiros vCard</string>
   <string name="import_contact_card_aggregate_suggestion_button">Unir cartões</string>
@@ -585,7 +593,8 @@ Motivo: \"%s\""</string>
   <string name="map_home">Ver endereço de casa</string>
   <string name="map_other">Ver endereço</string>
   <string name="map_work">Ver endereço do trabalho</string>
-  <string name="meid">MEID</string>
+  <string name="meid">"MEID: "</string>
+  <string name="meid_invalid">MEID inválido</string>
   <string name="menuMoreDescription">Mais</string>
   <string name="menu_accounts">Contas</string>
   <string name="menu_addStar">Favoritos</string>
@@ -1241,6 +1250,9 @@ Escolher uma das seguintes opções:"</string>
   <string name="wipe_data">Limpar dados</string>
   <string name="yellowPageNavigationIconLabel">Pág. Amarelas</string>
   <string name="yellowPageNavigationLabel">Pág. Amarelas</string>
+  <string name="yellowpage_navigation_ad_hint">Anúncios</string>
+  <string name="yellowpage_navigation_balance_refresh_failed">O saldo e os dados não puderam ser verificados. Tente novamente mais tarde</string>
+  <string name="yellowpage_navigation_balance_refresh_succeed">O saldo e os dados foram verificados</string>
   <string name="yellowpage_navigation_clear_search_history">Limpar histórico</string>
   <string name="yellowpage_navigation_more_items">Mais</string>
   <string name="yellowpage_navigation_more_items_title">Mais serviços</string>
@@ -1249,7 +1261,8 @@ Escolher uma das seguintes opções:"</string>
   <string name="yellowpage_navigation_search_history">Histórico</string>
   <string name="yellowpage_navigation_search_offline_hint">Sem acesso à Internet</string>
   <string name="yellowpage_navigation_search_result_average_price">Média RMB %d</string>
-  <string name="yellowpage_navigation_search_result_network_error">Não é possível ligar à rede</string>
+  <string name="yellowpage_navigation_search_result_network_error">"Não é possível ligar à
+        rede"</string>
   <string name="yellowpage_navigation_search_result_no_more">Sem mais resultados</string>
   <string name="yellowpage_navigation_search_result_service_error">Serviço indisponível</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Erro desconhecido</string>
