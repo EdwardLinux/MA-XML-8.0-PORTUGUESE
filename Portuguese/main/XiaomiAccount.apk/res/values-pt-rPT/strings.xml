@@ -159,7 +159,7 @@
   <string name="miui_provision_find_status_text">"Este telefone está associado à Conta Mi (%1$s). É necessário introduzir a palavra-passe para verificar o dispositivo
 (ID de desbloqueio: %2$s)"</string>
   <string name="multi_user_not_show_sync_activity_message_1">Está a utilizar o seu espaço predefinido da Conta Mi</string>
-  <string name="multi_user_not_show_sync_activity_message_2">Nesse caso, todos os dados vão ser sincronizados com o seu segundo espaço. Para prevenir isto, não ligue a sincronização com a Nuvem Mi</string>
+  <string name="multi_user_not_show_sync_activity_message_2">Nesse caso, todos os dados vão ser sincronizados com o seu Segundo espaço. Para prevenir isto, não ligue a sincronização com a Nuvem Mi</string>
   <string name="multi_user_not_show_sync_activity_title">Não ligar a sincronização com a Nuvem Mi</string>
   <string name="my_device_title">Dispositivo actual</string>
   <string name="no_network_btn">Actualizar</string>
