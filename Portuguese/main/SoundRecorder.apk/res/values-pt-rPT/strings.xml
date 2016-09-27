@@ -43,7 +43,11 @@
   <string name="low_battery_error_confirm">OK</string>
   <string name="low_battery_error_title">Bateria fraca</string>
   <string name="mark_point_list_title">Marcadores</string>
-  <string name="message_file_size_error">Gravação alcançou o comprimento máximo suportado por %s</string>
+  <string name="message_file_size_error">A gravação alcançou o comprimento máximo suportado por %s</string>
+  <string name="network_tip_dialog_cancel">Cancelar</string>
+  <string name="network_tip_dialog_content">O mecanismo de reconhecimento de voz necessita de ligar à Internet para funcionar normalmente</string>
+  <string name="network_tip_dialog_ok">Permitir</string>
+  <string name="network_tip_dialog_title">É necessário ligação à Internet</string>
   <string name="new_record_name">Nova gravação</string>
   <string name="no_file">Vazio</string>
   <string name="notification_message_all_paused">A aguardar por ligação Wi-Fi</string>

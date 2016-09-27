@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Mi Play</string>
+  <string name="app_name">Servidor multimédia</string>
   <string name="cancel">Cancelar</string>
   <string name="enable_wifi_btn">Ligar</string>
   <string name="enable_wifi_message">Ligar Wi-Fi para pesquisar e ligar a dispositivos próximos</string>

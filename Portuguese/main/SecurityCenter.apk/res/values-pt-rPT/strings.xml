@@ -83,7 +83,7 @@ ou entrar no padrão de Protecção de Privacidade"</string>
   <string name="antivirus_privacy_dialog_cloudscan">Enviar nomes e detalhes da aplicação</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Enviar e verificar nomes e detalhes da aplicação utilizando as definições de vírus online</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
-  <string name="antivirus_privacy_dialog_summary">Esta funcionalidade encripta e envia o ID do seu dispositivo para o AVL e servidores do Tencent (%s)</string>
+  <string name="antivirus_privacy_dialog_summary">Esta funcionalidade encripta e envia o ID do seu dispositivo para o Avast, AVL e servidores do Tencent (%s)</string>
   <string name="antivirus_privacy_dialog_summary_link">Ver Política de Privacidade</string>
   <string name="antivirus_privacy_dialog_title">Política de Privacidade</string>
   <string name="antivirus_sec_support">Desenvolvido por %s</string>

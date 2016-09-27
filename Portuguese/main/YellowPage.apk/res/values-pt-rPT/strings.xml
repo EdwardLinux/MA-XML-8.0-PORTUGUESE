@@ -84,7 +84,7 @@
   <string name="express_address_warning_no_phone">É necessário um número de telefone</string>
   <string name="express_addressee_info">Informações do destinatário</string>
   <string name="express_addressee_name">Nome do destinatário</string>
-  <string name="express_addressee_region">Local do destinatário</string>
+  <string name="express_addressee_region">Região do destinatário</string>
   <string name="express_banner_header">%1$s / Número de pesquisa</string>
   <string name="express_cancel_order">Cancelar</string>
   <string name="express_company_list_empty">Sem empresas</string>
@@ -183,7 +183,7 @@ Verifique o seu número de pesquisa"</string>
   <string name="express_send_notice">Itens proibidos</string>
   <string name="express_sender_info">Informações do remetente</string>
   <string name="express_sender_name">Nome do remetente</string>
-  <string name="express_sender_region">Local do remetente</string>
+  <string name="express_sender_region">Região do remetente</string>
   <string name="express_shortcut_name">Perguntar ou enviar</string>
   <string name="express_show_all_inquiry_history">Mostrar todo o histórico</string>
   <string name="express_submit_order">Submeter</string>

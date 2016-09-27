@@ -49,7 +49,7 @@
   <string name="copy_to_sdcard">Guardar anexo</string>
   <string name="copy_to_sdcard_fail">Não foi possível guardar o anexo</string>
   <string name="copy_to_sdcard_success">Anexo guardado em %s</string>
-  <string name="current_service_number">número de serviço actual</string>
+  <string name="current_service_number">Número de serviço actual</string>
   <string name="delete">Eliminar</string>
   <string name="delete_message">Eliminar</string>
   <string name="delete_unlocked">Eliminar mensagens bloqueadas</string>

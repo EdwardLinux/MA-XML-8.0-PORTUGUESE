@@ -20,7 +20,7 @@
   <string name="input_method_category">Escolha o teclado predefinido para escrever emails ou notas. Poderá instalar teclados de terceiros mais tarde</string>
   <string name="input_method_setting">Escolher teclado</string>
   <string name="install_preinstall_app">A carregar aplicações…</string>
-  <string name="locale_picker_title">Escolha a sua localização</string>
+  <string name="locale_picker_title">Escolher a sua região</string>
   <string name="miui_privacy_policy_no_network">Sem ligação de rede. Ver Política de Privacidade em %s</string>
   <string name="miui_terms_no_network">Sem ligação de rede. Ver Termos de Serviço em %s</string>
   <string name="multisim_settings_category">Definições do cartão SIM</string>
@@ -45,7 +45,7 @@
   <string name="provision_inputmethod_policy_description">"
 Ver Política de Privacidade do teclado seleccionado"</string>
   <string name="provision_inputmethod_policy_description1">Política de Privacidade</string>
-  <string name="setting_locale">Definir Local…</string>
+  <string name="setting_locale">A definir região…</string>
   <string name="shut_down">Desligar</string>
   <string name="sim_card_detecting">A verificar o cartão SIM…</string>
   <string name="sim_card_detecting_title">A procurar cartão SIM</string>

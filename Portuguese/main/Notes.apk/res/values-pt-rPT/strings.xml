@@ -28,7 +28,7 @@
   <string name="dlg_desc_confirm_alarm_silent">Os alarmes activos não vão tocar quando em modo silêncio</string>
   <string name="dlg_hide_message">A ocultar…</string>
   <string name="dlg_info_creating_message">A criar mensagem…</string>
-  <string name="dlg_message_password_reset">O padrão das notas ocultas vai ser substituido pelo padrão de Protecção de Privacidade que funciona para aplicações, fotos e pastas ocultas</string>
+  <string name="dlg_message_password_reset">O padrão das notas ocultas vai ser substituído pelo padrão de Protecção de Privacidade que funciona para aplicações, fotos e pastas ocultas</string>
   <string name="dlg_message_set_password">O padrão de Protecção de Privacidade funciona para aplicações, fotos e pastas ocultas</string>
   <string name="dlg_message_use_privacy_password">Utilize o padrão de Protecção de Privacidade. Funciona para aplicações, fotos e pastas ocultas</string>
   <string name="dlg_move_message">A mover…</string>

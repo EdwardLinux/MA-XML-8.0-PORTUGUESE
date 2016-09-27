@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>A pesquisar…</item>
+        <item>A ligar…</item>
+        <item>A autenticar…</item>
+        <item>A obter endereço IP…</item>
+        <item>Ligado</item>
+        <item>Suspenso</item>
+        <item>A desligar…</item>
+        <item>Desligado</item>
+        <item>Sem sucesso</item>
+        <item>Bloqueado</item>
+        <item>Evitar temporariamente ligações fracas</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>A pesquisar…</item>
+        <item>A ligar a %1$s…</item>
+        <item>A autenticar %1$s…</item>
+        <item>A obter o endereço IP de %1$s…</item>
+        <item>Ligado a %1$s</item>
+        <item>Suspenso</item>
+        <item>A desligar de %1$s…</item>
+        <item>Desligado</item>
+        <item>Sem sucesso</item>
+        <item>Bloqueado</item>
+        <item>Evitar temporariamente ligações fracas</item>
+    </string-array>
+    <string-array name="status_bar_style_entries">
+        <item>Combinada</item>
+        <item>Separada</item>
+    </string-array>
     <string-array name="timezone_filters">
-    <item>América</item>
+        <item>América</item>
         <item>Europa</item>
         <item>África</item>
         <item>Asia</item>
@@ -40,10 +72,9 @@
         <item>30 minutos</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Normal</item>
+        <item>Pequena</item>
         <item>Média</item>
         <item>Grande</item>
-        <item>Muito grande</item>
         <item>Enorme</item>
     </string-array>
     <string-array name="tts_rate_entries">
@@ -71,34 +102,6 @@
         <item>Questo è un esempio di sintesi vocale in italiano</item>
         <item>Este es un ejemplo de síntesis de voz en español</item>
         <item>이것은 한국어 음성 합성의 예입니다</item>
-    </string-array>
-    <string-array name="wifi_status">
-        <item></item>
-        <item>A pesquisar…</item>
-        <item>A ligar…</item>
-        <item>A autenticar…</item>
-        <item>A obter endereço IP…</item>
-        <item>Ligado</item>
-        <item>Suspenso</item>
-        <item>A desligar…</item>
-        <item>Desligado</item>
-        <item>Sem sucesso</item>
-        <item>Bloqueado</item>
-        <item>Evitar temporariamente ligações fracas</item>
-    </string-array>
-    <string-array name="wifi_status_with_ssid">
-        <item></item>
-        <item>A pesquisar…</item>
-        <item>A ligar a %1$s…</item>
-        <item>A autenticar %1$s…</item>
-        <item>A obter o endereço IP de %1$s…</item>
-        <item>Ligado a %1$s</item>
-        <item>Suspenso</item>
-        <item>A desligar de %1$s…</item>
-        <item>Desligado</item>
-        <item>Sem sucesso</item>
-        <item>Bloqueado</item>
-        <item>Evitar temporariamente ligações fracas</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Premir botão</item>
@@ -134,6 +137,10 @@
         <item>Só quando ligado à corrente</item>
         <item>Nunca</item>
     </string-array>
+    <string-array name="data_usage_data_range">
+        <item>Últimos 30 dias</item>
+        <item>Definir ciclo de utilização…</item>
+    </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Auto</item>
         <item>Apenas 5 GHz</item>
@@ -163,11 +170,7 @@
     <string-array name="wifi_proxy_settings">
         <item>Nenhum</item>
         <item>Manual</item>
-    </string-array>
-    <string-array name="emergency_tone_entries">
-        <item>Desligado</item>
-        <item>Avisar</item>
-        <item>Vibrar</item>
+        <item>Config. autom. do proxy</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>Nenhuma</item>
@@ -176,9 +179,22 @@
         <item>PAP ou CHAP</item>
     </string-array>
     <string-array name="bearer_entries">
-        <item>LTE</item>
-        <item>eHRPD</item>
         <item>Não especificado</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
     </string-array>
     <string-array name="mvno_type_entries">
         <item>Nenhum</item>
@@ -242,6 +258,13 @@
         <item>manter activo</item>
         <item>monitorizar localização</item>
         <item>monitorizar localização de potência elevada</item>
+        <item>obter estatísticas de utilização</item>
+        <item>desactivar/reactivar o som do microfone</item>
+        <item>projectar multimédia</item>
+        <item>activar VPN</item>
+        <item>guardar papel de parede</item>
+        <item>assistir estrutura</item>
+        <item>assistir captura de ecrã</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Localização</item>
@@ -287,6 +310,13 @@
         <item>Manter activo</item>
         <item>Localização</item>
         <item>Localização</item>
+        <item>Obter estatísticas de utilização</item>
+        <item>Desactivar/reactivar o som do microfone</item>
+        <item>Projectar multimédia</item>
+        <item>Activar VPN</item>
+        <item>Guardar papel de parede</item>
+        <item>Assistir estrutura</item>
+        <item>Assistir captura de ecrã</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Curta</item>
@@ -297,8 +327,12 @@
         <item>Predefinição</item>
         <item>Sans-serif</item>
         <item>Sans-serif condensado</item>
+        <item>Monoespaço Sans-serif</item>
         <item>Serif</item>
         <item>Monoespaço Serif</item>
+        <item>Ocasionais</item>
+        <item>Cursivo</item>
+        <item>Maiúsculas pequenas</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Muito pequeno</item>
@@ -308,21 +342,27 @@
         <item>Muito grande</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
+        <item>Predefinição</item>
         <item>Nenhum</item>
         <item>Contorno</item>
         <item>Diminuir sombra</item>
+        <item>Elevado</item>
+        <item>Reduzido</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
+        <item>Utilizar predefinições da aplicação</item>
         <item>Branco em preto</item>
         <item>Preto em branco</item>
         <item>Amarelo em preto</item>
         <item>Amarelo em azul</item>
         <item>Personalizado</item>
     </string-array>
-    <string-array name="select_runtime_summaries">
-        <item>Utilizar Dalvik</item>
-        <item>Utilizar ART</item>
-        <item>Utilizar ART debug build</item>
+    <string-array name="select_logd_size_summaries">
+        <item>Mem. int. 64K p rg.</item>
+        <item>Mem. int. 256K p rg.</item>
+        <item>Mem. int. 1M p rg.</item>
+        <item>Mem. int. 4M p rg.</item>
+        <item>Mem. int. 16M p rg.</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Nunca verificar</item>
@@ -361,6 +401,20 @@
         <item>Escala de animação 5x</item>
         <item>Escala de animação 10x</item>
     </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Nenhuma</item>
+        <item>480p</item>
+        <item>480p (seguro)</item>
+        <item>720p</item>
+        <item>720p (seguro)</item>
+        <item>1080p</item>
+        <item>1080p (seguro)</item>
+        <item>4K</item>
+        <item>4K (seguro)</item>
+        <item>4K (redimensionado)</item>
+        <item>4K (redimensionado, seguro)</item>
+        <item>720p, 1080p (ecrã duplo)</item>
+    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Nenhum</item>
         <item>Logcat</item>
@@ -375,14 +429,12 @@
     <string-array name="track_frame_time_entries">
         <item>Desligado</item>
         <item>No ecrã como barras</item>
-        <item>No ecrã como linhas</item>
         <item>Em adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Desligado</item>
         <item>Mostrar áreas de sobreposição</item>
         <item>Mostrar áreas para deuteranopia</item>
-        <item>Mostrar limite do contador</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite predefinido</item>
@@ -420,10 +472,45 @@
         <item>Nunca permitir</item>
         <item>Permitir sempre</item>
     </string-array>
-    <string-array name="haptic_feedback_level_entries">
-        <item>Forte</item>
-        <item>Média</item>
+    <string-array name="proc_stats_memory_states">
+        <item>Normal</item>
+        <item>Moderada</item>
+        <item>Baixa</item>
+        <item>Crítica</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Persistente</item>
+        <item>Principal actividade</item>
+        <item>Importante (primeiro plano)</item>
+        <item>Importante (segundo plano)</item>
+        <item>Cópia de segurança</item>
+        <item>Processos complexos</item>
+        <item>Serviço (em execução)</item>
+        <item>Serviço (a reiniciar)</item>
+        <item>Receptor</item>
+        <item>Início</item>
+        <item>Última actividade</item>
+        <item>Em cache (actividade)</item>
+        <item>Em cache (cliente de actividade)</item>
+        <item>Em cache (vazio)</item>
+    </string-array>
+    <string-array name="color_picker">
+        <item>Azul esverdeado</item>
+        <item>Azul</item>
+        <item>Indigo</item>
+        <item>Púrpura</item>
+        <item>Rosa</item>
+        <item>Vermelho</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>Wi-Fi preferencial</item>
+        <item>Móvel preferencial</item>
+    </string-array>
+    <string-array name="haptic_feedback_level_texts">
+        <item>Desligado</item>
         <item>Leve</item>
+        <item>Médio</item>
+        <item>Forte</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Forte</item>
@@ -450,6 +537,14 @@
         <item>8 segundos</item>
         <item>9 segundos</item>
     </string-array>
+    <string-array name="mi1_led_color_entries">
+        <item>Azul</item>
+        <item>Vermelho</item>
+        <item>Verde</item>
+        <item>Rosa</item>
+        <item>Roxo</item>
+        <item>Púrpura</item>
+    </string-array>
     <string-array name="led_color_entries">
         <item>Azul</item>
         <item>Vermelho</item>
@@ -459,20 +554,9 @@
         <item>Branco</item>
         <item>Violeta</item>
     </string-array>
-    <string-array name="mi1_led_color_entries">
-        <item>Azul</item>
-        <item>Vermelho</item>
-        <item>Verde</item>
-        <item>Rosa</item>
-        <item>Roxo</item>
-        <item>Púrpura</item>
-    </string-array>
-    <string-array name="pink_panel_led_color_entries">
-        <item>Lilás</item>
-        <item>Rubi</item>
-        <item>Laranja</item>
-        <item>Verde</item>
-        <item>Magenta</item>
+    <string-array name="screen_key_position_action">
+        <item>Botão Recentes à esquerda, botão Voltar à direita</item>
+        <item>Botão Voltar à esquerda, botão Recentes à direita</item>
     </string-array>
     <string-array name="screen_key_press_action">
         <item>Mostrar aplicações recentes</item>
@@ -495,8 +579,8 @@
     </string-array>
     <string-array name="long_press_volume_down_action">
         <item>Nada</item>
-        <item>Street-snap(é necessário o modo estar seleccionado)</item>
-        <item>Atalhos para Transportes públicos</item>
+        <item>Modo pressão rápida (ligar na Câmara)</item>
+        <item>Atalho para cartões de transportes públicos</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 segundo</item>
@@ -592,6 +676,10 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Ligar manualmente</item>
         <item>Perguntar sempre</item>
     </string-array>
+    <string-array name="wifi_ssid_type_entries">
+        <item>Ligar automaticamente</item>
+        <item>Ligar manualmente</item>
+    </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
         <item>Marcar</item>
@@ -625,22 +713,14 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Média</item>
         <item>Alta</item>
     </string-array>
-    <string-array name="handy_mode_size_text_entries">
-        <item>4.5 polegadas</item>
-        <item>4.0 polegadas</item>
-        <item>3.5 polegadas</item>
-    </string-array>
     <string-array name="agps_network_entries">
         <item>Rede doméstica</item>
         <item>Todas as redes</item>
     </string-array>
-    <string-array name="install_non_market_app_entries">
-        <item>Ligar (recomendado)</item>
-        <item>Não utilizar (perigoso)</item>
-    </string-array>
-    <string-array name="install_non_market_app_contents">
-        <item>Ligar</item>
-        <item>Não utilizar</item>
+    <string-array name="handy_mode_size_text_entries">
+        <item>4.5 polegadas</item>
+        <item>4.0 polegadas</item>
+        <item>3.5 polegadas</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Imediatamente</item>
@@ -668,6 +748,16 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Bloqueio de aplicações</item>
         <item>Segundo espaço</item>
     </string-array>
+    <string-array name="anr_record_interval_entries">
+        <item>10 segundos</item>
+        <item>20 segundos</item>
+        <item>30 segundos</item>
+        <item>1 minuto</item>
+    </string-array>
+    <string-array name="screen_button_style">
+        <item>Estilo mão esquerda</item>
+        <item>Estilo mão direita</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Todos os dias</item>
         <item>Dias úteis</item>
@@ -677,33 +767,6 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Todos os dias</item>
         <item>Dias úteis</item>
         <item>Personalizado</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>Mem. int. 64K p rg.</item>
-        <item>Mem. int. 256K p rg.</item>
-        <item>Mem. int. 1M p rg.</item>
-        <item>Mem. int. 4M p rg.</item>
-        <item>Mem. int. 16M p rg.</item>
-    </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>Nenhum</item>
-        <item>720x480 mdpi</item>
-        <item>720x480 mdpi (seguro)</item>
-        <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (seguro)</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (seguro)</item>
-        <item>1280x720 tvdpi e 1920x1080 xhdpi</item>
-    </string-array>
-    <string-array name="status_bar_style_entries">
-        <item>Combinada</item>
-        <item>Separada</item>
-    </string-array>
-    <string-array name="haptic_feedback_level_texts">
-        <item>Desligado</item>
-        <item>Leve</item>
-        <item>Médio</item>
-        <item>Forte</item>
     </string-array>
     <string-array name="privacy_password_function_specfication_names">
        <item>Mensagens</item>
