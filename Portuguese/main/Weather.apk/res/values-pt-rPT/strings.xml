@@ -56,7 +56,7 @@
   <string name="button_sure_abandon">Rejeitar alterações?</string>
   <string name="close">Fechar</string>
   <string name="commercial">Comercial</string>
-  <string name="common_loading_text">A carregar…</string>
+  <string name="common_loading_text">Aguarde…</string>
   <string name="daily_forcast_drawer_on_bottom">Ocultar</string>
   <string name="daily_forcast_drawer_on_top">Previsão para %1$s dias</string>
   <string name="daily_forcast_no_stable_direction">Sem vento</string>

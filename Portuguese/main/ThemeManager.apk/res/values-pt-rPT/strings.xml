@@ -39,7 +39,7 @@
   <string name="description_version">Versão</string>
   <string name="description_version_szie">Versão: %1$s Tamanho: %2$s</string>
   <string name="desktop_wallpaper">Ecrã inicial</string>
-  <string name="dev_options">Opções de desenvolvimento</string>
+  <string name="dev_options">Opções de programador</string>
   <string name="dev_options_summary">Recursos web</string>
   <string name="download_failed">Erro ao transferir</string>
   <string name="download_preview_failed">Não é possível carregar pré-visualização</string>
@@ -109,7 +109,8 @@
   <string name="provision_second_title">Seleccionar um dos 5 temas predefinidos</string>
   <string name="provision_title">Escolher um tema</string>
   <string name="purchased_list">Adquiridos</string>
-  <string name="purchased_list_format">%1$s transferidos</string>
+  <string name="purchased_list_current">MIUI 8</string>
+  <string name="purchased_list_legacy">Temas básicos</string>
   <string name="reload">Tentar novamente</string>
   <string name="resource_account_abnormal_state">Erro na conta. Aguarde alguns minutos e tente novamente</string>
   <string name="resource_account_fail_to_add">Não é possível adicionar conta</string>
@@ -240,6 +241,8 @@
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratuito</string>
   <string name="resource_price_unit">Créditos Mi</string>
+  <string name="resource_purchase_common_error">Erro na operação. Tente novamente</string>
+  <string name="resource_purchase_continue_to_pay">Continuar o pagamento %s</string>
   <string name="resource_purchase_getting_order">A recuperar informação da encomenda…</string>
   <string name="resource_purchase_verifying_payment">Verificar informações de pagamento…</string>
   <string name="resource_purchase_waiting_payment">A aguardar informações de pagamento…</string>
@@ -393,7 +396,7 @@
   <string name="wallpaper_decoded_error">Não é possível carregar o papel de parede</string>
   <string name="wallpaper_loading_text">Aguarde…</string>
   <string name="wallpaper_set_as_both">Definir ambos</string>
-  <string name="wallpaper_set_as_destop">Definir como Ecrã principal</string>
-  <string name="wallpaper_set_as_lockscreen">Definir como Ecrã de bloqueio</string>
+  <string name="wallpaper_set_as_destop">Definir como ecrã principal</string>
+  <string name="wallpaper_set_as_lockscreen">Definir como ecrã de bloqueio</string>
   <string name="wallpaper_settings">Definições do papel de parede</string>
 </resources>

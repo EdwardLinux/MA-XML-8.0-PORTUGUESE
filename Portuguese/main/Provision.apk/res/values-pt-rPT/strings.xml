@@ -33,12 +33,11 @@
   <string name="other_settings_location">Localização</string>
   <string name="other_settings_location_summary">Permitir que aplicações determinem a sua localização</string>
   <string name="other_settings_mifg_online_content">Papéis de parede aleatórios</string>
-  <string name="other_settings_mifg_online_content_summary">Ligue-se à Internet para obter novos papéis de parede para o seu ecrã de bloqueio</string>
-  <string name="other_settings_upload_debug_log_summary">Os dados de diagnóstico podem incluir informação acerca da utilização do sistema operativo e aplicações. Os dados vão ser utilizados para localizar e analisar os problemas no sistema e nunca vão ser utilizados para o identificar pessoalmente</string>
+  <string name="other_settings_mifg_online_content_summary">Obtenha novos papéis de parede para o seu ecrã de bloqueio</string>
+  <string name="other_settings_upload_debug_log_summary">A informação que recolhemos podem conter dados pessoais. Vai ser utilizada para analisar os problemas do sistema e nunca para o identificar</string>
   <string name="other_settings_upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
   <string name="other_settings_user_experience">Experiência de utilização do Programa</string>
-  <string name="other_settings_user_experience_summary">Ajudar a melhorar a MIUI enviando dados do utilizador anónimos (%s)</string>
-  <string name="other_settings_user_experience_summary1">ver Política de Privacidade</string>
+  <string name="other_settings_user_experience_summary">Ajude a melhorar a MIUI enviando dados de utilização anónimos</string>
   <string name="pref_title_data_slot">Cartão SIM de dados preferido</string>
   <string name="pref_title_voice_slot">Cartão SIM de voz preferido</string>
   <string name="privacy_policy">Política de Privacidade</string>
