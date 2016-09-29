@@ -54,7 +54,7 @@
   <string name="album_share_subtitle_requesting">A obter informação do álbum…</string>
   <string name="album_share_title_new_album">Partilhar novo álbum</string>
   <string name="album_show_local_only">Mostrar apenas álbuns locais</string>
-  <string name="album_show_local_only_summary">Ligue para ver e eliminar fotos apenas no seu dispositivo</string>
+  <string name="album_show_local_only_summary">Ligar para ver e eliminar fotos apenas no dispositivo</string>
   <string name="album_type_baby">Álbum de bebé</string>
   <string name="album_type_share">Álbuns partilhados</string>
   <string name="album_type_system">Álbuns de sistema</string>
