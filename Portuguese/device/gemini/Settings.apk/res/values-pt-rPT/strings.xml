@@ -817,7 +817,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="confirm_fingerprint_icon_content_description">Utilize a sua impressão digital para continuar</string>
   <string name="confirm_fingerprint_msg">Coloque o seu dedo no sensor</string>
   <string name="confirm_new_backup_pw_prompt">Reintroduzir novamente a sua nova palavra-passe para a cópia de segurança completa</string>
-  <string name="confirm_privacy_password">Introduzir padrão de Protecção de Privacidade</string>
+  <string name="confirm_privacy_password">Introduza o padrão de Protecção de Privacidade</string>
   <string name="confirm_privacy_password_fingerprint">Digitalizar impressão ou introduzir padrão de Protecção de Privacidade</string>
   <string name="confirm_privacy_password_instruction">Este padrão protege aplicações, mensagens, fotos e contactos</string>
   <string name="confirm_reset_aaid">OK</string>

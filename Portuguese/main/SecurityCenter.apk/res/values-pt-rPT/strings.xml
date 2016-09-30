@@ -17,7 +17,7 @@
 "</string>
   <string name="access_control_need_to_unlock">"Digitalizar impressão digital
 ou introduzir padrão de Protecção de Privacidade"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Introduzir padrão de Protecção de Privacidade</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Introduza o padrão de Protecção de Privacidade</string>
   <string name="access_control_recording_intro_header">Desenhar padrão para adicionar Bloqueio de aplicações</string>
   <string name="access_control_reset_by_account">Iniciar sessão na sua Conta Mi para repor o padrão do Bloqueio de aplicações</string>
   <string name="action_button_text_100">Optimizar</string>
