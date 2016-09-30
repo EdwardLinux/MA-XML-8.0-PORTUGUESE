@@ -8,7 +8,7 @@
   <string name="activate_number_change_dialog_message">Escolher um número de telefone que vai ficar visível para outros dispositivos quando ligar via VoIP</string>
   <string name="activating">A activar…</string>
   <string name="add_cloud_storage">Adicionar armazenamento</string>
-  <string name="add_short_cut">Adicionar</string>
+  <string name="add_short_cut">Adic.</string>
   <string name="added_successfully">Adicionado com sucesso</string>
   <string name="all_sync_item_open">Todos os itens estão ligados</string>
   <string name="antispam_sync">Definições de Não incomodar</string>
@@ -324,7 +324,7 @@ Para corrigir esta situação pode eliminar alguns ficheiros para libertar espa�
   <string name="micloud_sec_dspt">e partilhar ficheiros com os seus amigos</string>
   <string name="micloud_setting_antispam_summary">Excepções e nºs de telefone bloqueados</string>
   <string name="micloud_setting_browser_summary">Favoritos, histórico e separadores</string>
-  <string name="micloud_setting_contact_summary">Informações de contactos e fotos de perfil</string>
+  <string name="micloud_setting_contact_summary">Contactos e fotos de perfil</string>
   <string name="micloud_setting_deskclock_summary">Definições de fuso horário e alarmes</string>
   <string name="micloud_setting_gallery_summary">Fotos e vídeos</string>
   <string name="micloud_setting_music_summary">Listas de reprodução e favoritos</string>
@@ -470,7 +470,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="sync_item_calllog_title">Sincronizar registos de chamadas</string>
   <string name="sync_item_sms_summary">Sincronizar as SMS enviadas e recebidas</string>
   <string name="sync_item_sms_title">Sincronizar mensagens</string>
-  <string name="sync_item_title">A sincronizar itens</string>
+  <string name="sync_item_title">Itens a sincronizar</string>
   <string name="sync_off">Desligado</string>
   <string name="sync_on">Ligado</string>
   <string name="sync_resend_sms_dspt_provision">" Se mudar de cartão SIM, a sua operadora pode cobrar uma SMS utilizada para reactivar este serviço"</string>
