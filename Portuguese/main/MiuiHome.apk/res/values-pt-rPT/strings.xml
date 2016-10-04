@@ -21,7 +21,7 @@
   <string name="app_category_sport">Desportos</string>
   <string name="app_category_tools">Ferramentas</string>
   <string name="app_category_travel">Viagens</string>
-  <string name="application_name">Launcher do Sistema</string>
+  <string name="application_name">Launcher do sistema</string>
   <string name="apply">Definir</string>
   <string name="apply_action">Definir</string>
   <string name="apply_as_lock_screen">Definir como ecrã de bloqueio</string>
@@ -208,7 +208,7 @@
   <string name="pref_screen_transformation_type_title">Efeito de transição do ecrã</string>
   <string name="pref_wallpaper_scroll_type_title">Alinhamento do papel de parede</string>
   <string name="preferences_general_title">Definições adicionais</string>
-  <string name="preferences_title">Definições do Launcher</string>
+  <string name="preferences_title">Definições do launcher</string>
   <string name="process"/>
   <string name="recommend_apps_default_title">Vazio</string>
   <string name="recommend_apps_notice">Aplicações recomendadas</string>
