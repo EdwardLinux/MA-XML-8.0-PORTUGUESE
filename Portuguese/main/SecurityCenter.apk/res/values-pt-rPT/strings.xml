@@ -824,7 +824,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pm_root_success_notification_infomation">Certifique-se que entende os riscos relacionados com o acesso root</string>
   <string name="pm_root_success_notification_title">Acesso root permitido</string>
   <string name="power_20s_shutdown">O dispositivo vai desligar em %d segundos</string>
-  <string name="power_analysis_consume_title">Utilização de bateria</string>
+  <string name="power_analysis_consume_title"/>
   <string name="power_analysis_suggestion_need_optimize">Problemas detectados na utilização de bateria</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">Analisar utilização de bateria</string>
