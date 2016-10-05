@@ -51,7 +51,6 @@
   <string name="invalid_json">Linha inválida</string>
   <string name="level">Nível</string>
   <string name="level_detail">Limite de desafios diários: %d</string>
-  <string name="level_exp_value" formatted="false">Pontos: %d/%d</string>
   <string name="level_info_format" formatted="false">"Nível %d %d/%d
 %s"</string>
   <string name="limit_task">Desafios limitados</string>

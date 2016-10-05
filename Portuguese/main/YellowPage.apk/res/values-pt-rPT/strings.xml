@@ -286,7 +286,6 @@ Verifique o seu número de pesquisa"</string>
   <string name="more_express_numbers">Mais números rápidos</string>
   <string name="navigation_search_all_cities">Todas as cidades</string>
   <string name="navigation_search_automatically_positioned_city">Cidade actual</string>
-  <string name="navigation_search_default_hint">Pesquisar localizações</string>
   <string name="navigation_search_hot_cities">Popular</string>
   <string name="navigation_search_no_city_list">Não foi encontrado nada</string>
   <string name="navigation_search_positioning">A localizar…</string>
@@ -341,7 +340,6 @@ Verifique o seu número de pesquisa"</string>
   <string name="quick_yellow_page_tab_phones">Telefone</string>
   <string name="recharge_actual_price">Preço:</string>
   <string name="recharge_charge_range">Preço: %1$s-%2$s EUR</string>
-  <string name="recharge_charge_value">Preço: %s EUR</string>
   <string name="recharge_follow_name">Recarregar</string>
   <string name="recharge_history">Histórico de carregamentos</string>
   <string name="recharge_history_empty">Vazio</string>

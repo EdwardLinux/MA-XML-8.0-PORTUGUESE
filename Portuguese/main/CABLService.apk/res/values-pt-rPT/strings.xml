@@ -4,7 +4,6 @@
   <string name="cabl_enable_summary_off">A luz de fundo não será reajustada automaticamente baseada no conteúdo exibido no ecrã</string>
   <string name="cabl_enable_summary_on">A luz de fundo será reajustada automaticamente baseada no conteúdo exibido no ecrã</string>
   <string name="cabl_enable_title">Activar luz de fundo adaptável</string>
-  <string name="cabl_info_default">Desconhecido</string>
   <string name="cabl_levels_summary">Um nível mais reduzido de luz ajuda a economizar energia, mas poderá causar interferência na adaptação do brilho do ecrã</string>
   <string name="cabl_levels_title">Níveis de energia</string>
   <string name="cabl_settings_title">Definições da luz de fundo adaptável</string>

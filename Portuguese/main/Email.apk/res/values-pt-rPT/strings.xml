@@ -299,9 +299,6 @@
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Hoje, %1$s</string>
   <string name="default_">PREDEFINIDAS</string>
-  <string name="default_exchange">EXCHANGE</string>
-  <string name="default_imap">IMAP</string>
-  <string name="default_pop3">POP3</string>
   <string name="default_setup">DEFINIÇÕES PREDEFINIDAS</string>
   <string name="default_signature">Enviado do meu telefone Mi</string>
   <string name="del_account_questionnair_hint">Pode-nos dizer porque está a remover esta conta?</string>
@@ -827,7 +824,6 @@
   <string name="ser_resp_err_map_serclosed">%s servidor fechado</string>
   <string name="ser_resp_err_map_ssl">"Escolher 'SSL/TLS (Aceitar todos os certificados)' em 'Tipo de segurança'"</string>
   <string name="set_network">Definir rede</string>
-  <string name="setting_default_lable"/>
   <string name="settings_activity_title">Definições</string>
   <string name="share_choose">Escolher ficheiro para partilhar</string>
   <string name="sharing">Partilhar</string>

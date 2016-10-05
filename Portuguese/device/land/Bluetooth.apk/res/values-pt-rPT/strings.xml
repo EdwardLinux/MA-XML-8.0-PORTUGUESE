@@ -40,7 +40,6 @@
   <string name="bt_toast_6">Parou de enviar o ficheiro para \"%1$s\"</string>
   <string name="btopp_live_folder">Recebido por Bluetooth</string>
   <string name="defaultname">Kit mãos livres</string>
-  <string name="defaultnumber">000000</string>
   <string name="deleteAll_record">Eliminar todos os registos</string>
   <string name="delete_record">Eliminar registo</string>
   <string name="download_cancel">Parar</string>

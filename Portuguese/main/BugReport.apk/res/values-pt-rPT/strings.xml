@@ -22,7 +22,6 @@
   <string name="cta_dialog_content">Esta aplicação necessita de uma ligação à Internet para funcionar normalmente</string>
   <string name="cta_dialog_title">Ligação à Internet</string>
   <string name="cta_not_show_again">Memorizar preferência</string>
-  <string name="default_text_view">Visualização de texto</string>
   <string name="description">Descreva o problema</string>
   <string name="dialog_ask_delete">Eliminar</string>
   <string name="dialog_ask_quit">Sair</string>

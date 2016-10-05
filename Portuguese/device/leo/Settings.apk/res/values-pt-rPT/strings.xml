@@ -1281,12 +1281,8 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="input_method">Teclado</string>
   <string name="input_method_selector">Selecção do método de entrada</string>
   <string name="input_method_selector_always_hide_title">Ocultar sempre</string>
-  <string name="input_method_selector_always_hide_value">2</string>
   <string name="input_method_selector_always_show_title">Mostrar sempre</string>
-  <string name="input_method_selector_always_show_value">1</string>
   <string name="input_method_selector_show_automatically_title">Automático</string>
-  <string name="input_method_selector_show_automatically_value">0</string>
-  <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">Definições</string>
   <string name="input_method_settings_button">Definições</string>
   <string name="input_methods_and_subtype_enabler_title">Escolher modos de entrada activos</string>
@@ -3434,8 +3430,6 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wait_for_debugger_summary">Aplicação em modo de depuração aguarda pelo depurador que anexe antes de executar</string>
   <string name="wakeup_for_keyguard_notification_title">Ligar ecrã para notificações</string>
   <string name="wallpaper_attributions">Papéis de parede</string>
-  <string name="wallpaper_attributions_values">"Fornecedores de imagens de satélite:
-©2014 CNES/Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">Ecrã inicial</string>
   <string name="wallpaper_live">Papel de parede animados</string>
   <string name="wallpaper_lockscreen">Bloqueio de ecrã</string>

@@ -1108,7 +1108,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="experience_optimization_category">Optimização</string>
   <string name="experimental_preference">(Experimental)</string>
   <string name="external_code_size_label">Aplicação no armazenamento USB</string>
-  <string name="external_data_size_label">Dados no cartão SD</string>
+  <string name="external_data_size_label">Dados no armazenamento USB</string>
   <string name="factory_reset_summary">Formatar todos os dados do armazenamento interno do seu telefone</string>
   <string name="failed_to_check_find_device_status_content">Não foi possível verificar o estado de Localizar Dispositivo. Aguarde alguns minutos e tente novamente</string>
   <string name="failed_to_check_find_device_status_title">Não foi possível verificar estado</string>
@@ -1281,12 +1281,8 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="input_method">Teclado</string>
   <string name="input_method_selector">Selecção do método de entrada</string>
   <string name="input_method_selector_always_hide_title">Ocultar sempre</string>
-  <string name="input_method_selector_always_hide_value">2</string>
   <string name="input_method_selector_always_show_title">Mostrar sempre</string>
-  <string name="input_method_selector_always_show_value">1</string>
   <string name="input_method_selector_show_automatically_title">Automático</string>
-  <string name="input_method_selector_show_automatically_value">0</string>
-  <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">Definições</string>
   <string name="input_method_settings_button">Definições</string>
   <string name="input_methods_and_subtype_enabler_title">Escolher modos de entrada activos</string>
@@ -1581,7 +1577,7 @@ Está actualmente com sessão iniciada nas seguintes contas:
 "<li>Outros dados do utilizador</li></string>
   <string name="master_clear_desc_erase_external_storage">"
 
-Para eliminar músicas, imagens e outros dados de utilizador, o "<b>cartão SD</b> tem de ser eliminado</string>
+Para eliminar músicas, imagens e outros dados de utilizador, o "<b>armazenamento USB</b> tem de ser eliminado</string>
   <string name="master_clear_erase_application_progress">A eliminar aplicações…</string>
   <string name="master_clear_failed">Nenhum restauro foi executado porque o serviço System Clear não está disponível</string>
   <string name="master_clear_final_button_text">Eliminar tudo</string>
@@ -1603,10 +1599,10 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>cartão SD</
   <string name="media_format_desc">Eliminar todos os dados do cartão SD? Perderá <b>todos</b> os dados armazenados no cartão!</string>
   <string name="media_format_final_button_text">Formatar</string>
   <string name="media_format_final_desc">Formatar o cartão SD e eliminar todos os ficheiros armazenados? Esta acção não pode ser revertida!</string>
-  <string name="media_format_gesture_explanation">É necessário desenhar o seu padrão de desbloqueio para formatar o cartão SD</string>
+  <string name="media_format_gesture_explanation">É necessário desenhar o seu padrão de desbloqueio para formatar o armazenamento USB</string>
   <string name="media_format_gesture_prompt">Desenhar o seu padrão de desbloqueio</string>
-  <string name="media_format_summary">Eliminar todos os dados do cartão SD</string>
-  <string name="media_format_title">Formatar cartão SD</string>
+  <string name="media_format_summary">Eliminar todos os dados do armazenamento USB</string>
+  <string name="media_format_title">Formatar armazenamento USB</string>
   <string name="media_volume_option_title">Volume multimédia</string>
   <string name="media_volume_summary">Definir volume para música e vídeos</string>
   <string name="media_volume_title">Multimédia</string>
@@ -1810,6 +1806,9 @@ Seleccione o seu sistema operativo:"</string>
   <string name="nsd_quick_toggle_summary">Permitir que aplicações noutros dispositivos descubram aplicações neste dispositivo</string>
   <string name="nsd_quick_toggle_title">Descobrir serviços de rede</string>
   <string name="oem_radio_info_label">Informações/definições específicas de OEM</string>
+  <string name="oem_unlock_enable">Desbloqueio de OEM</string>
+  <string name="oem_unlock_enable_summary">Permitir o desbloqueio do bootloader</string>
+  <string name="okay">OK</string>
   <string name="oldman_mode_confirm_title">Reiniciar agora?</string>
   <string name="oldman_mode_confirm_will_normal_mode_text">O seu dispositivo vai reiniciar para sair do Modo Leve</string>
   <string name="oldman_mode_confirm_will_oldman_mode_text">O dispositivo vai reiniciar para entrar no Modo Leve</string>
@@ -2460,7 +2459,7 @@ Para utilizar a fixação no ecrã:
   <string name="sd_ejecting_title">A desmontar</string>
   <string name="sd_format">Formatar cartão SD</string>
   <string name="sd_format_summary">Eliminar todos os dados do cartão SD, como música e fotos</string>
-  <string name="sd_insert_summary">Insira um cartão SD para montar</string>
+  <string name="sd_insert_summary">Insira um armazenamento USB para montar</string>
   <string name="sd_memory">Armazenamento USB</string>
   <string name="sd_mount">Montar cartão SD</string>
   <string name="sd_mount_summary"/>
@@ -3431,8 +3430,6 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wait_for_debugger_summary">Aplicação em modo de depuração aguarda pelo depurador que anexe antes de executar</string>
   <string name="wakeup_for_keyguard_notification_title">Ligar ecrã para notificações</string>
   <string name="wallpaper_attributions">Papéis de parede</string>
-  <string name="wallpaper_attributions_values">"Fornecedores de imagens de satélite:
-©2014 CNES/Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">Ecrã inicial</string>
   <string name="wallpaper_live">Papel de parede animados</string>
   <string name="wallpaper_lockscreen">Bloqueio de ecrã</string>

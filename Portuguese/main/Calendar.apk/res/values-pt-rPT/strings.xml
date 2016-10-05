@@ -143,9 +143,7 @@
   <string name="downloaded">Transferido</string>
   <string name="downloading">A transferir…</string>
   <string name="downloading_wallpaper">Transferir papel de parede</string>
-  <string name="drop_down_list_footer_default_text">Mais</string>
   <string name="drop_down_list_footer_no_more_text">Menos</string>
-  <string name="drop_down_list_header_default_text">Toque para actualizar</string>
   <string name="drop_down_list_header_loading_text">A carregar…</string>
   <string name="drop_down_list_header_pull_text">Descer para actualizar</string>
   <string name="drop_down_list_header_release_text">Permitir actualização</string>
@@ -204,7 +202,6 @@
   <string name="fortune_name">Chamada</string>
   <string name="fortune_name_hint">Indique</string>
   <string name="fortune_no_name">Preencha</string>
-  <string name="free_day_default_banner_title">Férias de verão</string>
   <string name="from_google_group_calendar">Calendário Google</string>
   <string name="gadget_no_events">Sem eventos para breve no calendário</string>
   <string name="gadget_title">Calendário</string>
@@ -307,7 +304,6 @@
   <string name="preferences_category_general_title">Definições gerais</string>
   <string name="preferences_clear_search_history_summary">Remover todas as pesquisas que executou</string>
   <string name="preferences_clear_search_history_title">Limpar histórico de pesquisa</string>
-  <string name="preferences_default_reminder_default">10</string>
   <string name="preferences_default_reminder_dialog">Hora predefinida do lembrete</string>
   <string name="preferences_default_reminder_title">Hora predefinida do lembrete</string>
   <string name="preferences_general_title">Definições de visualização do calendário</string>
@@ -402,10 +398,7 @@
   <string name="str_hour_of_everyday">Todos os dias %s</string>
   <string name="str_hour_of_next">Próxima vez %s</string>
   <string name="subscribe_card">立即订阅</string>
-  <string name="subscribe_card_more_default_text">Mais</string>
-  <string name="subscribe_card_recommend_default_text">Assinatura recomendada</string>
   <string name="subscribe_card_success">订阅“%1$s”成功</string>
-  <string name="subscribe_description_card_default_title">Preencha o seu perfil</string>
   <string name="subscribe_description_card_more_cut">Erro</string>
   <string name="subscribe_description_card_more_launch">Expandir</string>
   <string name="subscribe_detail_title">Detalhes da subscrição</string>
@@ -486,7 +479,6 @@
   <string name="widget_events">Próximo evento</string>
   <string name="widget_no_events">Sem eventos</string>
   <string name="widget_select_style">Escolher um estilo</string>
-  <string name="work_day_default_banner_title">O dinheiro não pára, horas extras é a saída!</string>
   <string name="work_day_indication">:-(</string>
   <string name="wuxing">Cinco</string>
   <string name="xiaomi_calendar_display_name">Calendário Conta Mi</string>

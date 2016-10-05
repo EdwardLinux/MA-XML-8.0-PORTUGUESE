@@ -1057,7 +1057,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="details_title">Detalhes de utilização</string>
   <string name="dev_settings_warning_message">Estas definições destinam-se apenas à utilização para desenvolvimento. Poderão causar comportamento instável do dispositivo e nas aplicações nele instaladas</string>
   <string name="dev_settings_warning_title">Permitir definições de desenvolvimento?</string>
-  <string name="developer_build">" | Beta"</string>
+  <string name="developer_build"/>
   <string name="development_enable">Opções de desenvolvimento</string>
   <string name="development_settings_not_available">As opções de desenvolvimento não estão disponíveis</string>
   <string name="development_settings_summary">Definir as opções para o desenvolvimento da aplicação</string>
@@ -1505,7 +1505,6 @@ Quando liga as cópias de segurança automática, os dados do dispositivo e das 
   <string name="help_uri_apps"/>
   <string name="help_uri_beam"/>
   <string name="help_uri_dashboard"/>
-  <string name="help_uri_default"/>
   <string name="help_uri_display"/>
   <string name="help_uri_interruptions"/>
   <string name="help_uri_notifications"/>
@@ -3293,8 +3292,8 @@ Para utilizar a fixação no ecrã:
   <string name="settings_safetylegal_activity_unreachable">Não tem uma ligação de dados. Para ver esta informação agora, vá a %s em qualquer computador ligado à Internet</string>
   <string name="settings_safetylegal_title">Informações de segurança</string>
   <string name="settings_shortcut">Atalho das definições</string>
-  <string name="settings_toggle_position_divider_list">Os atalhos colocados acima da barra estão activos</string>
-  <string name="settings_toggle_position_divider_page">%1$d atalhos colocados acima da barra estão activos</string>
+  <string name="settings_toggle_position_divider_list">Os atalhos colocados acima desta barra estão activos</string>
+  <string name="settings_toggle_position_divider_page">Os %1$d atalhos colocados acima desta barra estão activos</string>
   <string name="setup_fingerprint_enroll_finish_message">Basta tocar no sensor de impressões digitais para activar e desbloquear o dispositivo</string>
   <string name="setup_fingerprint_enroll_finish_message_secondary">Quando vir este ícone, pode utilizar as impressões digitais</string>
   <string name="setup_wifi_nfc_tag">Configurar etiqueta NFC p/ Wi-Fi</string>
@@ -4189,8 +4188,6 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wait_for_debugger_summary">Aplicação em modo de depuração aguarda pelo depurador que anexe antes de executar</string>
   <string name="wakeup_for_keyguard_notification_title">Ligar ecrã para notificações</string>
   <string name="wallpaper_attributions">Papéis de parede</string>
-  <string name="wallpaper_attributions_values">"Fornecedores de imagens de satélite:
-©2014 CNES/Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">Ecrã inicial</string>
   <string name="wallpaper_live">Papel de parede animados</string>
   <string name="wallpaper_lockscreen">Bloqueio de ecrã</string>
