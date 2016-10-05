@@ -700,7 +700,6 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="msim_not_set_summary">Não definido</string>
   <string name="msim_pref_title_data">Internet</string>
   <string name="msim_pref_title_voice">Marcar</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="msim_set_icc_card_error">Erro no cartão ICC</string>
   <string name="msim_set_sub_not_supported_phone_in_call">Não é possível definir durante a chamada</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Erro do cartão SIM</string>
@@ -1287,7 +1286,6 @@ Contacte a sua operadora se este problema persistir"</string>
   <string name="voicemail_default">A sua operadora</string>
   <string name="voicemail_notification_ringtone_title">Som</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibrar</string>
-  <string name="voicemail_notification_vibrate_when_default">Nunca</string>
   <string name="voicemail_notification_vibrate_when_title">Vibrar</string>
   <string name="voicemail_number_not_set">&lt;Não definido&gt;</string>
   <string name="voicemail_provider">Serviço de Voice Mail</string>
