@@ -594,7 +594,6 @@ para começar a utilizar os pacotes de carregamento"</string>
   <string name="livetalk_package_introduction_text">Chamadas mais baratas para qualquer número
 Faça um carregamento e comece a falar</string>
   <string name="livetalk_package_name">Saldo do pacote de carregamento</string>
-  <string name="livetalk_package_introduction_text">Chamadas mais baratas para qualquer número</string>
   <string name="livetalk_provider">Fornecido por %1$s</string>
   <string name="livetalk_provision">Termos do Serviço</string>
   <string name="livetalk_provision_content">É necessário concordar com %1$s para começar a utilizar os pacotes de carregamento. Para utilizar este serviço, é necessário estar ligado à Internet. Uma SMS vai ser enviada para activar este serviço. Aceitar?</string>
@@ -792,7 +791,6 @@ Será utilizada a rede preferida"</string>
   <string name="operator_mins_first">Dar prioridade ao plano da operadora</string>
   <string name="operator_mins_first_close">Desligar</string>
   <string name="operator_remain_mins">Minutos do pacote da operadora</string>
-  <string name="operator_remain_mins_value">%1$s minutos</string>
   <string name="optional_summary">&lt;Opcional&gt;</string>
   <string name="order_by_recent">Utilizados frequentemente</string>
   <string name="order_error_network">Erro no carregamento. Verifique a sua ligação</string>
@@ -1005,7 +1003,6 @@ O cartão SIM será bloqueado após nova tentativa falhada"</string>
   <string name="purchase_primary">Comprar</string>
   <string name="purchase_summary">Poupe até 70% nas suas tarifas de chamadas</string>
   <string name="query">Consultar</string>
-  <string name="purchase_summary">Poupe até 70%</string>
   <string name="purchase_title">Comprar</string>
   <string name="quickly_verify">Verificar</string>
   <string name="radio_off_error">Ligar o rádio antes de ver estas definições</string>

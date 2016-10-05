@@ -234,7 +234,6 @@
   <string name="not_buy_vip">Sem vip</string>
   <string name="not_exist_openid">A obter informação de conta. Por favor, aguarde…</string>
   <string name="not_login">Sem sessão iniciada</string>
-  <string name="notification_default_title">Vídeo offline</string>
   <string name="notification_sub_title">Total %d tarefa(s) de transferências concluídas</string>
   <string name="notification_ticker_text">Transferência de vídeo offline a terminar</string>
   <string name="notification_title">\"%1$s\" transferência em conclusão</string>

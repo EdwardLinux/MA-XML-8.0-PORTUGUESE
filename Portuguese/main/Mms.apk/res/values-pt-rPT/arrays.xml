@@ -14,29 +14,6 @@
         <item>Nota</item>
         <item>Relação</item>
      </string-array>
-     <string-array name="default_smiley_names">
-        <item>Feliz</item>
-        <item>Triste</item>
-        <item>Piscar o olho</item>
-        <item>Língua de fora</item>
-        <item>Surpresa</item>
-        <item>Beijar</item>
-        <item>Gritar</item>
-        <item>Frio</item>
-        <item>Boca de dinheiro</item>
-        <item>Pé na boca</item>
-        <item>Embaraçado</item>
-        <item>Anjo</item>
-        <item>Indeciso</item>
-        <item>Chorar</item>
-        <item>Lábios estão selados</item>
-        <item>Rir</item>
-        <item>Confuso</item>
-        <item>Coração</item>
-        <item>Louco</item>
-        <item>Rir</item>
-        <item>Poker face</item>
-     </string-array>
      <string-array name="entries_mms_validity_period">
         <item>Máximo</item>
         <item>Dois dias</item>

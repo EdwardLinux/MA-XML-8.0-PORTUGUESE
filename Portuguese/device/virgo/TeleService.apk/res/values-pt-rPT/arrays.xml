@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="clir_display_values">
-        <item>Predefinição da rede</item>
-        <item>Ocultar número</item>
-        <item>Mostrar número</item>
-    </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
         <item>TD-SCDMA, GSM/WCDMA, CDMA e EvDo</item>
@@ -29,17 +24,6 @@
         <item>Apenas WCDMA</item>
         <item>Apenas GSM</item>
         <item>WCDMA preferido</item>
-    </string-array>
-    <string-array name="call_barring_outgoing_display_values">
-        <item>Desligado</item>
-        <item>Barramento de chamadas em roaming</item>
-        <item>Barramento de chamadas internacionais</item>
-        <item>Barramento de chamadas efectuadas</item>
-    </string-array>
-    <string-array name="call_barring_incoming_display_values">
-        <item>Desligado</item>
-        <item>Roaming</item>
-        <item>Todas</item>
     </string-array>
     <string-array name="list_language_entries">
         <item>Inglês</item>
