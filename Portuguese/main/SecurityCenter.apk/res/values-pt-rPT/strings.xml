@@ -865,7 +865,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="power_optimize_disable_app_autostart">Prevenir aplicações de abrirem automaticamente</string>
   <string name="power_optimize_disable_gps">Desligar GPS</string>
   <string name="power_optimize_disable_start_other_app">Prevenir aplicações de abrirem outras aplicações</string>
-  <string name="power_optimize_loading">A carregar</string>
+  <string name="power_optimize_loading">A carregar…</string>
   <string name="power_optimize_manual_catagory_title">Manual</string>
   <string name="power_optimize_open_hide_mode">Ligar Modo Oculto</string>
   <string name="power_optimize_save_mode_not_opened">Poupança de bateria desligada</string>
