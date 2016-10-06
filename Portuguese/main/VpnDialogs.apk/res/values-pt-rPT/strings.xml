@@ -3,7 +3,6 @@
   <string name="configure">Configurar</string>
   <string name="data_received">Recebido:</string>
   <string name="data_transmitted">Enviado:</string>
-  <string name="data_value_format">%1$s bytes/%2$s pacotes</string>
   <string name="disconnect">Desligar</string>
   <string name="duration">Duração:</string>
   <string name="legacy_title">VPN está ligado</string>

@@ -44,21 +44,6 @@
         <item>Apenas com Wi-Fi</item>
         <item>Sempre</item>
      </string-array>
-     <string-array name="pref_default_text_encoding_choices">
-        <item>Latin-1 (ISO-8859-1)</item>
-        <item>Unicode (UTF-8)</item>
-        <item>Chinês (GBK)</item>
-        <item>Chinês (Big5)</item>
-        <item>Japonês (ISO-2022-JP)</item>
-        <item>Japonês (SHIFT_JIS)</item>
-        <item>Japonês (EUC-JP)</item>
-        <item>Coreano (EUC-KR)</item>
-     </string-array>
-     <string-array name="pref_default_zoom_choices">
-        <item>Longe</item>
-        <item>Médio</item>
-        <item>Perto</item>
-     </string-array>
      <string-array name="pref_development_ua_choices">
         <item>Android</item>
         <item>Desktop</item>
@@ -113,22 +98,6 @@
      <string-array name="pref_volume_key_choices">
         <item>Regressar/Avançar páginas</item>
         <item>Regressar/Avançar abas</item>
-     </string-array>
-     <string-array name="search_bar_search_engines_default">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
-     </string-array>
-     <string-array name="search_engines_default">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
-     </string-array>
-     <string-array name="search_engines_rCN">
-        <item>baidu</item>
-        <item>sogou</item>
-        <item>google</item>
-        <item>bing_zh_CN</item>
      </string-array>
      <string-array name="yahoo">
         <item>Yahoo!</item>
