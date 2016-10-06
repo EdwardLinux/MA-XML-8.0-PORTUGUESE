@@ -109,12 +109,12 @@
   <string name="callrecordview_item_op_time_short_outgoing">"Efectuada: "</string>
   <string name="callrecordview_item_op_video">Vídeo</string>
   <string name="callrecordview_menu_add_call_note">Adicionar nota de chamada</string>
-  <string name="callrecordview_menu_batch_delete">Limpar a lista de chamadas</string>
+  <string name="callrecordview_menu_batch_delete">Limpar registos de chamadas</string>
   <string name="callrecordview_menu_blocklist">Lista de bloqueio</string>
   <string name="callrecordview_menu_conference">Chamada em conferência</string>
   <string name="callrecordview_menu_delete">Limpar registo de chamadas</string>
   <string name="callrecordview_menu_delete_accepted">Limpar registos das chamadas atendidas</string>
-  <string name="callrecordview_menu_delete_all">Limpar registos de chamadas</string>
+  <string name="callrecordview_menu_delete_all">Limpar todos os registos de chamadas</string>
   <string name="callrecordview_menu_delete_called">Limpar registos das chamadas efectuadas</string>
   <string name="callrecordview_menu_delete_confirm">%s?</string>
   <string name="callrecordview_menu_delete_missed">Limpar registos das chamadas não atendidas</string>
