@@ -121,7 +121,7 @@
   <string name="trans_task">Transferência pela rede</string>
   <string name="transing">A enviar</string>
   <string name="upload_failed">Não foi possível carregar</string>
-  <string name="upload_file_to_midrive">Carregar ficheiro para o Mi Drive</string>
+  <string name="upload_file_to_midrive">Carregar ficheiros para o Mi Drive</string>
   <string name="uploading">A carregar</string>
   <string name="vip_info">VIP: %1$s</string>
   <string name="wait_net">A aguardar por rede…</string>
