@@ -19,7 +19,7 @@
   <string name="add_blacklist_dialog_message">Bloquear chamadas e mensagens deste número?</string>
   <string name="add_blacklist_dialog_title">Bloquear este número de telefone</string>
   <string name="add_connection_button">Adicionar ligação</string>
-  <string name="add_contact_dlg_message_fmt">Adicionar \"%s\" a contactos?</string>
+  <string name="add_contact_dlg_message_fmt">Adicionar \"%s\" aos contactos?</string>
   <string name="add_display_photo_entry">Adicionar foto de perfil</string>
   <string name="add_field">Adicionar outro campo</string>
   <string name="add_incall_show_entry">Adicionar vídeo</string>
@@ -397,7 +397,7 @@
   <string name="display_options_view_names_as">Ver nomes dos contactos como</string>
   <string name="display_sim_contacts">Mostrar contactos do SIM</string>
   <string name="display_ungrouped">Todos os outros contactos</string>
-  <string name="display_warn_remove_ungrouped">Remover \"%s\" da sincronização também vai remover da sincronização contactos desagrupados</string>
+  <string name="display_warn_remove_ungrouped">Remover \"%s\" da sincronização também vai remover quaisquer contactos desagrupados da sincronização</string>
   <string name="duplicate_group_name">Um grupo com este nome já existe</string>
   <string name="editContactDescription">Editar contacto</string>
   <string name="editContactNameExpandCloseDescription">Fechar nome</string>
@@ -986,8 +986,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="rcs_recipient_type_contact">Enviar para contacto</string>
   <string name="rcs_recipient_type_group">Enviar para grupo</string>
   <string name="rcs_send_vcard">Enviar vCard</string>
-  <string name="readOnlyContactDeleteConfirmation">Este contacto contém informações de várias contas. Informações de contas só de leitura podem ser ocultas da sua lista de contactos, não eliminadas</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">"\"%s\" contém informações de várias contas. Qualquer informação que não possa ser eliminada será ocultada da sua lista de contactos"</string>
+  <string name="readOnlyContactDeleteConfirmation">O contacto a ser eliminado tem detalhes de várias contas. Os detalhes das contas só de leitura ficam ocultos mas não são eliminados</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">O contacto \"%s\" contém detalhes de várias contas. Os detalhes das contas só de leitura ficam ocultos mas não são eliminados</string>
   <string name="readOnlyContactWarning">Não pode eliminar contactos de contas só de leitura, mas pode ocultá-los da sua lista de contactos</string>
   <string name="readingSimContacts">A ler cartão SIM…</string>
   <string name="reading_vcard_canceled_title">A leitura do vCard foi cancelada</string>
