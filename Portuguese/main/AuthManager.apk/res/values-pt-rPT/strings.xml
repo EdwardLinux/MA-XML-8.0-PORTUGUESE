@@ -4,7 +4,7 @@
   <string name="Dashboard_HIPS_Disable_Content">A MIUI não irá monitorizar pedidos de permissões das aplicações</string>
   <string name="Dashboard_HIPS_Disable_Title">Permissões</string>
   <string name="Dashboard_Log">Registos</string>
-  <string name="Dashboard_Log_Clear_Content">Todos os registos serão eliminados</string>
+  <string name="Dashboard_Log_Clear_Content">Todos os registos vão ser eliminados</string>
   <string name="Dashboard_Log_Clear_Title">Limpar registos</string>
   <string name="Dashboard_Perm">Permissões</string>
   <string name="Dashboard_Perm_AutoStart">Permissões de início automático</string>
@@ -260,7 +260,7 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root"</string>
   <string name="Privacy_App_Log">Registos</string>
   <string name="Privacy_App_Manage">Detalhes</string>
   <string name="Privacy_App_Trust">Pedir permissão</string>
-  <string name="Privacy_App_TrustDialog_Content">Não será questionado sobre permissões quando esta aplicação aceder a outras partes do sistema</string>
+  <string name="Privacy_App_TrustDialog_Content">Não vai ser questionado sobre permissões quando esta aplicação aceder a outras partes do sistema</string>
   <string name="Privacy_App_TrustDialog_Title">Permissões da aplicação</string>
   <string name="Privacy_App_Trust_Summary_Off">Mostrar notificações quando esta aplicação tentar aceder a outras partes do sistema</string>
   <string name="Privacy_App_Trust_Summary_On">Mostrar notificações quando esta aplicação tentar aceder a outras partes do sistema</string>

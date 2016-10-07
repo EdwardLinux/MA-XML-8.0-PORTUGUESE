@@ -354,7 +354,7 @@ Verifique o seu número de pesquisa"</string>
   <string name="recharge_payment_error">Compra fechada ou ocorreu um erro</string>
   <string name="recharge_payment_result_failed_summary">Tente novamente</string>
   <string name="recharge_payment_result_failed_title">O carregamento falhou</string>
-  <string name="recharge_payment_result_ok_summary">Confirme que este montante será descontado no seu saldo</string>
+  <string name="recharge_payment_result_ok_summary">Confirme que este montante vai ser descontado no seu saldo</string>
   <string name="recharge_payment_result_ok_title">Adicionado %s EUR</string>
   <string name="recharge_payment_result_progress_summary">A verificar o resultado do pagamento…</string>
   <string name="recharge_phone">Número de telefone:</string>

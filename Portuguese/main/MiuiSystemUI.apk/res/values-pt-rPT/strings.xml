@@ -143,7 +143,7 @@ Se voltar a activar os dados móveis poderá ter custos adicionais facturados pe
   <string name="disable_notification_summary">Nunca mostrar notificações das aplicações seleccionadas</string>
   <string name="disable_notification_title">Ocultar notificações</string>
   <string name="dismount_storage">Não</string>
-  <string name="dlg_confirm_kill_storage_users_text">Se ligar o armazenamento USB, algumas aplicações que estiver a utilizar serão paradas e poderão ficar indisponíveis até desligar o armazenamento USB</string>
+  <string name="dlg_confirm_kill_storage_users_text">Se ligar o armazenamento USB, algumas aplicações que estiver a utilizar vão ser paradas e poderão ficar indisponíveis até desligar o armazenamento USB</string>
   <string name="dlg_confirm_kill_storage_users_title">Ligar armazenamento USB</string>
   <string name="dlg_error_title">Operação USB sem sucesso</string>
   <string name="dlg_ok">OK</string>
@@ -242,8 +242,8 @@ Utilize apenas o carregador fornecido"</string>
   <string name="saved_network">Guardada por %1$s</string>
   <string name="screen_button_notification_text">Para voltar a activar, prima em Início e no botão Ligar/Desligar simultaneamente</string>
   <string name="screen_button_notification_title">Os botões de navegação foram desactivados</string>
-  <string name="screen_pinning_description">Será mantido no ecrã até soltar. Prima o botão Início e o botão Ligar em simultâneo para soltar</string>
-  <string name="screen_pinning_description_accessible">Será mantido no ecrã até soltar. Prima o botão Início e o botão Ligar em simultâneo para soltar</string>
+  <string name="screen_pinning_description">Vai ser mantido no ecrã até soltar. Prima o botão Início e o botão Ligar em simultâneo para soltar</string>
+  <string name="screen_pinning_description_accessible">Vai ser mantido no ecrã até soltar. Prima o botão Início e o botão Ligar em simultâneo para soltar</string>
   <string name="screen_pinning_negative">Não obrigado</string>
   <string name="screen_pinning_positive">Entendi</string>
   <string name="screen_pinning_title">Ecrã está fixado</string>

@@ -157,7 +157,7 @@
   <string name="com.tencent.mm.ui.tools.ShareToTimeLineUI">Momentos WeChat</string>
   <string name="com.tencent.mobileqq.activity.JumpActivity">QQ</string>
   <string name="confirm">OK</string>
-  <string name="confirm_download_video_message">Tem que terminar de transferir este vídeo para que possa vê-lo. A transferência será retomada quando a ligação Wi-Fi estiver disponível</string>
+  <string name="confirm_download_video_message">Tem que terminar de transferir este vídeo para que possa vê-lo. A transferência vai ser retomada quando a ligação Wi-Fi estiver disponível</string>
   <string name="confirm_download_video_title">Transferir vídeo</string>
   <string name="confirm_face">Corresponder</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Unir este álbum com &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
@@ -362,7 +362,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="loading_image">A transferir imagem…</string>
   <string name="loading_image_thumbnail">A transferir miniaturas…</string>
   <string name="loading_members">A carregar membros026</string>
-  <string name="loading_suspend">Transferência em pausa. Será retomada quando Wi-Fi estiver disponível</string>
+  <string name="loading_suspend">Transferência em pausa. Vai ser retomada quando Wi-Fi estiver disponível</string>
   <string name="loading_video">A transferir vídeo…</string>
   <string name="loading_video_thumbnail">A transferir capa do vídeo…</string>
   <string name="local_space_full_button_text">Limpar espaço</string>

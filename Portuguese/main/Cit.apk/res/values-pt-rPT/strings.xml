@@ -17,7 +17,7 @@
   <string name="cit_OTG_waiting_out">Desligar dispositivo USB OTG agora</string>
   <string name="cit_ac_charger_in">A carregar por CA</string>
   <string name="cit_ac_charger_out">Carregador CA desligado</string>
-  <string name="cit_accelermeter_sensor_check_summary">"Mova o dispositivo rapidamente numa direcção. Os valores das coordenadas de X，Y，Z serão mostrados em baixo. (quando o telefone está em movimento: o X representa esquerda/direita, o Y representa frente/trás e o Z acima/abaixo).
+  <string name="cit_accelermeter_sensor_check_summary">"Mova o dispositivo rapidamente numa direcção. Os valores das coordenadas de X，Y，Z vão ser mostrados em baixo. (quando o telefone está em movimento: o X representa esquerda/direita, o Y representa frente/trás e o Z acima/abaixo).
 Antes de calibrar o dispositivo, coloque-o numa superfície plana"</string>
   <string name="cit_accelermeter_sensor_check_title">Acelerómetro</string>
   <string name="cit_apk_signature_failed">Assinatura do APK FALHOU</string>
@@ -99,7 +99,7 @@ Segure no telefone como se estivesse a atender uma chamada, fale para o microfon
   <string name="cit_display_check_summary">Confirme que o ficheiro de imagem bmp existe no cartão SD. Confirme se as cores são exibidas de forma consistente por todo o ecrã. Certifique-se de que não existem pontos com brilho irregular ou pontos negros</string>
   <string name="cit_display_check_title">Ecrã</string>
   <string name="cit_display_continue">Toque no ecrã para iniciar o teste</string>
-  <string name="cit_exit_test_summary">Quando sair, todos os resultados serão eliminados</string>
+  <string name="cit_exit_test_summary">Quando sair, todos os resultados vão ser eliminados</string>
   <string name="cit_exit_test_title">Sair do teste</string>
   <string name="cit_fail">Erro</string>
   <string name="cit_fm_audio_path">Definir caminho de áudio</string>
@@ -118,7 +118,7 @@ Segure no telefone como se estivesse a atender uma chamada, fale para o microfon
 1.Toque no botão da câmara em baixo para entrar na interface da câmara frontal.
 2.Toque no botão de disparo.
 3.Toque no ícone Verificar. O sistema vai guardar a fotografia automaticamente.
-4.A fotografia que tirou será exibida em baixo. Toque em Eliminar para concluir o teste"</string>
+4.A fotografia que tirou vai ser exibida em baixo. Toque em Eliminar para concluir o teste"</string>
   <string name="cit_front_camera_check_title">Câmara frontal</string>
   <string name="cit_get_signature_failed">Obter assinatura FALHOU</string>
   <string name="cit_gps_check_summary">A informação correspondente ao GPS deverá ser exibida em baixo</string>
@@ -179,7 +179,7 @@ Toque no ecrã para iniciar o GPS…"</string>
 2.Certifique-se de que o flash está activado
 3.Toque no botão de disparo
 4.Toque no ícone Verificar. O sistema vai guardar a foto automaticamente.
-5.A foto que tirou será mostrada em baixo. Toque em Eliminar para concluir o teste"</string>
+5.A foto que tirou vai ser mostrada em baixo. Toque em Eliminar para concluir o teste"</string>
   <string name="cit_main_camera_check_title">Câmara traseira</string>
   <string name="cit_name">Testes de hardware</string>
   <string name="cit_not_available">Este teste não está disponível nesta versão MIUI</string>
@@ -188,9 +188,9 @@ Toque no ecrã para iniciar o GPS…"</string>
   <string name="cit_notificationlight_on">LED de notificação ligado</string>
   <string name="cit_otg_not_supported">Este dispositivo não suporta teste OTG</string>
   <string name="cit_pass">Passou</string>
-  <string name="cit_play_sd_mp3_hifi_summary">"Confirme que existe um ficheiro com o nome  \"music.mp3\" no cartão SD. Quando iniciar este teste o ficheiro \"music.mp3\" será reproduzido no dispositivo HIFI associado"</string>
+  <string name="cit_play_sd_mp3_hifi_summary">"Confirme que existe um ficheiro com o nome  \"music.mp3\" no cartão SD. Quando iniciar este teste o ficheiro \"music.mp3\" vai ser reproduzido no dispositivo HIFI associado"</string>
   <string name="cit_play_sd_mp3_hifi_title">Reproduzir MP3 (Hi-Fi) do cartão SD</string>
-  <string name="cit_play_sd_mp3_summary">"Confirme que existe um ficheiro com o nome  \"music.mp3\" no cartão SD. Quando iniciar este teste o ficheiro \"music.mp3\" será reproduzido nos altifalantes externos do dispositivo"</string>
+  <string name="cit_play_sd_mp3_summary">"Confirme que existe um ficheiro com o nome  \"music.mp3\" no cartão SD. Quando iniciar este teste o ficheiro \"music.mp3\" vai ser reproduzido nos altifalantes externos do dispositivo"</string>
   <string name="cit_play_sd_mp3_title">Reproduzir MP3 do cartão SD</string>
   <string name="cit_playing_sd_mp3">A reproduzir music.mp3…</string>
   <string name="cit_pointer_location_title">Sensor de toque</string>
@@ -205,7 +205,7 @@ Durante a calibração, verifique que não está nada entre o sensor e a sua mã
   <string name="cit_rear_sub_camera_check_title">Câmara traseira inferior</string>
   <string name="cit_recovery_signature_failed">Assinatura do modo restauro FALHOU</string>
   <string name="cit_recovery_signature_passed">Assinatura do modo restauro PASSOU</string>
-  <string name="cit_reset_check_summary">Este teste vai reiniciar o dispositivo. Todos os dados dos testes anteriores serão eliminados</string>
+  <string name="cit_reset_check_summary">Este teste vai reiniciar o dispositivo. Todos os dados dos testes anteriores vão ser eliminados</string>
   <string name="cit_reset_check_title">Teste de reinicialização</string>
   <string name="cit_reset_test">Testar</string>
   <string name="cit_sd_fail">Ocorreu um erro</string>
@@ -312,7 +312,7 @@ Depois de inserir o ficheiro \"music.mp3\" no cartão SD, toque no ecrã para o 
   <string name="cit_touch_calib_fail">Erro na calibração do toque. Tente novamente</string>
   <string name="cit_touch_calib_instruction">Iniciar calibração</string>
   <string name="cit_touch_calib_pass">Calibração do toque concluída</string>
-  <string name="cit_touch_calib_summary">O próximo passo será calibrar o toque no ecrã, prima o botão confirmar e não toque no ecrã depois do início do teste. Aguarde a mensagem de calibração bem sucedida</string>
+  <string name="cit_touch_calib_summary">O próximo passo vai ser calibrar o toque no ecrã, prima o botão confirmar e não toque no ecrã depois do início do teste. Aguarde a mensagem de calibração bem sucedida</string>
   <string name="cit_touch_calib_title">Calibração do toque</string>
   <string name="cit_usb_OTG_in">Dispositivo USB OTG detectado</string>
   <string name="cit_usb_OTG_out">Dispositivo USB OTG removido</string>

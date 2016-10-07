@@ -288,7 +288,7 @@
   <string name="gesture_pad_sencond_line_tips">· Toque e segure na área central do ecrã para ver o menu. Deslize para cima ou para baixo para ajustar o volume</string>
   <string name="gesture_pad_vol_tips">Utilizar o volume do telefone para ajustar o volume no dispositivo ligado</string>
   <string name="get_backup_failed">Erro na cópia. Tente novamente</string>
-  <string name="get_backup_succeed">Restaurado com sucesso. Total: %1$d | Actual: %2$d| Restaurados: %3$d</string>
+  <string name="get_backup_succeed">Restaurado com sucesso. Total: %1$d | Actual: %2$d | Restaurados: %3$d</string>
   <string name="get_data_fail_tips">Não foi possível obter dados</string>
   <string name="get_info_failed">Não foi possível obter informação</string>
   <string name="get_location_fail_tip">Não foi possível definir localização. Escolha uma cidade</string>
@@ -683,8 +683,8 @@ Para activar a sua conta, siga o
   <string name="passport_wrong_vcode">O código que introduziu está incorrecto</string>
   <string name="passport_xiaomi_account_dspt">Utilize a sua Conta Mi para entrar na Nuvem Mi, Loja de Temas MIUI e Loja Mi de qualquer lugar</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
-  <string name="passport_xiaomi_account_sec_dspt2">É necessário uma ligação à Internet para iniciar sessão na sua Conta Mi. O acesso à localização e Nuvem Mi serão ligados automaticamente</string>
-  <string name="passport_xiaomi_account_sec_dspt2_vip">É necessário uma ligação à Internet para iniciar sessão na sua Conta Mi. O acesso à localização, Nuvem Mi e Vip Mi serão ligados automaticamente</string>
+  <string name="passport_xiaomi_account_sec_dspt2">É necessário uma ligação à Internet para iniciar sessão na sua Conta Mi. O acesso à localização e Nuvem Mi vão ser ligados automaticamente</string>
+  <string name="passport_xiaomi_account_sec_dspt2_vip">É necessário uma ligação à Internet para iniciar sessão na sua Conta Mi. O acesso à localização, Nuvem Mi e Vip Mi vão ser ligados automaticamente</string>
   <string name="place_frame">"Localização: "</string>
   <string name="play_in_phone">Ver no telefone</string>
   <string name="play_on_tv">Reproduzir na TV</string>

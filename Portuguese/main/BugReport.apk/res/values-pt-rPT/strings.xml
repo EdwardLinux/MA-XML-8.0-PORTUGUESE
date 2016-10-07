@@ -187,7 +187,7 @@
   <string name="network_errortip_timeout">Tempo de ligação expirado. Tente novamente mais tarde</string>
   <string name="network_errortip_unknow">"Estamos a tentar solucionar o problema…"</string>
   <string name="network_unavailable_dialog_button_ok">OK</string>
-  <string name="network_unavailable_dialog_content">O seu comentário será enviado quando a ligação de dados estiver disponível</string>
+  <string name="network_unavailable_dialog_content">O seu comentário vai ser enviado quando a ligação de dados estiver disponível</string>
   <string name="network_unavailable_dialog_title">Não é possível ligar à rede</string>
   <string name="non_system_app_select">Aplicações transferidas</string>
   <string name="nothing">--</string>
@@ -229,7 +229,7 @@
   <string name="toast_description_required">É necessário escrever uma descrição</string>
   <string name="toast_feedback_collect_store">A obter os registos…</string>
   <string name="toast_feedback_network_unavailable">Não é possível ligar à rede</string>
-  <string name="toast_feedback_pending_wlan">O seu comentário será enviado quando o Wi-Fi estiver disponível</string>
+  <string name="toast_feedback_pending_wlan">O seu comentário vai ser enviado quando o Wi-Fi estiver disponível</string>
   <string name="toast_feedback_submitted">Relatório foi enviado</string>
   <string name="toast_feedback_submitting">A enviar…</string>
   <string name="toast_feedbackservice_in_submit">A enviar informação anterior…</string>

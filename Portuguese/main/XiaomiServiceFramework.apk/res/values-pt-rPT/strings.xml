@@ -59,7 +59,7 @@ Introduza o número de telefone associado com o seu novo cartão SIM para reacti
   <string name="activate_popup_desc_register_account">A sua operadora pode cobrar um valor adicional por uma mensagem para criar a sua Conta Mi</string>
   <string name="activate_popup_desc_register_account_downlink">Introduzir o seu número de telefone</string>
   <string name="activate_popup_desc_register_account_intl">A sua operadora pode cobrar um valor adicional por uma mensagem internacional para criar a sua Conta Mi</string>
-  <string name="activate_popup_desc_sim_card">Será enviada uma SMS para activar %s. Vai ser cobrado um valor adicional pela sua operadora</string>
+  <string name="activate_popup_desc_sim_card">Vai ser enviada uma SMS para activar %s. Vai ser cobrado um valor adicional pela sua operadora</string>
   <string name="activate_popup_desc_sim_card_downlink">Introduzir o seu número de telefone actual para activar %s</string>
   <string name="activate_popup_desc_voip_privacy">Política de Privacidade</string>
   <string name="activate_popup_desc_voip_privacy_prefix">"Serviço VoIP desenvolvido por Weihui. Ver "</string>

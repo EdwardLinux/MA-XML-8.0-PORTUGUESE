@@ -108,14 +108,14 @@ Pretende fechar?"</string>
 A poupança de bateria desliga-se automaticamente quando o dispositivo está a carregar"</string>
   <string name="beforeOneMonthDurationPast">Há mais de 1 mês</string>
   <string name="bluetooth_a2dp_audio_route_name">Áudio Bluetooth</string>
-  <string name="bugreport_message">Será recolhida informação sobre o estado actual do seu dispositivo a enviar através de uma mensagem de email. Demorará algum tempo até que o relatório de erros esteja pronto para ser enviado. Aguarde um momento</string>
+  <string name="bugreport_message">Vai ser recolhida informação sobre o estado actual do seu dispositivo a enviar através de uma mensagem de email. Demorará algum tempo até que o relatório de erros esteja pronto para ser enviado. Aguarde um momento</string>
   <string name="bugreport_title">Criar relatório de erros</string>
   <string name="byteShort">B</string>
   <string name="cancel">Cancelar</string>
   <string name="candidates_style"><u>Candidatos</u></string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Os scripts podem ser instalados para tornar o conteúdo da aplicação mais acessível</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Inclui dados pessoais, como números de cartão de crédito e palavras-passe</string>
-  <string name="capability_desc_canRequestTouchExploration">Os itens tocados serão ditos em voz alta e o ecrã pode ser explorado através de gestos</string>
+  <string name="capability_desc_canRequestTouchExploration">Os itens tocados vão ser ditos em voz alta e o ecrã pode ser explorado através de gestos</string>
   <string name="capability_desc_canRetrieveWindowContent">Inspeccionar o conteúdo de uma janela com a qual está a interagir</string>
   <string name="capability_title_canRequestEnhancedWebAccessibility">Ligar a acessibilidade web melhorada</string>
   <string name="capability_title_canRequestFilterKeyEvents">Observar texto que escrever</string>
@@ -196,7 +196,7 @@ utilizando %s"</string>
   <string name="display_manager_overlay_display_name">Sobreposição #%1$d</string>
   <string name="display_manager_overlay_display_secure_suffix">, protegido</string>
   <string name="display_manager_overlay_display_title">%1$s: %2$dx%3$d, %4$d dpi</string>
-  <string name="dlg_confirm_kill_storage_users_text">Se ligar o armazenamento USB, algumas aplicações que estiver a utilizar serão paradas e poderão ficar indisponíveis até desligar o armazenamento USB</string>
+  <string name="dlg_confirm_kill_storage_users_text">Se ligar o armazenamento USB, algumas aplicações que estiver a utilizar vão ser paradas e poderão ficar indisponíveis até desligar o armazenamento USB</string>
   <string name="dlg_confirm_kill_storage_users_title">Ligar armazenamento USB</string>
   <string name="dlg_error_title">Operação USB sem sucesso</string>
   <string name="dlg_ok">OK</string>
@@ -277,8 +277,8 @@ utilizando %s"</string>
   <string name="ext_media_unsupported_notification_message">O dispositivo não suporta este %s. Toque para configurar num formato suportado</string>
   <string name="ext_media_unsupported_notification_title">%s não suportado</string>
   <string name="faceunlock_multiple_failures">Excedido o n.º máximo de tentativas de desbloqueio através do rosto</string>
-  <string name="factory_reset_message">A aplicação de administração tem componentes em falta ou corrompidos e não podem ser utilizados. O seu dispositivo será agora eliminado. Contacte o seu administrador para obter assistência</string>
-  <string name="factory_reset_warning">O seu dispositivo será eliminado</string>
+  <string name="factory_reset_message">A aplicação de administração tem componentes em falta ou corrompidos e não podem ser utilizados. O seu dispositivo vai ser agora eliminado. Contacte o seu administrador para obter assistência</string>
+  <string name="factory_reset_warning">O seu dispositivo vai ser eliminado</string>
   <string name="factorytest_failed">O teste de fábrica falhou</string>
   <string name="factorytest_no_action">Não foi localizado qualquer pacote que forneça a acção FACTORY_TEST</string>
   <string name="factorytest_not_system">A acção FACTORY_TEST apenas é suportada para pacotes instalados em /system/app</string>
@@ -450,8 +450,8 @@ Tem a certeza de que deseja sair desta página?"</string>
   <string name="kg_failed_attempts_almost_at_login" formatted="false">"Desenhou o seu padrão de desbloqueio incorrectamente %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone através de uma conta de email.
 
 Tente novamente dentro de %d segundos"</string>
-  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativas sem sucesso, as definições de origem do telefone serão repostas e todos os dados do utilizador serão perdidos</string>
-  <string name="kg_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que será reposta a predefinição de fábrica</string>
+  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativas sem sucesso, as definições de origem do telefone vão ser repostas e todos os dados do utilizador vão ser perdidos</string>
+  <string name="kg_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que vai ser reposta a predefinição de fábrica</string>
   <string name="kg_forgot_pattern_button_text">Esqueceu o padrão?</string>
   <string name="kg_invalid_confirm_pin_hint">Códigos PIN não coincidem</string>
   <string name="kg_invalid_puk">Reintroduzir o código PUK correcto. Tentativas repetidas vão desactivar o SIM permanentemente</string>
@@ -519,11 +519,11 @@ Para soltar, toque e segure os botões Início e Ligar/Desligar ao mesmo tempo"<
   <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
   <string name="lockscreen_carrier_default">Sem serviço</string>
   <string name="lockscreen_emergency_call">Chamada de emergência</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativa(s) sem sucesso, as definições de origem do telefone serão repostas e todos os dados do utilizador vão ser eliminados</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativa(s) sem sucesso, as definições de origem do telefone vão ser repostas e todos os dados do utilizador vão ser eliminados</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Desenhou o seu padrão de desbloqueio incorrectamente %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone com as suas credenciais de início de sessão do Google.
 
 Tente novamente dentro de %d segundos"</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que serão repostas as respectivas definições de fábrica</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que vão ser repostas as respectivas definições de fábrica</string>
   <string name="lockscreen_forgot_pattern_button_text">Esqueceu o padrão?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Esqueceu o nome de utilizador ou a palavra-passe?
 Visite <b>google.com/accounts/recovery</b>"</string>

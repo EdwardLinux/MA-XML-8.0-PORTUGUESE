@@ -46,11 +46,11 @@
   <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
   <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
   <string name="lockscreen_charging_msg">A carregar</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, as definições de origem do telefone serão repostas e todos os dados do utilizador serão eliminados</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, as definições de origem do telefone vão ser repostas e todos os dados do utilizador vão ser eliminados</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone com as suas credenciais de início de sessão do Google.
 
 Tente novamente dentro de %d segundos"</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que serão repostas as respectivas definições de fábrica</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que vão ser repostas as respectivas definições de fábrica</string>
   <string name="lockscreen_glogin_checking_password">A verificar…</string>
   <string name="lockscreen_glogin_invalid_input">Utilizador ou palavra-passe inválido</string>
   <string name="lockscreen_glogin_password_hint">Palavra-passe</string>

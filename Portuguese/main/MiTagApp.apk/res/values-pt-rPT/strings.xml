@@ -103,7 +103,7 @@ toque a com a parte de trás do seu dispositivo."</string>
   <string name="input_old_password">Introduzir palavra-passe existente</string>
   <string name="input_password">Criar uma palavra-passe de 4 dígitos</string>
   <string name="input_password_gain">Confirmar palavra-passe</string>
-  <string name="input_password_warning">Palavra-passe será escrita na etiqueta</string>
+  <string name="input_password_warning">Palavra-passe vai ser escrita na etiqueta</string>
   <string name="local_app">TRANSFERIDAS</string>
   <string name="media_value">Media %s%%</string>
   <string name="meeting_mode">Modo de reunião</string>

@@ -30,7 +30,7 @@
   <string name="confirm_delete_message">Eliminar esta mensagem?</string>
   <string name="confirm_dialog_locked_title">Eliminar mensagem bloqueada?</string>
   <string name="confirm_dialog_title">Eliminar conversas</string>
-  <string name="confirm_export_dialog_description">Conversas anteriores com este contacto não serão mais ocultadas</string>
+  <string name="confirm_export_dialog_description">Conversas anteriores com este contacto não vão ser mais ocultadas</string>
   <string name="confirm_rate_limit">Um grande número de mensagens multimédia está a ser enviado</string>
   <string name="context_menu_add_contact">Adicionar a um contacto existente</string>
   <string name="context_menu_add_to_browser_favorite">Adicionar aos marcadores do Navegador</string>
@@ -54,7 +54,7 @@
   <string name="delete_message">Eliminar</string>
   <string name="delete_unlocked">Eliminar mensagens bloqueadas</string>
   <string name="discard_message">Rejeitar</string>
-  <string name="discard_message_reason">A sua mensagem será rejeitada porque não tem um destinatário válido</string>
+  <string name="discard_message_reason">A sua mensagem vai ser rejeitada porque não tem um destinatário válido</string>
   <string name="done">Concluído</string>
   <string name="edit">Editar</string>
   <string name="edit_phrase">Editar respostas rápidas</string>
@@ -113,9 +113,9 @@
   <string name="msglist_no_more_to_refresh">Já actualizado</string>
   <string name="msglist_release_to_more">Solte para ver mais</string>
   <string name="mx_auto_resend_mms">Enviar como MMS</string>
-  <string name="mx_auto_resend_mms_summary">Enviar mensagens como MMS pela ligação de dados móveis, quando não estiver ligado ao Wi-Fi. Serão aplicados os encargos normais da utilização de dados</string>
+  <string name="mx_auto_resend_mms_summary">Enviar mensagens como MMS pela ligação de dados móveis, quando não estiver ligado ao Wi-Fi. Vão ser aplicados os encargos normais da utilização de dados</string>
   <string name="mx_auto_resend_sms">Enviar como texto</string>
-  <string name="mx_auto_resend_sms_summary">Enviar mensagens como SMS pela ligação de dados móveis, quando não estiver ligado ao Wi-Fi. Serão aplicados os encargos normais da utilização de dados</string>
+  <string name="mx_auto_resend_sms_summary">Enviar mensagens como SMS pela ligação de dados móveis, quando não estiver ligado ao Wi-Fi. Vão ser aplicados os encargos normais da utilização de dados</string>
   <string name="mx_current_status">Definições de utilização de dados</string>
   <string name="mx_dspt">Enviar mensagens pela Nuvem Mi entre dispositivos MIUI gratuitamente</string>
   <string name="mx_enable">Mensagens Mi</string>
@@ -221,7 +221,7 @@
   <string name="title_date_type">Registo da hora da mensagem</string>
   <string name="title_show_sms_template">Verificar SMS por OTP</string>
   <string name="to_label">"Para "</string>
-  <string name="to_send_wrapper">Será enviada às %s</string>
+  <string name="to_send_wrapper">Vai ser enviada às %s</string>
   <string name="too_many_unsent_mms">"Não é possível enviar a mensagem agora. Demasiadas mensagens multimédia por enviar"</string>
   <string name="try_again">Tente novamente</string>
   <string name="type_attachment">anexo</string>

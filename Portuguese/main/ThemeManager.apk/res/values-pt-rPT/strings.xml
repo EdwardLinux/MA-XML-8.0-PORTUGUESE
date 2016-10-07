@@ -159,10 +159,10 @@
   <string name="resource_comment_title">Comentários acerca de %1$s</string>
   <string name="resource_comment_upload_data_invalid">Comentário inválido</string>
   <string name="resource_comment_upload_failed">Erro ao enviar comentário</string>
-  <string name="resource_comment_upload_hint">O seu comentário será mostrado depois de uma breve revisão</string>
+  <string name="resource_comment_upload_hint">O seu comentário vai ser mostrado depois de uma breve revisão</string>
   <string name="resource_comment_upload_not_bought">Deve utilizar o tema antes de fazer comentários</string>
   <string name="resource_comment_upload_not_logined">Primeiro tem de iniciar a sessão</string>
-  <string name="resource_comment_upload_success">O seu comentário será mostrado depois de uma breve revisão</string>
+  <string name="resource_comment_upload_success">O seu comentário vai ser mostrado depois de uma breve revisão</string>
   <string name="resource_continue">Seguinte</string>
   <string name="resource_data_empty">O conteúdo está vazio</string>
   <string name="resource_default">Toque predefinido</string>

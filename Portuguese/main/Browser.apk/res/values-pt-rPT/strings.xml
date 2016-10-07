@@ -113,7 +113,7 @@
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Soltar para fechar</string>
   <string name="browserFrameFileErrorLabel">Erro no ficheiro</string>
   <string name="browserFrameFormResubmitLabel"/>
-  <string name="browserFrameFormResubmitMessage">"A página que está a tentar ver contêm dados que já foram submetidos. Se reenviar os dados, as acções anteriores ( p.e. pesquisas ou compras) serão repetidas"</string>
+  <string name="browserFrameFormResubmitMessage">"A página que está a tentar ver contêm dados que já foram submetidos. Se reenviar os dados, as acções anteriores ( p.e. pesquisas ou compras) vão ser repetidas"</string>
   <string name="browserFrameNetworkErrorLabel">Erro de ligação</string>
   <string name="cancel">Cancelar</string>
   <string name="cannot_download">Só é possível transferir \"http\" ou \"https\" endereços</string>
@@ -125,7 +125,7 @@
   <string name="clip_dialog_title">Abrir o endereço copiado?</string>
   <string name="close_ads_choice_no">Permitir</string>
   <string name="close_ads_choice_yes">Bloquear</string>
-  <string name="close_ads_message">Vai fechar este conteúdo. Bloquear este conteúdo automaticamente depois? O conteúdo que é bloqueado será exibido nas Definições &gt; Avançado &gt; Regras personalizadas</string>
+  <string name="close_ads_message">Vai fechar este conteúdo. Bloquear este conteúdo automaticamente depois? O conteúdo que é bloqueado vai ser exibido nas Definições &gt; Avançado &gt; Regras personalizadas</string>
   <string name="close_ads_title">Bloquear conteúdo?</string>
   <string name="close_all_tab_alert_message">Fechar todas as páginas?</string>
   <string name="close_all_tab_alert_title">Fechar todas as páginas</string>
@@ -664,7 +664,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="send_comment_button">enviar</string>
   <string name="send_comment_title">comentar</string>
   <string name="share_page_text">Estou a divertir-me 【%1$s】 | %2$s</string>
-  <string name="show_check_security_url_check_tip_dialog_description">O URL deste Website será enviado para os servidores da Xiaomi para ser verificado se é seguro. Pode desligar esta funcionalidade em qualquer altura nas Definições</string>
+  <string name="show_check_security_url_check_tip_dialog_description">O URL deste Website vai ser enviado para os servidores da Xiaomi para ser verificado se é seguro. Pode desligar esta funcionalidade em qualquer altura nas Definições</string>
   <string name="show_check_security_url_check_tip_dialog_title">Termos do Serviço</string>
   <string name="show_weather_location_getter_tip_dialog_description">Serviços do tempo necessitam da sua informação de localização para lhe dar informação actualizada do tempo no seu navegador. Pode desligar esta funcionalidade nas Definições</string>
   <string name="sign_in_to" formatted="false">Iniciar sessão em %s1 \"%s2\"</string>

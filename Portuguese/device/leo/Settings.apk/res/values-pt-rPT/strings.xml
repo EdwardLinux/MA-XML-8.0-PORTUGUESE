@@ -218,7 +218,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="app_process_limit_title">Limite de processos em segundo plano</string>
   <string name="app_restrictions_custom_label">Definir restrições da aplicação</string>
   <string name="app_sees_restricted_accounts">Esta aplicação pode aceder às suas contas</string>
-  <string name="app_special_disable_dlg_text">Se desactivar esta aplicação, outras aplicações podem não funcionar como pretendido. Os seus dados também serão eliminados</string>
+  <string name="app_special_disable_dlg_text">Se desactivar esta aplicação, outras aplicações podem não funcionar como pretendido. Os seus dados também vão ser eliminados</string>
   <string name="app_special_disable_dlg_title">Eliminar dados e desactivar aplicação?</string>
   <string name="app_switch_key">Recentes</string>
   <string name="application_forbid_auto_startup">Parar %s de iniciar em segundo plano</string>
@@ -422,12 +422,12 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="bluetooth_devices">Dispositivos Bluetooth</string>
   <string name="bluetooth_disable_profile_message">Isto vai desactivar:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;De:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_disable_profile_title">Desactivar perfil?</string>
-  <string name="bluetooth_disconnect_a2dp_profile">%1$s será desligado do áudio multimédia</string>
+  <string name="bluetooth_disconnect_a2dp_profile">%1$s vai ser desligado do áudio multimédia</string>
   <string name="bluetooth_disconnect_all_profiles">Isto vai terminar a ligação com::&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
-  <string name="bluetooth_disconnect_headset_profile">%1$s será desligado do áudio de mãos livres</string>
-  <string name="bluetooth_disconnect_hid_profile">%1$s será desligado do dispositivo de entrada</string>
-  <string name="bluetooth_disconnect_pan_nap_profile">%1$s será desligado da partilha de ligação da Internet deste telefone</string>
-  <string name="bluetooth_disconnect_pan_user_profile">Acesso à Internet através de %1$s será desligado</string>
+  <string name="bluetooth_disconnect_headset_profile">%1$s vai ser desligado do áudio de mãos livres</string>
+  <string name="bluetooth_disconnect_hid_profile">%1$s vai ser desligado do dispositivo de entrada</string>
+  <string name="bluetooth_disconnect_pan_nap_profile">%1$s vai ser desligado da partilha de ligação da Internet deste telefone</string>
+  <string name="bluetooth_disconnect_pan_user_profile">Acesso à Internet através de %1$s vai ser desligado</string>
   <string name="bluetooth_disconnect_title">Desligar?</string>
   <string name="bluetooth_disconnected">Desligado</string>
   <string name="bluetooth_disconnecting">A desligar…</string>
@@ -524,7 +524,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="bluetooth_turning_on">A ligar Bluetooth…</string>
   <string name="bluetooth_unknown"/>
   <string name="bluetooth_unlock_add_device">Adicionar dispositivo</string>
-  <string name="bluetooth_unlock_change_device_confirm_msg">O dispositivo antigo será substituído pelo novo</string>
+  <string name="bluetooth_unlock_change_device_confirm_msg">O dispositivo antigo vai ser substituído pelo novo</string>
   <string name="bluetooth_unlock_change_matched_device">Escolher outro dispositivo</string>
   <string name="bluetooth_unlock_confirm_device_text">Junte os dispositivos Bluetooth para confirmar</string>
   <string name="bluetooth_unlock_delete_device">Eliminar este dispositivo</string>
@@ -542,7 +542,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="bluetooth_unlock_title">Desbloquear com dispositivo Bluetooth</string>
   <string name="bluetooth_unlock_turned_off">Desligado</string>
   <string name="bluetooth_unlock_turned_on">Ligado</string>
-  <string name="bluetooth_untether_blank">%1$s será desligado</string>
+  <string name="bluetooth_untether_blank">%1$s vai ser desligado</string>
   <string name="bluetooth_visibility_timeout">Visibilidade expirou</string>
   <string name="bootloader">Modo Fastboot</string>
   <string name="bootloader_apply_step_1">Ligar o modo Fastboot?</string>
@@ -743,7 +743,7 @@ Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. 
   <string name="crypt_keeper_setup_title">Encriptação</string>
   <string name="crypt_keeper_switch_input_method">Trocar método de introdução</string>
   <string name="crypt_keeper_unplugged_text">Ligue o carregador e tente novamente</string>
-  <string name="crypt_keeper_warn_wipe">Aviso: O seu dispositivo será apagado após mais ^1 tentativa(s) falhada(s) de desbloqueio!</string>
+  <string name="crypt_keeper_warn_wipe">Aviso: O seu dispositivo vai ser apagado após mais ^1 tentativa(s) falhada(s) de desbloqueio!</string>
   <string name="cryptkeeper_emergency_call">Chamada de emergência</string>
   <string name="cryptkeeper_return_to_call">Voltar à chamada</string>
   <string name="current_backup_pw_prompt">Introduza a sua palavra-passe actual para cópia de segurança completa</string>
@@ -760,7 +760,7 @@ Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. 
   <string name="dashboard_title">Definições</string>
   <string name="data_size_label">Dados</string>
   <string name="data_usage_app_restrict_background">Restringir dados em segundo plano</string>
-  <string name="data_usage_app_restrict_background_summary">Desactivar dados em segundo plano nas redes móveis. Será utilizado Wi-Fi, se disponível</string>
+  <string name="data_usage_app_restrict_background_summary">Desactivar dados em segundo plano nas redes móveis. Vai ser utilizado Wi-Fi, se disponível</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Para restringir dados em segundo plano para esta aplicação, defina primeiro um limite para dados móveis</string>
   <string name="data_usage_app_restrict_dialog">"Esta funcionalidade pode fazer com que uma aplicação que depende de dados em segundo plano deixe de funcionar quando apenas estiverem disponíveis redes móveis.
 
@@ -770,7 +770,7 @@ Poderá encontrar controlos de utilização de dados mais adequados nas definiç
   <string name="data_usage_app_settings">Definições da aplicação</string>
   <string name="data_usage_auto_sync_off_dialog">Isto vai conservar a utilização de dados e bateria, mas vai ser necessário sincronizar cada conta manualmente para obter informações recentes e não vai receber notificações quando ocorrerem actualizações</string>
   <string name="data_usage_auto_sync_off_dialog_title">Desligar sincronização automática?</string>
-  <string name="data_usage_auto_sync_on_dialog">"Qualquer alteração que efectue nas contas a partir da web será copiada automaticamente para o telefone.
+  <string name="data_usage_auto_sync_on_dialog">"Qualquer alteração que efectue nas contas a partir da web vai ser copiada automaticamente para o telefone.
 
 Algumas contas também podem copiar automaticamente para a web qualquer alteração que efectue no telefone. É assim que funciona uma Conta Google"</string>
   <string name="data_usage_auto_sync_on_dialog_title">Ligar sincronização automática?</string>
@@ -793,7 +793,7 @@ Algumas contas também podem copiar automaticamente para a web qualquer alteraç
   <string name="data_usage_forground_label">Primeiro plano:</string>
   <string name="data_usage_label_background">Segundo plano</string>
   <string name="data_usage_label_foreground">Primeiro plano</string>
-  <string name="data_usage_limit_dialog_mobile">"A ligação de dados será desactivada quando o limite definido for atingido.
+  <string name="data_usage_limit_dialog_mobile">"A ligação de dados vai ser desactivada quando o limite definido for atingido.
 
 Uma vez que a utilização de dados é medida pelo seu telefone e a sua operadora poderá reportar valores diferentes, considere utilizar um limite restrito"</string>
   <string name="data_usage_limit_dialog_title">Limitar utilização de dados</string>
@@ -955,7 +955,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="display_settings">Ecrã</string>
   <string name="display_settings_title">Ecrã</string>
   <string name="dlg_cancel">Cancelar</string>
-  <string name="dlg_confirm_unmount_text">Se desmontar o armazenamento USB, algumas aplicações que estão em utilização serão interrompidas e podem não estar disponíveis até ligar novamente o armazenamento USB</string>
+  <string name="dlg_confirm_unmount_text">Se desmontar o armazenamento USB, algumas aplicações que estão em utilização vão ser interrompidas e podem não estar disponíveis até ligar novamente o armazenamento USB</string>
   <string name="dlg_confirm_unmount_title">Desmontar armazenamento USB?</string>
   <string name="dlg_error_unmount_text">Não é possível desmontar o armazenamento USB. Tente novamente mais tarde</string>
   <string name="dlg_error_unmount_title"/>
@@ -978,7 +978,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="dndm_auto_time_turn_on">De</string>
   <string name="dndm_auto_time_turn_on_title">Ligar automaticamente Não incomodar</string>
   <string name="dndm_dlg_remove_ok">Remover</string>
-  <string name="dndm_dlg_remove_vip">Chamadas desta pessoa serão silenciadas quando Não incomodar estiver ligado</string>
+  <string name="dndm_dlg_remove_vip">Chamadas desta pessoa vão ser silenciadas quando Não incomodar estiver ligado</string>
   <string name="dndm_menu_add_vip_custom">Adicionar</string>
   <string name="dndm_mute_all">Silenciar chamadas e mensagens</string>
   <string name="dndm_notification">Não incomodar está ligado</string>
@@ -1183,12 +1183,12 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="free_wifi_manage_summary">Toque para ver %1$s</string>
   <string name="free_wifi_speed_title">Ligação lenta?</string>
   <string name="free_wifi_summary">Toque para ligar a %1$s</string>
-  <string name="free_wifi_user_agreement">Quando utiliza WiWide para ligar a uma rede, o seu número de telefone será utilizado para verificar a sua identidade</string>
+  <string name="free_wifi_user_agreement">Quando utiliza WiWide para ligar a uma rede, o seu número de telefone vai ser utilizado para verificar a sua identidade</string>
   <string name="free_wifi_user_agreement_allow">Permitir</string>
   <string name="free_wifi_user_agreement_title">Alerta de privacidade</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="frequently_fragment_delete">Remover</string>
-  <string name="frequently_fragment_tempty">Itens utilizados com frequência serão mostrados aqui</string>
+  <string name="frequently_fragment_tempty">Itens utilizados com frequência vão ser mostrados aqui</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_template">Brilho %1$s</string>
   <string name="gadget_location">Localização</string>
@@ -1307,7 +1307,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="internal_format">Formatar armazenamento interno</string>
   <string name="internal_format_summary">Formatar todos os dados do armazenamento interno</string>
   <string name="internal_media_format_button_text">Formatar armazenamento interno</string>
-  <string name="internal_media_format_desc">Formatar o armazenamento interno? <b>Todos</b> os seus dados serão eliminados permanentemente. O telefone reiniciará após o armazenamento interno ser formatado</string>
+  <string name="internal_media_format_desc">Formatar o armazenamento interno? <b>Todos</b> os seus dados vão ser eliminados permanentemente. O telefone reiniciará após o armazenamento interno ser formatado</string>
   <string name="internal_media_format_final_desc">Formatar o armazenamento interno? Não pode reverter esta acção! O telefone reiniciará após o armazenamento interno ser formatado</string>
   <string name="internal_media_format_title">Formatar o armazenamento interno</string>
   <string name="internal_memory">Armazenamento interno</string>
@@ -2168,8 +2168,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="print_service_security_warning_title">Utilizar %1$s?</string>
   <string name="print_settings">Impressão</string>
   <string name="print_settings_title">Serviços de impressão</string>
-  <string name="priority_storage_app_settings">Os dados do utilizador serão guardados em %1$s</string>
-  <string name="priority_storage_settings_summary">Se não for detectado nenhum cartão SD, os dados do utilizador serão guardados automaticamente no armazenamento interno do seu dispositivo</string>
+  <string name="priority_storage_app_settings">Os dados do utilizador vão ser guardados em %1$s</string>
+  <string name="priority_storage_settings_summary">Se não for detectado nenhum cartão SD, os dados do utilizador vão ser guardados automaticamente no armazenamento interno do seu dispositivo</string>
   <string name="priority_storage_summary">Escolha onde guardar os seus dados</string>
   <string name="priority_storage_title">Definições de armazenamento</string>
   <string name="privacy_mode_dialog_message">Ocultar mensagens, notas, fotos, definições e chamadas recebidas?</string>
@@ -2230,7 +2230,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="proxy_warning_limited_support">O proxy HTTP é utilizado pelo navegador, mas não pode ser utilizado por outras aplicações</string>
   <string name="quick_launch_assign_application">Atribuir aplicação</string>
   <string name="quick_launch_clear_cancel_button">Cancelar</string>
-  <string name="quick_launch_clear_dialog_message">O seu atalho para %1$s (%2$s) será limpo</string>
+  <string name="quick_launch_clear_dialog_message">O seu atalho para %1$s (%2$s) vai ser limpo</string>
   <string name="quick_launch_clear_dialog_title">Limpar</string>
   <string name="quick_launch_clear_ok_button">OK</string>
   <string name="quick_launch_display_mode_applications">Aplicações</string>
@@ -3144,7 +3144,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="unlock_set_unlock_pin_summary">Segurança média a elevada</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Definir um bloqueio de ecrã</string>
-  <string name="unmount_inform_text">O armazenamento USB será desmontado</string>
+  <string name="unmount_inform_text">O armazenamento USB vai ser desmontado</string>
   <string name="untitled_apn">Sem título</string>
   <string name="update_progress_for_updates">A actualizar (%s)</string>
   <string name="usage_access_title">Aplicações com acesso de utilização</string>
@@ -3235,7 +3235,7 @@ Qualquer utilizador pode actualizar aplicações para todos os outros utilizador
   <string name="user_adding_new_user">A adicionar novo utilizador…</string>
   <string name="user_cannot_add_accounts_message">Perfis restritos não podem adicionar contas</string>
   <string name="user_cannot_manage_message">A gestão dos utilizadores só pode ser feita pelo proprietário do telefone</string>
-  <string name="user_confirm_remove_message">Todas as aplicações e dados serão eliminados</string>
+  <string name="user_confirm_remove_message">Todas as aplicações e dados vão ser eliminados</string>
   <string name="user_confirm_remove_self_message">Perderá os dados e espaço neste telefone. Não é possível anular esta acção</string>
   <string name="user_confirm_remove_self_title">Eliminar-se a si próprio?</string>
   <string name="user_confirm_remove_title">Remover este utilizador?</string>
@@ -3262,12 +3262,12 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Dicionário pessoal</string>
   <string name="user_enable_calling">Activar chamadas telefónicas</string>
-  <string name="user_enable_calling_and_sms_confirm_message">O registo de chamadas e SMS será partilhado com este utilizador</string>
+  <string name="user_enable_calling_and_sms_confirm_message">O registo de chamadas e SMS vai ser partilhado com este utilizador</string>
   <string name="user_enable_calling_and_sms_confirm_title">Activar chamadas telefónicas e SMS?</string>
-  <string name="user_enable_calling_confirm_message">O registo de chamadas será partilhado com este utilizador</string>
+  <string name="user_enable_calling_confirm_message">O registo de chamadas vai ser partilhado com este utilizador</string>
   <string name="user_enable_calling_confirm_title">Activar chamadas telefónicas?</string>
   <string name="user_enable_calling_sms">Activar chamadas telefónicas e SMS</string>
-  <string name="user_exit_guest_confirm_message">Todas as aplicações e dados desta sessão serão eliminados</string>
+  <string name="user_exit_guest_confirm_message">Todas as aplicações e dados desta sessão vão ser eliminados</string>
   <string name="user_exit_guest_confirm_title">Remover convidado?</string>
   <string name="user_exit_guest_dialog_remove">Remover</string>
   <string name="user_exit_guest_title">Remover convidado</string>
@@ -3286,7 +3286,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="user_nickname">Alcunha</string>
   <string name="user_owner">Proprietário</string>
   <string name="user_picture_title">ID da foto</string>
-  <string name="user_profile_confirm_remove_message">Todas as aplicações e dados serão eliminados</string>
+  <string name="user_profile_confirm_remove_message">Todas as aplicações e dados vão ser eliminados</string>
   <string name="user_profile_confirm_remove_title">Remover este perfil?</string>
   <string name="user_remove_user">Remover utilizador</string>
   <string name="user_remove_user_menu">Eliminar %1$s deste dispositivo</string>
@@ -3460,7 +3460,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_advanced_settings_label">Definições de IP</string>
   <string name="wifi_advanced_titlebar">Definições avançadas Wi-Fi</string>
   <string name="wifi_aggressive_handover">Transmissão agressiva de Wi-Fi para rede móvel</string>
-  <string name="wifi_aggressive_handover_summary">Se estiver activado, o Wi-Fi será mais agressivo ao transmitir a lig. de dados p/ a rede móvel quando o sinal Wi-Fi estiver fraco</string>
+  <string name="wifi_aggressive_handover_summary">Se estiver activado, o Wi-Fi vai ser mais agressivo ao transmitir a lig. de dados p/ a rede móvel quando o sinal Wi-Fi estiver fraco</string>
   <string name="wifi_allow_scan_with_traffic">Permitir sempre a detecção de Wi-Fi em roaming</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permitir/impedir a detecção de Wi-Fi em roaming com base na quantidade de tráfego de dados presente na interface</string>
   <string name="wifi_and_mobile_skipped_message">ATENÇÃO: Enquanto não existir uma ligação à Internet o dispositivo fica impedido de verificar se o software está actualizado</string>

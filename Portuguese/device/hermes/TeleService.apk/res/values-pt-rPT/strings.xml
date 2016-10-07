@@ -145,7 +145,7 @@
   <string name="call_record_add_numbers">Adicionar números</string>
   <string name="call_record_auto_always">Todos os números</string>
   <string name="call_record_auto_scenario_title">Gravar chamadas de</string>
-  <string name="call_record_auto_summary">As gravações serão guardadas na pasta MIUI/sound_recorder/call_rec ou no armazenamento interno do dispositivo</string>
+  <string name="call_record_auto_summary">As gravações vão ser guardadas na pasta MIUI/sound_recorder/call_rec ou no armazenamento interno do dispositivo</string>
   <string name="call_record_auto_title">Gravar chamadas automaticamente</string>
   <string name="call_record_auto_unknown_number">Números privados</string>
   <string name="call_record_auto_whitelist">Lista personalizada</string>
@@ -659,7 +659,7 @@ Faça um carregamento e comece a falar</string>
   <string name="msim_apn_not_set">Não definido</string>
   <string name="msim_default_setting">Definições predefinidas</string>
   <string name="msim_disable_sim_card_btn_text">OK</string>
-  <string name="msim_disable_sim_card_summary_default_card">Este cartão está definido como predefinido. Se parar de o utilizar, não será possível fazer chamadas ou utilizar a ligação de dados móveis. Pode parar este cartão SIM depois de definir outro como seu cartão SIM predefinido</string>
+  <string name="msim_disable_sim_card_summary_default_card">Este cartão está definido como predefinido. Se parar de o utilizar, não vai ser possível fazer chamadas ou utilizar a ligação de dados móveis. Pode parar este cartão SIM depois de definir outro como seu cartão SIM predefinido</string>
   <string name="msim_disable_sim_card_summary_non_default_card">Não é possível fazer chamadas ou utilizar os dados móveis. Parar de utilizar %s este cartão SIM?</string>
   <string name="msim_disable_sim_card_title">Parar de usar o cartão SIM</string>
   <string name="msim_enable_sim">Ligar</string>
@@ -693,7 +693,7 @@ Faça um carregamento e comece a falar</string>
   <string name="national_enable">Notícias nacionais está ligado</string>
   <string name="network_4G">4G (recomendado)</string>
   <string name="network_error_message">Mensagem de erro</string>
-  <string name="network_error_message_livetalk">Tente fazer uma chamada normal. Será cobrado um valor adicional pela sua operadora</string>
+  <string name="network_error_message_livetalk">Tente fazer uma chamada normal. Vai ser cobrado um valor adicional pela sua operadora</string>
   <string name="network_error_title">Erro de rede</string>
   <string name="network_global">Global</string>
   <string name="network_id">ID da rede</string>
@@ -711,7 +711,7 @@ Faça um carregamento e comece a falar</string>
   <string name="network_settings_next">Seguinte</string>
   <string name="network_settings_query_failed_message">Não foi possível procurar redes móveis</string>
   <string name="network_settings_select_automatic_hint">"Não foi possível registar na rede seleccionada.
-Será utilizada a rede preferida"</string>
+Vai ser utilizada a rede preferida"</string>
   <string name="network_settings_title">Redes móveis</string>
   <string name="network_settings_turn_off">Desligado</string>
   <string name="network_settings_warn_message">O seu dispositivo apenas vai ligar a redes que seleccionar manualmente</string>
@@ -809,7 +809,7 @@ Este processo poderá demorar até 5 minutos"</string>
   <string name="ota_listen">Siga as instruções de voz</string>
   <string name="ota_next">Seguinte</string>
   <string name="ota_progress">Aguarde enquanto o telefone é programado</string>
-  <string name="ota_skip_activation_dialog_message">Se ignorar a activação, não vai poder fazer chamadas ou ligar a redes móveis de dados (embora possa ligar a redes Wi-Fi). Enquanto não activar o telefone, será informado para o activar cada vez que ligar o telefone</string>
+  <string name="ota_skip_activation_dialog_message">Se ignorar a activação, não vai poder fazer chamadas ou ligar a redes móveis de dados (embora possa ligar a redes Wi-Fi). Enquanto não activar o telefone, vai ser informado para o activar cada vez que ligar o telefone</string>
   <string name="ota_skip_activation_dialog_skip_label">Ignorar</string>
   <string name="ota_skip_activation_dialog_title">Ignorar activação?</string>
   <string name="ota_spc_failure">FALHAS SPC EXCESSIVAS</string>
@@ -895,7 +895,7 @@ Tem mais %d tentativas"</string>
   <string name="pin2_invalid">FDN não foi actualizado porque introduziu um PIN incorrecto</string>
   <string name="pin2_invalid_or_name_is_too_long">Introduziu um PIN inválido ou o nome que introduziu é muito longo</string>
   <string name="pin2_lock_warning">"
-As funções relacionadas com o PIN2 serão bloqueadas depois de outra tentativa falhada"</string>
+As funções relacionadas com o PIN2 vão ser bloqueadas depois de outra tentativa falhada"</string>
   <string name="pin2_or_fdn_invalid">Não foram actualizados os números autorizados. O PIN2 estava incorrecto ou o número de telefone foi rejeitado</string>
   <string name="pin2_unblocked">O PIN2 deixou de estar bloqueado</string>
   <string name="pin_attempts">"
@@ -987,7 +987,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="puk2_requested">Código incorrecto. O cartão SIM está bloqueado. Introduzir PUK2</string>
   <string name="puk_label">Introduzir código PUK</string>
   <string name="puk_lock_warning">"
-O cartão SIM será bloqueado após nova tentativa falhada"</string>
+O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="puk_requested">Palavra-passe incorrecta. O PIN está bloqueado. É necessário PUK</string>
   <string name="puk_unlock_failed">Desbloqueio com PUK sem sucesso</string>
   <string name="puk_unlock_success">Desbloqueio com PUK com sucesso</string>

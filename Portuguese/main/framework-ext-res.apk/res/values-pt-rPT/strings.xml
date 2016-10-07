@@ -27,7 +27,7 @@
   <string name="default_name">Predefinido</string>
   <string name="enable_livetalk_summary">0,0068€ por minuto para chamadas nacionais</string>
   <string name="enable_livetalk_title">Activar pacote de carregamento</string>
-  <string name="fc_dialog_body">Enviar relatório de erros para a Mi analisar? Este relatório poderá conter informações pessoais. O seu relatório será utilizado para ajudar a corrigir este erro e nunca será partilhado em qualquer contexto comercial</string>
+  <string name="fc_dialog_body">Enviar relatório de erros para a Mi analisar? Este relatório poderá conter informações pessoais. O seu relatório vai ser utilizado para ajudar a corrigir este erro e nunca vai ser partilhado em qualquer contexto comercial</string>
   <string name="fc_dialog_jump_to_preview">Ver resumo</string>
   <string name="first_back_long_press_message">Para definir acções personalizadas de pressão longa dos botões de navegação vá a Definições &gt; Definições adicionais &gt; Botões</string>
   <string name="fm_record_smaple_prefix_miui">Gravação de Rádio FM</string>
@@ -101,7 +101,7 @@
   <string name="shutdown_confirm_title">Desligar o dispositivo agora?</string>
   <string name="shutdown_progress">A desligar…</string>
   <string name="sim_added_reboot_confirm">Reiniciar</string>
-  <string name="sim_added_reboot_title">O cartão SIM será activado depois de reiniciar o dispositivo</string>
+  <string name="sim_added_reboot_title">O cartão SIM vai ser activado depois de reiniciar o dispositivo</string>
   <string name="softap_notifif_summary">%d ligado</string>
   <string name="softap_notifif_title">PA Móvel \"%s\" está ligado</string>
   <string name="start_security_permission_verify_text">Verificar permissões com a sua Conta Mi</string>

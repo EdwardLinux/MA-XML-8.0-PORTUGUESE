@@ -405,10 +405,10 @@
   <string name="subscribe_ed">Subscrito</string>
   <string name="subscribing_card">订阅中</string>
   <string name="swipe_up_guide_hint_text">Descer para ver mais</string>
-  <string name="sync_notice_cancel_toast_message">Calendário local não será sincronizado com a Nuvem Mi</string>
+  <string name="sync_notice_cancel_toast_message">O calendário local não vai ser sincronizado com a Nuvem Mi</string>
   <string name="sync_notice_message">Sincronizar o seu calendário com Conta Mi?</string>
   <string name="sync_notice_ok">Permitir</string>
-  <string name="sync_notice_ok_toast_message">Calendário local será sincronizado com a Nuvem Mi</string>
+  <string name="sync_notice_ok_toast_message">O calendário local vai ser sincronizado com a Nuvem Mi</string>
   <string name="sync_notice_title">Sincronizar Calendário</string>
   <string name="synced">sincronizado</string>
   <string name="tab_category">Classificação</string>

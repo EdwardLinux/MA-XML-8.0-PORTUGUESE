@@ -100,7 +100,7 @@
   <string name="delete_device">Eliminar dispositivo</string>
   <string name="delete_device_btn">Remover</string>
   <string name="delete_device_failed">Não foi possível remover dispositivo</string>
-  <string name="delete_device_notice">Depois do dispositivo ser removido a sua sessão da Conta Mi vai ser terminada automaticamente. Não será possível utilizar este dispositivo para aceder a fotos, mensagens ou outros conteúdos armazenados na sua conta</string>
+  <string name="delete_device_notice">Depois do dispositivo ser removido a sua sessão da Conta Mi vai ser terminada automaticamente. Não vai ser possível utilizar este dispositivo para aceder a fotos, mensagens ou outros conteúdos armazenados na sua conta</string>
   <string name="delete_lock_device_success">Eliminado com sucesso</string>
   <string name="device_delete_success_message">Se não iniciou sessão neste dispositivo altere imediatamente a sua palavra-passe</string>
   <string name="device_delete_success_title">Sessão terminada</string>
@@ -325,7 +325,7 @@ Para activar a sua conta siga o
   <string name="photoPickerNotFoundText">Sem fotos disponíveis</string>
   <string name="qq">QQ</string>
   <string name="remove_account_notice">O que gostaria de fazer com as mensagens, contactos e outros dados que foram sincronizados a partir da sua Conta Mi?</string>
-  <string name="remove_device_success_notice">Se remover este dispositivo dos seus dispositivos confiáveis, será novamente necessário iniciar o processo de verificação quando iniciar sessão</string>
+  <string name="remove_device_success_notice">Se remover este dispositivo dos seus dispositivos confiáveis, vai ser novamente necessário iniciar o processo de verificação quando iniciar sessão</string>
   <string name="remove_trust_btn">Remover de dispositivos confiáveis</string>
   <string name="remove_trust_notice">Remover de dispositivos confiáveis e terminar sessão</string>
   <string name="removing_account">A terminar sessão…</string>
@@ -376,7 +376,7 @@ Certifique-se que memoriza as respostas a estas perguntas"</string>
   <string name="verified_devices">Dispositivos verificados</string>
   <string name="verify_phone_prompt">Seleccionar número de telefone para verificar</string>
   <string name="verify_phone_title">Verificar número de telefone</string>
-  <string name="wipe_data_dialog_msg">%s ficheiros serão eliminados se continuar</string>
+  <string name="wipe_data_dialog_msg">%s ficheiros vão ser eliminados se continuar</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Alguns itens ainda não foram sincronizados</string>
 </resources>

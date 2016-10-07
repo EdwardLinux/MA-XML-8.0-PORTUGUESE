@@ -186,7 +186,7 @@
   <string name="download_auto_after_favorite_summary">Transferir automaticamente as músicas que adicionou aos favoritos</string>
   <string name="download_auto_after_favorite_title">Transferir favoritos</string>
   <string name="download_auto_cancel">Transferência de favoritos desligada</string>
-  <string name="download_auto_message">Músicas marcadas como favoritas serão automaticamente transferidas quando existir uma ligação à rede Wi-Fi. Esta configuração pode ser alterada nas definições de conta no menu local</string>
+  <string name="download_auto_message">Músicas marcadas como favoritas vão ser automaticamente transferidas quando existir uma ligação à rede Wi-Fi. Esta configuração pode ser alterada nas definições de conta no menu local</string>
   <string name="download_auto_when_all_network">Utilizar dados móveis e Wi-Fi</string>
   <string name="download_auto_when_free_network">Utilizar apenas Wi-Fi</string>
   <string name="download_auto_when_free_network_summary">Definições adicionais para as suas músicas favoritas</string>
@@ -563,7 +563,7 @@
   <string name="privacy_notif_content">Toque para ver detalhes</string>
   <string name="privacy_notif_title">O acelerador de transferências Xunlei está ligado</string>
   <string name="privacy_tip_cancel">Cancelar</string>
-  <string name="privacy_tip_content">Optimizar a velocidade das transferências com o acelerador Xunlei? O URL do servidor de transferências será carregado para os servidores Xunlei. Os seus detalhes da Conta Mi também serão enviados para verificar se tem assinaturas activas para este serviço</string>
+  <string name="privacy_tip_content">Optimizar a velocidade das transferências com o acelerador Xunlei? O URL do servidor de transferências vai ser carregado para os servidores Xunlei. Os seus detalhes da Conta Mi também vão ser enviados para verificar se tem assinaturas activas para este serviço</string>
   <string name="privacy_tip_ok">Confirmar</string>
   <string name="privacy_tip_title">Utilizar o acelerador de transferências Xunlei?</string>
   <string name="project_device">Telefone Mi</string>

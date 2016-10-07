@@ -222,7 +222,7 @@
   <string name="report_only">Escolher uma mensagem para reportar</string>
   <string name="report_sms">Reportar mensagens</string>
   <string name="report_success">Mensagem reportada</string>
-  <string name="report_warning">Reportar %1$s mensagens para a Mi? As mensagens e os números de telefone serão enviados para o servidor Mi. As informações pessoais associadas a estas mensagens manter-se-ão anónimas</string>
+  <string name="report_warning">Reportar %1$s mensagens para a Mi? As mensagens e os números de telefone vão ser enviados para o servidor Mi. As informações pessoais associadas a estas mensagens manter-se-ão anónimas</string>
   <string name="report_warning_title">Reportar mensagens</string>
   <string name="sim_not_ready">O cartão SIM não está preparado</string>
   <string name="sim_not_ready_toast">O cartão SIM não está preparado</string>
@@ -276,7 +276,7 @@
   <string name="st_block_unknown_sms">Bloquear mensagens de desconhecidos</string>
   <string name="st_call_group">Chamadas</string>
   <string name="st_common_setting_group">Definições do filtro</string>
-  <string name="st_filter_keywords_setting_summary1">As mensagens enviadas por números desconhecidos que contêm palavras-chave serão bloqueadas</string>
+  <string name="st_filter_keywords_setting_summary1">As mensagens enviadas por números desconhecidos que contêm palavras-chave vão ser bloqueadas</string>
   <string name="st_filter_keywords_setting_summary2">"
 (Utilize uma vírgula para separar múltiplas palavras)"</string>
   <string name="st_filter_keywords_setting_title">Configurar filtro de palavras-chave</string>

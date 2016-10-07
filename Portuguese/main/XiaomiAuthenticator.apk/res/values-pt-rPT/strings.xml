@@ -133,7 +133,7 @@ Antes de remover:
   <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">Termos do Serviço</string>
   <string name="timesync_about_feature_preference_title">Acerca desta funcionalidade</string>
-  <string name="timesync_about_feature_screen_details">"Se premir &amp;quot;Sincronizar agora&amp;quot;, o Autenticador vai tentar sincronizar o seu relógio interno com os servidores do Google. A data do dispositivo &amp; Definições de data/hora não serão mudadas"</string>
+  <string name="timesync_about_feature_screen_details">"Se premir &amp;quot;Sincronizar agora&amp;quot;, o Autenticador vai tentar sincronizar o seu relógio interno com os servidores do Google. A data do dispositivo &amp; Definições de data/hora não vão ser mudadas"</string>
   <string name="timesync_about_feature_screen_title">Acerca desta funcionalidade</string>
   <string name="timesync_preference_screen_summary">Sincronizar relógio interno do Autenticador com os servidores</string>
   <string name="timesync_preference_screen_title">Correcção de hora para códigos</string>
@@ -169,7 +169,7 @@ Pode: "</string>
   <string name="type_prompt">Tipo de chave</string>
   <string name="update_pattern_jump"><u>Remover padrão</u></string>
   <string name="version_preference_title">Versão</string>
-  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Se eliminar o seu token de segurança Mi não será possível iniciar sessão na sua conta"</string>
+  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Se eliminar o seu token de segurança Mi não vai ser possível iniciar sessão na sua conta"</string>
   <string name="welcome_page_details">"- Mantenha a sua conta segura.
 - Proteja a sua conta de ser utilizada por estranhos"</string>
   <string name="welcome_page_title">Utilizado para início de sessão segura</string>

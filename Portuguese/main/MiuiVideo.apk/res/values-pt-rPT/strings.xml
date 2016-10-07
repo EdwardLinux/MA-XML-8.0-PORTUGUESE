@@ -102,7 +102,7 @@
   <string name="declaration_allow">Concordar</string>
   <string name="declaration_content">1. Ao utilizar este serviço, incluindo Sohu Vídeo, iQiyi e outros fornecedores de serviços, está a concordar com <a href="http://www.miui.com/res/doc/eula.html">Termos de Utilização</a> e <a href="http://www.miui.com/res/doc/privacy.html">Política de Privacidade</a>".
 2. Para melhorar a experiência do utilizador, vamos obter alguns dados sobre o seu dispositivo e o conteúdo visto. Sohu e iQiyi vão também obter o IMEI do seu dispositivo.&amp;#8203;
-3. O nosso plugin HD Vídeo será instalado automaticamente.
+3. O nosso plugin HD Vídeo vai ser instalado automaticamente.
 4. Este serviço necessita de uma ligação à Internet para funcionar normalmente"</string>
   <string name="declaration_content_td_custom">Esta aplicação necessita de uma ligação à Internet para funcionar normalmente</string>
   <string name="defaults">Predefinido</string>

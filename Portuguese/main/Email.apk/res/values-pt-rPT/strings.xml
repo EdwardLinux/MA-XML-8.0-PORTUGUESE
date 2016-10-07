@@ -327,7 +327,7 @@
   <string name="done_action">Concluído</string>
   <string name="donot_disturb_endtime_title">Até</string>
   <string name="donot_disturb_starttime_title">De</string>
-  <string name="donot_disturb_summary">Notificações de emails serão silenciadas durante o período definido</string>
+  <string name="donot_disturb_summary">Notificações de emails vão ser silenciadas durante o período definido</string>
   <string name="donot_disturb_title">Não incomodar</string>
   <string name="downlaod_cancel_confirm_download">Parar</string>
   <string name="downlaod_cancel_continue_download">Continuar</string>
@@ -336,7 +336,7 @@
   <string name="downlaod_nonWifi_confirm_title">Transferir o anexo?</string>
   <string name="download_again">Transferir novamente</string>
   <string name="download_before_sharing">" a transferência ainda não terminou"</string>
-  <string name="download_cancel_confirm_message">A transferência será interrompida</string>
+  <string name="download_cancel_confirm_message">A transferência vai ser interrompida</string>
   <string name="download_cancel_confirm_title">Transferir anexo?</string>
   <string name="download_complete_not_cancel">Transferência concluída</string>
   <string name="download_confirm_message">Transferir %1$s anexos?</string>
@@ -559,7 +559,7 @@
   <string name="message_invite_tentative">Talvez</string>
   <string name="message_invite_title">Convite do calendário</string>
   <string name="message_saved">Mensagem guardada como rascunho</string>
-  <string name="message_view_attachment_background_load">Os anexos da sua mensagem reencaminhada serão transferidos antes do envio</string>
+  <string name="message_view_attachment_background_load">Os anexos da sua mensagem reencaminhada vão ser transferidos antes do envio</string>
   <string name="mibill_privacy_policy_button1">Mais tarde</string>
   <string name="mibill_privacy_policy_button2">Concordo</string>
   <string name="mibill_privacy_policy_description">Permitir que a Carteira Mi analise e faça a gestão das suas facturas automaticamente. Esta funcionalidade está inactiva por defeito para endereços de email de empresa</string>
@@ -626,7 +626,7 @@
   <string name="outbox_no_mails">Vazio</string>
   <string name="parase_setup_data">A obter dados…</string>
   <string name="password_expire_warning_content_title">A palavra-passe do ecrã de bloqueio está a expirar</string>
-  <string name="password_expire_warning_dialog_content_fmt">É necessário alterar o PIN ou a palavra-passe do seu ecrã de bloqueio, ou os dados da %s serão eliminados. Deseja alterar isso agora?</string>
+  <string name="password_expire_warning_dialog_content_fmt">É necessário alterar o PIN ou a palavra-passe do seu ecrã de bloqueio, ou os dados da %s vão ser eliminados. Deseja alterar isso agora?</string>
   <string name="password_expire_warning_dialog_title">A palavra-passe do ecrã de bloqueio está a expirar</string>
   <string name="password_expire_warning_ticker_fmt">\"%s\" solicita que altere a sua palavra-passe ou PIN do ecrã de bloqueio</string>
   <string name="password_expired_content_title">A palavra-passe do ecrã de bloqueio está expirada</string>
@@ -687,7 +687,7 @@
   <string name="pop3_name">POP3</string>
   <string name="preference_eas_tips">Toque Activar para configurar o servidor de email</string>
   <string name="preference_imap_tips"/>
-  <string name="preference_pop_tips">Em POP3, os anexos serão transferidos automaticamente com o email. Isto pode aumentar o consumo de dados móveis</string>
+  <string name="preference_pop_tips">Em POP3, os anexos vão ser transferidos automaticamente com o email. Isto pode aumentar o consumo de dados móveis</string>
   <string name="preference_sender_image_description">Mostrar fotos de perfil ao lado do nome na caixa de entrada</string>
   <string name="preference_sender_image_title">Mostrar fotos de perfil na caixa de entrada</string>
   <string name="preferences_signature_dialog_title">Assinatura</string>
@@ -805,7 +805,7 @@
   <string name="send_failed">A mensagem não foi enviada</string>
   <string name="send_feed_back">Enviar comentários</string>
   <string name="send_feed_back_keywords">Enviar comentários</string>
-  <string name="sender_whitelist_cleared">As imagens não serão mostradas automaticamente</string>
+  <string name="sender_whitelist_cleared">As imagens não vão ser mostradas automaticamente</string>
   <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
   <string name="sending">A enviar…</string>
@@ -883,7 +883,7 @@
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_y_char">y</string>
   <string name="try_exchange_login">Iniciar sessão com EXCHANGE</string>
-  <string name="turn_auto_sync_on_dialog_body">As alterações que faz a todas as aplicações e contas, não só ao Gmail, serão sincronizadas entre a web, os seus dispositivos e o seu %1$s</string>
+  <string name="turn_auto_sync_on_dialog_body">As alterações que faz a todas as aplicações e contas, não só ao Gmail, vão ser sincronizadas entre a web, os seus dispositivos e o seu %1$s</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Activar</string>
   <string name="turn_auto_sync_on_dialog_title">Activar sincronização automática?</string>
   <string name="undo">Anular</string>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Gestor de transferências</string>
-  <string name="auto_restart_under_wifi">Este ficheiro será transferido automaticamente por Wi-Fi</string>
+  <string name="auto_restart_under_wifi">Este ficheiro vai ser transferido automaticamente por Wi-Fi</string>
   <string name="button_cancel_download">Cancelar</string>
   <string name="button_download_now">Transferir agora</string>
   <string name="button_queue_for_wifi">Em espera</string>
@@ -59,7 +59,7 @@
   <string name="privacy_notif_content">Toque para ver detalhes</string>
   <string name="privacy_notif_title">O acelerador de transferências Xunlei está activo</string>
   <string name="privacy_tip_cancel">Cancelar</string>
-  <string name="privacy_tip_content">Optimizar a velocidade das transferências com o acelerador Xunlei? O URL do servidor de transferências será carregado para os servidores do Xunlei. Os seus detalhes da Conta Mi também serão enviados para verificar se tem assinaturas activas para este serviço</string>
+  <string name="privacy_tip_content">Optimizar a velocidade das transferências com o acelerador Xunlei? O URL do servidor de transferências vai ser carregado para os servidores do Xunlei. Os seus detalhes da Conta Mi também vão ser enviados para verificar se tem assinaturas activas para este serviço</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Utilizar o acelerador de transferências Xunlei?</string>
   <string name="recommended_file_size_download_in_mobile">Utilizar %s de dados móveis para transferir este ficheiro?</string>
@@ -78,7 +78,7 @@ Toque em %s para iniciar esta transferência da próxima vez que estiver ligado 
 
 Toque em %s para iniciar esta transferência da próxima vez que estiver ligado a uma rede Wi-Fi"</string>
   <string name="wifi_required_title">Transferência demasiado grande para o operador de rede</string>
-  <string name="xl_speedup_experience_notify_context">A velocidade das transferências será optimizada se for membro Xunlei</string>
+  <string name="xl_speedup_experience_notify_context">A velocidade das transferências vai ser optimizada se for membro Xunlei</string>
   <string name="xl_speedup_experience_notify_title">Membro Xunlei</string>
   <string name="xl_speedup_notify_button_experience">Testar gratuitamente</string>
   <string name="xl_speedup_notify_button_member">Tornar-se membro</string>

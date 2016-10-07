@@ -158,7 +158,7 @@
   <string name="chat_skype">Conversar utilizando Skype</string>
   <string name="chat_yahoo">Conversar utilizando Yahoo</string>
   <string name="checkhint">Verifique o telefone de destino</string>
-  <string name="clearCallLogConfirmation">Todos os seus registos de chamadas serão eliminados</string>
+  <string name="clearCallLogConfirmation">Todos os seus registos de chamadas vão ser eliminados</string>
   <string name="clearCallLogConfirmation_title">Limpar todos os registos de chamadas</string>
   <string name="clearCallLogProgress_title">A limpar registo de chamadas</string>
   <string name="clearFrequentsConfirmation">Limpar a lista de contactos frequentes em Contactos e Telefone vai forçar as aplicações de email a guardar as suas preferências de endereços novamente</string>
@@ -193,7 +193,7 @@
   <string name="confirm_delete_contact_all_call_logs">Limpar registos de chamadas?</string>
   <string name="confirm_delete_selected_all_call_logs">Limpar registos de chamadas?</string>
   <string name="confirm_delete_sim_entry_miui_title">Eliminar</string>
-  <string name="confirm_export_message">A sua lista de contactos será exportada para o ficheiro: %s</string>
+  <string name="confirm_export_message">A sua lista de contactos vai ser exportada para o ficheiro: %s</string>
   <string name="confirm_export_title">Exportar contactos</string>
   <string name="connections">Ligações</string>
   <string name="contactDetailAbout">Informação do contacto</string>
@@ -241,7 +241,7 @@
   <string name="contact_edit_title_insert">Guardar no %s</string>
   <string name="contact_edit_title_readonly">Só de leitura</string>
   <string name="contact_editor_prompt_multiple_accounts">Guardar contacto para</string>
-  <string name="contact_editor_prompt_one_account">O novo contacto será sincronizado %1$s</string>
+  <string name="contact_editor_prompt_one_account">O novo contacto vai ser sincronizado %1$s</string>
   <string name="contact_editor_prompt_zero_accounts">Armazenar no telefone ou numa nova conta online</string>
   <string name="contact_is_readOnly">Não é possível editar contactos só de leitura</string>
   <string name="contact_list_loading">A carregar…</string>
@@ -280,7 +280,7 @@
   <string name="date_time_set">Definir</string>
   <string name="date_year_toggle">Fornecer um ano</string>
   <string name="default_ringtone">Toque predefinido</string>
-  <string name="deleteConfirmation">Este contacto será eliminado</string>
+  <string name="deleteConfirmation">Este contacto vai ser eliminado</string>
   <string name="deleteConfirmationDetail">Eliminar \"%s\"?</string>
   <string name="deleteConfirmation_title">Eliminar contacto</string>
   <string name="delete_call_log_message">Limpar registo de chamadas?</string>
@@ -290,7 +290,7 @@
   <string name="delete_dial_input">Eliminar</string>
   <string name="delete_duplicate">Unir</string>
   <string name="delete_duplicate_message">"A unir contactos… "</string>
-  <string name="delete_group_dialog_message">Eliminar o grupo \"%1$s\"? Os contactos não serão eliminados</string>
+  <string name="delete_group_dialog_message">Eliminar o grupo \"%1$s\"? Os contactos não vão ser eliminados</string>
   <string name="delete_group_dialog_title">Eliminar grupo</string>
   <string name="delete_selected_sim_entry_miui">Eliminar contactos seleccionados</string>
   <string name="delete_sim_entries_finish">Contactos do cartão SIM eliminados</string>
@@ -1152,7 +1152,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="social_widget_label">Contacto</string>
   <string name="social_widget_loading">A carregar…</string>
   <string name="solar_calendar">Calendário</string>
-  <string name="splitConfirmation">Este contacto será separado em vários contactos</string>
+  <string name="splitConfirmation">Este contacto vai ser separado em vários contactos</string>
   <string name="splitConfirmation_title">Separar contacto?</string>
   <string name="starredList">Favoritos</string>
   <string name="starred_contacts">Favoritos</string>
@@ -1209,11 +1209,11 @@ Escolher uma das seguintes opções:"</string>
   <string name="useful_numbers">Números úteis</string>
   <string name="user_profile_contacts_list_header">Eu</string>
   <string name="vcard_export_request_rejected_message">O pedido de exportação do vCard foi rejeitado. Tente mais tarde</string>
-  <string name="vcard_export_will_start_message">%s será exportado em breve</string>
+  <string name="vcard_export_will_start_message">%s vai ser exportado em breve</string>
   <string name="vcard_import_failed">Não foi possível importar vCard %s</string>
   <string name="vcard_import_request_rejected_message">O pedido de importação do vCard foi rejeitado. Tente mais tarde</string>
-  <string name="vcard_import_will_start_message">%s será importado em breve</string>
-  <string name="vcard_import_will_start_message_with_default_name">O ficheiro será importado em breve</string>
+  <string name="vcard_import_will_start_message">%s vai ser importado em breve</string>
+  <string name="vcard_import_will_start_message_with_default_name">O ficheiro vai ser importado em breve</string>
   <string name="vcard_info_send_error">Não é possível enviar devido a um erro de VCard</string>
   <string name="vcard_unknown_filename">Contacto</string>
   <string name="video_call">Videochamada</string>
