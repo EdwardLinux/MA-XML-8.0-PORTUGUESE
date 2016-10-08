@@ -157,7 +157,9 @@
   <string name="notif_restore_content">A restaurar dados</string>
   <string name="notif_restore_title">Restaurar dados</string>
   <string name="notif_trans_receiving_completed">Dados recebidos com sucesso</string>
+  <string name="notif_trans_receiving_failed">Dados não recebidos</string>
   <string name="notif_trans_sending_completed">Dados enviados com sucesso</string>
+  <string name="notif_trans_sending_failed">Dados não enviados</string>
   <string name="page_loading">Aguarde…</string>
   <string name="progress_backup_hint">A copiar…</string>
   <string name="progress_restore_hint">A restaurar…</string>

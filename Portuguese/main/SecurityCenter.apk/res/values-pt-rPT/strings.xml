@@ -752,6 +752,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="optimize_result_button_operators_diagnose">Diagnósticos da operadora</string>
   <string name="optimize_result_button_purchase">Comprar</string>
   <string name="optimize_result_button_purchase_flow">Ver tudo</string>
+  <string name="optimize_result_button_realname_now">Verificar</string>
   <string name="optimize_result_button_see_detaills">Detalhes</string>
   <string name="optimize_result_button_to_open">Ligar</string>
   <string name="optimize_result_button_to_set">Definir</string>
@@ -1120,6 +1121,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="sp_back_title_text_zero">Seguro</string>
   <string name="sp_monitored_apps_count_zero">Sem aplicações de pagamento protegidas</string>
   <string name="sp_monitored_apps_list_title">Definições de monitorização</string>
+  <string name="sp_network_privacy_dialog_message">A aplicação Segurança não consegue verificar os pagamentos porque restringiu a ligação à Internet. Permitir que Segurança se ligue à Internet?</string>
+  <string name="sp_network_privacy_dialog_title">Não foi possível verificar pagamentos</string>
   <string name="sp_safe_score_text">Os pagamentos estão seguros</string>
   <string name="sp_scan_item_monitor">Monitorizar pagamentos</string>
   <string name="sp_scan_item_url_antispam">Protecção de URLs maliciosos</string>
@@ -1170,6 +1173,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="summary_permission">Evitar pagamentos indesejados e proteger dados pessoais</string>
   <string name="summary_permission_root">Tem acesso root. Pode pôr em risco a segurança do dispositivo</string>
   <string name="summary_power_optimizer">Reduzir o desempenho do seu dispositivo quando tiver pouca bateria</string>
+  <string name="summary_realname_verify">Verificar a sua identidade para tornar os pagamentos mais seguros</string>
   <string name="summary_show_notification">Limpar cache, ver estado da bateria e bloquear itens na área de notificações</string>
   <string name="summary_telecom_operator">Obter as suas estatísticas de utilização de dados mensais da sua operadora</string>
   <string name="summary_usb">Prevenir malware de ser transmitido via USB</string>
@@ -1310,6 +1314,7 @@ Se não modificou a MIUI, certifique-se que sabe de onde vem este dispositivo e 
   <string name="title_permission_root">Acesso root</string>
   <string name="title_permission_yes">Monitor de permissões ligado</string>
   <string name="title_power_optimizer">Poupança de bateria</string>
+  <string name="title_realname_verify">Verificação de ID</string>
   <string name="title_show_notification">Widget da área de notificações</string>
   <string name="title_telecom_operator">Ajustar</string>
   <string name="title_usb_no">Depuração USB ligada</string>

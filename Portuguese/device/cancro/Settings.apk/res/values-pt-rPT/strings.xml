@@ -3398,6 +3398,13 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="simulate_color_space">Simular espaço de cor</string>
   <string name="single_key_use">Botão único</string>
   <string name="single_key_use_summary">Utilizar o botão Início em vez dos outros dois para as operações normais</string>
+  <string name="size_byte">B</string>
+  <string name="size_giga_byte">GB</string>
+  <string name="size_kilo_byte">KB</string>
+  <string name="size_mega_byte">MB</string>
+  <string name="size_peta_byte">PB</string>
+  <string name="size_suffix">%1$s%2$s</string>
+  <string name="size_tera_byte">TB</string>
   <string name="skip_label">Ignorar</string>
   <string name="skip_lock_screen_confirm_msg">Notificações, controlos do leitor de música e deslizar para a direita para aceder à lista de chamadas vão ser desligados no ecrã de bloqueio</string>
   <string name="skip_step">Ignorar</string>

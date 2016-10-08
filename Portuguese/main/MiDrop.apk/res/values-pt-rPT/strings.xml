@@ -75,5 +75,5 @@
   <string name="sender_wait">A aguardar</string>
   <string name="sender_wait_queue">A aguardar</string>
   <string name="transfer_interrupt">Transferência interrompida</string>
-  <string name="transmission_connect">Não foi possível localizar o receptor</string>
+  <string name="transmission_connect">Não foi possível localizar o receptor?</string>
 </resources>
