@@ -183,7 +183,6 @@
   <string name="flow_setting">Definições</string>
   <string name="folder_name_empty">Nome de pasta não pode estar vazio</string>
   <string name="folder_name_illegal">Nome de pasta inválida</string>
-  <string name="folder_name_invalid">"Os nomes das pastas não podem conter: /\\:*?&lt;&gt;"</string>
   <string name="found_router">Router ligado</string>
   <string name="found_usb">Armazenamento USB ligado</string>
   <string name="ftp_account_req_notice">4-16 caracteres, letras e números, maiúsculas e minúsculas</string>
@@ -403,12 +402,13 @@
   <string name="phone_valid_code_tip">O código já foi introduzido demasiadas vezes. Tente obter um novo</string>
   <string name="pick_file">Escolher ficheiros</string>
   <string name="pick_folder">Escolher pasta</string>
+  <string name="popup_msg_qq">Partilhe este vídeo com os seus amigos QQ</string>
+  <string name="popup_msg_wx">Partilhe este vídeo com os seus amigos WeChat</string>
   <string name="port_range">A porta tem de ser entre 1024–65535</string>
   <string name="private_files">Ocultos</string>
   <string name="private_folder">Pastas ocultas</string>
   <string name="private_folder_no_file_hints">Sem ficheiros ocultos</string>
   <string name="private_folder_update">A actualizar ficheiros ocultos…</string>
-  <string name="private_toast_hint1">Toque para adicionar ficheiros a pastas ocultas</string>
   <string name="private_toast_hint2">Para ocultar um ficheiro prima e segure-o, depois adicione-o a uma pasta oculta</string>
   <string name="private_toast_hint3">Descer para ver as pastas ocultas</string>
   <string name="promot_enctypt_password">Introduzir palavra-passe utilizada para desbloquear o seu dispositivo ou desligar o Modo Criança</string>
@@ -480,6 +480,10 @@
   <string name="setting_message_notify">Notificações</string>
   <string name="share_title_1">Encontrei um bundle de stickers fixe!</string>
   <string name="share_to">Partilhar para…</string>
+  <string name="share_youliao1">Actualize para ver mais episódios</string>
+  <string name="share_youliao2">Actualize para ver mais episódios</string>
+  <string name="share_youliao3">Actualize para ver mais episódios</string>
+  <string name="share_youliao4">Actualize para ver mais episódios</string>
   <string name="shared_sticker_network_permission_tip">Não foi possível ligar à rede. Verifique a sua ligação de rede e tente novamente</string>
   <string name="shared_sticker_page_no_file">Não foi possível ligar à rede. Verifique a sua ligação de rede e tente novamente</string>
   <string name="shared_sticker_str">Recentes</string>
@@ -548,6 +552,7 @@
   <string name="upload_external_notification_success">Publicado com sucesso</string>
   <string name="upload_external_notification_title">A publicar</string>
   <string name="upload_failed">Não foi possível enviar</string>
+  <string name="update">Actualizar</string>
   <string name="upload_file_toolarge_message">%1$d é demasiado grande. Não é possível enviar ficheiros maiores que 300MB</string>
   <string name="upload_local_video">Partilhar vídeo</string>
   <string name="upload_notification_compress_progress">A comprimir %1$s%%</string>
@@ -559,7 +564,12 @@
   <string name="upload_notification_success_content">O seu vídeo vai ser analisado antes de ser partilhado por outras pessoas</string>
   <string name="upload_notification_title">A enviar vídeo</string>
   <string name="upload_user_photo">Carregar</string>
-  <string name="upload_video_forbidden">Não envie vídeos iguais</string>
+  <string name="upload_video_failed">Não foi possível carregar</string>
+  <string name="upload_video_failed_external_progress">Não foi possível carregar. Tente outro</string>
+  <string name="upload_video_failed_progress">Não foi possível carregar. Tente novamente</string>
+  <string name="upload_video_forbidden">Não carregue o mesmo vídeo</string>
+  <string name="upload_video_success">Carregado com sucesso</string>
+  <string name="upload_video_success_progress">Carregado com sucesso</string>
   <string name="uploading_video">A enviar vídeo…</string>
   <string name="usb_label">USB</string>
   <string name="used">"Utilizado "</string>
@@ -594,12 +604,12 @@
   <string name="video_comment_hint">Seleccionar tópico</string>
   <string name="video_comment_limit">%1$s caracteres restantes</string>
   <string name="video_comment_publish">Submeter</string>
-  <string name="video_comment_title">Descrição</string>
   <string name="video_comment_topic">\#Adicionar tópico#</string>
   <string name="video_data_consumption_cancel">Cancelar</string>
   <string name="video_data_consumption_confirm">OK</string>
   <string name="video_data_consumption_dialog_message">Enviar vai necessitar de %1$s de dados móveis</string>
   <string name="video_data_consumption_dialog_title">Aviso de dados móveis</string>
+  <string name="video_description">Descrição do vídeo</string>
   <string name="video_parse_btn">Iniciar</string>
   <string name="video_parse_error_unknown">Este serviço de vídeo não é suportado. Tente um diferente</string>
   <string name="video_parse_hint">Aplicações suportadas: WeChat, Weibo, Youku</string>
@@ -608,6 +618,8 @@
   <string name="video_parsing_btn">A analisar…</string>
   <string name="video_play_failed">Erro desconhecido</string>
   <string name="video_publish_hint">Uma boa descrição vai ajudar outras pessoas a encontrar o seu vídeo</string>
+  <string name="video_publish_hint2">Descrição</string>
+  <string name="video_recommend_upload">Recomendados</string>
   <string name="video_status_reject">Rejeitado</string>
   <string name="video_status_review">A ser analisado</string>
   <string name="video_tag">\# %s #</string>
@@ -623,6 +635,7 @@
   <string name="video_upload_retry_message">Não foi possível enviar. Tentar novamente?</string>
   <string name="video_upload_retry_title">Tente novamente</string>
   <string name="video_upload_title">Seleccionar vídeo</string>
+  <string name="video_uploaded">Carregado</string>
   <string name="view_more_sticker">Ver mais stickers</string>
   <string name="wechat_btn_bind">WeChat</string>
   <string name="wechat_platform">WeChat</string>
@@ -633,7 +646,7 @@
   <string name="wxcircle_platform">Momentos</string>
   <string name="xiaomi_btn_bind">Conta Mi</string>
   <string name="xiaomi_btn_str">Mi</string>
-  <string name="year_month_day_format">dd MMM, yyyy</string>
+  <string name="year_month_day_format">dd-MM-yyyy</string>
   <string name="yes">Sim</string>
   <string name="yesterday">Ontem</string>
   <string name="zero">0</string>

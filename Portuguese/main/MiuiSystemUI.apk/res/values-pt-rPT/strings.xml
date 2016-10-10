@@ -198,7 +198,7 @@ Utilize apenas o carregador fornecido"</string>
   <string name="mount_storage">Sim</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Sem notificações</string>
-  <string name="no_weather_description">Obter informação do tempo &gt;</string>
+  <string name="no_weather_description">Obter informação do tempo</string>
   <string name="notification_header_title">Notificações</string>
   <string name="notification_hidden_text">Conteúdos ocultos</string>
   <string name="notification_manager">Gerir notificações</string>
