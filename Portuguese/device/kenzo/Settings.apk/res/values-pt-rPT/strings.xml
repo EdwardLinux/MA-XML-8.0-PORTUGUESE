@@ -224,7 +224,6 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="app_link_open_never">Não abrir nesta aplicação</string>
   <string name="app_list_memory_use">Utilização da aplicação</string>
   <string name="app_list_preference_none">Nenhuma</string>
-  <string name="app_lock_role_instruction">Proteja as suas aplicações privadas</string>
   <string name="app_memory_use">Memória utilizada</string>
   <string name="app_name_label">Aplicação</string>
   <string name="app_not_found_dlg_text">A aplicação não foi encontrada na lista de aplicações instaladas</string>
@@ -819,7 +818,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="confirm_new_backup_pw_prompt">Reintroduzir novamente a sua nova palavra-passe para a cópia de segurança completa</string>
   <string name="confirm_privacy_password">Introduza o padrão de Protecção de Privacidade</string>
   <string name="confirm_privacy_password_fingerprint">Digitalizar impressão ou introduzir padrão de Protecção de Privacidade</string>
-  <string name="confirm_privacy_password_instruction">Este padrão protege aplicações, mensagens, fotos e contactos</string>
+  <string name="confirm_privacy_password_instruction">Este padrão protege mensagens, fotos e contactos</string>
   <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">Ligar à rede</string>
   <string name="connected_via_passpoint">Ligado via %1$s</string>
@@ -2657,7 +2656,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="privacy_password_fingerprint_dialog_message">Ponha o seu dedo no sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Digitalizar a sua impressão</string>
   <string name="privacy_password_settings">Utilizar o padrão de Protecção de Privacidade</string>
-  <string name="privacy_password_settings_titles">O padrão de Protecção de Privacidade protege as suas mensagens, fotos, notas e aplicações</string>
+  <string name="privacy_password_settings_titles">O padrão de Protecção de Privacidade protege as suas mensagens, fotos e notas</string>
   <string name="privacy_password_title">Protecção de Privacidade</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Mostrar padrão</string>

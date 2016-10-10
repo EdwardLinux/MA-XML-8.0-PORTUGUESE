@@ -8,9 +8,11 @@
   <string name="alert_message_delete">Eliminar %1$s?</string>
   <string name="alert_message_delete_note">Eliminar esta nota?</string>
   <string name="alert_message_edit_anyway">Se editar esta nota, alguns dos seus conteúdos podem ser perdidos</string>
+  <string name="alert_message_restore">Não foi possível abrir esta nota. Restaure-a para a editar</string>
   <string name="alert_title_delete">Eliminar nota</string>
   <string name="alert_title_edit_anyway">Esta nota contém conteúdo não suportado</string>
   <string name="alert_title_hidden_note">Recebeu um lembrete duma nota oculta</string>
+  <string name="alert_title_restore">Restaurar nota</string>
   <string name="all_folder_name">Todas as notas</string>
   <string name="all_terms">%1$s e %2$s</string>
   <string name="app_name">Notas</string>
@@ -28,9 +30,9 @@
   <string name="dlg_desc_confirm_alarm_silent">Os alarmes activos não vão tocar quando em modo silêncio</string>
   <string name="dlg_hide_message">A ocultar…</string>
   <string name="dlg_info_creating_message">A criar mensagem…</string>
-  <string name="dlg_message_password_reset">O padrão das notas ocultas vai ser substituído pelo padrão de Protecção de Privacidade que funciona para aplicações, fotos e pastas ocultas</string>
-  <string name="dlg_message_set_password">O padrão de Protecção de Privacidade funciona para aplicações, fotos e pastas ocultas</string>
-  <string name="dlg_message_use_privacy_password">Utilize o padrão de Protecção de Privacidade. Funciona para aplicações, fotos e pastas ocultas</string>
+  <string name="dlg_message_password_reset">O padrão das notas ocultas vai ser substituído pelo padrão de Protecção de Privacidade que funciona para mensagens, fotos e pastas ocultas</string>
+  <string name="dlg_message_set_password">O padrão de Protecção de Privacidade funciona para mensagens, fotos e pastas ocultas</string>
+  <string name="dlg_message_use_privacy_password">Utilize o padrão de Protecção de Privacidade. Funciona para mensagens, fotos e pastas ocultas</string>
   <string name="dlg_move_message">A mover…</string>
   <string name="dlg_quick_delete_title">Eliminação rápida</string>
   <string name="dlg_restore_message">A restaurar…</string>
@@ -104,6 +106,7 @@ Toque no botão + para criar uma pasta"</string>
   <string name="pref_title_font_size">Tamanho do tipo de letra</string>
   <string name="pref_title_note_style">Estilo</string>
   <string name="pref_title_recover_help">Recuperar notas</string>
+  <string name="pref_title_show_root_folder_in_homepage">Mostrar notas no ecrã inicial</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Eliminação rápida</string>
   <string name="recover_notes_hint">Ocorreu um erro. Vá a i.mi.com para restaurar as notas</string>
   <string name="redo">Refazer</string>

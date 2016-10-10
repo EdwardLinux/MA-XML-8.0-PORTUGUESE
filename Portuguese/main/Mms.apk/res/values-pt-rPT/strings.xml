@@ -440,9 +440,9 @@
   <string name="priority_low">Baixa</string>
   <string name="priority_normal">Normal</string>
   <string name="privacy_mode_hint">Não pode enviar mensagens em Modo Convidado</string>
-  <string name="privacy_password_message1">O padrão de Protecção de Privacidade funciona para aplicações, fotos, notas e pastas ocultas</string>
-  <string name="privacy_password_message2">Utilize o padrão de Protecção de Privacidade. Funciona para aplicações, fotos, notas e pastas ocultas</string>
-  <string name="privacy_password_message3">O padrão das mensagens vai ser substituído pelo padrão de Protecção de Privacidade que funciona para aplicações, fotos, notas e pastas ocultas</string>
+  <string name="privacy_password_message1">O padrão de Protecção de Privacidade funciona para fotos, notas e pastas ocultas</string>
+  <string name="privacy_password_message2">Utilize o padrão de Protecção de Privacidade. Funciona para fotos, notas e pastas ocultas</string>
+  <string name="privacy_password_message3">O padrão das mensagens vai ser substituído pelo padrão de Protecção de Privacidade que funciona para fotos, notas e pastas ocultas</string>
   <string name="privacy_password_set_password">Definir</string>
   <string name="privacy_password_title1">Definir padrão</string>
   <string name="privacy_password_title2">Utilizar padrão de Protecção de Privacidade</string>
