@@ -581,6 +581,7 @@
   <string name="user_login_dialog_cancle">Cancelar</string>
   <string name="user_login_dialog_tip">Iniciar sessão para enviar vídeos e ganhar prémios</string>
   <string name="user_login_dialog_title">Iniciar sessão</string>
+  <string name="user_message_text">Mensagens</string>
   <string name="user_nickname">Alcunha</string>
   <string name="user_nickname_limit">A alcunha deve ter 4 a 20 caracteres</string>
   <string name="user_no_net_video_tip">Ligação de rede fraca. Verifique as definições e tente novamente</string>
