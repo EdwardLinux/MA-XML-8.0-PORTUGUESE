@@ -383,7 +383,7 @@
   <string name="pref_notification_settings_title">Notificações</string>
   <string name="pref_other_title">Definições adicionais</string>
   <string name="pref_show_blocked_messages_summary">Mostrar SMS bloqueadas na lista de conversas</string>
-  <string name="pref_show_sms_template_summary">Copiar e preencher códigos de verificação automaticamente</string>
+  <string name="pref_show_sms_template_summary">Ligar para utilizar funcionalidades inteligentes das Mensagens Mi tais como copiar códigos, verificar o saldo, etc.</string>
   <string name="pref_show_sms_template_in_summary">Detectar automaticamente OTP nas mensagens SMS</string>
   <string name="pref_smart_messages_settings">Mensagens inteligentes</string>
   <string name="pref_sms_theme_title">Visualização</string>
