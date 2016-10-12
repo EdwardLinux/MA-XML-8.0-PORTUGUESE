@@ -17,8 +17,9 @@
   <string name="accounts">Contas e sincronização</string>
   <string name="acct_not_synced">Esta conta não está a ser sincronizada por isso os seus calendários podem não estar actualizados</string>
   <string name="acessibility_selected_marker_description">Evento seleccionado</string>
+  <string name="action_label">Voltar</string>
+  <string name="action_text_card_manager">订阅频道</string>
   <string name="action_text_new_event">Novo evento</string>
-  <string name="action_text_online">Gerir subscrições</string>
   <string name="action_text_today">Hoje</string>
   <string name="ad_card_connecting">A ligar…</string>
   <string name="ad_card_download_count">A transferir %1$s</string>
@@ -84,8 +85,8 @@
   <string name="card_detail_dialog_title">是否订阅</string>
   <string name="card_detail_hint">订阅后，内容会展示到首页，每日更新</string>
   <string name="card_detail_title">订阅详情</string>
-  <string name="card_manager">订阅频道</string>
-  <string name="card_manager_subtitle">点击订阅内容，完成订阅</string>
+  <string name="card_manager">订阅管理</string>
+  <string name="card_manager_no_data">没有订阅卡片 :)</string>
   <string name="card_title_change">Alterar título do cartão</string>
   <string name="change_response_title">Alterar resposta</string>
   <string name="check_reminded_text">Ver lembretes</string>
@@ -398,7 +399,18 @@
   <string name="str_hour_of_everyday">Todos os dias %s</string>
   <string name="str_hour_of_next">Próxima vez %s</string>
   <string name="subscribe_card">立即订阅</string>
-  <string name="subscribe_card_success">订阅“%1$s”成功</string>
+  <string name="subscribe_card_success">订阅成功，可在首页查看</string>
+  <string name="subscribe_card_success_for_homepage">订阅“%1$s”成功</string>
+  <string name="subscribe_channel_click_hint">订阅后可阅读</string>
+  <string name="subscribe_channel_footer_button">订阅管理</string>
+  <string name="subscribe_channel_footer_desc">查看已订阅的内容，或进入管理进行退订</string>
+  <string name="subscribe_channel_footer_title">已订阅</string>
+  <string name="subscribe_channel_footer_view">查看</string>
+  <string name="subscribe_channel_hint">"订阅适合自己的功能或服务，订阅后会展示在首页，
+你还可以在订阅后添加提醒，不错过每一个精彩！"</string>
+  <string name="subscribe_channel_subscribe">订阅</string>
+  <string name="subscribe_channel_subscribing">订阅中</string>
+  <string name="subscribe_channel_title">订阅频道</string>
   <string name="subscribe_description_card_more_cut">Erro</string>
   <string name="subscribe_description_card_more_launch">Expandir</string>
   <string name="subscribe_detail_title">Detalhes da subscrição</string>

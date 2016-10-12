@@ -36,6 +36,7 @@ Para limpar o histórico do Navegador, utilize as definições do Navegador"</st
   <string name="device_settings_category_title">Eliminar atalhos</string>
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>
+  <string name="entrance_setting">A abrir pesquisa</string>
   <string name="google_app_label">Pesquisa Google</string>
   <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
   <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
@@ -74,6 +75,8 @@ Para limpar o histórico do Navegador, utilize as definições do Navegador"</st
   <string name="settings_description">Nomes das aplicações instaladas</string>
   <string name="show_more">Mostrar mais</string>
   <string name="suggest_open_app_failed">Não foi possível abrir esta aplicação</string>
+  <string name="swipe_up_summary">Deslizar para cima para abrir a pesquisa</string>
+  <string name="swipe_up_title">Deslizar para cima</string>
   <string name="system_search_category_title">Telefone</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>

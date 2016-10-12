@@ -101,8 +101,8 @@ Se trocar de cartão SIM, vai ser enviada automaticamente outra mensagem para re
   <string name="find_device_reading_status">A carregar estado…</string>
   <string name="find_device_reading_status_failure">Não foi possível carregar estado</string>
   <string name="find_device_send_sms_alert">Se trocar de cartão SIM, poderá ser enviada outra mensagem para reactivar este serviço</string>
-  <string name="find_device_service_summary">Localize o seu dispositivo e bloqueie-o remotamente no caso de estar perdido</string>
-  <string name="find_device_service_summary_international">Localize o seu dispositivo e bloqueie-o remotamente no caso de estar perdido</string>
+  <string name="find_device_service_summary">Visite i.mi.com para localizar o seu dispositivo e bloqueá-lo remotamente</string>
+  <string name="find_device_service_summary_international">Visite i.mi.com para localizar o seu dispositivo e bloqueá-lo remotamente</string>
   <string name="find_device_service_title">Localizar Dispositivo</string>
   <string name="find_device_status_ok">Localizar o seu dispositivo de qualquer lugar em i.mi.com</string>
   <string name="find_device_status_ok_international">Localizar o seu dispositivo de qualquer lugar em www.mi.com/micloud</string>

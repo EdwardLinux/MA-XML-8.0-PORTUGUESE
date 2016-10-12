@@ -156,6 +156,12 @@ ou introduzir padrão do Bloqueio de aplicações"</string>
   <string name="auto_task_manager_group_title">As minhas tarefas automáticas</string>
   <string name="auto_task_notify_do_task_title">Início da tarefa automática</string>
   <string name="auto_task_notify_exit_task_title">Fim da tarefa automática</string>
+  <string name="auto_task_notify_task_cancel_count_down">A acção automática vai ser cancelada em 5 segundos</string>
+  <string name="auto_task_notify_task_cancel_do">Cancelar acção</string>
+  <string name="auto_task_notify_task_canceled_summary">Pode efectuar e receber chamadas</string>
+  <string name="auto_task_notify_task_canceled_title">A acção está cancelada</string>
+  <string name="auto_task_notify_task_continue_do">Iniciar acção</string>
+  <string name="auto_task_notify_task_count_down">A acção automática vai iniciar em 5 segundos</string>
   <string name="auto_task_operation_airplane_mode">Modo Avião</string>
   <string name="auto_task_operation_auto_brightness">Brilho auto</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
@@ -171,10 +177,10 @@ ou introduzir padrão do Bloqueio de aplicações"</string>
   <string name="auto_task_operation_no_op">Não seleccionar esta acção</string>
   <string name="auto_task_operation_open">Ligada</string>
   <string name="auto_task_operation_open_string">Ligar %s</string>
-  <string name="auto_task_operation_string_comma">,</string>
+  <string name="auto_task_operation_string_comma">", "</string>
   <string name="auto_task_operation_string_etc">, etc.</string>
   <string name="auto_task_operation_string_modify">Editar</string>
-  <string name="auto_task_operation_string_split">;</string>
+  <string name="auto_task_operation_string_split">"; "</string>
   <string name="auto_task_operation_sync">Sincronizar</string>
   <string name="auto_task_operation_vibration">Vibração</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
