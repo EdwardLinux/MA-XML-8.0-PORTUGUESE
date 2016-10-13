@@ -381,7 +381,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="torrent_file_error">"Não foi possível analisar este ficheiro torrent"</string>
   <string name="torrent_no_subfile">Sem ficheiros neste torrent</string>
   <string name="total_speedup">Optimização de velocidade (total)</string>
-  <string name="turn_off_xunlei_message">Poderá estar a ter velocidades de transferência inferiores</string>
+  <string name="turn_off_xunlei_message">Pode estar a ter velocidades de transferência inferiores</string>
   <string name="turn_off_xunlei_tips">Optimização de transferências Xunlei está desligado</string>
   <string name="turn_off_xunlei_title">Desligar Xunlei</string>
   <string name="unbind_xunlei_2_success">Conta Xunlei adicionada</string>

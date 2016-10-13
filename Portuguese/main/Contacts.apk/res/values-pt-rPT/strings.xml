@@ -754,7 +754,7 @@ Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", 
 "</b></font></li>"
 "</string>
   <string name="noContactsHelpTextForCreateShortcut">Não tem contactos para mostrar</string>
-  <string name="noContactsHelpTextWithSync">"Não tem contactos para mostrar (Se acabou de adicionar uma conta, poderá demorar alguns minutos para sincronizar os contactos)
+  <string name="noContactsHelpTextWithSync">"Não tem contactos para mostrar (Se acabou de adicionar uma conta, pode demorar alguns minutos para sincronizar os contactos)
 
 Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", depois seleccione:
  
@@ -767,7 +767,7 @@ Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", 
 "<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contactos do seu cartão SIM ou cartão SD
 "</b></font></li>"
 "</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Não tem contactos para mostrar (Se acabou de adicionar uma conta, poderá demorar alguns minutos para sincronizar os contactos)"</string>
+  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Não tem contactos para mostrar (Se acabou de adicionar uma conta, pode demorar alguns minutos para sincronizar os contactos)"</string>
   <string name="noContactsNoSimHelpText">"Não tem nenhum contacto para mostrar.
 
 Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", em seguida, toque:
@@ -779,7 +779,7 @@ Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", 
 "<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contactos do seu cartão SD
 "</b></font></li>"
 "</string>
-  <string name="noContactsNoSimHelpTextWithSync">"Não tem contactos para mostrar. (Se acabou de adicionar uma conta, poderá demorar alguns minutos para sincronizar os contactos)
+  <string name="noContactsNoSimHelpTextWithSync">"Não tem contactos para mostrar. (Se acabou de adicionar uma conta, pode demorar alguns minutos para sincronizar os contactos)
 
 Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", em seguida, toque:
  

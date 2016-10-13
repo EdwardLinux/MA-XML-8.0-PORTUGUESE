@@ -36,7 +36,7 @@ Para obter mais espaço de armazenamento visite mi.com/micloud</string>
   <string name="click_to_enabled">Toque para sincronizar</string>
   <string name="cloud_back_up_button_ok">Forçar paragem</string>
   <string name="cloud_back_up_close_info">Toque para fazer cópia de segurança</string>
-  <string name="cloud_back_up_dialog_content">Interromper cópia de segurança em curso? Se interromper agora não poderá usar esta cópia de segurança para restaurar aplicações</string>
+  <string name="cloud_back_up_dialog_content">Interromper cópia de segurança em curso? Se interromper agora não pode usar esta cópia de segurança para restaurar aplicações</string>
   <string name="cloud_back_up_network_unavailable">Não foi possível remover. É necessário uma ligação ao Wi-Fi. Tente novamente mais tarde</string>
   <string name="cloud_back_up_open_info">"Fazer cópia quando ligado ao Wi-Fi uma vez a cada %1$s
 Última cópia: %2$s"</string>
@@ -100,7 +100,7 @@ Para obter mais espaço de armazenamento visite mi.com/micloud</string>
 Se trocar de cartão SIM, vai ser enviada automaticamente outra mensagem para reactivar esta funcionalidade"</string>
   <string name="find_device_reading_status">A carregar estado…</string>
   <string name="find_device_reading_status_failure">Não foi possível carregar estado</string>
-  <string name="find_device_send_sms_alert">Se trocar de cartão SIM, poderá ser enviada outra mensagem para reactivar este serviço</string>
+  <string name="find_device_send_sms_alert">Se trocar de cartão SIM, pode ser enviada outra mensagem para reactivar este serviço</string>
   <string name="find_device_service_summary">Visite i.mi.com para localizar o seu dispositivo e bloqueá-lo remotamente</string>
   <string name="find_device_service_summary_international">Visite i.mi.com para localizar o seu dispositivo e bloqueá-lo remotamente</string>
   <string name="find_device_service_title">Localizar Dispositivo</string>
@@ -132,11 +132,11 @@ Se trocar de cartão SIM, vai ser enviada automaticamente outra mensagem para re
   <string name="master_alert_notif_dspt_no">Sincronizado</string>
   <string name="master_alert_notif_title">Ligar a sincronização com a Nuvem Mi</string>
   <string name="member_due_date">Válido até %s</string>
-  <string name="micloud_all_sub_1_intl_sms">Uma SMS internacional vai ser enviada para activar o seu cartão SIM. Irá ser cobrado pela operadora</string>
-  <string name="micloud_all_sub_1_sms">Uma SMS nacional vai ser enviada para activar o seu cartão SIM. Irá ser cobrado pela operadora</string>
-  <string name="micloud_all_sub_1_sms_1_intl_sms">2 mensagens de texto (nacional e internacional) vão ser enviadas para activar o seu cartão SIM. Irá ser cobrado pela operadora</string>
-  <string name="micloud_all_sub_2_intl_sms">2 mensagens de texto internacionais vão ser enviadas para activar o seu cartão SIM. Irá ser cobrado pela operadora</string>
-  <string name="micloud_all_sub_2_sms">2 mensagens de texto nacionais vão ser enviadas para activar o seu cartão SIM. Irá ser cobrado pela operadora</string>
+  <string name="micloud_all_sub_1_intl_sms">Uma SMS internacional vai ser enviada para activar o seu cartão SIM. Vai ser cobrado pela operadora</string>
+  <string name="micloud_all_sub_1_sms">Uma SMS nacional vai ser enviada para activar o seu cartão SIM. Vai ser cobrado pela operadora</string>
+  <string name="micloud_all_sub_1_sms_1_intl_sms">2 mensagens de texto (nacional e internacional) vão ser enviadas para activar o seu cartão SIM. Vai ser cobrado pela operadora</string>
+  <string name="micloud_all_sub_2_intl_sms">2 mensagens de texto internacionais vão ser enviadas para activar o seu cartão SIM. Vai ser cobrado pela operadora</string>
+  <string name="micloud_all_sub_2_sms">2 mensagens de texto nacionais vão ser enviadas para activar o seu cartão SIM. Vai ser cobrado pela operadora</string>
   <string name="micloud_all_sub_resend_sms">"Quando ligar 'Localizar Dispositivo' vai ser enviada uma SMS de activação após a troca de cartões SIM"</string>
   <string name="micloud_battery_low_notification_message">Ligar carregador para sincronizar</string>
   <string name="micloud_battery_low_notification_title">Bateria fraca</string>
@@ -377,13 +377,13 @@ Para corrigir esta situação pode eliminar alguns ficheiros para libertar espa�
   <string name="mx_dspt_provision">"Mensagens Mi permite enviar mensagens para outros dispositivos MIUI gratuitamente quando ligados ao Wi-Fi.
 
 Pode ligar ou desligar esta funcionalidade em qualquer altura nas Definições"</string>
-  <string name="mx_dspt_provision_privacy">"Esta funcionalidade poderá necessitar do seu número de telefone. A sua operadora vai cobrar um valor adicional pelo envio de uma SMS para activar esta funcionalidade.
+  <string name="mx_dspt_provision_privacy">"Esta funcionalidade pode necessitar do seu número de telefone. A sua operadora vai cobrar um valor adicional pelo envio de uma SMS para activar esta funcionalidade.
 
 Esta funcionalidade encripta e envia o ID do dispositivo para os servidores Mi"</string>
-  <string name="mx_dspt_provision_privacy_2_sim">"Esta funcionalidade poderá necessitar do seu número de telefone. A sua operadora vai cobrar um valor adicional pelo envio de duas SMS para activar esta funcionalidade.
+  <string name="mx_dspt_provision_privacy_2_sim">"Esta funcionalidade pode necessitar do seu número de telefone. A sua operadora vai cobrar um valor adicional pelo envio de duas SMS para activar esta funcionalidade.
 
 Esta funcionalidade encripta e envia o ID do dispositivo para os servidores Mi"</string>
-  <string name="mx_dspt_provision_privacy_no_sim">"Esta funcionalidade poderá necessitar do seu número de telefone. A sua operadora vai cobrar um valor adicional pelo envio de uma SMS para activar esta funcionalidade quando o cartão SIM for detectado.
+  <string name="mx_dspt_provision_privacy_no_sim">"Esta funcionalidade pode necessitar do seu número de telefone. A sua operadora vai cobrar um valor adicional pelo envio de uma SMS para activar esta funcionalidade quando o cartão SIM for detectado.
 
 Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores Mi"</string>
   <string name="mx_dspt_provision_with_voip">Ligar para outros dispositivos MIUI gratuitamente utilizando a sua ligação à Internet. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Definições. VoIP é fornecido por Weihui. Ver Política de Privacidade da Weihui</string>

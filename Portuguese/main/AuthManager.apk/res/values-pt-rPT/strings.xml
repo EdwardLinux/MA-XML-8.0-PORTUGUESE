@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Aplicações</string>
-  <string name="Dashboard_HIPS_Disable_Content">A MIUI não irá monitorizar pedidos de permissões das aplicações</string>
+  <string name="Dashboard_HIPS_Disable_Content">A MIUI não vai monitorizar pedidos de permissões das aplicações</string>
   <string name="Dashboard_HIPS_Disable_Title">Permissões</string>
   <string name="Dashboard_Log">Registos</string>
   <string name="Dashboard_Log_Clear_Content">Todos os registos vão ser eliminados</string>
@@ -276,7 +276,7 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root"</string>
   <string name="app_name">Gestor de Permissões</string>
   <string name="current_permission_template">%1$s de %2$s</string>
   <string name="default_permission_description">executar uma acção desconhecida</string>
-  <string name="grant_confirm_question">Quer conceder as seguintes permissões? Irá ter acesso a:</string>
+  <string name="grant_confirm_question">Quer conceder as seguintes permissões? Vai ter acesso a:</string>
   <string name="grant_dialog_button_allow">Permitir</string>
   <string name="grant_dialog_button_deny">Negar</string>
   <string name="location_settings">Definições de Localização</string>

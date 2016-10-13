@@ -188,10 +188,10 @@ Tente novamente em %d segundos"</string>
   <string name="nq_sms_filter_yes">Sim</string>
   <string name="one_retry_left">1 tentativa restante</string>
   <string name="permdesc_receiveCbSms">Permite que a aplicação receba e processe alertas de SMS. As aplicações maliciosas podem monitorizar mensagens ou eliminá-las sem as mostrar primeiro</string>
-  <string name="permdesc_receiveDmRegisterSms">Permite que a aplicação receba e processe alertas de SMS. Nenhuma aplicação, excepto a aplicação de alertas deverá utilizar esta funcionalidade</string>
+  <string name="permdesc_receiveDmRegisterSms">Permite que a aplicação receba e processe alertas de SMS. Nenhuma aplicação, excepto a aplicação de alertas deve utilizar esta funcionalidade</string>
   <string name="permlab_receiveCbSms">Receber SMS CB</string>
   <string name="permlab_receiveDmRegisterSms">Receber SMS de registo DM</string>
-  <string name="pinNotEnabled">Activar PIN antes de alterá-lo</string>
+  <string name="pinNotEnabled">Activar PIN antes de alvai ter-lo</string>
   <string name="pin_length_indicate">(4-8 dígitos)</string>
   <string name="pin_pass">Código aceite</string>
   <string name="press_color_to_apply">Prima na cor para aplicar</string>

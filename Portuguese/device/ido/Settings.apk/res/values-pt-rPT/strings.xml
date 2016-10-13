@@ -576,7 +576,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="breathing_light_freq_summary">Pulsar quando houver novas notificações</string>
   <string name="breathing_light_freq_title">Frequência do LED</string>
   <string name="brightness">Brilho</string>
-  <string name="brightness_auto_adjust_off">O brilho do ecrã permanecerá constante</string>
+  <string name="brightness_auto_adjust_off">O brilho do ecrã vai permanecer constante</string>
   <string name="brightness_auto_adjust_on">Optimizar nível do brilho do ecrã à luz ambiente</string>
   <string name="brightness_summary">Ajustar o brilho do ecrã</string>
   <string name="bssid_label">BSSID:</string>
@@ -737,11 +737,11 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="crypt_keeper_cooldown">Tente novamente dentro de ^1 segundos</string>
   <string name="crypt_keeper_data_corrupt_summary">"A palavra-passe introduzida está correcta mas, infelizmente, os dados estão corrompidos. 
 
-Para continuar a utilizar o telefone, é necessário efectuar uma reposição de fábrica. Quando configurar o telefone após a reposição, terá a oportunidade de restaurar quaisquer dados da cópia de segurança da sua Conta Google"</string>
+Para continuar a utilizar o telefone, é necessário efectuar uma reposição de fábrica. Quando configurar o telefone após a reposição, vai ter a oportunidade de restaurar quaisquer dados da cópia de segurança da sua Conta Google"</string>
   <string name="crypt_keeper_data_corrupt_title">Desencriptação sem sucesso</string>
   <string name="crypt_keeper_decrypt_methods">Após encriptar o seu dispositivo, assumindo que configurou um bloqueio de ecrã, vai ser necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. O outro modo de desencriptar é fazer uma reposição dos dados de fábrica, eliminando todos os seus dados</string>
   <string name="crypt_keeper_decrypt_methods_title">Desencriptar o seu dispositivo</string>
-  <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas e dados, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar uma reposição de dados de fábrica, eliminando todos os seus dados.
+  <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas e dados, multimédia e outros ficheiros. Assim que encriptar o telefone, deve introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar uma reposição de dados de fábrica, eliminando todos os seus dados.
 
 Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter o telefone a carregar até que a encriptação esteja terminada. Se interromper o processo de encriptação, perderá alguns ou todos os seus dados"</string>
   <string name="crypt_keeper_dialog_need_password_message">Deve definir um código PIN ou uma palavra-passe para o ecrã de bloqueio antes de iniciar a encriptação</string>
@@ -751,7 +751,7 @@ Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter
   <string name="crypt_keeper_enter_password">Introduza a sua palavra-passe</string>
   <string name="crypt_keeper_failed_summary">"A encriptação foi interrompida e não pôde terminar. Como resultado, os dados no telefone já não estão acessíveis.
 
-Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. Quando configurar o telefone após o restauro, terá oportunidade de restaurar os dados através da sua conta do Google"</string>
+Para continuar a utilizar o telefone, deve executar um restauro de fábrica. Quando configurar o telefone após o restauro, vai ter oportunidade de restaurar os dados através da sua conta do Google"</string>
   <string name="crypt_keeper_failed_title">Encriptação sem sucesso</string>
   <string name="crypt_keeper_final_desc">A operação de encriptação é irreversível e, se a interromper, perderá dados. A encriptação demora uma hora ou mais, durante a qual o telefone reiniciará várias vezes</string>
   <string name="crypt_keeper_force_power_cycle">Para desbloquear o telefone, desligue-o e volte a ligá-lo</string>

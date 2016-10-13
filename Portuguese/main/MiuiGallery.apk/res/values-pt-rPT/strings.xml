@@ -228,7 +228,7 @@
   <string name="download_retry_title">Não foi possível transferir ficheiros</string>
   <string name="download_tip">Transferir</string>
   <string name="download_title">A preparar ficheiros…</string>
-  <string name="download_without_wifi_msg">Utilizar dados móveis para transferir fotos vai aumentar a sua utilização de dados. Caso exceda o limite do seu pacote de dados, a sua operadora poderá cobrar tarifas adicionais</string>
+  <string name="download_without_wifi_msg">Utilizar dados móveis para transferir fotos vai aumentar a sua utilização de dados. Caso exceda o limite do seu pacote de dados, a sua operadora pode cobrar tarifas adicionais</string>
   <string name="download_without_wifi_title">Aviso de utilização de dados</string>
   <string name="edit_baby_info">Ver informação do bebé</string>
   <string name="email_picker_title">Adicionar email partilhado</string>

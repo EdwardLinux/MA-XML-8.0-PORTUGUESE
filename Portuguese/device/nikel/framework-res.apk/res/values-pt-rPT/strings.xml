@@ -108,7 +108,7 @@ Pretende fechar?"</string>
 A poupança de bateria desliga-se automaticamente quando o dispositivo está a carregar"</string>
   <string name="beforeOneMonthDurationPast">Há mais de 1 mês</string>
   <string name="bluetooth_a2dp_audio_route_name">Áudio Bluetooth</string>
-  <string name="bugreport_message">Vai ser recolhida informação sobre o estado actual do seu dispositivo a enviar através de uma mensagem de email. Demorará algum tempo até que o relatório de erros esteja pronto para ser enviado. Aguarde um momento</string>
+  <string name="bugreport_message">Vai ser recolhida informação sobre o estado actual do seu dispositivo a enviar através de uma mensagem de email. Vai demorar algum tempo até que o relatório de erros esteja pronto para ser enviado. Aguarde um momento</string>
   <string name="bugreport_title">Criar relatório de erros</string>
   <string name="byteShort">B</string>
   <string name="cancel">Cancelar</string>
@@ -343,7 +343,7 @@ utilizando %s"</string>
   <string name="hardware">Hardware</string>
   <string name="heavy_weight_notification">%1$s em execução</string>
   <string name="heavy_weight_notification_detail">Toque para mudar para a aplicação</string>
-  <string name="heavy_weight_switcher_text">Já está em execução outra aplicação, esta terá de ser encerrada para poder iniciar uma nova</string>
+  <string name="heavy_weight_switcher_text">Já está em execução outra aplicação, esta vai ter de ser encerrada para poder iniciar uma nova</string>
   <string name="heavy_weight_switcher_title">Mudar de aplicação?</string>
   <string name="hour">hora</string>
   <string name="hour_ampm" formatted="false">%-l%P</string>
@@ -656,7 +656,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="peerTtyModeHco">O par solicitou o modo HCO de TTY</string>
   <string name="peerTtyModeOff">O par solicitou o modo DESLIGADO de TTY</string>
   <string name="peerTtyModeVco">O par solicitou o modo VCO de TTY</string>
-  <string name="perm_costs_money">Isto poderá estar sujeito a custos</string>
+  <string name="perm_costs_money">Isto pode estar sujeito a custos</string>
   <string name="permdesc_accessCoarseLocation">Permite que a aplicação obtenha a sua localização aproximada. Esta localização é gerada pelos serviços de localização, que utilizam fontes de localização da rede, tais como, torres de telemóvel e Wi-Fi. Estes serviços de localização têm de estar activados e disponíveis no dispositivo para que a aplicação os utilize. As aplicações poderão utilizá-los para determinar a sua localização aproximada</string>
   <string name="permdesc_accessDrmCertificates">Permite que uma aplicação forneça e utilize certificados DRM. Nunca deve ser necessário para aplicações normais</string>
   <string name="permdesc_accessFineLocation">Permite que a aplicação obtenha a sua localização exacta através do Sistema de Posicionamento Global (GPS) ou das fontes de localização da rede, tais como, torres de telemóvel e Wi-Fi. Estes serviços de localização têm de estar activados e disponíveis no dispositivo para que a aplicação os utilize. As aplicações poderão utilizá-los para determinar a sua localização e poderão consumir mais energia da bateria</string>
@@ -721,14 +721,14 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permdesc_readSyncSettings">Permite que a aplicação leia as definições de sincronização de uma conta. Por exemplo, pode determinar se a aplicação Contactos está sincronizada com uma conta</string>
   <string name="permdesc_readSyncStats">Permite que uma aplicação leia o estado de sincronização de uma conta, incluindo o histórico de eventos de sincronização e a quantidade de dados sincronizados</string>
   <string name="permdesc_receiveBootCompleted">Permite que uma aplicação se inicie automaticamente assim que tiver terminado o arranque do sistema. Isto pode atrasar o arranque do telefone e permitir à aplicação abrandar todo o funcionamento do telefone, uma vez que está em constante execução</string>
-  <string name="permdesc_receiveMms">Permite que a aplicação receba e processe mensagens MMS. Isto significa que a aplicação poderá monitorizar ou eliminar mensagens enviadas para o seu dispositivo sem as apresentar</string>
-  <string name="permdesc_receiveSms">Permite que a aplicação receba e processe mensagens SMS. Isto significa que a aplicação poderá monitorizar ou eliminar mensagens enviadas para o seu dispositivo sem as apresentar</string>
+  <string name="permdesc_receiveMms">Permite que a aplicação receba e processe mensagens MMS. Isto significa que a aplicação pode monitorizar ou eliminar mensagens enviadas para o seu dispositivo sem as apresentar</string>
+  <string name="permdesc_receiveSms">Permite que a aplicação receba e processe mensagens SMS. Isto significa que a aplicação pode monitorizar ou eliminar mensagens enviadas para o seu dispositivo sem as apresentar</string>
   <string name="permdesc_receiveWapPush">Permite que a aplicação receba e processe mensagens WAP. Esta permissão inclui a capacidade de monitorizar ou eliminar mensagens enviadas para si sem as apresentar</string>
   <string name="permdesc_recordAudio">Permite que a aplicação grave áudio com o microfone. Esta permissão permite que a aplicação grave áudio em qualquer altura sem a confirmação do utilizador</string>
   <string name="permdesc_register_call_provider">Permite que a aplicação registe novas ligações de telecomunicação</string>
   <string name="permdesc_register_sim_subscription">Permite que a aplicação registe novas ligações SIM de telecomunicações</string>
   <string name="permdesc_removeDrmCertificates">Permite que uma aplicação remova certificados DRM. Nunca deve ser necessário para aplicações normais</string>
-  <string name="permdesc_reorderTasks">Permite que a aplicação mova tarefas para primeiro e segundo plano. A aplicação poderá fazê-lo sem qualquer entrada do utilizador</string>
+  <string name="permdesc_reorderTasks">Permite que a aplicação mova tarefas para primeiro e segundo plano. A aplicação pode fazê-lo sem qualquer entrada do utilizador</string>
   <string name="permdesc_requestInstallPackages">Permite que uma aplicação peça a instalação de pacotes</string>
   <string name="permdesc_route_media_output">Permite que a aplicação encaminhe a saída de som multimédia para outros dispositivos externos</string>
   <string name="permdesc_sdcardRead">Permite que a aplicação leia conteúdos do armazenamento USB</string>
@@ -743,7 +743,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="permdesc_statusBar">Permite à aplicação desactivar a barra de estado ou adicionar e remover ícones do sistema</string>
   <string name="permdesc_statusBarService">Permite que a aplicação seja apresentada na barra de estado</string>
   <string name="permdesc_subscribedFeedsRead">Permite à aplicação obter detalhes acerca dos feeds actualmente sincronizados</string>
-  <string name="permdesc_systemAlertWindow">Permite que a aplicação se sobreponha a outras aplicações ou partes da interface de utilizador. Poderá interferir na utilização da interface de qualquer aplicação ou alterar o que pensa estar a ver noutras aplicações</string>
+  <string name="permdesc_systemAlertWindow">Permite que a aplicação se sobreponha a outras aplicações ou partes da interface de utilizador. Pode interferir na utilização da interface de qualquer aplicação ou alterar o que pensa estar a ver noutras aplicações</string>
   <string name="permdesc_transmitIr">Permite que a aplicação utilize o transmissor de infravermelhos do telefone</string>
   <string name="permdesc_uninstall_shortcut">Permite que a aplicação remova atalhos do ecrã principal sem a intervenção do utilizador</string>
   <string name="permdesc_useFingerprint">Permite que a aplicação utilize o hardware de impressão digital para autenticação</string>
@@ -1005,7 +1005,7 @@ para a conta %s"</string>
   <string name="safeMode">Modo Seguro</string>
   <string name="safe_media_volume_warning">"Aumentar o volume acima do nível recomendado?
   
-Ouvir níveis elevados de volume durante longos períodos poderá ser prejudicial para a sua audição"</string>
+Ouvir níveis elevados de volume durante longos períodos pode ser prejudicial para a sua audição"</string>
   <string name="save_password_label">Confirmar</string>
   <string name="save_password_message">Quer que o navegador memorize esta palavra-passe?</string>
   <string name="save_password_never">Nunca</string>
@@ -1069,7 +1069,7 @@ Ouvir níveis elevados de volume durante longos períodos poderá ser prejudicia
   <string name="sim_added_message">Reinicie o dispositivo para aceder à rede móvel</string>
   <string name="sim_added_title">Cartão SIM adicionado</string>
   <string name="sim_done_button">Concluído</string>
-  <string name="sim_removed_message">A rede móvel estará indisponível até que reinicie o dispositivo com um cartão SIM válido inserido</string>
+  <string name="sim_removed_message">A rede móvel vai estar indisponível até que reinicie o dispositivo com um cartão SIM válido inserido</string>
   <string name="sim_removed_title">Cartão SIM removido</string>
   <string name="sim_restart_button">Reiniciar</string>
   <string name="sipAddressTypeCustom">Personalizado</string>
@@ -1081,7 +1081,7 @@ Ouvir níveis elevados de volume durante longos períodos poderá ser prejudicia
   <string name="sms_control_no">Negar</string>
   <string name="sms_control_title">A enviar mensagens SMS</string>
   <string name="sms_control_yes">Permitir</string>
-  <string name="sms_premium_short_code_details">Isto <b>resultará em custos</b> para a sua conta de dispositivo móvel</string>
+  <string name="sms_premium_short_code_details">Isto <b>vai resultar em custos</b> para a sua conta de dispositivo móvel</string>
   <string name="sms_short_code_confirm_allow">Enviar</string>
   <string name="sms_short_code_confirm_always_allow">Permitir sempre</string>
   <string name="sms_short_code_confirm_deny">Cancelar</string>
@@ -1095,7 +1095,7 @@ Ouvir níveis elevados de volume durante longos períodos poderá ser prejudicia
   <string name="ssl_ca_cert_noti_by_administrator">Do administrador do seu perfil de trabalho</string>
   <string name="ssl_ca_cert_noti_by_unknown">Por um terceiro desconhecido</string>
   <string name="ssl_ca_cert_noti_managed">Por %s</string>
-  <string name="ssl_ca_cert_warning">A rede poderá ser monitorizada</string>
+  <string name="ssl_ca_cert_warning">A rede pode ser monitorizada</string>
   <string name="ssl_certificate">Certificado de segurança</string>
   <string name="ssl_certificate_is_valid">Este certificado é válido</string>
   <string name="status_bar_notification_info_overflow">999+</string>

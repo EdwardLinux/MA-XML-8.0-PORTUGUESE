@@ -131,7 +131,7 @@
   <string name="connected_via_wfa">Ligado via assistente de Wi-Fi</string>
   <string name="data_usage_disabled_dialog">"Alcançou o limite de utilização de dados definido.
 
-Se voltar a activar os dados móveis poderá ter custos adicionais facturados pela operadora"</string>
+Se voltar a activar os dados móveis pode ter custos adicionais facturados pela operadora"</string>
   <string name="data_usage_disabled_dialog_3g_title">Dados 2G/3G desactivados</string>
   <string name="data_usage_disabled_dialog_4g_title">Dados 4G desactivados</string>
   <string name="data_usage_disabled_dialog_enable">Voltar a activar dados</string>

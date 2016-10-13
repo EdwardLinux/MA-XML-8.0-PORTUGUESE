@@ -76,7 +76,7 @@ ou introduzir padrão do Bloqueio de aplicações"</string>
   <string name="antivirus_choose_engine_disable_toast">Não é possível alterar as definições enquanto a verificação estiver em curso</string>
   <string name="antivirus_choose_engine_settings">Configurações das definições de vírus</string>
   <string name="antivirus_choose_engine_title">Definições</string>
-  <string name="antivirus_more_engine_dialog_summary">Se utilizar várias definições de vírus ao mesmo tempo a verificação poderá levar mais tempo</string>
+  <string name="antivirus_more_engine_dialog_summary">Se utilizar várias definições de vírus ao mesmo tempo a verificação pode levar mais tempo</string>
   <string name="antivirus_more_engine_dialog_title">Atenção</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>
   <string name="antivirus_none_engine_dialog_title">Escolher definições de vírus</string>
@@ -239,7 +239,7 @@ ou introduzir padrão do Bloqueio de aplicações"</string>
   <string name="boot_time_day">Ligar: %2$s %1$dd</string>
   <string name="boot_time_day_tomorrow">Ligar: %1$s</string>
   <string name="brand_diagnostic">Diagnósticos do tipo de marca da operadora</string>
-  <string name="brightness_auto_adjust_off">O brilho do ecrã permanecerá constante em todos os ambientes</string>
+  <string name="brightness_auto_adjust_off">O brilho do ecrã vai permanecer constante em todos os ambientes</string>
   <string name="brightness_auto_adjust_on">Optimizar nível do brilho do ecrã à luz ambiente</string>
   <string name="btn_finish_diagnostic">OK</string>
   <string name="btn_jump">Ignorar</string>
@@ -1440,7 +1440,7 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="traffic_limit_error_alert_title">Lembrete %s de limite de dados </string>
   <string name="traffic_none">Nenhum</string>
   <string name="traffic_over_purchase_body">Toque para ver detalhes</string>
-  <string name="traffic_over_purchase_link">"Atingiu o limite do pacote de dados.&lt;br/&gt;Poderá ter custos adicionais se exceder o limite de dados.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Toque para aumentar o limite do pacote de dados.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_link">"Atingiu o limite do pacote de dados.&lt;br/&gt;Pode ter custos adicionais se exceder o limite de dados.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Toque para aumentar o limite do pacote de dados.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_over_purchase_title">Limite de dados excedido</string>
   <string name="traffic_purchase_body">Toque para recarregar o seu saldo</string>
   <string name="traffic_purchse_suggestion">Recarregar dados móveis</string>

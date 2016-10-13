@@ -39,7 +39,7 @@
   <string name="ad_block_hint">%d bloqueado</string>
   <string name="ad_install_monitor">Inspeccionar aplicações por adware</string>
   <string name="ad_install_monitor_hint">Verificar adware ao instalar aplicações</string>
-  <string name="ad_permission_hint">Utilizar o Bloqueador de Anúncios poderá afectar o funcionamento das suas aplicações</string>
+  <string name="ad_permission_hint">Utilizar o Bloqueador de Anúncios pode afectar o funcionamento das suas aplicações</string>
   <string name="ad_relative_setting">Definições relacionadas</string>
   <string name="ad_single_block_hint">Bloqueado</string>
   <string name="ad_update_setting">Actualizar</string>

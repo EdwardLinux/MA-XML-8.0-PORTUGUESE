@@ -3,6 +3,7 @@
   <string name="accessibility_call_muted">Chamada silenciada</string>
   <string name="accessibility_speakerphone_enabled">Alta voz activado</string>
   <string name="add_vm_number_str">Adicionar número</string>
+  <string name="can_not_dial_vt_while_voice_prompt">Não é possível efectuar uma videochamada enquanto estiver uma chamada em curso</string>
   <string name="can_not_dial_while_vt_prompt">Não é possível marcar enquanto uma videochamada estiver em curso</string>
   <string name="change_default_dialer_dialog_title">Alterar aplicação Telefone predefinida?</string>
   <string name="change_default_dialer_no_previous_app_set_text">Utilizar %s como aplicação Telefone predefinida?</string>

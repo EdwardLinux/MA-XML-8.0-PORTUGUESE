@@ -713,7 +713,7 @@ Vai ser utilizada a rede preferida"</string>
   <string name="network_settings_title">Redes móveis</string>
   <string name="network_settings_turn_off">Desligado</string>
   <string name="network_settings_warn_message">O seu dispositivo apenas vai ligar a redes que seleccionar manualmente</string>
-  <string name="network_unconnected_message_livetalk">Erro de rede. Tente fazer uma chamada normal. Irá ser cobrado um valor adicional pela sua operadora</string>
+  <string name="network_unconnected_message_livetalk">Erro de rede. Tente fazer uma chamada normal. Vai ser cobrado um valor adicional pela sua operadora</string>
   <string name="network_unlock">Desbloquear</string>
   <string name="network_unconnected_title">Erro de rede</string>
   <string name="networks">Operadores de rede</string>
@@ -802,7 +802,7 @@ Vai ser utilizada a rede preferida"</string>
   <string name="ota_failure">Não é possível programar</string>
   <string name="ota_hfa_activation_dialog_message">"O telefone está a activar o serviço de dados móveis.
 
-Este processo poderá demorar até 5 minutos"</string>
+Este processo pode demorar até 5 minutos"</string>
   <string name="ota_hfa_activation_title">A activar…</string>
   <string name="ota_listen">Siga as instruções de voz</string>
   <string name="ota_next">Seguinte</string>
