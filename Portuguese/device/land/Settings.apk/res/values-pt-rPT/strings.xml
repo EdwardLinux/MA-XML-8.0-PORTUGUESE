@@ -1374,7 +1374,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="fingerprint_identify_msg">A ler impressão digital…</string>
   <string name="fingerprint_identify_try_again_msg">Não foi possível ler impressão digital. Tente novamente</string>
   <string name="fingerprint_last_delete_confirm">Sim, remover</string>
-  <string name="fingerprint_last_delete_message">Não pode utilizar as impressões digitais para desbloquear o telemóvel, autorizar compras ou iniciar sessão em aplicações com elas</string>
+  <string name="fingerprint_last_delete_message">Não vai poder utilizar as impressões digitais para desbloquear o telemóvel, autorizar compras ou iniciar sessão em aplicações com elas</string>
   <string name="fingerprint_last_delete_title">Remover todas as impressões digitais?</string>
   <string name="fingerprint_list_title">Impressão digital</string>
   <string name="fingerprint_lock_first">Desbloquear o Primeiro espaço</string>
@@ -2814,7 +2814,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="record_anr_in_background">Gravar casos ANR em segundo plano</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Informação regulamentar</string>
-  <string name="remove_account_failed">Esta conta é exigida por algumas aplicações. Apenas pode removê-la repondo o telefone para as definições de fábrica (que elimina todos os dados pessoais) em Definições &gt; Cópia e restauro</string>
+  <string name="remove_account_failed">Esta conta é exigida por algumas aplicações. Apenas a pode remover repondo o telefone para as definições de fábrica (que elimina todos os dados pessoais) em Definições &gt; Cópia e restauro</string>
   <string name="remove_account_label">Eliminar conta</string>
   <string name="remove_device_admin">Desactivar</string>
   <string name="remove_from_frequently_fragment">Remover %s das definições comuns?</string>
@@ -3453,7 +3453,7 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="sound_vibrate_settings">Som e vibração</string>
   <string name="spellchecker_language">Idioma</string>
   <string name="spellchecker_quick_settings">Definições</string>
-  <string name="spellchecker_security_warning">Este corrector ortográfico pode recolher todo o texto que digita, incluindo dados pessoais, como palavras-passe e números de cartões de crédito. Tem origem na aplicação %1$s. Quer utilizar este corrector ortográfico?</string>
+  <string name="spellchecker_security_warning">Este corrector ortográfico vai poder recolher todo o texto que digita, incluindo dados pessoais, como palavras-passe e números de cartões de crédito. Tem origem na aplicação %1$s. Quer utilizar este corrector ortográfico?</string>
   <string name="spellcheckers_settings_title">Verificador ortográfico</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">Monitorização de rede</string>
@@ -3464,7 +3464,7 @@ O seu administrador pode monitorizar a sua actividade na rede, incluindo emails,
 
 Para mais informações contacte o seu administrador"</string>
   <string name="ssl_ca_cert_settings_button">Verificar credenciais de confiança</string>
-  <string name="ssl_ca_cert_warning">A rede pode ser monitorizada</string>
+  <string name="ssl_ca_cert_warning">A rede pode estar a ser monitorizada</string>
   <string name="ssl_ca_cert_warning_message">"Software de terceiros podem monitorizar a sua actividade na rede, incluindo mensagens de email, aplicações e páginas de Internet seguras.
 
 Uma credencial de confiança instalada no seu dispositivo está a fazer isto possível"</string>
@@ -4135,7 +4135,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="voice_input_output_settings_title">Definições de entrada e saída de voz</string>
   <string name="voice_input_settings">Definições de entrada de texto por voz</string>
   <string name="voice_input_settings_title">Entrada de texto por voz</string>
-  <string name="voice_interaction_security_warning">Este serviço de entrada de texto por voz pode efectuar a monitorização de voz permanente e controlar aplicações activadas por voz em seu nome. É proveniente da aplicação %s. Permitir a utilização deste serviço?</string>
+  <string name="voice_interaction_security_warning">Este serviço de entrada de texto por voz vai poder efectuar a monitorização de voz permanente e controlar aplicações activadas por voz em seu nome. É proveniente da aplicação %s. Permitir a utilização deste serviço?</string>
   <string name="voice_interactor_preference_summary">Palavra de activação e interacção completas</string>
   <string name="voice_recognizer_preference_summary">Serviço simples de voz para texto</string>
   <string name="voice_search_settings_title">Pesquisa por voz</string>
