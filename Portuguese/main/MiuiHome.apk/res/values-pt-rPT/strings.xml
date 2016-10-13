@@ -58,6 +58,7 @@
   <string name="current_wallpaper">Actual</string>
   <string name="custom_wallpaper_picker">Explorar</string>
   <string name="default_folder_title_game">Jogos</string>
+  <string name="default_folder_title_microsoft">Microsoft</string>
   <string name="default_folder_title_recommend">Aplicações</string>
   <string name="default_folder_title_security">Sistema</string>
   <string name="default_folder_title_tools">Ferramentas</string>
