@@ -36,7 +36,7 @@ Para limpar o histórico do Navegador, utilize as definições do Navegador"</st
   <string name="device_settings_category_title">Eliminar atalhos</string>
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>
-  <string name="entrance_setting">A abrir pesquisa</string>
+  <string name="entrance_setting">Pesquisa</string>
   <string name="google_app_label">Pesquisa Google</string>
   <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
   <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
