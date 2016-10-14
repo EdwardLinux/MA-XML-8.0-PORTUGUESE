@@ -134,7 +134,7 @@ ou introduzir padrão do Bloqueio de aplicações"</string>
   <string name="auto_task_condition_choose_time_duration">Definir hora</string>
   <string name="auto_task_condition_number_pick_title">Definir a condição de bateria</string>
   <string name="auto_task_condition_restore_task_when_charged">Alterar para o modo anterior após carregamento</string>
-  <string name="auto_task_condition_time_duration_text">De %1$s a %2$s</string>
+  <string name="auto_task_condition_time_duration_text">De %1$s até %2$s</string>
   <string name="auto_task_condition_time_pick_title">Definir temporizador</string>
   <string name="auto_task_condition_time_text">Às %s</string>
   <string name="auto_task_dialog_button_close">Concluído</string>
