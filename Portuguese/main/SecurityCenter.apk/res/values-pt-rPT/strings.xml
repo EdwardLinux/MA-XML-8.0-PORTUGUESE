@@ -136,7 +136,7 @@ ou introduzir padrão do Bloqueio de aplicações"</string>
   <string name="auto_task_condition_restore_task_when_charged">Alterar para o modo anterior após carregamento</string>
   <string name="auto_task_condition_time_duration_text">De %1$s a %2$s</string>
   <string name="auto_task_condition_time_pick_title">Definir temporizador</string>
-  <string name="auto_task_condition_time_text">At %s</string>
+  <string name="auto_task_condition_time_text">Às %s</string>
   <string name="auto_task_dialog_button_close">Concluído</string>
   <string name="auto_task_edit_abandon_change">Rejeitar alterações?</string>
   <string name="auto_task_edit_activity_title">As minhas tarefas automáticas</string>
@@ -166,7 +166,7 @@ ou introduzir padrão do Bloqueio de aplicações"</string>
   <string name="auto_task_operation_auto_brightness">Brilho auto</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
   <string name="auto_task_operation_brightness">Brilho do ecrã</string>
-  <string name="auto_task_operation_close">Desligada</string>
+  <string name="auto_task_operation_close">Desligado</string>
   <string name="auto_task_operation_close_string">Desligar %s</string>
   <string name="auto_task_operation_gps">GPS</string>
   <string name="auto_task_operation_lockscreen_time">Ecrã de bloqueio</string>
@@ -175,7 +175,7 @@ ou introduzir padrão do Bloqueio de aplicações"</string>
   <string name="auto_task_operation_modify_string">Editar %s</string>
   <string name="auto_task_operation_mute">Modo silêncio</string>
   <string name="auto_task_operation_no_op">Não seleccionar esta acção</string>
-  <string name="auto_task_operation_open">Ligada</string>
+  <string name="auto_task_operation_open">Ligado</string>
   <string name="auto_task_operation_open_string">Ligar %s</string>
   <string name="auto_task_operation_string_comma">", "</string>
   <string name="auto_task_operation_string_etc">, etc.</string>
