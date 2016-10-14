@@ -20,7 +20,7 @@ Identificador de anúncios é um ID único e permanente do seu dispositivo. Os f
   <string name="access_control_need_to_unlock">Padrão de desbloqueio</string>
   <string name="access_control_no_back_footer">Toque [icon] para sair</string>
   <string name="access_control_password_title">Bloqueio de ecrã</string>
-  <string name="access_control_recording_intro_header">Desenhar um padrão de desbloqueio</string>
+  <string name="access_control_recording_intro_header">Desenhe um padrão de desbloqueio</string>
   <string name="access_control_reset_by_account">Iniciar a sessão na sua Conta Mi para redefinir palavra-passe</string>
   <string name="access_point_names">Pontos de acesso (APN)</string>
   <string name="accessibility_captioning_title">Legendas</string>
@@ -1533,7 +1533,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lockpattern_recording_incorrect_too_short">Ligue pelo menos %d pontos. Tente novamente</string>
   <string name="lockpattern_recording_inprogress">Levante o dedo quando terminar</string>
   <string name="lockpattern_recording_intro_footer">Premir Menu para obter ajuda</string>
-  <string name="lockpattern_recording_intro_header">Desenhar um padrão de desbloqueio</string>
+  <string name="lockpattern_recording_intro_header">Desenhe um padrão de desbloqueio</string>
   <string name="lockpattern_recording_intro_header_second_space">Desenhar um padrão de desbloqueio para o Segundo espaço</string>
   <string name="lockpattern_restart_button_text">Desenhar novamente</string>
   <string name="lockpattern_retry_button_text">Tentar novamente</string>
