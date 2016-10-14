@@ -1536,7 +1536,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lockpattern_change_lock_pin_label">Alterar PIN</string>
   <string name="lockpattern_confirm_button_text">Confirmar</string>
   <string name="lockpattern_continue_button_text">Continuar</string>
-  <string name="lockpattern_need_to_confirm">Desenhar padrão novamente para confirmar</string>
+  <string name="lockpattern_need_to_confirm">Desenhe o padrão novamente para confirmar</string>
   <string name="lockpattern_need_to_unlock">Confirmar o padrão de desbloqueio</string>
   <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong">Tente novamente</string>
