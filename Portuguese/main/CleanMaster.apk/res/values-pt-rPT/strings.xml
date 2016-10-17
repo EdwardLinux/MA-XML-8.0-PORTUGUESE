@@ -458,7 +458,7 @@
   <string name="tips_of_traffic_pack_threshold">"Comprar mais dados quando estiver prestes a chegar ao limite do tráfego"</string>
   <string name="tips_of_virus_scan">Verificar regularmente o seu dispositivo por vírus para o manter seguro</string>
   <string name="title_auto_cleaner">Limpar automaticamente?</string>
-  <string name="title_delete_cache">Limpar cache da aplicação</string>
+  <string name="title_delete_cache">Limpar cache das aplicações</string>
   <string name="title_delete_clipboard">Conteúdo da Área de transferência</string>
   <string name="title_delete_deepclean">Eliminar</string>
   <string name="title_delete_large_file">Eliminar ficheiros grandes</string>
