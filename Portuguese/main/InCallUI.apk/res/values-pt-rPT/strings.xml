@@ -194,14 +194,14 @@
   <string name="onscreen_call_record">Gravar</string>
   <string name="onscreen_change_to_video">Videochamada</string>
   <string name="onscreen_change_to_voice">Chamada de voz</string>
-  <string name="onscreen_close_preview_camera">Fechar câmara</string>
+  <string name="onscreen_close_preview_camera">Fechar</string>
   <string name="onscreen_hold_text">Reter</string>
   <string name="onscreen_merge_calls_text">Juntar chamadas</string>
   <string name="onscreen_mute_text">Silenciar</string>
   <string name="onscreen_note_calls_text">Notas</string>
   <string name="onscreen_rcs_text">Mensagens</string>
   <string name="onscreen_swap_calls_text">Trocar</string>
-  <string name="onscreen_switch_camera">Trocar câmara</string>
+  <string name="onscreen_switch_camera">Trocar</string>
   <string name="pause_prompt_no">Não</string>
   <string name="pause_prompt_yes">Sim</string>
   <string name="payphone">Telefone público</string>
@@ -215,7 +215,7 @@
   <string name="select_voice_call_sim">Escolher cartão SIM</string>
   <string name="separate_from_conference">Separar chamada</string>
   <string name="sip_call_not_support_record">Não é possível gravar chamadas SIP</string>
-  <string name="suspect_info">Verificar sempre a identidade do contacto por telefone ou vídeo antes de responder a quaisquer mensagens que envolva suas informações pessoais</string>
+  <string name="suspect_info">Tenha cuidado com as suas informações pessoais</string>
   <string name="time_left_livetalk">(%ds)</string>
   <string name="unknown">Desconhecido</string>
   <string name="upgrade_vt_prompt">Trocar para videochamada?</string>

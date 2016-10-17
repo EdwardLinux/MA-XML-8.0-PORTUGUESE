@@ -276,7 +276,7 @@
   <string name="eq_pop">Pop</string>
   <string name="eq_preset_create">Criar</string>
   <string name="eq_preset_format">Predefinição de utilizador %d</string>
-  <string name="eq_preset_hint">Nome da predefinição</string>
+  <string name="eq_preset_hint">Nome do efeito</string>
   <string name="eq_preset_rename">Mudar o nome</string>
   <string name="eq_preset_select">Seleccionar predefinição</string>
   <string name="eq_rock">Rock</string>
@@ -424,6 +424,7 @@
   <string name="monthly_price">Créditos Mi</string>
   <string name="more">Mais</string>
   <string name="more_about_artist">Mais sobre %s</string>
+  <string name="more_add_song_list">Adicionar à lista de reprodução</string>
   <string name="more_online_artist">Mais</string>
   <string name="more_online_billboard">Mais</string>
   <string name="more_online_fm">Mais</string>
@@ -433,6 +434,7 @@
   <string name="more_online_suggest">Mais</string>
   <string name="more_settings">Definições avançadas</string>
   <string name="more_settings_summary">Temporizador, filtrar ficheiros de áudio, etc.</string>
+  <string name="more_share">Partilhar</string>
   <string name="multichoice">Seleccionar</string>
   <string name="music_browser_label">Música</string>
   <string name="music_filter">Filtrar ficheiros de áudio</string>

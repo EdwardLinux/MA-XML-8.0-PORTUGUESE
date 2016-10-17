@@ -183,6 +183,9 @@
   <string name="flow_setting">Definições</string>
   <string name="folder_name_empty">Nome de pasta não pode estar vazio</string>
   <string name="folder_name_illegal">Nome de pasta inválida</string>
+  <string name="follow_fail">Não foi possível seguir. Tente novamente mais tarde</string>
+  <string name="follow_tip_1">Siga-me para ver mais vídeos</string>
+  <string name="follow_tip_2">Siga-me para ver mais vídeos</string>
   <string name="found_router">Router ligado</string>
   <string name="found_usb">Armazenamento USB ligado</string>
   <string name="ftp_account_req_notice">4-16 caracteres, letras e números, maiúsculas e minúsculas</string>
@@ -478,6 +481,9 @@
   <string name="setting">Definições</string>
   <string name="setting_account_bind">Adicionar conta</string>
   <string name="setting_message_notify">Notificações</string>
+  <string name="share_success">Partilhado com sucesso</string>
+  <string name="share_tip_1">Obrigado por partilhar. Siga-me para ver mais vídeos</string>
+  <string name="share_tip_2">Obrigado por partilhar. Siga-me para ver mais vídeos</string>
   <string name="share_title_1">Encontrei um bundle de stickers fixe!</string>
   <string name="share_to">Partilhar para…</string>
   <string name="share_youliao1">Actualize para ver mais episódios</string>
@@ -503,6 +509,8 @@
   <string name="storage_sd_card">Cartão SD</string>
   <string name="storage_usb">Armazenamento USB</string>
   <string name="storage_warning">Não é possível utilizar o armazenamento externo</string>
+  <string name="swap_tip_1">Deslize para a esquerda ou direita</string>
+  <string name="swap_tip_2">para ver mais vídeos</string>
   <string name="sys_size_enable">" disponível"</string>
   <string name="tab_category">Categorias</string>
   <string name="tab_common_app">Aplicações e pastas</string>
@@ -590,12 +598,18 @@
   <string name="user_not_login">Iniciar sessão primeiro</string>
   <string name="user_not_video_btn_text">Enviar o primeiro vídeo</string>
   <string name="user_setting_logout">Terminar sessão</string>
+  <string name="user_setting_hot_comment">Notificações acerca de comentários em destaque</string>
+  <string name="user_setting_hot_comment_tip">Receber notificações quando os seus comentários estão em destaque</string>
   <string name="user_setting_new_comment">Notificações de novos comentários</string>
   <string name="user_setting_new_comment_tip">Vai ser notificado quando existirem novos comentários</string>
   <string name="user_setting_new_liked">Notificações de novos louvores</string>
   <string name="user_setting_new_liked_tip">Vai ser notificado se alguém gostar do seu vídeo ou inserir um novo comentário</string>
+  <string name="user_setting_play_num">Notificações acerca de visualizações</string>
+  <string name="user_setting_play_num_tip">Receber notificações acerca do número de visualizações que os seus vídeos recebem</string>
   <string name="user_setting_topic_new_msg">Alerta de novos tópicos que está a seguir</string>
   <string name="user_setting_topic_new_msg_tip">Vai ser notificado se alguém produzir um novo vídeo num tópico que estiver a seguir</string>
+  <string name="user_setting_video_has_hot_comment">Notificações acerca de comentários em destaque</string>
+  <string name="user_setting_video_has_hot_comment_tip">Receber notificações quando os seus vídeos recebem comentários</string>
   <string name="user_sex">Género</string>
   <string name="user_sign">Assinatura</string>
   <string name="user_topic_text">Os meus tópicos</string>
@@ -643,6 +657,9 @@
   <string name="wechat_video">Vídeo em %s</string>
   <string name="weixin_not_installed">WeChat não está instalado</string>
   <string name="weixin_sticker_tag_str">Stickers</string>
+  <string name="welcome_to_my_page">Bem-vindo à minha página</string>
+  <string name="welcome_to_my_page_1">Siga-me!</string>
+  <string name="welcome_to_my_page_2">Siga-me!</string>
   <string name="wifi_state">Rede Wi-Fi</string>
   <string name="wxcircle_platform">Momentos</string>
   <string name="xiaomi_btn_bind">Conta Mi</string>
