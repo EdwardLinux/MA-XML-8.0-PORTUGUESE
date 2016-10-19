@@ -175,6 +175,7 @@ Se voltar a activar os dados móveis pode ter custos adicionais facturados pela 
 Utilize apenas o carregador fornecido"</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">Ver</string>
+  <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">Sem serviço</string>
   <string name="long_screenshot_not_support_msg">A aplicação actual não suporta as capturas de ecrã extensas</string>
@@ -202,7 +203,7 @@ Utilize apenas o carregador fornecido"</string>
   <string name="nav_guide_title">Ocultar botões do ecrã</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Sem notificações</string>
-  <string name="no_weather_description">Obter informação do tempo</string>
+  <string name="no_weather_description">Obter previsão do tempo</string>
   <string name="notification_header_title">Notificações</string>
   <string name="notification_hidden_text">Conteúdos ocultos</string>
   <string name="notification_manager">Gerir notificações</string>

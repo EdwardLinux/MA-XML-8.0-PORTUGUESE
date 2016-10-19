@@ -139,6 +139,7 @@
   <string name="get_phone_verifycode_exceed_limit">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente</string>
   <string name="ignore">Agora não</string>
   <string name="input_email_address_notice">Iremos utilizar este email para verificar a sua conta</string>
+  <string name="io_error_title">Confirme a sua rede</string>
   <string name="just_a_second">Aguarde…</string>
   <string name="loading_micloud_sync_data">Aguarde…</string>
   <string name="local_device">(este dispositivo)</string>
