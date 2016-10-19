@@ -289,9 +289,9 @@
         <item>Localização</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
-        <item>Curta</item>
-        <item>Média</item>
-        <item>Longa</item>
+        <item>Curto</item>
+        <item>Médio</item>
+        <item>Longo</item>
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
         <item>Predefinição</item>

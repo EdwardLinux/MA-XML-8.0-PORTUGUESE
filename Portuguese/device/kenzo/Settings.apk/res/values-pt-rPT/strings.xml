@@ -55,8 +55,8 @@ Se o dispositivo tiver vários utilizadores, ao utilizar este atalho no ecrã de
   <string name="accessibility_screen_magnification_enable">Gestos de ampliação</string>
   <string name="accessibility_screen_magnification_summary">Quando esta funcionalidade está ligada, pode aumentar e diminuir zoom por triplo toque no ecrã
 
-Quando ampliado, pode:
-<ul><li>Mover: Arraste dois ou mais dedos pelo ecrã
+Quando ampliado, pode:<ul>
+<li>Mover: Arraste dois ou mais dedos pelo ecrã
 <li>Ajustar o nível do zoom: Junte ou afaste dois ou mais dedos</li></li></ul>
 
 Também pode aumentar temporariamente o que estiver sobre o seu dedo com um triplo toque e segurar. Neste modo, pode mover o dedo ampliando para explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior
@@ -747,7 +747,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="captioning_locale">Idioma</string>
   <string name="captioning_preset">Estilo de legenda</string>
   <string name="captioning_preview_characters">Aa</string>
-  <string name="captioning_preview_text">Legendas terão a seguinte aparência</string>
+  <string name="captioning_preview_text">As legendas vão ter a seguinte aparência</string>
   <string name="captioning_preview_title">Pré-visualizar</string>
   <string name="captioning_standard_options_title">Opções padrão</string>
   <string name="captioning_text_size">Tamanho do texto</string>
@@ -4233,7 +4233,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wfd_settings_title">Visualização sem fios</string>
   <string name="wfd_wps_keypad">Utilizar teclado</string>
   <string name="wfd_wps_pbc">Introduzir PIN</string>
-  <string name="whetstone_level_reboot">Estas definições só terão efeito quando reiniciar o dispositivo</string>
+  <string name="whetstone_level_reboot">Estas definições só vão ter efeito quando reiniciar o dispositivo</string>
   <string name="whetstone_level_reboot_OK">Reiniciar</string>
   <string name="whetstone_level_title">Optimização de memória</string>
   <string name="widget_picker_title">Escolher widget</string>

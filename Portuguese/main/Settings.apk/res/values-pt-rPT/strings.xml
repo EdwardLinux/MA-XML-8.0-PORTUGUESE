@@ -638,7 +638,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="captioning_locale">Idioma</string>
   <string name="captioning_preset">Estilo de legenda</string>
   <string name="captioning_preview_characters">Aa</string>
-  <string name="captioning_preview_text">Legendas terão a seguinte aparência</string>
+  <string name="captioning_preview_text">As legendas vão ter a seguinte aparência</string>
   <string name="captioning_preview_title">Pré-visualizar</string>
   <string name="captioning_standard_options_title">Opções padrão</string>
   <string name="captioning_text_size">Tamanho do texto</string>
@@ -3514,7 +3514,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wfd_settings_title">Visualização sem fios</string>
   <string name="wfd_wps_keypad">Utilizar teclado</string>
   <string name="wfd_wps_pbc">Introduzir PIN</string>
-  <string name="whetstone_level_reboot">Estas definições só terão efeito quando reiniciar o dispositivo</string>
+  <string name="whetstone_level_reboot">Estas definições só vão ter efeito quando reiniciar o dispositivo</string>
   <string name="whetstone_level_reboot_OK">Reiniciar</string>
   <string name="whetstone_level_title">Optimização de memória</string>
   <string name="widget_picker_title">Escolher widget</string>
