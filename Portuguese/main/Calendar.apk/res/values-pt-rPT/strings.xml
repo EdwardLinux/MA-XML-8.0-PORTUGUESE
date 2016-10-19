@@ -489,7 +489,7 @@
   <string name="weekly">Semanalmente (cada %s)</string>
   <string name="when_label">Quando</string>
   <string name="widget_events">Próximo evento</string>
-  <string name="widget_get_weather_info">Obter previsão do tempo</string>
+  <string name="widget_get_weather_info">Obter a previsão do tempo</string>
   <string name="widget_no_events">Sem eventos</string>
   <string name="widget_select_style">Escolher um estilo</string>
   <string name="work_day_indication">:-(</string>
