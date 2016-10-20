@@ -374,10 +374,10 @@
   <string name="select_date">Ir para a data</string>
   <string name="select_synced_calendars_title">Calendários a sincronizar</string>
   <string name="set_as_wallpaper">Definir como papel de parede</string>
-  <string name="setting_about_calendar_version">Versão do Calendário</string>
-  <string name="setting_about_imei">IMEI</string>
-  <string name="setting_about_miui_version">Versão MIUI</string>
-  <string name="setting_about_summary">Versão</string>
+  <string name="setting_about_calendar_version">Versão do Calendário:</string>
+  <string name="setting_about_imei">"IMEI "</string>
+  <string name="setting_about_miui_version">"Versão MIUI "</string>
+  <string name="setting_about_summary">"Versão "</string>
   <string name="setting_holiday_display_desc">Os cartões de feriados estão localizados em baixo do calendário na página inicial</string>
   <string name="setting_holiday_display_title">Mostrar feriados</string>
   <string name="setting_holiday_reminder">Lembretes de feriados</string>
