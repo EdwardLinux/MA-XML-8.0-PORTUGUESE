@@ -105,7 +105,7 @@
   <string name="paused">Em pausa</string>
   <string name="petabyteShort">PB</string>
   <string name="pick_from_fileexplor_failed">Actualize o Explorador primeiro</string>
-  <string name="quota_info">Mi Drive: %1$s disponíveis, %2$s no total</string>
+  <string name="quota_info">Mi Drive: Disponível: %1$s | Total: %2$s</string>
   <string name="rename_alert">Se mudar a extensão deste ficheiro pode não conseguir abri-lo</string>
   <string name="rename_failed">Já existe um ficheiro com o mesmo nome</string>
   <string name="sd_full">O cartão SD está cheio</string>

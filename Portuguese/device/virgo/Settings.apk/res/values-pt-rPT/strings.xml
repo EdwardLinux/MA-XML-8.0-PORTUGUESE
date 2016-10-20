@@ -319,7 +319,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="auto_startup_application_manage">Iniciar automático</string>
   <string name="auto_startup_count">%d aplicações estão autorizadas a iniciar automaticamente</string>
   <string name="automatic_brightness">Brilho automático</string>
-  <string name="available_size">%s disponíveis</string>
+  <string name="available_size">Disponível: %s</string>
   <string name="available_via_passpoint">Disponível via %1$s</string>
   <string name="average_memory_use">Utilização média de memória</string>
   <string name="average_used">Utilização média (%)</string>
@@ -3776,7 +3776,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="toast_lockscreen_glogin_empty_password">Introduzir palavra-passe</string>
   <string name="toast_need_login">Iniciar sessão na sua Conta Mi</string>
   <string name="total_memory">Memória total</string>
-  <string name="total_size">%s no total</string>
+  <string name="total_size">Total: %s</string>
   <string name="total_size_label">Total</string>
   <string name="touch_assistant">Menu flutuante</string>
   <string name="touch_filtered_warning">As definições não podem verificar a resposta, devido a uma aplicação estar a ocultar uma permissão</string>

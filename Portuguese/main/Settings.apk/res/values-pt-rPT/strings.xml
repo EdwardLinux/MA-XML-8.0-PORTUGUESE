@@ -276,7 +276,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="auto_upload_debug_log_summary">Os dados de diagnóstico podem incluir informação acerca da utilização do sistema operativo e aplicações. Os dados vão ser utilizados para localizar e analisar os problemas no sistema e nunca vão ser utilizados para o identificar pessoalmente</string>
   <string name="auto_upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
   <string name="automatic_brightness">Brilho automático</string>
-  <string name="available_size">%s disponíveis</string>
+  <string name="available_size">Disponível: %s</string>
   <string name="awake">Tempo activo do dispositivo</string>
   <string name="back_key">Voltar</string>
   <string name="background_data">Dados em segundo plano</string>
@@ -3088,7 +3088,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="title_system_resource">Recursos do sistema</string>
   <string name="toast_lockscreen_glogin_empty_password">Introduzir palavra-passe</string>
   <string name="toast_need_login">Iniciar sessão na sua Conta Mi</string>
-  <string name="total_size">%s no total</string>
+  <string name="total_size">Total: %s</string>
   <string name="total_size_label">Total</string>
   <string name="touch_assistant">Menu flutuante</string>
   <string name="touch_sensitive_summary">O ecrã fica mais sensível ao toque</string>
