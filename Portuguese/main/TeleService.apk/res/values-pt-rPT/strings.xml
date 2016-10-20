@@ -172,7 +172,7 @@
   <string name="call_settings">Telefone</string>
   <string name="call_settings_primary_user_only">As definições de chamadas só podem ser alteradas pelo utilizador principal</string>
   <string name="call_settings_with_label">Definições adicionais (%s)</string>
-  <string name="call_waiting_summary">Notificar-me de chamadas a receber durante uma chamada</string>
+  <string name="call_waiting_summary">Notificar-me sobre chamadas recebidas durante uma chamada</string>
   <string name="call_waiting_title">Chamada em espera</string>
   <string name="call_waiting_tone_continuously">Tocar som de notificação repetidamente</string>
   <string name="call_waiting_tone_stop_summary"/>
@@ -1074,8 +1074,8 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preference_dial_pad_touch_tone_title">Tons de toque do teclado de marcação</string>
   <string name="preference_telocation_summary_countrycode_off">não marcar automaticamente o código do país</string>
   <string name="preference_telocation_summary_countrycode_on">marcar automaticamente o código do país</string>
-  <string name="preference_telocation_summary_teloc_off">Ocultar localização do contacto</string>
-  <string name="preference_telocation_summary_teloc_on">Mostrar localização do contacto</string>
+  <string name="preference_telocation_summary_teloc_off">Ocultar a localização do contacto</string>
+  <string name="preference_telocation_summary_teloc_on">Mostrar a localização do contacto</string>
   <string name="preference_telocation_title">Localização</string>
   <string name="preferred_network_mode_cdma_evdo_auto_choice">CDMA/EvDo (auto)</string>
   <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_choice">CDMA/EvDo/GSM/WCDMA</string>
@@ -1376,8 +1376,8 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="sum_cfu_enabled">Reencaminhar todas as chamadas para {0}</string>
   <string name="sum_cfu_enabled_indicator">Reencaminhar todas as chamadas</string>
   <string name="sum_cfu_enabled_no_number">Número indisponível</string>
-  <string name="sum_cw_disabled">Notificar-me de chamadas a receber durante uma chamada</string>
-  <string name="sum_cw_enabled">Notificar-me de chamadas a receber durante uma chamada</string>
+  <string name="sum_cw_disabled">Notificar-me sobre chamadas recebidas durante uma chamada</string>
+  <string name="sum_cw_enabled">Notificar-me sobre chamadas recebidas durante uma chamada</string>
   <string name="sum_default_caller_id">Utilizar as predefinições da operadora</string>
   <string name="sum_fdn">Gerir os números de marcação fixa</string>
   <string name="sum_fdn_change_pin">Alterar PIN de acesso a FDN</string>
