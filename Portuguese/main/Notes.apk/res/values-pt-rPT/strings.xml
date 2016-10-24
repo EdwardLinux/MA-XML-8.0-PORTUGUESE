@@ -92,6 +92,7 @@ Toque no botão + para criar uma pasta"</string>
   <string name="note_link_select">Seleccionar texto</string>
   <string name="note_link_tel">Ligar</string>
   <string name="note_link_web">Ver no navegador</string>
+  <string name="note_sort_way">Seleccionar a ordenação das suas notas</string>
   <string name="notealert_enter">Abrir nota</string>
   <string name="notealert_ok">Rejeitar</string>
   <string name="notelist_menu_new">Adicionar nota</string>

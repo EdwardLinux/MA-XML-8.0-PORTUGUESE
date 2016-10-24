@@ -8,7 +8,11 @@
         <item>Câmara</item>
         <item>Galeria</item>
     </string-array>
-     <string-array name="contact_entries">
+    <string-array name="note_sort_way">
+        <item>Ordenadas por data de criação</item>
+        <item>Ordenadas por data de modificação</item>
+    </string-array>
+    <string-array name="contact_entries">
         <item>Nome</item>
         <item>Apelido</item>
         <item>Telefone</item>
@@ -20,14 +24,14 @@
         <item>Website</item>
         <item>Endereço</item>
         <item>Nota</item>
-     </string-array>
-     <string-array name="font_size_names">
+    </string-array>
+    <string-array name="font_size_names">
         <item>Pequena</item>
         <item>Média</item>
         <item>Grande</item>
         <item>Enorme</item>
-     </string-array>
-     <string-array name="welcome_notes_content">
+    </string-array>
+    <string-array name="welcome_notes_content">
         <item>"Bem-vindo às Notas
 "</item>
         <item>"Criar uma nota
@@ -62,5 +66,5 @@ Definir lembretes
 Defina lembretes directamente das notas
 Toque no botão \"Mais\" no canto superior direito de uma nota, seleccione \"Lembretes\" e defina a hora
 "</item>
-     </string-array>
+    </string-array>
 </resources>

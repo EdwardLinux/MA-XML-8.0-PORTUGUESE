@@ -3018,7 +3018,7 @@ Para utilizar a fixação no ecrã:
   <string name="sdcard_unmount">Desmontar armazenamento USB</string>
   <string name="se_route_ese">Elemento de segurança integrado</string>
   <string name="se_route_uicc">Elemento de segurança do cartão SIM</string>
-  <string name="se_wallet_ese">A Carteira Mi permite utilizar os Pagamentos Mi e cartões de transporte NFC</string>
+  <string name="se_wallet_ese">Pagamentos Mi e cartões de transporte NFC</string>
   <string name="se_wallet_hce">Utilizar Carteira HCE</string>
   <string name="search_about">"Acerca do telefone;Nome do dispositivo;Modelo do dispositivo;Versão Android;Versão MIUI;CPU;RAM;Armazenamento interno;Versão da banda base;Versão de kernel;Número de compilação;Estado;Informações legais "</string>
   <string name="search_accelerometer">Rodar o ecrã automaticamente;Rodar o ecrã;Orientação;Retrato;Paisagem</string>

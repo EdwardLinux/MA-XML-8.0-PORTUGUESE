@@ -241,10 +241,11 @@
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratuito</string>
   <string name="resource_price_unit">Créditos Mi</string>
-  <string name="resource_purchase_common_error">Erro na operação. Tente novamente</string>
+  <string name="resource_purchase_common_error">Ocorreu um erro. Tente novamente</string>
   <string name="resource_purchase_continue_to_pay">Continuar o pagamento %s</string>
   <string name="resource_purchase_getting_order">A recuperar informação da encomenda…</string>
   <string name="resource_purchase_verifying_payment">Verificar informações de pagamento…</string>
+  <string name="resource_purchase_vip_pay_failed">Não foi possível pagar VIP</string>
   <string name="resource_purchase_waiting_payment">A aguardar informações de pagamento…</string>
   <string name="resource_ranking">Popular</string>
   <string name="resource_ranking_free">Gratuito</string>

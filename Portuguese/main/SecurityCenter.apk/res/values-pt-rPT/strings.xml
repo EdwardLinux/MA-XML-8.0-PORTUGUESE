@@ -314,6 +314,7 @@ ou introduzir padrão do Bloqueio de aplicações"</string>
   <string name="card_main_netcheck_action">Testar</string>
   <string name="card_main_netcheck_summary">Testar problemas na ligação de rede</string>
   <string name="card_main_netcheck_title">Testar rede</string>
+  <string name="card_main_overscroll_tips">Segurança no seu melhor</string>
   <string name="card_main_paysafe_action">Ligar</string>
   <string name="card_main_paysafe_summary">Verificar potenciais riscos nos pagamentos</string>
   <string name="card_main_paysafe_title">Segurança dos pagamentos</string>
@@ -488,6 +489,7 @@ ou introduzir padrão do Bloqueio de aplicações"</string>
   <string name="gateway_exception_title">Testar router</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_to_setting_fingerprint">Definições</string>
+  <string name="handle_bar_summary_wifi_unknown">Desconhecido</string>
   <string name="handle_bar_title_apps">Aplicações</string>
   <string name="handle_bar_title_paysms">Mensagens</string>
   <string name="handle_bar_title_system">Sistema</string>
@@ -1182,6 +1184,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="sorted_button">Ordenar por</string>
   <string name="sorted_dialog_title">Ordenar por</string>
   <string name="sp_back_title_text_zero">Seguro</string>
+  <string name="sp_button_text_ignore_alert_title">Ignorar este item de verificação?</string>
+  <string name="sp_empty_title_sign_exception">Clique no item da aplicação para o adicionar às excepções</string>
   <string name="sp_monitored_apps_count_zero">Sem aplicações de pagamento protegidas</string>
   <string name="sp_monitored_apps_list_title">Definições de monitorização</string>
   <string name="sp_network_privacy_dialog_message">A aplicação Segurança não consegue verificar os pagamentos porque restringiu a ligação à Internet. Permitir que Segurança se ligue à Internet?</string>
@@ -1189,6 +1193,14 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="sp_safe_score_text">Os pagamentos estão seguros</string>
   <string name="sp_scan_item_monitor">Monitorizar pagamentos</string>
   <string name="sp_scan_item_url_antispam">Protecção de URLs maliciosos</string>
+  <string name="sp_settings_check_item_summary_sign_exception">Gerir as excepções de assinaturas</string>
+  <string name="sp_settings_check_item_summary_virus_exception">Gerir as excepções de vírus</string>
+  <string name="sp_settings_check_item_title_root">ROOT</string>
+  <string name="sp_settings_check_item_title_sign_exception">Excepções de assinaturas</string>
+  <string name="sp_settings_check_item_title_update">Actualizações de sistema</string>
+  <string name="sp_settings_check_item_title_virus_exception">Excepções de vírus</string>
+  <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
+  <string name="sp_settings_group_title_check_item">Verificação das definições dos itens</string>
   <string name="sp_settings_group_title_ime">Definições de segurança IME</string>
   <string name="sp_settings_group_title_omit">Itens omitidos</string>
   <string name="sp_settings_info_input_method">Utilizar método de entrada do sistema nas aplicações de pagamento</string>
@@ -1472,6 +1484,9 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="traffic_warning_purchase_title">Aviso de utilização de dados móveis</string>
   <string name="updating_diagnostic_botton">A analisar dados…</string>
   <string name="unable_connect_internet">Sem ligação à Internet</string>
+  <string name="uninstall_app_dialog_msg">Desinstalar vai remover todos os dados da aplicação</string>
+  <string name="uninstall_app_dialog_title">Desinstalar aplicação</string>
+  <string name="uninstall_app_done">Desinstalada com sucesso</string>
   <string name="unlike">Não obrigado</string>
   <string name="usage_sorted_activity_lable">Utilização de dados</string>
   <string name="usage_sorted_empty_text">Vazio</string>
