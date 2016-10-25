@@ -96,6 +96,10 @@
   <string name="lockscreen_wallpaper">Ecrã de bloqueio</string>
   <string name="lockstyle_personal_settings">Personalizar</string>
   <string name="mi_wallpaper">Papéis de parede MIUI</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">O toque vai ser aplicado a ambos os SIMs ao mesmo tempo</string>
+  <string name="multi_sim_ringtone_settings_dialog_ok">Percebi</string>
+  <string name="multi_sim_ringtone_settings_dialog_remind_never">Não mostrar novamente</string>
+  <string name="multi_sim_ringtone_settings_dialog_title">Problemas de compatibilidade</string>
   <string name="my_gifts">Presentes</string>
   <string name="my_gifts_purchased">Adquiridos</string>
   <string name="my_gifts_received">Recebidos</string>

@@ -118,7 +118,7 @@ Nota: O triplo toque para ampliar funciona em todo o sistema excepto na barra de
   <string name="add_fingerprint_similar_fingerprint_input_error_msg">Mova o seu dedo lentamente</string>
   <string name="add_fingerprint_text">Adicionar impressão digital</string>
   <string name="add_fingerprint_toast_text">Coloque o seu dedo no sensor</string>
-  <string name="adding_profile_owner_warning">"Ao proceder, o seu utilizador vai ser gerido pelo seu Administrador que também pode guardar dados associados, por adição aos seus dados pessoais.
+  <string name="adding_profile_owner_warning">"Ao continuar, o seu utilizador vai ser gerido pelo seu Administrador que também pode guardar dados associados, por adição aos seus dados pessoais.
 
 O seu Administrador pode monitorizar e gerir definições, acessos, aplicações e dados associados com este Utilizador, incluindo actividade de rede e a informação de localização do seu dispositivo"</string>
   <string name="additional_permissions">Permissões adicionais</string>
@@ -1263,7 +1263,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="enable_service_password_reason">Uma vez que ligar %1$s afecta a encriptação de dados, o utilizador tem de confirmar a sua palavra-passe</string>
   <string name="enable_service_pattern_reason">Uma vez que ligar %1$s afecta a encriptação de dados, o utilizador tem de confirmar o seu padrão</string>
   <string name="enable_service_pin_reason">Uma vez que ligar %1$s afecta a encriptação de dados, o utilizador tem de confirmar o seu PIN</string>
-  <string name="enable_service_title">Utilizar %1$s?</string>
+  <string name="enable_service_title">Este serviço vai executar estas acções:</string>
   <string name="enable_snapshot_screenlock">Pressão longa no botão Voltar para tirar foto</string>
   <string name="enable_terminal_summary">Activar terminal para as aplicações que ofereçam acesso a shell local</string>
   <string name="enable_terminal_title">Terminal local</string>

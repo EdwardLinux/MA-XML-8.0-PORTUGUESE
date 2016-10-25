@@ -54,6 +54,7 @@
   <string name="button_exit">Sair</string>
   <string name="button_not_allow">Cancelar</string>
   <string name="button_sure_abandon">Rejeitar alterações?</string>
+  <string name="change_alert">Verifique a sua ligação de rede e tente novamente</string>
   <string name="close">Fechar</string>
   <string name="commercial">Comercial</string>
   <string name="common_loading_text">Aguarde…</string>
