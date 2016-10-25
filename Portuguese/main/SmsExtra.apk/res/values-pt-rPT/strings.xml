@@ -23,6 +23,6 @@
     <string name="sent_label">"Enviada: "</string>
     <string name="sms_card_partner_label">"Cartão SMS de parceiro "</string>
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
-    <string name="text_message">Escrever mensagem</string>
+    <string name="text_message">Enviar mensagem</string>
     <string name="view_message_details">Ver detalhes</string>
 </resources>
