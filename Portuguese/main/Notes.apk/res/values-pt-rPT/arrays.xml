@@ -9,8 +9,8 @@
         <item>Galeria</item>
     </string-array>
     <string-array name="note_sort_way">
-        <item>Ordenadas por data de criação</item>
-        <item>Ordenadas por data de modificação</item>
+        <item>Data de criação</item>
+        <item>Data de modificação</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Nome</item>

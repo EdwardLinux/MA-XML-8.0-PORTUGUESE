@@ -422,7 +422,7 @@ ou introduzir padrão do Bloqueio de aplicações"</string>
   <string name="descx_start_scan_cache">A iniciar verificação da cache</string>
   <string name="descx_start_scan_memory">A iniciar verificação da memória</string>
   <string name="descx_start_scan_system">A iniciar verificação da protecção do sistema</string>
-  <string name="detail_app_button">Informação da aplicação</string>
+  <string name="detail_app_button">Informações da aplicação</string>
   <string name="details_subtitle">Detalhes de utilização</string>
   <string name="diagnostic_attention_dialog_message">O diagnóstico para %1$s está em curso. Aguarde até estar concluído e tente novamente</string>
   <string name="dialog_app_roaming_message">%1$s não pode utilizar dados móveis em roaming. Apenas as aplicações adicionadas nas excepções podem utilizar dados móveis</string>
