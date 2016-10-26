@@ -654,7 +654,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Mostrar animações de sistema</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
-        <item>Aumentar desempenho do dispositivo</item>
+        <item>Aumenta o desempenho do dispositivo</item>
         <item>Pode reduzir desempenho do dispositivo</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
