@@ -1242,6 +1242,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="sp_settings_check_item_title_update">Actualizações de sistema</string>
   <string name="sp_settings_check_item_title_virus_exception">Excepções de vírus</string>
   <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
+  <string name="sp_settings_exception_count_zero">Sem itens</string>
   <string name="sp_settings_group_title_check_item">Verificação das definições dos itens</string>
   <string name="sp_settings_group_title_ime">Definições de segurança IME</string>
   <string name="sp_settings_group_title_omit">Itens omitidos</string>
@@ -1251,6 +1252,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="sp_settings_plugin_monitor_title">Monitorizar plugins de pagamento</string>
   <string name="sp_settings_title_input_method">Segurança IME</string>
   <string name="sp_settings_root_title_omit">Verificar acesso root</string>
+  <string name="sp_toast_removed_from_sign_white_list">Removido das excepções. O item vai ser verificado na próxima vez</string>
   <string name="spinner_title">%1$s - Dados móveis: %2$s</string>
   <string name="sponsored">Patrocinado</string>
   <string name="st_title_mode_choose_group">Escolher perfil</string>

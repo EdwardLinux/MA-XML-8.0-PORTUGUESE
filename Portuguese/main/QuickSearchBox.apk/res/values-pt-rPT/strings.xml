@@ -104,5 +104,6 @@ Para limpar o histórico do Navegador, utilize as definições do Navegador"</st
   <string name="xiaomi_homepage_suggest"/>
   <string name="xiaomi_search_label">Resultados</string>
   <string name="xiaomi_source_url"/>
+  <string name="xiaomi_source_url_alpha"/>
   <string name="xiaomi_suggest_base"/>
 </resources>

@@ -347,7 +347,8 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="band_mode_succeeded">Com sucesso</string>
   <string name="band_mode_title">Definir banda GSM/UMTS</string>
   <string name="baseband_version">Versão da banda base</string>
-  <string name="batch_delete_saved_network">Eliminar a rede guardada: %s?</string>
+  <string name="batch_delete_saved_network">Eliminar a rede seleccionada: %s?</string>
+  <string name="batch_delete_saved_networks">Eliminar todas as redes seleccionadas</string>
   <string name="battery_action_app_details">Informações da aplicação</string>
   <string name="battery_action_app_settings">Definições da aplicação</string>
   <string name="battery_action_bluetooth">Definições de Bluetooth</string>
@@ -2106,6 +2107,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="multi_touch_points_preference">Esta definição apenas vai ter efeito assim que reiniciar o seu dispositivo</string>
   <string name="music_audio_effect_optimize">Definições de áudio</string>
   <string name="music_audio_effect_optimize_summary">Auriculares e outras definições de áudio</string>
+  <string name="music_audio_effect_optimize_summary_with_hd">Som HD, auriculares e outras definições áudio</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Hi-Fi, auriculares e outras definições áudio</string>
   <string name="music_audio_effect_settings">Definições de efeitos de áudio</string>
   <string name="music_dirac_control">Optimizar a qualidade do áudio</string>
@@ -2130,6 +2132,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_dolby_mode_off">Desligado</string>
   <string name="music_equalizer">Equalizador</string>
   <string name="music_equalizer_summary">Ajustar os níveis de equalização para diferentes tipos de música</string>
+  <string name="music_hd_title">Som HD</string>
   <string name="music_headphone_settings">Escolher tipo de auriculares</string>
   <string name="music_headset_button_settings">Atribuir botões</string>
   <string name="music_headset_calibrate">Atribuir botões</string>
@@ -2149,7 +2152,6 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_headset_settings">Auriculares e efeitos de áudio</string>
   <string name="music_hifi_summary">Reduzir o ruído e distorção e aumentar a qualidade de áudio</string>
   <string name="music_hifi_title">Áudio Hi-Fi</string>
-  <string name="music_hifi_volume">Volume Hi-Fi</string>
   <string name="music_mi_effect_summary">Utilizar o melhoramento de Som Mi quando usar auriculares</string>
   <string name="music_mi_effect_title">Melhoramento de Som Mi</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
@@ -2929,8 +2931,8 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_key_press_action">Activar função</string>
   <string name="screen_locking_sounds_title">Sons de bloqueio de ecrã</string>
   <string name="screen_never_timeout_title">Nunca suspender</string>
-  <string name="screen_on_proximity_sensor_summary">Bloquear o telefone automaticamente quando colocado no bolso</string>
-  <string name="screen_on_proximity_sensor_title">Prevenir uso inadvertido no bolso</string>
+  <string name="screen_on_proximity_sensor_summary">Bloquear toques quando colocado no bolso</string>
+  <string name="screen_on_proximity_sensor_title">Modo Bolso</string>
   <string name="screen_optimize">Contraste</string>
   <string name="screen_paper_mode_adjust_level">Intensidade</string>
   <string name="screen_paper_mode_apps_loading">Aguarde…</string>
@@ -3784,7 +3786,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="touch_sensitive_title">Modo Luvas</string>
   <string name="touch_sensitive_turn_off_cancel">Cancelar</string>
   <string name="touch_sensitive_turn_off_confirm">OK</string>
-  <string name="touch_sensitive_turn_off_summary">Desligar também o uso inadvertido no bolso?</string>
+  <string name="touch_sensitive_turn_off_summary">Desligar também o Modo Bolso?</string>
   <string name="touch_sensitive_turn_off_title">Modo Luvas desligado</string>
   <string name="touch_sounds_title">Sons de toque</string>
   <string name="touch_title">Toque</string>
