@@ -603,7 +603,7 @@
   <string name="subject_hint">Assunto</string>
   <string name="subject_label">"Assunto: "</string>
   <string name="text_in_popup_saved_to_clipboard">O texto seleccionado foi copiado</string>
-  <string name="text_message">Escrever uma mensagem</string>
+  <string name="text_message">Mensagem de texto</string>
   <string name="timed_message_expired_title">Não foram enviadas %d mensagens agendadas</string>
   <string name="timed_message_expired_title_2">Enviar agora?</string>
   <string name="timed_message_in_total">(%d mensagens)</string>
