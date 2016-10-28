@@ -294,6 +294,8 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="band_mode_succeeded">Com sucesso</string>
   <string name="band_mode_title">Definir banda GSM/UMTS</string>
   <string name="baseband_version">Versão da banda base</string>
+  <string name="batch_delete_saved_network">Eliminar a rede: %s?</string>
+  <string name="batch_delete_saved_networks">Eliminar todas as redes seleccionadas?</string>
   <string name="battery_action_app_details">Informações da aplicação</string>
   <string name="battery_action_app_settings">Definições da aplicação</string>
   <string name="battery_action_bluetooth">Definições de Bluetooth</string>
@@ -897,8 +899,9 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="delete_fingerprint_text">Remover impressão digital</string>
   <string name="delete_legacy_fingerprint">Eliminar</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Eliminar esta impressão digital?</string>
+  <string name="delete_saved_network">Eliminar redes guardadas</string>
   <string name="deny">Negar</string>
-  <string name="deny_sms_message">"Não permitir que as aplicações instaladas enviem SMS"</string>
+  <string name="deny_sms_message">Não permitir que as aplicações instaladas enviem SMS</string>
   <string name="deny_sms_title">Bloquear SMS</string>
   <string name="details_subtitle">Detalhes de utilização</string>
   <string name="details_title">Detalhes de utilização</string>
