@@ -1018,8 +1018,8 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="dndm_vip_list_custom_group">Excepções</string>
   <string name="dndm_vip_list_group">Lista de excepções</string>
   <string name="dndm_wristband">Activar com Mi Band</string>
-  <string name="dndm_wristband_detailed">"Ligar Não incomodar se a Mi Band detectar que está a dormir uma hora antes da hora de início marcada"</string>
-  <string name="dndm_wristband_detailed2">"Desligar Não incomodar se a Mi Band detectar que está acordado uma hora antes da hora de fim marcada"</string>
+  <string name="dndm_wristband_detailed">Ligar Não incomodar se a Mi Band detectar que está a dormir uma hora antes da hora de início marcada</string>
+  <string name="dndm_wristband_detailed2">Desligar Não incomodar se a Mi Band detectar que está acordado uma hora antes da hora de fim marcada</string>
   <string name="do_not_disturb_mode">Não incomodar</string>
   <string name="dock_audio_media_disabled">Todo o áudio</string>
   <string name="dock_audio_media_enabled">Apenas áudio multimédia</string>
@@ -1906,6 +1906,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="page_layout_page2_small_title">Muito pequeno</string>
   <string name="page_layout_page2_title">Pré-visualizar</string>
   <string name="page_layout_small_title">Muito pequeno</string>
+  <string name="paper_mode_end_time_title">Hora de fim</string>
+  <string name="paper_mode_start_time_title">Hora de início</string>
   <string name="passwordIncorrect">A palavra-passe introduzida está incorrecta</string>
   <string name="password_entrance_title">Bloqueio de ecrã</string>
   <string name="password_guard">Bloqueio de ecrã</string>
@@ -2428,6 +2430,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_paper_mode_range_title">Definições</string>
   <string name="screen_paper_mode_set_apps_title">Aplicações em Modo de Leitura</string>
   <string name="screen_paper_mode_summary">Reduzir brilho de fundo do ecrã</string>
+  <string name="screen_paper_mode_time_title">Programado</string>
   <string name="screen_paper_mode_title">Modo de Leitura</string>
   <string name="screen_paper_mode_turn_off">Desligado</string>
   <string name="screen_paper_mode_turn_on">Ligado</string>

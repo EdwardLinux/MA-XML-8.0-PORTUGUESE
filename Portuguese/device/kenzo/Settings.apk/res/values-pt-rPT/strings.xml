@@ -1188,7 +1188,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="dndm_vip_list_group">Lista de excepções</string>
   <string name="dndm_vip_list_starred_contact">Favoritos</string>
   <string name="dndm_wristband">Activar com Mi Band</string>
-  <string name="dndm_wristband_detailed">"Ligar Não incomodar se a Mi Band detectar que está a dormir uma hora antes da hora de início marcada"</string>
+  <string name="dndm_wristband_detailed">Ligar Não incomodar se a Mi Band detectar que está a dormir uma hora antes da hora de início marcada</string>
   <string name="do_not_disturb_mode">Não incomodar</string>
   <string name="dock_audio_media_disabled">Todo o áudio</string>
   <string name="dock_audio_media_enabled">Apenas áudio multimédia</string>
