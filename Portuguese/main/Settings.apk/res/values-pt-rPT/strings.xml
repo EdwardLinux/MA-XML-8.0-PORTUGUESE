@@ -655,6 +655,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="cell_broadcast_settings_summary">Seleccione o tipo de alertas de emergência a mostrar</string>
   <string name="change_password">Alterar bloqueio de ecrã</string>
   <string name="change_security_lock">Experimente outras formas de desbloqueio</string>
+  <string name="charging_sounds_title">Sons de carregamento</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_update">Verificar actualizações</string>
   <string name="checkbox_notification_same_as_incoming_call">Utilizar volume de chamadas recebidas para notificações</string>
