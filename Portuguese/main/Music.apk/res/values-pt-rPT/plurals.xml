@@ -63,10 +63,6 @@
         <item quantity="other">Remover %d músicas?</item>
         <item quantity="one">Remover %d música?</item>
      </plurals>
-     <plurals name="artist_list_fragment_item_count_format">
-        <item quantity="other">%d músicas</item>
-        <item quantity="one">1 música</item>
-     </plurals>
      <plurals name="Nquit_warning">
         <item quantity="other">Vai parar de tocar em %d minutos</item>
         <item quantity="one">Vai parar de tocar em %d minuto</item>
@@ -86,12 +82,6 @@
      <plurals name="song_already_favorite">
         <item quantity="other">Músicas adicionadas aos favoritos</item>
         <item quantity="one">Música adicionada aos favoritos</item>
-     </plurals>
-     <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
-        <item quantity="other">"Apenas pode transferir %d Músicas Premium este mês. Actualize o seu Pacote de Músicas Premium para transferir mais "</item>
-     </plurals>
-     <plurals name="Nalert_msg_vip_songs_for_download_limited">
-        <item quantity="other">Apenas pode transferir %d Músicas Premium este mês. Transferir as músicas seleccionadas?</item>
      </plurals>
      <plurals name="comment_count">
         <item quantity="other">%d comentários</item>

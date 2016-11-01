@@ -78,6 +78,11 @@ ou introduzir padrão do Bloqueio de aplicações"</string>
   <string name="antivirus_choose_engine_disable_toast">Não é possível alterar as definições enquanto a verificação estiver em curso</string>
   <string name="antivirus_choose_engine_settings">Configurações das definições de vírus</string>
   <string name="antivirus_choose_engine_title">Definições</string>
+  <string name="antivirus_monitor_btn_text_clean_risk">Eliminar aplicações em risco</string>
+  <string name="antivirus_monitor_btn_text_clean_virus">Eliminar vírus</string>
+  <string name="antivirus_monitor_clean_tips">Eliminado %s item</string>
+  <string name="antivirus_monitor_risk_advice">Esta aplicação não é segura. Elimine-a</string>
+  <string name="antivirus_monitor_virus_advice">Esta aplicação pode conter vírus. Elimine-a</string>
   <string name="antivirus_more_engine_dialog_summary">Se utilizar várias definições de vírus ao mesmo tempo a verificação pode levar mais tempo</string>
   <string name="antivirus_more_engine_dialog_title">Atenção</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>

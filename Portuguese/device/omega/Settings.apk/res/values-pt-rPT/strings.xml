@@ -3,6 +3,7 @@
   <string name="Accounts_settings_title">Contas</string>
   <string name="aaid_info">"
 Identificador de anúncios é um ID único e permanente do seu dispositivo. Os fornecedores utilizam-no para seleccionar anúncios que vão ser mais úteis para si"</string>
+  <string name="about_phone_enter_xiaomi_net">Saber mais</string>
   <string name="about_settings">Acerca do telefone</string>
   <string name="about_settings_summary">Ver informações legais, estado, versão de software</string>
   <string name="ac_enable_summary">Definir uma palavra-passe para as aplicações individualmente</string>
@@ -802,10 +803,10 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="cloud_backup_section_title">Cópias Nuvem Mi</string>
   <string name="cloud_backup_settings_section_title">Definições das cópias</string>
   <string name="cloud_restore_section_summary">Restaurar aplicações, disposição do ecrã inicial e as definições de sistema</string>
-  <string name="cloud_restore_section_title">Restaurar da Nuvem Mi</string>
-  <string name="cmcc_hardware_version">Versão de hardware</string>
+  <string name="cloud_restore_section_title">Restaurar da Nuvem Mi</string>  
   <string name="close_miui_optimization_title">Desligar optimização MIUI</string>
   <string name="close_miui_optimization_warning_message">O seu dispositivo vai reiniciar para aplicar esta alteração</string>
+  <string name="cmcc_hardware_version">Versão de hardware</string>
   <string name="color_black">Preto</string>
   <string name="color_blue">Azul</string>
   <string name="color_calibration_none">Nativo</string>
@@ -822,6 +823,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="color_white">Branco</string>
   <string name="color_yellow">Amarelo</string>
   <string name="common_settings">Definições rápidas</string>
+  <string name="complete_parameters">Todas as especificações</string>
   <string name="complete_settings">Definições gerais</string>
   <string name="computing_size">A calcular…</string>
   <string name="config_list_label">Redes configuradas</string>
@@ -1083,16 +1085,19 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="development_settings_not_available">As opções de desenvolvimento não estão disponíveis</string>
   <string name="development_settings_summary">Definir as opções para o desenvolvimento da aplicação</string>
   <string name="development_settings_title">Opções de desenvolvimento</string>
+  <string name="device_actionbar_title">Mi 5</string>
   <string name="device_admin_add_title">Administrador do dispositivo</string>
   <string name="device_admin_settings_title">Definições de administração do dispositivo</string>
   <string name="device_admin_status">Este administrador está activado e permite que a aplicação %1$s execute as seguintes operações:</string>
   <string name="device_admin_title">Administração do dispositivo</string>
   <string name="device_admin_warning">A activação deste administrador vai permitir que a aplicação %1$s execute as seguintes operações:</string>
+  <string name="device_complete_parameters">Concluído</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">"Dual-core "</string>
   <string name="device_cpu4_info">"Quad-core "</string>
   <string name="device_cpu6_info">"Hexa-core "</string>
   <string name="device_cpu8_info">"Octa-core "</string>
+  <string name="device_display_layout_title">Funcionalidades Mi 5</string>
   <string name="device_edit_title">Mudar o nome do telefone</string>
   <string name="device_feedback">Enviar comentários acerca do dispositivo</string>
   <string name="device_info_default">Desconhecido</string>
@@ -1101,7 +1106,9 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_info_settings">Estado do telefone</string>
   <string name="device_internal_memory">Armazenamento interno</string>
   <string name="device_memory">RAM</string>
+  <string name="device_miui_more">Ver mais</string>
   <string name="device_miui_version">Versão MIUI</string>
+  <string name="device_miui_version_update">Actualização MIUI disponível</string>
   <string name="device_name">Nome do dispositivo</string>
   <string name="device_name_input_error">Erro ao guardar o nome do dispositivo</string>
   <string name="device_name_input_hint">Introduzir nome</string>
@@ -1109,6 +1116,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_picker">Escolher dispositivo Bluetooth</string>
   <string name="device_reset_title">Repor dispositivo</string>
   <string name="device_sd_memory">Cartão SD</string>
+  <string name="device_share_loading">A criar imagem</string>
   <string name="device_status">Estado</string>
   <string name="device_status_activity_title">Estado</string>
   <string name="device_status_summary">Número de telefone, sinal, etc.</string>
@@ -2027,6 +2035,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">%1$s de memória média utilizada nas últimas 3 horas</string>
   <string name="menu_cancel">Rejeitar</string>
+  <string name="menu_check">Experiência</string>
   <string name="menu_delete">Eliminar</string>
   <string name="menu_duration_12h">12 horas</string>
   <string name="menu_duration_1d">1 dia</string>
@@ -2043,6 +2052,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="menu_proc_stats_type_foreground">Primeiro plano</string>
   <string name="menu_restore">Repor</string>
   <string name="menu_save">Guardar</string>
+  <string name="menu_share">Partilhar</string>
   <string name="menu_show_percentage">Mostrar percentagens</string>
   <string name="menu_show_system">Mostrar sistema</string>
   <string name="menu_stats_last_unplugged">Desligado desde %1$s</string>
@@ -2161,6 +2171,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="musicfx_title">Efeitos da música</string>
   <string name="mvno_match_data">Valor MVNO</string>
   <string name="mvno_type">Tipo MVNO</string>
+  <string name="my_device">O meu dispositivo</string>
   <string name="nearby_wifi">Redes disponíveis</string>
   <string name="need_reboot_now">Reiniciar para instalar a actualização</string>
   <string name="network_assistant">Utilização de dados</string>
@@ -2803,6 +2814,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="radio_info_smsc_refresh_label">Actualizar</string>
   <string name="radio_info_smsc_update_label">Actualizar</string>
   <string name="radio_info_toggle_dns_check_label">Alternar selecção DNS</string>
+  <string name="rank_title">Classificações</string>
   <string name="rarely_running">Raramente em execução (%s)</string>
   <string name="really_remove_account_message">Remover esta conta vai eliminar todas as suas mensagens, contactos e outros dados do telefone!</string>
   <string name="really_remove_account_title">Remover conta?</string>
@@ -2811,10 +2823,10 @@ Seleccione o seu sistema operativo:"</string>
   <string name="recent_location_requests_summary">Ver aplicações que estão a pedir acesso à sua informação de localização</string>
   <string name="recent_location_requests_title">Acesso à localização</string>
   <string name="recommend_item_1">Capa protectora</string>
-  <string name="recommend_item_2">Banda</string>
+  <string name="recommend_item_2">Mi Band</string>
   <string name="recommend_item_3">PowerBank</string>
   <string name="recommend_item_4">Auriculares</string>
-  <string name="recommend_item_title">Recomendados</string>
+  <string name="recommend_item_title">Recomendações</string>
   <string name="recompute_size">A calcular o tamanho…</string>
   <string name="record_anr_in_background">Gravar casos ANR em segundo plano</string>
   <string name="regulatory_info_text"/>
