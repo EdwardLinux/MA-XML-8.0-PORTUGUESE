@@ -122,6 +122,7 @@
   <string name="find_device_account_error">Não é possível obter estado devido a um erro na conta</string>
   <string name="find_device_activate_account">Activar conta</string>
   <string name="find_device_bad_response_error">Não é possível obter estado devido a um erro no servidor. Tente novamente mais tarde</string>
+  <string name="find_device_display_id">Número de desbloqueio: %s</string>
   <string name="find_device_error_password_not_confirmed">Não é possível desligar Localizar Dispositivo. Introduza a palavra-passe da sua Conta Mi novamente</string>
   <string name="find_device_error_password_recently_changed">Alterou a sua palavra-passe há menos de 3 dias. Não é possível desligar Localizar Dispositivo agora devido a motivos de segurança</string>
   <string name="find_device_interrupted">A acção foi interrompida. Tente novamente mais tarde</string>
@@ -147,7 +148,7 @@
   <string name="location_service_not_working">Serviço de localização não está a funcionar</string>
   <string name="login_check_find_device">A obter informação de segurança do dispositivo…</string>
   <string name="login_check_find_device_failed_title">Não foi possível verificar o estado de Localizar Dispositivo</string>
-  <string name="login_find_device_bind">Este dispositivo está associado com a Conta Mi (%s). Introduza a palavra-passe para verificar o dispositivo</string>
+  <string name="login_find_device_bind">Este dispositivo está associado com a Conta Mi (%s)</string>
   <string name="login_guard_prompt">É necessário a verificação do número de telefone quando iniciar sessão na sua Conta Mi num dispositivo ou aplicação desconhecido pela primeira vez</string>
   <string name="logout_failed">Não é possível terminar sessão</string>
   <string name="mi_account_identity_title">Verificar a sua identidade</string>
@@ -156,6 +157,8 @@
   <string name="micloud_space_info">%s disponíveis</string>
   <string name="mili_center">Créditos Mi</string>
   <string name="mipay_center">Carteira Mi</string>
+  <string name="miui_provision_find_status_text">"Este dispositivo está associado com a Conta Mi (%1$s). Introduza a sua palavra-passe para verificar o dispositivo.
+ (Número de desbloqueio: %2$s)"</string>
   <string name="multi_user_not_show_sync_activity_message_1">Está a utilizar o seu espaço predefinido da Conta Mi</string>
   <string name="multi_user_not_show_sync_activity_message_2">Nesse caso, todos os dados vão ser sincronizados com o seu Segundo espaço. Para prevenir isto, não ligue a sincronização com a Nuvem Mi</string>
   <string name="multi_user_not_show_sync_activity_title">Não ligar a sincronização com a Nuvem Mi</string>

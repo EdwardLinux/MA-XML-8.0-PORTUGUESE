@@ -152,6 +152,8 @@ ou introduzir padrão do Bloqueio de aplicações"</string>
   <string name="auto_task_edit_condition_title">Adicionar condição</string>
   <string name="auto_task_edit_my_custom_task">Nome</string>
   <string name="auto_task_edit_operation_summary">Por exemplo: \"Ligar Modo Avião\"</string>
+  <string name="auto_task_edit_step1">1.</string>
+  <string name="auto_task_edit_step2">2.</string>
   <string name="auto_task_edit_task_name">Nome</string>
   <string name="auto_task_main_summary">Alterar definições de sistema para certos períodos de tempo ou de acordo com o nível de bateria</string>
   <string name="auto_task_main_title">Tarefas automáticas</string>
@@ -662,6 +664,7 @@ ou introduzir padrão do Bloqueio de aplicações"</string>
   <string name="main_alert_message_month_limit_error">Limite de dados incorrecto</string>
   <string name="main_alert_message_no_imsi">Nenhum cartão SIM detectado</string>
   <string name="main_alert_message_no_mobile_package">Definir limite de dados</string>
+  <string name="main_alert_message_open_traffic_ctrl">É recomendada a restrição da utilização de dados</string>
   <string name="main_button_idel_traffic">Menor tráfego</string>
   <string name="main_button_normal_traffic">Maior tráfego</string>
   <string name="main_button_usage_adjust">Sincronizar utilização de dados móveis</string>
@@ -669,6 +672,7 @@ ou introduzir padrão do Bloqueio de aplicações"</string>
   <string name="main_button_usage_adjusting">A alterar…</string>
   <string name="main_button_usage_package_setting">Definir limite de utilização de dados</string>
   <string name="main_message_no_package_by_dual">Definir limite de dados para %s</string>
+  <string name="main_open_traffic_ctrl_button">Restringir a utilização de dados</string>
   <string name="main_primary_message_traffic_cur_leisure">Limite de utilização de dados no período de menor tráfego</string>
   <string name="main_primary_message_traffic_cur_normal">Abaixo do limite de dados</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Limite de dados excedido</string>
@@ -1057,6 +1061,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pref_title_traffic_speed_state">Mostrar velocidade da rede</string>
   <string name="pref_title_update_notification">Mostrar na área de notificações</string>
   <string name="pref_title_virus_white_list">Excepções</string>
+  <string name="pref_traffic_manage_title">Utilização de dados</string>
   <string name="pref_version">Versão %s</string>
   <string name="pref_warning_values">Nível de aviso de utilização de dados</string>
   <string name="pref_whitelist_setting">Excepções de dados em roaming</string>

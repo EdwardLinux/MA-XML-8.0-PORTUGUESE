@@ -259,6 +259,8 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="auto_disable_screenbuttons_auto">Desactivar sempre</string>
   <string name="auto_disable_screenbuttons_cancel">Cancelar</string>
   <string name="auto_disable_screenbuttons_no">Nunca desactivar</string>
+  <string name="auto_disable_screenbuttons_rotation_summary">Quando o dispositivo estiver no modo paisagem, os botões de navegação vão ser desactivos</string>
+  <string name="auto_disable_screenbuttons_rotation_title">Bloquear os nbotõpes de navegação no modo paisagem</string>
   <string name="auto_disable_screenbuttons_summary">Desactivar botões de navegação automaticamente ao utilizar as aplicações seleccionadas. Duplo toque em qualquer botão de navegação para reactivar</string>
   <string name="auto_disable_screenbuttons_title">Desactivar botões de navegação automaticamente</string>
   <string name="auto_launch_disable_text">Sem predefinições definidas</string>
@@ -1322,6 +1324,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="input_methods_and_subtype_enabler_title">Escolher modos de entrada activos</string>
   <string name="input_methods_settings_label_format">Definições de %1$s</string>
   <string name="input_methods_settings_title">Entrada de texto</string>
+  <string name="input_password_hint_text">Introduzir palavra-passe</string>
   <string name="input_settings">Definições de entrada</string>
   <string name="install_all_warning">Os dados deste telefone e os dados pessoais estão mais vulneráveis a ataques de aplicações de fontes desconhecidas. Concorda que é o único responsável por qualquer dano causado a este telefone ou pela perda de dados que possa resultar da utilização dessas aplicações?</string>
   <string name="install_applications">Fontes desconhecidas</string>

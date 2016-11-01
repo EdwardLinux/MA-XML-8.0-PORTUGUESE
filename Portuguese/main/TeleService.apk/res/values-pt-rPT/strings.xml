@@ -536,6 +536,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="help_view">Ajuda</string>
   <string name="hintName">Nome</string>
   <string name="hintPhonenumber">Número de telefone</string>
+  <string name="home_screen_shortcut">Atalho do ecrã inicial</string>
   <string name="importAllSimEntries">Importar tudo</string>
   <string name="importSimEntry">Importar</string>
   <string name="importToFDNfromContacts">Importar dos contactos</string>
@@ -692,6 +693,7 @@ Faça um carregamento e comece a falar</string>
   <string name="livetalk_remain_minutes_title">Tempo de chamada restante</string>
   <string name="livetalk_service_and_short_number_not_support">Números curtos e de serviço não são suportados</string>
   <string name="livetalk_setting">Pacotes de carregamento</string>
+  <string name="livetalk_shortcut_title">Pacotes de carregamento</string>
   <string name="livetalk_sim_card_not_activated">"Este cartão não está activo"</string>
   <string name="livetalk_terms_conditions">Termos e Condições</string>
   <string name="livetalk_unavaiable_info">Este serviço está temporariamente indisponível</string>

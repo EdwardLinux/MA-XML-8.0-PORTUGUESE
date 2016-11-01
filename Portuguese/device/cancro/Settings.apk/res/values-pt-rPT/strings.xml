@@ -304,6 +304,8 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="auto_disable_screenbuttons_auto">Desactivar sempre</string>
   <string name="auto_disable_screenbuttons_cancel">Cancelar</string>
   <string name="auto_disable_screenbuttons_no">Nunca desactivar</string>
+  <string name="auto_disable_screenbuttons_rotation_summary">Quando o dispositivo estiver no modo paisagem, os botões de navegação vão ser desactivos</string>
+  <string name="auto_disable_screenbuttons_rotation_title">Bloquear os nbotõpes de navegação no modo paisagem</string>
   <string name="auto_disable_screenbuttons_summary">Desactivar botões de navegação automaticamente ao utilizar as aplicações seleccionadas. Duplo toque em qualquer botão de navegação para reactivar</string>
   <string name="auto_disable_screenbuttons_title">Desactivar botões de navegação automaticamente</string>
   <string name="auto_launch_disable_text">Sem predefinições definidas</string>
@@ -347,8 +349,8 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="band_mode_succeeded">Com sucesso</string>
   <string name="band_mode_title">Definir banda GSM/UMTS</string>
   <string name="baseband_version">Versão da banda base</string>
-  <string name="batch_delete_saved_network">Eliminar a rede seleccionada: %s?</string>
-  <string name="batch_delete_saved_networks">Eliminar todas as redes seleccionadas</string>
+  <string name="batch_delete_saved_network">Eliminar a rede: %s?</string>
+  <string name="batch_delete_saved_networks">Eliminar todas as redes seleccionadas?</string>
   <string name="battery_action_app_details">Informações da aplicação</string>
   <string name="battery_action_app_settings">Definições da aplicação</string>
   <string name="battery_action_bluetooth">Definições de Bluetooth</string>
@@ -1068,9 +1070,9 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="delete_fingerprint_text">Remover impressão digital</string>
   <string name="delete_legacy_fingerprint">Eliminar</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Eliminar esta impressão digital?</string>
-  <string name="delete_saved_network">Eliminar rede guardada</string>
+  <string name="delete_saved_network">Eliminar redes guardadas</string>
   <string name="deny">Negar</string>
-  <string name="deny_sms_message">"Não permitir que as aplicações instaladas enviem SMS"</string>
+  <string name="deny_sms_message">Não permitir que as aplicações instaladas enviem SMS</string>
   <string name="deny_sms_title">Bloquear SMS</string>
   <string name="details_subtitle">Detalhes de utilização</string>
   <string name="details_title">Detalhes de utilização</string>
@@ -1598,6 +1600,7 @@ Quando liga as cópias de segurança automática, os dados do dispositivo e das 
   <string name="input_methods_and_subtype_enabler_title">Escolher modos de entrada activos</string>
   <string name="input_methods_settings_label_format">Definições de %1$s</string>
   <string name="input_methods_settings_title">Entrada de texto</string>
+  <string name="input_password_hint_text">Introduzir palavra-passe</string>
   <string name="input_settings">Definições de entrada</string>
   <string name="install_all_warning">Os dados deste telefone e os dados pessoais estão mais vulneráveis a ataques de aplicações de fontes desconhecidas. Concorda que é o único responsável por qualquer dano causado a este telefone ou pela perda de dados que possa resultar da utilização dessas aplicações?</string>
   <string name="install_applications">Fontes desconhecidas</string>
@@ -3639,9 +3642,9 @@ Após a formatação, este ^1 apenas funciona neste dispositivo
 "<b>"A formatação apaga todos os dados actualmente armazenados no ^1."</b>" Para evitar perder os dados, considere fazer uma cópia de segurança "</string>
   <string name="storage_wizard_format_confirm_next">Eliminar e formatar</string>
   <string name="storage_wizard_format_confirm_public_body">"Isto exige que o ^1 seja formatado 
-
 "<b>"A formatação apaga todos os dados actualmente armazenados no ^1."</b>" Para evitar perder os dados, considere fazer uma cópia de segurança "</string>
   <string name="storage_wizard_format_confirm_public_title">Formatar como armazenamento portátil</string>
+  <string name="storage_wizard_format_confirm_third_body">O ^1 está a ser formatado</string>
   <string name="storage_wizard_format_confirm_title">Formatar como armazenamento interno</string>
   <string name="storage_wizard_format_progress_body">Não remova o ^1 enquanto estiver a decorrer a formatação</string>
   <string name="storage_wizard_format_progress_title">A formatar ^1…</string>
@@ -3651,7 +3654,6 @@ Após a formatação, este ^1 apenas funciona neste dispositivo
   <string name="storage_wizard_init_internal_title">Utilizar como armazenamento interno</string>
   <string name="storage_wizard_init_title">Configurar o ^1</string>
   <string name="storage_wizard_migrate_body">"Pode mover as fotos, os ficheiros e algumas aplicações para este novo ^1 
-
 A transferência demora cerca de ^2 e liberta ^3 no armazenamento interno. Enquanto a acção está a decorrer, algumas aplicações não funcionam"</string>
   <string name="storage_wizard_migrate_confirm_body"><b>A transferência demora cerca de ^1. Liberta ^2 em ^3</b></string>
   <string name="storage_wizard_migrate_confirm_next">Mover</string>
