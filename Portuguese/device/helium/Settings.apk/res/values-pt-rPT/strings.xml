@@ -1085,7 +1085,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="development_settings_not_available">As opções de desenvolvimento não estão disponíveis</string>
   <string name="development_settings_summary">Definir as opções para o desenvolvimento da aplicação</string>
   <string name="development_settings_title">Opções de desenvolvimento</string>
-  <string name="device_actionbar_title">Mi 5</string>
+  <string name="device_actionbar_title">Todas as especificações</string>
   <string name="device_admin_add_title">Administrador do dispositivo</string>
   <string name="device_admin_settings_title">Definições de administração do dispositivo</string>
   <string name="device_admin_status">Este administrador está activado e permite que a aplicação %1$s execute as seguintes operações:</string>
@@ -1097,7 +1097,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_cpu4_info">"Quad-core "</string>
   <string name="device_cpu6_info">"Hexa-core "</string>
   <string name="device_cpu8_info">"Octa-core "</string>
-  <string name="device_display_layout_title">Funcionalidades Mi 5</string>
+  <string name="device_display_layout_title">Funcionalidades</string>
   <string name="device_edit_title">Mudar o nome do telefone</string>
   <string name="device_feedback">Enviar comentários acerca do dispositivo</string>
   <string name="device_info_default">Desconhecido</string>

@@ -147,7 +147,7 @@
   <string name="locating_current_location">A localizar</string>
   <string name="location_service_not_working">Serviço de localização não está a funcionar</string>
   <string name="login_check_find_device">A obter informação de segurança do dispositivo…</string>
-  <string name="login_check_find_device_failed_title">Não foi possível verificar o estado de Localizar Dispositivo</string>
+  <string name="login_check_find_device_failed_title">Não foi possível verificar as informações de segurança</string>
   <string name="login_find_device_bind">Este dispositivo está associado com a Conta Mi (%s)</string>
   <string name="login_guard_prompt">É necessário a verificação do número de telefone quando iniciar sessão na sua Conta Mi num dispositivo ou aplicação desconhecido pela primeira vez</string>
   <string name="logout_failed">Não é possível terminar sessão</string>

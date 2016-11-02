@@ -1250,6 +1250,7 @@ Escolher uma das seguintes opções:"</string>
   <string name="wipe_data">Limpar dados</string>
   <string name="yellowPageNavigationIconLabel">Pág. Amarelas</string>
   <string name="yellowPageNavigationLabel">Pág. Amarelas</string>
+  <string name="yellowpage_mi_family">Família Mi</string>
   <string name="yellowpage_navigation_ad_hint">Anúncios</string>
   <string name="yellowpage_navigation_balance_refresh_failed">O saldo e os dados não puderam ser verificados. Tente novamente mais tarde</string>
   <string name="yellowpage_navigation_balance_refresh_succeed">O saldo e os dados foram verificados</string>
