@@ -823,7 +823,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="color_white">Branco</string>
   <string name="color_yellow">Amarelo</string>
   <string name="common_settings">Definições rápidas</string>
-  <string name="complete_parameters">Todas as especificações</string>
+  <string name="complete_parameters">Especificações</string>
   <string name="complete_settings">Definições gerais</string>
   <string name="computing_size">A calcular…</string>
   <string name="config_list_label">Redes configuradas</string>
@@ -1085,7 +1085,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="development_settings_not_available">As opções de desenvolvimento não estão disponíveis</string>
   <string name="development_settings_summary">Definir as opções para o desenvolvimento da aplicação</string>
   <string name="development_settings_title">Opções de desenvolvimento</string>
-  <string name="device_actionbar_title">Todas as especificações</string>
+  <string name="device_actionbar_title">Especificações</string>
   <string name="device_admin_add_title">Administrador do dispositivo</string>
   <string name="device_admin_settings_title">Definições de administração do dispositivo</string>
   <string name="device_admin_status">Este administrador está activado e permite que a aplicação %1$s execute as seguintes operações:</string>
@@ -4349,7 +4349,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_empty_list_wifi_on">A localizar redes Wi-Fi…</string>
   <string name="wifi_enable">Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam">Alternar entre dados móveis e Wi-Fi</string>
-  <string name="wifi_enable_data_and_wifi_roam_summary">Alterar para dados móveis quando a ligação Wi-Fi for fraca</string>
+  <string name="wifi_enable_data_and_wifi_roam_summary">Alternar para dados móveis quando a ligação Wi-Fi for fraca</string>
   <string name="wifi_enable_watchdog_service_summary">Evitar ligações fracas</string>
   <string name="wifi_error">Erro</string>
   <string name="wifi_fail_to_scan">Não é possível pesquisar redes</string>
