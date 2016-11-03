@@ -724,9 +724,9 @@ Para activar a sua conta, siga o
   <string name="program_booking_time_filter_whole_day">Todo o dia</string>
   <string name="projection_failed_for_disconnect">Dispositivos não ligados</string>
   <string name="province">Província</string>
-  <string name="pull_down_refresh">Descer para actualizar</string>
-  <string name="pull_to_refresh">Descer para actualizar</string>
-  <string name="pull_up_refresh">Soltar para actualizar</string>
+  <string name="pull_down_refresh">Puxe para actualizar</string>
+  <string name="pull_to_refresh">Puxe para actualizar</string>
+  <string name="pull_up_refresh">Largue para actualizar</string>
   <string name="push_add">Encontrou um controlo remoto partilhado consigo</string>
   <string name="push_add_desc">Controlar %1$s com este controlo remoto?</string>
   <string name="quick_add_tv_power">Encontrada correspondência: Botão Ligar/Desligar %1$s da TV</string>
@@ -740,7 +740,7 @@ Para activar a sua conta, siga o
   <string name="refreshing">A actualizar…</string>
   <string name="refreshing_no_point">A actualizar…</string>
   <string name="refreshing_retry">Não foi possível carregar. Tente novamente</string>
-  <string name="release_to_refresh">Soltar para actualizar</string>
+  <string name="release_to_refresh">Largue para actualizar</string>
   <string name="rematch">Emparelhar novamente</string>
   <string name="remote_controller_name">C.Remoto Mi</string>
   <string name="remove_fav_channel">Remover dos favoritos</string>

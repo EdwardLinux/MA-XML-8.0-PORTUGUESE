@@ -701,7 +701,7 @@
   <string name="protocol_imap">imap</string>
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
-  <string name="pull_to_refresh">Descer para actualizar</string>
+  <string name="pull_to_refresh">Puxe para actualizar</string>
   <string name="push_wps_better_confirm_download">Transferir</string>
   <string name="push_wps_better_confirm_exit">Agora não</string>
   <string name="push_wps_better_confirm_message">Tente utilizar WPS Office para abrir este anexo</string>
@@ -763,7 +763,7 @@
   <string name="refresh">Actualizar</string>
   <string name="refreshing">A actualizar…</string>
   <string name="refreshing_done">Concluída</string>
-  <string name="release_to_refresh">Soltar para actualizar</string>
+  <string name="release_to_refresh">Largue para actualizar</string>
   <string name="remote_search_result">%s resultados no servidor</string>
   <string name="remove_account">Remover conta</string>
   <string name="remove_folder">Remover de %1$s</string>

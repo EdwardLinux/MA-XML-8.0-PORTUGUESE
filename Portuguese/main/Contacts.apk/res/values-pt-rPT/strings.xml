@@ -965,9 +965,9 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="profile_name">O meu perfil</string>
   <string name="profile_name_photo">Foto</string>
   <string name="public_account_name">Conta pública</string>
-  <string name="pull_to_refresh_pull_label">Descer para actualizar</string>
+  <string name="pull_to_refresh_pull_label">Puxe para actualizar</string>
   <string name="pull_to_refresh_refreshing_label">Aguarde…</string>
-  <string name="pull_to_refresh_release_label">Soltar para actualizar</string>
+  <string name="pull_to_refresh_release_label">Largue para actualizar</string>
   <string name="qr_card_card">Código QR</string>
   <string name="qrcode_card_title">Código QR</string>
   <string name="qrcode_detail_menu_edit">Editar código QR</string>

@@ -21,7 +21,7 @@
   <string name="cube_ptr_last_update">última actualização: </string>
   <string name="cube_ptr_minutes_ago"> minutos atrás</string>
   <string name="cube_ptr_pull_down">Descer</string>
-  <string name="cube_ptr_pull_down_to_refresh">Descer para actualizar</string>
+  <string name="cube_ptr_pull_down_to_refresh">Puxe para actualizar</string>
   <string name="cube_ptr_refresh_complete">Actualizado</string>
   <string name="cube_ptr_refreshing">A actualizar…</string>
   <string name="cube_ptr_release_to_refresh">Lançar para actualizar</string>

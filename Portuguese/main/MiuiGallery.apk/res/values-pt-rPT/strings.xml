@@ -321,9 +321,9 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="hybrid_locating_fail">Não é possível encontrar a sua localização</string>
   <string name="hybrid_network_access_denied">Acesso à rede negado</string>
   <string name="hybrid_network_unavaliable">Não é possível ligar à rede</string>
-  <string name="hybrid_pull_to_refresh_pull_label">Descer para actualizar…</string>
+  <string name="hybrid_pull_to_refresh_pull_label">Puxe para actualizar…</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">Aguarde…</string>
-  <string name="hybrid_pull_to_refresh_release_label">Soltar para actualizar…</string>
+  <string name="hybrid_pull_to_refresh_release_label">Largue para actualizar…</string>
   <string name="hybrid_service_unavailiable">Serviço indisponível</string>
   <string name="hybrid_try_again">Tente novamente</string>
   <string name="ignore_album">Não mostrar</string>

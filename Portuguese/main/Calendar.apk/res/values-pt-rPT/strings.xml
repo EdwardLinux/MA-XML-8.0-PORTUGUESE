@@ -145,7 +145,7 @@
   <string name="downloading_wallpaper">Transferir papel de parede</string>
   <string name="drop_down_list_footer_no_more_text">Menos</string>
   <string name="drop_down_list_header_loading_text">A carregar…</string>
-  <string name="drop_down_list_header_pull_text">Descer para actualizar</string>
+  <string name="drop_down_list_header_pull_text">Puxe para actualizar</string>
   <string name="drop_down_list_header_release_text">Permitir actualização</string>
   <string name="edit_event_all_day_label">Todo o dia</string>
   <string name="edit_event_calendar_label">Calendário</string>

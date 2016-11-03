@@ -293,7 +293,7 @@
   <string name="pptv">PPTV</string>
   <string name="priority_storage">Guardar no cartão SD</string>
   <string name="priority_storage_summary">Guardar vídeos automaticamente para o cartão SD</string>
-  <string name="pulltorefresh">Descer para actualizar</string>
+  <string name="pulltorefresh">Puxe para actualizar</string>
   <string name="qiyi">iQiyi</string>
   <string name="rank_title_movie">Filme</string>
   <string name="receive_develop_summary">Receba as actualizações para a versão beta desta aplicação</string>
@@ -303,7 +303,7 @@
   <string name="receive_mipush_summary">Receber notificações quando estiverem disponíveis novos conteúdos online</string>
   <string name="recentplay">Reproduzidos recentemente</string>
   <string name="refreshing">Aguarde…</string>
-  <string name="releasetorefresh">Soltar para actualizar</string>
+  <string name="releasetorefresh">Largue para actualizar</string>
   <string name="reload_sub_title">Tentar novamente</string>
   <string name="reload_title">Não é possível ligar à rede</string>
   <string name="reload_title_ep">Não foi possível obter séries completas</string>

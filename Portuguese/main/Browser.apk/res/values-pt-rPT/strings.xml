@@ -341,7 +341,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="keep_queued_download">Manter</string>
   <string name="last_month">Último mês</string>
   <string name="license_activity_title">Licenças de Sistema Webview</string>
-  <string name="loading_tips">Descer para actualizar</string>
+  <string name="loading_tips">Puxe para actualizar</string>
   <string name="local_bookmarks">Mi</string>
   <string name="login_failed_toast">Erro no início de sessão</string>
   <string name="low_memory_error">Não existe memória suficiente para concluir esta tarefa</string>
@@ -569,7 +569,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="profiler_started_toast">O vídeo iniciou</string>
   <string name="profiler_stopped_toast">O vídeo terminou. Resultados salvos em %1$s</string>
   <string name="progress_dialog_setting_wallpaper">A definir papel de parede…</string>
-  <string name="pull_to_refresh_pull_label">Descer para actualizar…</string>
+  <string name="pull_to_refresh_pull_label">Puxe para actualizar…</string>
   <string name="pull_to_refresh_refreshing_label">A carregar…</string>
   <string name="pull_to_refresh_release_label">Soltar para ir para os Recomendados e actualizar</string>
   <string name="qr_code_title">Código QR</string>
