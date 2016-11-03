@@ -1046,7 +1046,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="debug_app_set">Depuração da aplicação: %1$s</string>
   <string name="debug_applications_category">Aplicações</string>
   <string name="debug_debugging_category">Em depuração</string>
-  <string name="debug_drawing_category">A desenhar</string>
+  <string name="debug_drawing_category">Desenho</string>
   <string name="debug_hw_drawing_category">Aceleração da prestação do hardware</string>
   <string name="debug_hw_overdraw">Depurar o exagero do GPU</string>
   <string name="debug_input_category">Entrada</string>
