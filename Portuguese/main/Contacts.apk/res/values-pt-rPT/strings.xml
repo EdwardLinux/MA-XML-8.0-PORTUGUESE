@@ -506,7 +506,7 @@ Motivo: \"%s\""</string>
   <string name="ic_menu_back">Voltar</string>
   <string name="ic_menu_done">Concluído</string>
   <string name="imLabelsGroup">IM</string>
-  <string name="imei">"IMEI: "</string>
+  <string name="imei">IMEI</string>
   <string name="imei_invalid">IMEI inválido</string>
   <string name="import_all_sim_entries_miui">Importar todos os contactos</string>
   <string name="import_all_vcard_string">Importar todos os ficheiros vCard</string>
@@ -593,7 +593,7 @@ Motivo: \"%s\""</string>
   <string name="map_home">Ver endereço de casa</string>
   <string name="map_other">Ver endereço</string>
   <string name="map_work">Ver endereço do trabalho</string>
-  <string name="meid">"MEID: "</string>
+  <string name="meid">MEID</string>
   <string name="meid_invalid">MEID inválido</string>
   <string name="menuMoreDescription">Mais</string>
   <string name="menu_accounts">Contas</string>
@@ -1250,7 +1250,6 @@ Escolher uma das seguintes opções:"</string>
   <string name="wipe_data">Limpar dados</string>
   <string name="yellowPageNavigationIconLabel">Pág. Amarelas</string>
   <string name="yellowPageNavigationLabel">Pág. Amarelas</string>
-  <string name="yellowpage_mi_family">Família Mi</string>
   <string name="yellowpage_navigation_ad_hint">Anúncios</string>
   <string name="yellowpage_navigation_balance_refresh_failed">O saldo e os dados não puderam ser verificados. Tente novamente mais tarde</string>
   <string name="yellowpage_navigation_balance_refresh_succeed">O saldo e os dados foram verificados</string>
