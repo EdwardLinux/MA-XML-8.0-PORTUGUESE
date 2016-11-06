@@ -82,7 +82,7 @@
   <string name="miui_transfer_outbound_title">Enviadas</string>
   <string name="no_transfers">Histórico de transferências está vazio</string>
   <string name="not_exist_file">Sem ficheiro</string>
-  <string name="not_exist_file_desc">"O ficheiro não existe.</string>
+  <string name="not_exist_file_desc">"O ficheiro não existe."</string>
   <string name="noti_caption">%1$s com sucesso, %2$s sem sucesso</string>
   <string name="notification_received">Bluetooth: Recebido %1$s</string>
   <string name="notification_received_fail">Bluetooth: Ficheiro %1$s não foi recebido</string>
