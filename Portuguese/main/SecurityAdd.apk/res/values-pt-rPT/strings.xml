@@ -3,7 +3,7 @@
   <string name="app_name">Plugin do serviço de Segurança</string>
   <string name="app_not_installed_toast">Aplicação não está instalada no seu dispositivo</string>
   <string name="cancel_button">Cancelar</string>
-  <string name="empty">" "</string>
+  <string name="empty">"Vazio"</string>
   <string name="main_toolbar_purchase">Comprar</string>
   <string name="miuishare_title_more">Mais</string>
   <string name="miuishare_title_share">Partilhar</string>
