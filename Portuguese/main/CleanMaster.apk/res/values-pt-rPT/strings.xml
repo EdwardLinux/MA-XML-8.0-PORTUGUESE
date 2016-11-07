@@ -374,7 +374,7 @@
   <string name="summary_delete_large_file">Eliminar ficheiros seleccionados?</string>
   <string name="summary_delete_video">Eliminar vídeos seleccionados?</string>
   <string name="summary_optimizer">Esta funcionalidade envia os nomes das pastas para actualizar a base de dados online do Cheetah Mobile e requer o ID do seu dispositivo</string>
-  <string name="sys_cache_on_sdcard_item_name">缓存</string>
+  <string name="sys_cache_on_sdcard_item_name">Cache</string>
   <string name="text_optimizer">Enviar nomes das pastas</string>
   <string name="there_is_no">Limpeza concluída. Volte mais tarde</string>
   <string name="tips_of_app_manage">Desinstalar aplicações raramente utilizadas</string>
