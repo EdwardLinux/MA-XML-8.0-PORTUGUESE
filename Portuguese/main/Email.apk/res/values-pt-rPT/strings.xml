@@ -488,7 +488,7 @@
   <string name="mail">Email</string>
   <string name="mail_body_turncated">O anexo deste email é muito grande para transferir. Apenas é possível mostrar uma parte dele. Tente transferir mais tarde no seu computador</string>
   <string name="mail_header_network_not_available">Não tem uma ligação de rede</string>
-  <string name="mailbox_list_account_selector_combined_view">Contas combinadas</string>
+  <string name="mailbox_list_account_selector_combined_view">Vista combinada</string>
   <string name="mailbox_name_display_ad">Anúncios e notificações</string>
   <string name="mailbox_name_display_drafts">Rascunhos</string>
   <string name="mailbox_name_display_inbox">Caixa de entrada</string>

@@ -2816,8 +2816,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="radio_info_toggle_dns_check_label">Alternar selecção DNS</string>
   <string name="rank_title">Classificações</string>
   <string name="rarely_running">Raramente em execução (%s)</string>
-  <string name="really_remove_account_message">Remover esta conta vai eliminar todas as suas mensagens, contactos e outros dados do telefone!</string>
-  <string name="really_remove_account_title">Remover conta?</string>
+  <string name="really_remove_account_message">Ao remover esta conta vai eliminar todas as suas mensagens, contactos e outros dados do telefone!</string>
+  <string name="really_remove_account_title">Remover conta</string>
   <string name="rebootiing_for_updates">A reiniciar…</string>
   <string name="receiver_clean">Libertar espaço</string>
   <string name="recent_location_requests_summary">Ver aplicações que estão a pedir acesso à sua informação de localização</string>
@@ -2831,8 +2831,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="record_anr_in_background">Gravar casos ANR em segundo plano</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Informação regulamentar</string>
-  <string name="remove_account_failed">Esta conta é exigida por algumas aplicações. Apenas a pode remover repondo o telefone para as definições de fábrica (que elimina todos os dados pessoais) em Definições &gt; Cópia e restauro</string>
-  <string name="remove_account_label">Eliminar conta</string>
+  <string name="remove_account_failed">Esta alteração não é permitida pelo seu administrador</string>
+  <string name="remove_account_label">Remover conta</string>
   <string name="remove_device_admin">Desactivar</string>
   <string name="remove_from_frequently_fragment">Remover %s das definições comuns?</string>
   <string name="remove_managed_profile_label">Remover perfil de trabalho</string>

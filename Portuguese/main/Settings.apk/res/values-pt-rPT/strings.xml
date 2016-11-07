@@ -2352,7 +2352,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="radio_info_smsc_update_label">Actualizar</string>
   <string name="radio_info_toggle_dns_check_label">Alternar selecção DNS</string>
   <string name="really_remove_account_message">Remover esta conta eliminará todas as suas mensagens, contactos e outros dados do telefone!</string>
-  <string name="really_remove_account_title">Remover conta?</string>
+  <string name="really_remove_account_title">Remover conta</string>
   <string name="rebootiing_for_updates">A reiniciar…</string>
   <string name="recent_location_requests_summary">Ver aplicações que estão a pedir acesso à sua informação de localização</string>
   <string name="recent_location_requests_title">Acesso à localização</string>
@@ -2363,7 +2363,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Informação regulamentar</string>
   <string name="remove_account_failed">Esta conta é exigida por algumas aplicações. Apenas poderá removê-la repondo o telefone para as definições de fábrica (que elimina todos os dados pessoais) em Definições &gt; Cópia e restauro</string>
-  <string name="remove_account_label">Eliminar conta</string>
+  <string name="remove_account_label">Remover conta</string>
   <string name="remove_device_admin">Desactivar</string>
   <string name="remove_from_frequently_fragment">Remover %s das definições comuns?</string>
   <string name="repeat">Repetir</string>
