@@ -606,6 +606,7 @@ ou introduzir padrão do Bloqueio de aplicações"</string>
   <string name="keywords_networkassistant_4">Ligação;Internet;Testar</string>
   <string name="keywords_permcenter">Início automático;Permissões;Root;Localização;Aceder aos contactos</string>
   <string name="keywords_powercenter">Poupar bateria;Aquecimento;Ligar;Desligar;Bateria;Descarregar</string>
+  <string name="keywords_powercenter_powerrank">Utilização de bateria</string>
   <string name="keywords_securitycenter">Segurança;Verificar;Verificar</string>
   <string name="keywords_securitycenter_settings">Bateria;Permissões;Lista de bloqueio;Utilização de dados;Calibrar plano de dados;Testar rede;Bloqueio de aplicações;Poupar bateria;Poupança de bateria;Aquecimento;Ligar;Desligar;Bateria;Descarregar;Início automático;Permissões;Root;Localização;Aceder aos contactos;Bloquear;Lista negra;Lista de bloqueio inteligente;Fraudes;Vendas;Agentes;Dados;Tráfego;Calibrar;Poupar;Ligação;Internet;Testar;Palavra-passe;Privacidade;Bloqueio de aplicações;Acesso;Protecção</string>
   <string name="kilobyteShort">KB</string>
@@ -839,6 +840,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s utilizados %2$s esta semana</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
+  <string name="old_sdk_deny_warning">A aplicação não é compatível com os requisitos de permissão Android. As permissões negadas podem afectar o funcionamento desta aplicação</string>
   <string name="open">Abrir</string>
   <string name="open_app">Abrir</string>
   <string name="open_browser">Abrir no navegador</string>
@@ -899,6 +901,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="path_networkassistant_4">Aplicações de sistema/Segurança/Utilização de dados/Testar rede</string>
   <string name="path_permcenter">Aplicações de sistema/Segurança/Permissões</string>
   <string name="path_powercenter">Aplicações de sistema/Segurança/Bateria</string>
+  <string name="path_powercenter_powerrank">Bateria e desempenho/Utilização de bateria</string>
   <string name="path_securitycenter">Aplicações de sistema/Segurança</string>
   <string name="path_securitycenter_settings">Aplicações de sistema/Segurança</string>
   <string name="pay_charge">Comprar dados adicionais</string>
@@ -956,7 +959,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="power_consume_other">Outro</string>
   <string name="power_consume_rank_hardware">Hardware</string>
   <string name="power_consume_rank_software">Aplicações</string>
-  <string name="power_consume_rank_title">Utilização da bateria</string>
+  <string name="power_consume_rank_title">Utilização de bateria</string>
   <string name="power_consume_total_hardware">Hardware: %1$d%%</string>
   <string name="power_consume_total_software">Aplicações: %1$d%%</string>
   <string name="power_customize_giveup_change">Rejeitar alterações?</string>
@@ -1124,6 +1127,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="resource_networkassistant_4">Testar rede</string>
   <string name="resource_permcenter">Permissões</string>
   <string name="resource_powercenter">Bateria</string>
+  <string name="resource_powercenter_powerrank">Bateria e desempenho</string>
   <string name="resource_securitycenter">Segurança</string>
   <string name="resource_securitycenter_settings">Segurança</string>
   <string name="right_precent">100%</string>
@@ -1577,9 +1581,9 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="usage_type_video">Vídeo</string>
   <string name="usage_type_wake_lock">Manter activo</string>
   <string name="usage_type_wifi_running">Wi-Fi em utilização</string>
-  <string name="usb_adb_input_apply_step_1">O seu computador vai ser capaz de alterar definições e conceder permissões sem o seu conhecimento quando o seu dispositivo estiver ligado via USB</string>
-  <string name="usb_adb_input_apply_step_2">Isto pode levar a fugas de informação privada como contas ou mensagens</string>
-  <string name="usb_adb_input_apply_step_3">Certifique-se que entende os riscos antes de permitir. Quer permitir?</string>
+  <string name="usb_adb_input_apply_step_1">Isto pode levar a fugas de informação privada. Não recomendamos fazer isto a não ser que seja um programador</string>
+  <string name="usb_adb_input_apply_step_2">Os programadores podem utilizar software para imitar gestos, alterar definições e conceder permissões via USB</string>
+  <string name="usb_adb_input_apply_step_3">Permitir?</string>
   <string name="usbsharenet_exception_summary">Não é possível ligar à Internet partilhada por USB. Verifique a ligação USB do dispositivo e reinicie o Mi PC Suite</string>
   <string name="usbsharenet_exception_title">Teste de rede partilhada por USB</string>
   <string name="usbsharenet_pc_exception_summary">Não é possível ligar à Internet partilhada por USB. Verifique a ligação à Internet do computador</string>

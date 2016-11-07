@@ -86,7 +86,6 @@
   <string name="continue_action">Continuar</string>
   <string name="cta_declaration_agree_and_continue">Concordar</string>
   <string name="cta_declaration_exit">Sair</string>
-  <string name="cta_declaration_ignore">Não mostrar novamente</string>
   <string name="cta_declaration_message">Para iniciar sessão na sua Conta Mi, é necessário ligar à Internet. Os serviços de localização e a sincronização com a Nuvem Mi vão ser ligados. Para fazer cópia dos seus dados, esta aplicação necessita de aceder aos seus contactos, mensagens, registos de chamadas e gravações. Não vamos utilizar os seus dados para fins comerciais ou partilhá-los com terceiros. Após iniciar sessão na Conta Mi, os serviços Mi vão ligar-se à Internet</string>
   <string name="cta_declaration_title">Termos e Condições</string>
   <string name="current_location_title">Localização actual</string>

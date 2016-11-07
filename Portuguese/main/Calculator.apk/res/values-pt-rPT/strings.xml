@@ -60,6 +60,7 @@
   <string name="from_unit_short">km/h</string>
   <string name="fund"/>
   <string name="fund_loan"/>
+  <string name="home_title_calculator">Calculadora</string>
   <string name="income_type"/>
   <string name="item_title_aa_payment">Dividir a conta</string>
   <string name="item_title_area_conversion">Área</string>
@@ -150,11 +151,13 @@
   <string name="tanDesc">tangente</string>
   <string name="tax_accumulation_fund">Fundo de acumulação</string>
   <string name="tax_annual_bonus_hint">Introduza o seu bónus antes das taxas</string>
+  <string name="tax_annual_bonus_number">Bónus</string>
   <string name="tax_birth">Nascimento</string>
   <string name="tax_cal_method_annual">Cálculo do bónus anual</string>
   <string name="tax_cal_method_fixed_salary">Cálculo do rendimento fixo</string>
   <string name="tax_cal_method_format">Amortizações pessoais: %s</string>
   <string name="tax_city">Cidade</string>
+  <string name="tax_city_error">Introduza uma cidade válida</string>
   <string name="tax_city_located">Localização</string>
   <string name="tax_city_picker">Cidade</string>
   <string name="tax_edittext_hint"/>
@@ -162,7 +165,7 @@
   <string name="tax_fixed_salary_hint">Introduza o seu rendimento bruto</string>
   <string name="tax_income_before_tax">Rendimento bruto</string>
   <string name="tax_income_error">Introduza um rendimento correcto</string>
-  <string name="tax_income_number">Rendimento</string>
+  <string name="tax_income_number">Rendimentos</string>
   <string name="tax_income_type">Tipo de rendimento</string>
   <string name="tax_income_type_annual_bonus">Bónus anual</string>
   <string name="tax_income_type_fixed_monthly_salary">Salário mensal</string>
@@ -170,6 +173,8 @@
   <string name="tax_individual_income_tax_result">Resultados</string>
   <string name="tax_injury">Prejuízos</string>
   <string name="tax_insurance_and_fund">Seguros</string>
+  <string name="tax_last_salary_hint">Introduza os seus rendimentos</string>
+  <string name="tax_last_salary_number">Rendimento</string>
   <string name="tax_medical">Médicos</string>
   <string name="tax_param_error">Introduza as taxas correctas do seguro</string>
   <string name="tax_result_real_get">Após taxas</string>
