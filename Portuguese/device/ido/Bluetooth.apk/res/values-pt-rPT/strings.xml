@@ -82,8 +82,7 @@
   <string name="miui_transfer_outbound_title">Enviadas</string>
   <string name="no_transfers">Histórico de transferências está vazio</string>
   <string name="not_exist_file">Sem ficheiro</string>
-  <string name="not_exist_file_desc">"O ficheiro não existe. 
-"</string>
+  <string name="not_exist_file_desc">O ficheiro não existe</string>
   <string name="noti_caption">%1$s com sucesso, %2$s sem sucesso</string>
   <string name="notification_received">Bluetooth: Recebido %1$s</string>
   <string name="notification_received_fail">Bluetooth: Ficheiro %1$s não foi recebido</string>
@@ -106,7 +105,7 @@
   <string name="permlab_bluetoothAvrcpDataManager">Aceder aos meta-dados AVRCP</string>
   <string name="permlab_bluetoothShareManager">Aceder ao gestor de transferências</string>
   <string name="permlab_bluetoothWhitelist">Adicionar às excepções de acesso ao dispositivo Bluetooth</string>
-  <string name="process">Processo</string>
+  <string name="process"/>
   <string name="sharedUserId"/>
   <string name="start_server">Iniciar servidor TCP</string>
   <string name="status_canceled">Transferência cancelada pelo utilizador</string>

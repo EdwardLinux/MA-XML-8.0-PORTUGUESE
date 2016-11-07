@@ -40,7 +40,7 @@
   <string name="fools_day">Dia das mentiras</string>
   <string name="frequent_phrases_size_exceeded">Pode adicionar até %1$d frases frequentes. Elimine as desnecessárias para adicionar mais</string>
   <string name="glockenspiel">Glockenspiel</string>
-  <string name="good_friday">Boa Sexta</string>
+  <string name="good_friday"/>
   <string name="grain_buds"/>
   <string name="grain_in_ear"/>
   <string name="grain_rain"/>
@@ -87,11 +87,11 @@
   <string name="menu_edit">Editar</string>
   <string name="maml_component_customization_title">Definições</string>
   <string name="miui_device_name">Dispositivo MIUI</string>
-  <string name="national_day">Dia Nacional</string>
+  <string name="national_day"/>
   <string name="national_father_day">Dia do Pai</string>
   <string name="new_years_day">Ano Novo</string>
   <string name="no_notification_tips">Sem notificações</string>
-  <string name="partys_day">Dia das festas</string>
+  <string name="partys_day"/>
   <string name="peace_day">Dia da Paz</string>
   <string name="presentation_payphone">Telefone público</string>
   <string name="presentation_private">Número privado</string>
@@ -112,7 +112,7 @@
   <string name="the_first_weekday_after_christmas"/>
   <string name="the_laba_rice_porridge_festival"/>
   <string name="the_mid_autumn_festival"/>
-  <string name="the_rains">A Chuva</string>
+  <string name="the_rains"/>
   <string name="the_spring_festival"/>
   <string name="toyrobot">ToyRobot</string>
   <string name="tw_childrens_day"/>
