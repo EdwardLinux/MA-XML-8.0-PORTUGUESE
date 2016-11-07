@@ -459,7 +459,7 @@
   <string name="note">Nota</string>
   <string name="organization">Organização</string>
   <string name="perm_payment_dspt">Permite que a aplicação pague através do serviço de Pagamentos Mi</string>
-  <string name="perm_payment_lab">pagamentos Mi</string>
+  <string name="perm_payment_lab">Pagamentos Mi</string>
   <string name="permdesc_sendSmsNoConfirmation">A aplicação pode enviar mensagens SMS sem pedir permissão. Isto pode resultar em custos inesperados</string>
   <string name="permlab_sendSmsNoConfirmation">permitir mensagens SMS em segundo plano</string>
   <string name="phone">Telefone</string>
