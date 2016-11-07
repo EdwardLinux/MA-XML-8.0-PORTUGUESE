@@ -284,7 +284,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="assist_access_context_title">Utilizar texto do ecrã</string>
   <string name="assist_access_screenshot_summary">Permitir que a aplicação de assistência aceda a uma imagem do ecrã</string>
   <string name="assist_access_screenshot_title">Utilizar captura de ecrã</string>
-  <string name="assist_and_voice_input_title">Assistência e entrada de voz</string>
+  <string name="assist_and_voice_input_title">Assistente e entrada de voz</string>
   <string name="assist_footer">Aplicações de assistência podem ajudá-lo com base na informação do ecrã que está a ver. Algumas aplicações suportam tanto o launcher como os serviços de entrada de voz para lhe dar uma assistência integrada</string>
   <string name="assistant_security_warning">O assistente vai poder ler informação acerca de aplicações em utilização no seu sistema, incluindo informação visível no seu ecrã ou acessível através das aplicações</string>
   <string name="assistant_security_warning_agree">Concordar</string>
