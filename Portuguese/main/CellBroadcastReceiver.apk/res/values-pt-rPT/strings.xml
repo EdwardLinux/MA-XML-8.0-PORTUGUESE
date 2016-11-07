@@ -85,7 +85,7 @@
   <string name="etws_test_message">Mensagem de teste do ETWS</string>
   <string name="etws_tsunami_warning">Aviso de tsunami</string>
   <string name="menu_delete">Eliminar transmissão</string>
-  <string name="menu_delete_all">Eliminar transmissões</string>
+  <string name="menu_delete_all">Eliminar todas transmissões</string>
   <string name="menu_preferences">Definições</string>
   <string name="menu_view_details">Ver detalhes</string>
   <string name="message_options">Opções de mensagem</string>
