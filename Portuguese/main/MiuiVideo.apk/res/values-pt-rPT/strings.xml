@@ -399,6 +399,9 @@
   <string name="video_plugin">Plugin de vídeo</string>
   <string name="video_plugin_downloading">A transferir (%1$s)</string>
   <string name="video_plugin_prepare">Aguarde…</string>
+  <string name="video_pre_play_tip"/>
+  <string name="video_vip">vip</string>
+  <string name="vip_rights"/>
   <string name="vip_package">Pacote vip</string>
   <string name="vp_VideoView_error_button">OK</string>
   <string name="vp_VideoView_error_network_not_available">Não é possível ligar à rede</string>

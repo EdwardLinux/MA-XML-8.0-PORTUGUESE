@@ -16,6 +16,7 @@
   <string name="activity_find_city_dialog_title">Acesso à localização</string>
   <string name="activity_main_alert"/>
   <string name="activity_main_clickable">&gt;</string>
+  <string name="activity_main_update_time_expire/">
   <string name="activity_main_one_alert"/>
   <string name="activity_main_time_format">E, d MMM</string>
   <string name="activity_main_update_time">Actualizado %1$s</string>

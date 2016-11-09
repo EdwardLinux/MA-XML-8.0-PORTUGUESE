@@ -66,6 +66,8 @@ Segure no telefone como se estivesse a atender uma chamada, fale para o microfon
   <string name="cit_batterylight_green">Verde</string>
   <string name="cit_batterylight_red">Vermelho</string>
   <string name="cit_batterylight_rgb">LED da bateria</string>
+  <string name="cit_battery_check_summary"/>Estatísticas de da bateria do dispositivo</string>
+  <string name="cit_battery_check_title">Informações sobre da bateria</string>
   <string name="cit_blue_tooth_address_check_summary">O endereço Bluetooth deste dispositivo encontra-se em baixo</string>
   <string name="cit_blue_tooth_address_check_title">Obter endereço Bluetooth</string>
   <string name="cit_blue_tooth_scan_check_summary">Em baixo encontra-se a informação dos dispositivos Bluetooth detectados</string>

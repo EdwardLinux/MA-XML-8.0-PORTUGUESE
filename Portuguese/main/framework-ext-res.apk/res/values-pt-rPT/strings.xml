@@ -135,6 +135,7 @@
   <string name="status_bar_toggle_vibrate">Vibrar</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">PA Móvel</string>
+  <string name="translation_more">Mais</strings>
   <string name="translation_query_error">Não foi possível localizar resultados</string>
   <string name="translation_query_error_network">Não foi possível ligar à rede. Verifique as definições e tente novamente</string>
   <string name="turn_off">Desligar</string>

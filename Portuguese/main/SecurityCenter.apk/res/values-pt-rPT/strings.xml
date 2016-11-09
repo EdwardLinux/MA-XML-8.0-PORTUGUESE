@@ -606,6 +606,7 @@ ou introduzir padrão do Bloqueio de aplicações"</string>
   <string name="keywords_networkassistant_4">Ligação;Internet;Testar</string>
   <string name="keywords_permcenter">Início automático;Permissões;Root;Localização;Aceder aos contactos</string>
   <string name="keywords_powercenter">Poupar bateria;Aquecimento;Ligar;Desligar;Bateria;Descarregar</string>
+  <string name="keywords_powercenter_powerrank">Uso da bateria</string>
   <string name="keywords_securitycenter">Segurança;Verificar;Verificar</string>
   <string name="keywords_securitycenter_settings">Bateria;Permissões;Lista de bloqueio;Utilização de dados;Calibrar plano de dados;Testar rede;Bloqueio de aplicações;Poupar bateria;Poupança de bateria;Aquecimento;Ligar;Desligar;Bateria;Descarregar;Início automático;Permissões;Root;Localização;Aceder aos contactos;Bloquear;Lista negra;Lista de bloqueio inteligente;Fraudes;Vendas;Agentes;Dados;Tráfego;Calibrar;Poupar;Ligação;Internet;Testar;Palavra-passe;Privacidade;Bloqueio de aplicações;Acesso;Protecção</string>
   <string name="kilobyteShort">KB</string>
@@ -901,6 +902,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="path_powercenter">Aplicações de sistema/Segurança/Bateria</string>
   <string name="path_securitycenter">Aplicações de sistema/Segurança</string>
   <string name="path_securitycenter_settings">Aplicações de sistema/Segurança</string>
+  <string name="old_sdk_deny_warning"/>
   <string name="pay_charge">Comprar dados adicionais</string>
   <string name="pc_install_manager">Instalação via USB</string>
   <string name="pc_to_phone_install">Instalação bloqueada de %s via USB</string>
@@ -1126,6 +1128,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="resource_powercenter">Bateria</string>
   <string name="resource_securitycenter">Segurança</string>
   <string name="resource_securitycenter_settings">Segurança</string>
+  <string name="resource_powercenter_powerrank"/>
   <string name="right_precent">100%</string>
   <string name="result_autoscan_header">Monitorização de pagamentos</string>
   <string name="result_autoscan_info">Monitorizar automaticamente o ambiente do sistema quando as aplicações de pagamento iniciarem</string>
@@ -1245,6 +1248,13 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="sp_safe_score_text">Os pagamentos estão seguros</string>
   <string name="sp_scan_item_monitor">Monitorizar pagamentos</string>
   <string name="sp_scan_item_url_antispam">Protecção de URLs maliciosos</string>
+  <string name="sp_background_risk_dialog_summary"/>
+  <string name="sp_background_risk_dialog_title"/>
+  <string name="sp_background_risk_type_messaging"/>
+  <string name="sp_background_risk_type_root"/>
+  <string name="sp_background_risk_type_sign"/>
+  <string name="sp_background_risk_type_virus"/>
+  <string name="sp_background_risk_type_wifi"/>
   <string name="sp_settings_check_item_summary_sign_exception">Gerir as excepções de assinaturas</string>
   <string name="sp_settings_check_item_summary_virus_exception">Gerir as excepções de vírus</string>
   <string name="sp_settings_check_item_title_root">ROOT</string>

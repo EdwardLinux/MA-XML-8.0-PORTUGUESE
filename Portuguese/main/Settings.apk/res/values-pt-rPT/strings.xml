@@ -244,6 +244,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="apply_now_button_text">Actualizar</string>
   <string name="apply_password_to_category_title">Requer desbloqueio</string>
   <string name="apply_update_fail">Erro na actualização</string>
+  <string name="approve_title"/>
   <string name="apps_with_restrictions_header">Aplicações com restrições</string>
   <string name="apps_with_restrictions_settings_button">Expandir as definições para aplicação</string>
   <string name="ask_compatibility">Perguntar ao iniciar</string>
@@ -925,6 +926,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="development_settings_not_available">As opções de desenvolvimento não estão disponíveis</string>
   <string name="development_settings_summary">Definir as opções para o desenvolvimento da aplicação</string>
   <string name="development_settings_title">Opções de desenvolvimento</string>
+  <string name="device_actionbar_title">Todas as especificações</string>
   <string name="device_admin_add_title">Administrador do dispositivo</string>
   <string name="device_admin_settings_title">Definições de administração do dispositivo</string>
   <string name="device_admin_status">Este administrador está activado e permite que a aplicação %1$s execute as seguintes operações:</string>
@@ -1751,6 +1753,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_audio_effect_optimize">Definições de áudio</string>
   <string name="music_audio_effect_optimize_summary">Auriculares e outras definições de áudio</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Hi-Fi, auriculares e outras definições áudio</string>
+  <string name="music_audio_effect_optimize_summary_with_hd"/>
   <string name="music_audio_effect_settings">Definições de efeitos de áudio</string>
   <string name="music_dirac_control">Optimizar a qualidade do áudio</string>
   <string name="music_dirac_mode_earbuds">Auriculares Mi</string>
@@ -1797,6 +1800,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_mi_effect_title">Melhoramento de Som Mi</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="musicfx_title">Efeitos da música</string>
+  <string name="music_hd_title">Audio HD Sound</string>
   <string name="mvno_match_data">Valor MVNO</string>
   <string name="mvno_type">Tipo MVNO</string>
   <string name="nearby_wifi">Redes disponíveis</string>
