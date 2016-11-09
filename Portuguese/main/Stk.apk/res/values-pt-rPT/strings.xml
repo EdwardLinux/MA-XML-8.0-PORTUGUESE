@@ -14,8 +14,8 @@
   <string name="default_setup_call_msg">A configurar chamada</string>
   <string name="default_tone_dialog_msg">A tocar toque</string>
   <string name="digits">Dígitos (0 a 9, *, #, +)</string>
-  <string name="disable_app">Desactivar a Aplicação</string>
-  <string name="enable_app">Activar a Aplicação</string>
+  <string name="disable_app">Desactivado</string>
+  <string name="enable_app">Activado</string>
   <string name="help">Ajuda</string>
   <string name="menu_back">Voltar</string>
   <string name="menu_end_session">Finalizar a sessão</string>
